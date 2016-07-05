@@ -18,10 +18,11 @@ author:
 name:             "Matteo D'Achille"
 url:              https://twitter.com/matteodachille
 
-paginate:         5
+paginate:         2
+excerpt_separator: '<!--more-->'
 
 # Custom vars
-version:          2.1.0
+version:          0.0.9
 
 github:
 repository:           /home/mpd/Scrivania/Jekyll-projects/hyde-master
