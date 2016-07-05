@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+gems:             [jekyll-paginate,jekyll-gist,pygments.rb]
+highlighter:      pygments
+
+google_analytics: UA-57193153-1
+# Permalinks
+permalink:        :title
+
+# Setup
+title:            Matteo D'Achille
+tagline:          "Personal website"
+description:      "Personal website"
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+name:             "Matteo D'Achille"
+url:              https://twitter.com/matteodachille
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+repository:           /home/mpd/Scrivania/Jekyll-projects/hyde-master
