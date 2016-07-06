@@ -59,6 +59,18 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
+/*.sidebar-logo {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}*/
+
+.sidebar-logo img {
+	border-radius: 2%;
+	margin: 0 auto;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
