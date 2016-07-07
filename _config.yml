@@ -13,7 +13,7 @@ tagline:          "Personal website"
 description:      "Personal website"
 url:              https://matteodachille.github.io/
 baseurl:          https://matteodachille.github.io/
-tag_page: 		  tags
+tag_page: 		    tags
 category_page:	  categories
 
 name:             "Matteo D'Achille"
