@@ -80,6 +80,28 @@ html {
     width: 18rem;
     text-align: left;
   }
+	
+   
+}
+
+ #contact-list {
+      /*float:right;
+	  padding-l: 50px;*/
+    }
+	#contact-list a {
+		float: right;
+		text-decoration: none;
+	}
+	#contact-list a:hover [class^="fa-"] {
+      color: greenyellow;
+	  text-decoration: none;
+    }
+	#contact-list span {
+	text-align: left;
+	}
+
+.fa-1x {
+  vertical-align: middle;
 }
 
 /* Sidebar links */
@@ -178,6 +200,11 @@ a.sidebar-nav-item:focus {
   }
 }
 
+
+.posts a {
+	color: limegreen;
+	
+}
 
 
 /*

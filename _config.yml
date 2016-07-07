@@ -8,21 +8,25 @@ google_analytics: UA-57193153-1
 permalink:        :title
 
 # Setup
-title:            Matteo D'Achille
+title:            "Matteo D'Achille"
 tagline:          "Personal website"
 description:      "Personal website"
-url:              http://hyde.getpoole.com
+url:              http://matteodachille.github.io
 baseurl:          /
 
-author:
 name:             "Matteo D'Achille"
 url:              https://twitter.com/matteodachille
-
+github:			matteodachille
+linkedin:         matteopdachille
+researchgate:     "Matteo_Dachille"
+academia:         "MatteoDAchille"
+email:			"matteopietro.dachille@studenti.unimi.it"
+      
 paginate:         2
+
 excerpt_separator: '<!--more-->'
 
 # Custom vars
 version:          0.0.9
 
-github:
 repository:           /home/mpd/Scrivania/Jekyll-projects/hyde-master
