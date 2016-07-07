@@ -4,16 +4,19 @@ comments: true
 ---
 <article itemscope itemtype="http://schema.org/BlogPosting">
 <div class="post" imteprop="articleBody">
+  {% if page.author.image %}
+  <span class="authorship"><img src="{{page.author.image}}" width=80px /></span>
+  {% endif %}
   <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-	
-	<p class="post-meta"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> <span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%A %-d %b %Y" }}</time></span> | {% if page.author %}<i class="fa fa-paw fa-fw" aria-hidden="true"></i> <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span> | {% endif %} {% include read_time.html %}
-		{% if page.tags %} 
+
+	<p class="post-meta"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> <span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%A %-d %b %Y" }}</time></span> | {% include read_time.html %}
+		{% if page.tags %}
 		 <br /><br />
   {% for tag in page.tags %}
     <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
   {% endfor %}<br />
   {% endif %}
-		
+
 </p>
 
   {{ content }}

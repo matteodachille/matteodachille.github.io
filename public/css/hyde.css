@@ -63,12 +63,19 @@ html {
 /*.sidebar-logo {
 	padding-top: 5px;
 	padding-bottom: 5px;
-	
+
 }*/
+.sidebar-logo {
+  float: left;
+  margin: auto;
+  padding-top: 50px ;
+}
 
 .sidebar-logo img {
+  display: block;
 	border-radius: 2%;
-	margin: 0 auto;
+	margin: auto !important;
+  position: relative;
 }
 
 @media (min-width: 48em) {
@@ -80,8 +87,8 @@ html {
     width: 18rem;
     text-align: left;
   }
-	
-   
+
+
 }
 
  #contact-list {
@@ -201,7 +208,12 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.authorship > img {
+ border-radius: 50%;
+ display: inline-block;
+ float: right;
 
+}
 
 /*
  * Themes
@@ -291,7 +303,7 @@ a.sidebar-nav-item:focus {
 	visibility: visible !important;
 	text-decoration: none !important;
 	color: palegreen !important;
-	
+
 }
 
 /*Tags Styling */
@@ -303,19 +315,19 @@ a.sidebar-nav-item:focus {
   margin-right: .5rem;
   border-radius: 4px;
   color: #6a9fb5;
-  font-size: 90%;	
+  font-size: 90%;
 }
 .post-tag:before{
 	content: "\f02b";
     font-family: FontAwesome;
     padding-right: .5em;
-	
+
 }
 .post-tag:hover{
 	text-decoration: none;
 	background: #6a9fb5;
 	color: #fff !important;
-	
+
 }
 
 @media (min-width: 38em) {
@@ -349,8 +361,8 @@ a.sidebar-nav-item:focus {
 }
 
 .tags-expo .tags-expo-section ul {
-	list-style-type: circle;
-	list-style-position: inside;
+	list-style: none;
+	/*list-style-position: inside;*/
 	padding: 0;
 }
 
@@ -358,8 +370,14 @@ a.sidebar-nav-item:focus {
 	padding: 0 1rem;
 }
 
+.tags-expo .tags-expo-section ul li:before {
+  content: "\f0a4"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  color: grey;
+}
+
 .tags-expo .tags-expo-section ul li:hover {
-	list-style-type: disc;
+	/*list-style-type: disc;*/
 	padding: 0 .5rem;
 }
 
@@ -370,7 +388,7 @@ a.sidebar-nav-item:focus {
 .tags-expo .tags-expo-section .post-date {
 	display: inline-block;
 	font-size: 80%;
-	color: white;
+	color: grey;
 	margin: 0;
 	padding: 0;
 }

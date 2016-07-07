@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Introducing Hyde
-author: Matteo D'Achille
+author:
+    name: Matteo D'Achille
+    image: ../assets/dachille.jpg
+tags: [introduction,prova]
 ---
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
