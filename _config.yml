@@ -3,7 +3,7 @@ markdown:         kramdown
 gems:             [jekyll-paginate,jekyll-gist,pygments.rb]
 highlighter:      pygments
 
-google_analytics: UA-57193153-1
+google_analytics: UA-80451970-1
 # Permalinks
 permalink:        :title
 
@@ -14,7 +14,7 @@ description:      "Personal website"
 url:              https://localhost:4000
 baseurl:          /
 tag_page: 		  tags
-category_page:	  categories    
+category_page:	  categories
 
 name:             "Matteo D'Achille"
 #url:              https://twitter.com/matteodachille
@@ -23,7 +23,7 @@ linkedin:         matteopdachille
 researchgate:     "Matteo_Dachille"
 academia:         "MatteoDAchille"
 email:			"matteopietro.dachille@studenti.unimi.it"
-      
+
 paginate:         2
 
 excerpt_separator: '<!--more-->'
