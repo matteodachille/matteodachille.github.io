@@ -11,14 +11,14 @@ permalink:        :title
 title:            "Matteo D'Achille"
 tagline:          "Personal website"
 description:      "Personal website"
-url:              https://localhost:4000
-baseurl:          /
-tag_page: 		  tags
+url:              https://matteodachille.github.io/
+baseurl:          https://matteodachille.github.io/
+tag_page: 		    tags
 category_page:	  categories
 
 name:             "Matteo D'Achille"
 #url:              https://twitter.com/matteodachille
-github:			matteodachille
+github:			      matteodachille
 linkedin:         matteopdachille
 researchgate:     "Matteo_Dachille"
 academia:         "MatteoDAchille"
