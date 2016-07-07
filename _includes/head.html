@@ -13,6 +13,9 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+  <meta name="author" content="{{ site.author }}" />
+  <meta name="description" content="{% if page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}" />
+
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
@@ -26,6 +29,13 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  <!--script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.0/anchor.min.js"></script-->
+  <!--script type="text/javascript">
+  anchors.options.visible = 'always';
+  anchors.add('h3');
+  </script-->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  <link rel="stylesheet" href="../public/css/academicons-1.7.0/css/academicons.min.css">
   <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   {% include analytics.html %}
 </head>

@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Introducing Hyde
+author:
+    name: Matteo D'Achille
+    image: ../assets/dachille.jpg
+tags: [introduction,prova]
 ---
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+
+<!--more-->
 
 ### Built on Poole
 
@@ -15,6 +21,7 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 * Support for a wide gamut of HTML elements
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+
 
 ### Hyde features
 
