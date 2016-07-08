@@ -3,8 +3,6 @@ layout: page
 title: Resumé
 ---
 
-### Biographical data
-
 Date and place of birth
 : *Thursday 6 December 1990* in *Monza, 20900 MI, Italy*  
 

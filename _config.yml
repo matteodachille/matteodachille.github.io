@@ -13,6 +13,7 @@ tagline:          "Personal website"
 description:      "Personal website"
 url:              https://matteodachille.github.io/
 baseurl:          https://matteodachille.github.io/
+#baseurl:			/
 tag_page: 		    tags
 category_page:	  categories
 
@@ -31,4 +32,4 @@ excerpt_separator: '<!--more-->'
 # Custom vars
 version:          0.0.9
 
-repository:           /home/mpd/Scrivania/Jekyll-projects/hyde-master
+repository:       https://github.com/matteodachille/matteodachille.github.io    
