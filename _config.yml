@@ -13,7 +13,7 @@ tagline:          "Personal website"
 description:      "Personal website"
 url:              https://matteodachille.github.io/
 baseurl:          https://matteodachille.github.io/
-#baseurl:			/
+#baseurl:			     /
 tag_page: 		    tags
 category_page:	  categories
 
@@ -32,4 +32,4 @@ excerpt_separator: '<!--more-->'
 # Custom vars
 version:          0.0.9
 
-repository:       https://github.com/matteodachille/matteodachille.github.io    
+repository:       https://github.com/matteodachille/matteodachille.github.io
