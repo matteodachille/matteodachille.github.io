@@ -24,7 +24,7 @@ title: Home
 	<div class="read-more"><h3><a href="{{ post.url }}">Read more &rarr; </a></h3><br /></div>
   {% endfor %}
 </div>
-
+{% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
@@ -41,3 +41,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+{% endif %}
