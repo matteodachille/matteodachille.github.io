@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 gems:             [jekyll-paginate,jekyll-gist,pygments.rb]
-highlighter:      pygments
+highlighter:      rouge
 
 google_analytics: UA-80451970-1
 # Permalinks
