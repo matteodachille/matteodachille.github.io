@@ -14,7 +14,6 @@ This is also the essential topic of [my master's thesis](downloads/masterthesis.
 <div class="tf2d" markdown="block">
 ![I'm rendering a big .svg image...please wait: this may take a while.](assets/size50002d.svg){:width="100%"}
 
-
 </div>
 
 <p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>An optimal assignment in dimension D=2 at size n=5000. Each link contributes to the total cost with its Euclidean length, which also defines its color as shown in the key (the endpoints are uniformly distributed in the unit square).</p>

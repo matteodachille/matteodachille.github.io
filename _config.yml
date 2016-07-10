@@ -18,11 +18,12 @@ tag_page: 		    tags
 category_page:	  categories
 
 name:             "Matteo D'Achille"
-#url:              https://twitter.com/matteodachille
+author:           "Matteo D'Achille"
 github:			      matteodachille
 linkedin:         matteopdachille
 researchgate:     "Matteo_Dachille"
 academia:         "MatteoDAchille"
+twitter:           "MatteoDAchille"
 email:			"matteopietro.dachille@studenti.unimi.it"
 
 paginate:         2

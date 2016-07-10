@@ -65,12 +65,7 @@ html {
 	padding-bottom: 5px;
 
 }*/
-/*.sidebar-logo {
-  float: left;
-  margin: auto;
-  padding-top: 50px ;
-}
-*/
+
 .sidebar-logo img {
   display: none;
 }
@@ -100,8 +95,6 @@ html {
     position: inherit;*/
   	box-shadow: 1px 1px 3px #263238;
   }
-
-
 }
 
  #contact-list {

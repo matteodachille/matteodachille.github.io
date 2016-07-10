@@ -39,6 +39,13 @@
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.<br />  Built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.</p>
 	  <div id="contact-list" style="font-size: 14px;">
 		  <span>Get in touch via</span>
+	  {% if site.twitter %}
+        <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-twitter fa-align-center-1x"></i>
+          </span>
+        </a>
+      {% endif %}
       {% if site.github %}
         <a href="https://github.com/{{ site.github }}" target="_blank">
           <span class="fa-stack fa-lg">
@@ -55,13 +62,13 @@
         </a>
       {% endif %}-->
 
-      {% if site.email %}
+      <!--{% if site.email %}
         <a href="mailto: {{ site.email }}" target="_blank">
           <span class="fa-stack fa-lg">
             <i class="fa fa-envelope fa-align-center-1x"></i>
           </span>
         </a>
-      {% endif %}
+      {% endif %}-->
 
 	{% if site.academia %}
         <a href="https://unimi.academia.edu/{{ site.academia }}" target="_blank">
