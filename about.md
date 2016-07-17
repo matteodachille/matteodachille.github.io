@@ -7,7 +7,8 @@ title: About me
 
 ## Research interests
 
-
+I am interested in statistical mechanics, graph theory and related variational problems, from both analytical and numerical point of view.  
+My favourite Monte Carlo toolset is made of C++ for algorithms, BASH for I-O and gnuplot for data analysis.   
 Currently I am studying at the overlap between **disordered systems** and **linear sum assignment problems** with a particular focus on the typical ground state energies at zero temperature of various **Euclidean assignment problems** and their ''mean field'' approximations, called **random assignment problems**.  
 This is also the essential topic of [my master's thesis](downloads/masterthesis.pdf){:target="_blank"}.  
 
