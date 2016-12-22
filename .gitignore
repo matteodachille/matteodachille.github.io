@@ -39,3 +39,6 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+#Local version of usual _config
+_local.yml
