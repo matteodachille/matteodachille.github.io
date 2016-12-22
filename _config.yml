@@ -12,13 +12,13 @@ title:            "Matteo D'Achille"
 tagline:          "Personal website"
 description:      "Personal website"
 url:              https://matteodachille.github.io/
-baseurl:          https://matteodachille.github.io/
+baseurl:         https://matteodachille.github.io/
 #baseurl:			     /
-tag_page: 		    tags
+tag_page: 		  tags
 category_page:	  categories
 name:             "Matteo D'Achille"
 author:           "Matteo D'Achille"
-github:			      matteodachille
+github:			  matteodachille
 linkedin:         matteopdachille
 researchgate:     "Matteo_Dachille"
 academia:         "MatteoDAchille"
