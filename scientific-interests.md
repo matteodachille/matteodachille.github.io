@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Scientific interests
+order: 2
 ---
 
 <!--- TOC
@@ -8,8 +9,9 @@ title: Scientific interests
 
 
 I am interested in rigourous statistical mechanics, in particular in its relationship to graph theory and related variational problems, from both analytical and numerical point of view.  
-My favourite Monte Carlo toolset is made of C++ for algorithms, BASH for I-O and gnuplot for data analysis.   
-Currently I am studying at the overlap between **disordered systems** and **linear sum assignment problems** with a particular focus on the typical ground state energies at zero temperature of various **Euclidean assignment problems** and their ''mean field'' approximations, called **random assignment problems**.  
+My favourite Monte Carlo toolset is made of C++ for algorithms, BASH for I-O and gnuplot for data analysis. 
+
+Currently I am studying at the overlap between **disordered systems** and **linear sum assignment problems** with a particular focus on the typical ground state energies (and their asymptotic properties) at zero temperature for various **Euclidean assignment problems** and their ''mean field'' approximations, called **random assignment problems**.  
 This is also the essential topic of [my master's thesis](downloads/masterthesis.pdf){:target="_blank"}.  
 
 <div class="tf2d" markdown="block">

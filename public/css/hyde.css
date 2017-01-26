@@ -377,13 +377,13 @@ a.sidebar-nav-item:focus {
 	}
 }
 
-.tags-expo .tags-expo-section {
-	font-family: sans;
+/*.tags-expo .tags-expo-section {
+	font-family: fantasy;
 }
-
+*/
 .tags-expo .tags-expo-section ul {
 	list-style: none;
-	/*list-style-position: inside;*/
+	list-style-position: inside;
 	padding: 0;
 }
 
@@ -398,7 +398,7 @@ a.sidebar-nav-item:focus {
 }
 
 .tags-expo .tags-expo-section ul li:hover {
-	/*list-style-type: disc;*/
+	/*list-style-type: lower-alpha;*/
 	padding: 0 .5rem;
 }
 
@@ -412,4 +412,34 @@ a.sidebar-nav-item:focus {
 	color: grey;
 	margin: 0;
 	padding: 0;
+}
+
+/* Categories styling */
+
+.post-cat{
+ display: inline-block;
+  background: rgba(105, 181, 120, 1);
+  padding: 0 .5rem;
+  margin-left: .5rem;
+  border-radius: 4px;
+  color: black !important;
+  font-size: 90%;
+}
+
+.post-cat:before{
+	content: "\f069";
+    font-family: FontAwesome;
+    padding-right: .5em;
+
+}
+.post-cat  a{
+	color: black;
+	
+}
+
+.post-cat:hover{
+	text-decoration: none;
+	background: #1e9f38;
+	color: #fff !important;
+
 }

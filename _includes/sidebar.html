@@ -22,10 +22,10 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort: "order" %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" and node.title != "Categories" and node.title != "Tags" %}
+          {% if node.layout == "page" and node.show != "hyde" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
@@ -38,7 +38,7 @@
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.<br />  Built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.</p>
 	  <div id="contact-list" style="font-size: 14px;">
-		  <span>Get in touch via</span>
+		  <span>To get in touch use</span>
 	  {% if site.twitter %}
         <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
           <span class="fa-stack fa-lg">

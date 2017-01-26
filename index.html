@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Home
+order: 1
 ---
+
+<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -42,3 +46,4 @@ title: Home
   {% endif %}
 </div>
 {% endif %}
+

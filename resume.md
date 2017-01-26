@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resumé
+order: 4
 ---
 
 - TOC
