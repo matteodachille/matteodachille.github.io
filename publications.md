@@ -4,13 +4,11 @@ title: Publications
 order: 3
 ---
 
-- TOC
-{:toc}
+<!-- - TOC
+{:toc} -->
 
 ## Preprints  
 
 
 ## Articles
 
-
-## Books
