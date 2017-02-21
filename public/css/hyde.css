@@ -60,6 +60,10 @@ html {
   background-color: #202020;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 /*.sidebar-logo {
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -95,23 +99,25 @@ html {
     position: inherit;*/
   	box-shadow: 1px 1px 3px #263238;
   }
-}
-
- #contact-list {
-      /*float:right;
-	  padding-l: 50px;*/
+  #contact-list {
+      /*float: inherit;
+	 padding-left: 50px; */
+	  /*display: table;
+    margin: 0 auto; */
     }
 	#contact-list a {
-		float: right;
+		/*float: left;*/
 		text-decoration: none;
 	}
 	#contact-list a:hover [class^="fa-"] {
-      color: palegreen;
+      color: dimgrey;
 	  text-decoration: none;
     }
 	#contact-list span {
 	text-align: left;
 	}
+}
+
 
 .fa-1x {
   vertical-align: middle;

@@ -29,6 +29,6 @@ paginate:         2
 excerpt_separator: '<!--more-->'
 
 # Custom vars
-version:          0.0.9
+version:          0.9.9
 
 repository:       https://github.com/matteodachille/matteodachille.github.io
