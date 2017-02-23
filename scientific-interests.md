@@ -7,7 +7,7 @@ order: 2
 <!--- TOC
 {:toc}-->
 
-I work in rigourous statistical mechanics, in particular in its relationship to graph theory and related variational problems, from both analytical and numerical point of view.
+I work in rigourous statistical mechanics, in particular in its relationship to combinatorial optimisation from both analytical and numerical point of view.
 {: .text-justify}
 
 
@@ -17,7 +17,7 @@ A lot of fundamental questions about properties of physical systems with random 
 Currently I am studying two flavours of the **linear sum assignment problem**, the **random assignment problem** and the **Euclidean bipartite matching problem**. 
 {: .text-justify}
 
-This is also the essential topic of [my master's thesis](downloads/masterthesis.pdf){:target="_blank"}.
+This study started with [my master's thesis](downloads/masterthesis.pdf){:target="_blank"} and you can find more output on [the relevant page](/publications/).
 {: .text-justify}
 
 <div class="tf2d" markdown="block">

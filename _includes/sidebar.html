@@ -39,7 +39,7 @@
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.<br />  Built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.</p>
 	  <div id="contact-list" style="font-size: 14px;">
 		  <!--span>To get in touch use</span-->
-	  {% if site.twitter %}
+	  <!--{% if site.twitter %}
         <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
           <span class="fa-stack fa-lg">
             <i class="fa fa-twitter fa-align-center-1x"></i>
@@ -52,7 +52,7 @@
             <i class="fa fa-github fa-align-center-1x"></i>
           </span>
         </a>
-      {% endif %}
+      {% endif %}-->
 
       <!--{% if site.linkedin %}
         <a href="https://linkedin.com/in/{{ site.linkedin }}">
@@ -62,13 +62,13 @@
         </a>
       {% endif %}-->
 
-      <!--{% if site.email %}
-        <a href="mailto: {{ site.email }}" target="_blank">
+	 {% if site.researchgate %}
+        <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
           <span class="fa-stack fa-lg">
-            <i class="fa fa-envelope fa-align-center-1x"></i>
+            <i class="ai ai-researchgate ai-align-center-1x"></i>
           </span>
         </a>
-      {% endif %}-->
+      {% endif %}	  
 
 	{% if site.academia %}
         <a href="https://unimi.academia.edu/{{ site.academia }}" target="_blank">
@@ -77,15 +77,23 @@
           </span>
         </a>
       {% endif %}
-
-	   {% if site.researchgate %}
-        <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
+		  
+     {% if site.mendeley %}
+        <a href="https://www.mendeley.com/profiles/{{ site.mendeley }}" target="_blank">
           <span class="fa-stack fa-lg">
-            <i class="ai ai-researchgate ai-align-center-1x"></i>
+            <i class="ai ai-mendeley ai-align-center-1x"></i>
+          </span>
+        </a>
+      {% endif %}	
+		  
+     {% if site.email %}
+        <a href="mailto: {{ site.email }}" target="_blank">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-envelope fa-align-center-1x"></i>
           </span>
         </a>
       {% endif %}
-
+		  
   </div>
   </div>
 </div>
