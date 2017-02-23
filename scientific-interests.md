@@ -11,13 +11,13 @@ I work in rigourous statistical mechanics, in particular in its relationship to 
 {: .text-justify}
 
 
-A lot of fundamental questions about properties of physical systems with random interactions are far from being answered satisfactorily. In these systems, where typical information is known on the nature of their interactions, there is often lack of even the most common symmetries, that are restored only on average. Numerical insights play a fundamental role in exploring such systems and of course on testing theoretical predictions.
+A lot of fundamental questions about properties of physical systems with quenched disorder are far from being answered satisfactorily. In these systems, where typical information is known on the nature of their interactions, there is often lack of even the most common symmetries, that are restored only on average. Numerical insights play a fundamental role in exploring such systems and in testing theoretical predictions.
 {: .text-justify}
 
 Currently I am studying two flavours of the **linear sum assignment problem**, the **random assignment problem** and the **Euclidean bipartite matching problem**. 
 {: .text-justify}
 
-This study started with [my master's thesis](downloads/masterthesis.pdf){:target="_blank"} and you can find more output on [the relevant page](/publications/).
+My research on this topic started in [my master's thesis](downloads/masterthesis.pdf){:target="_blank"} . You can find more output on [the relevant page](/publications).
 {: .text-justify}
 
 <div class="tf2d" markdown="block">
