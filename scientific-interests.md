@@ -23,5 +23,5 @@ The research on this topic started in [my master's thesis](downloads/masterthesi
 
 </div>
 
-<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>An optimal assignment between 5000 black points to 5000 white points, each point being uniformly distributed on the unit square in dimension D=2 (open boundary conditions are assumed). Each link contributes to the total cost with its Euclidean length, which determines its color as shown in the key.</p>
+<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>An optimal assignment between 5000 black points to 5000 white points, each point being uniformly distributed on the unit square in dimension D=2 (open boundary conditions are assumed). Each link contributes to the total cost with its Euclidean length, which determines its color as shown in the key (image also accessible <a href="/assets/size50002d.svg" target="_blank">here</a>). </p>
 {: .text-justify}
