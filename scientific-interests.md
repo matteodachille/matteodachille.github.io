@@ -7,11 +7,11 @@ order: 2
 <!--- TOC
 {:toc}-->
 
-Currently I'm working in statistical mechanics, in particular on the relationship between disordered and frustrated systems and classes of combinatorial optimisation from both analytical and numerical point of view.
+Currently I'm working in statistical mechanics, in particular on the relationship between disordered and frustrated systems and classes of combinatorial optimisation problems from both analytical and numerical point of view.
 {: .text-justify}
 
 
-A lot of fundamental questions about properties of physical systems with quenched disorder are far from being answered satisfactorily. In these systems, where typical information is known on the nature of their interactions, there is often lack of even the most common symmetries, that are restored only on average. Ideas from critical phenomena together with numerical insights play a fundamental role in studying such systems by performing a cyclic sequence of qualitative exploration, theory formulation and and numerical testing of analytical predictions.
+A lot of fundamental questions about properties of physical systems with quenched disorder are far from being answered satisfactorily. In these systems, where typical information is known on the nature of their interactions, there is often lack of even the most common symmetries, that are restored only on average. Ideas from the theory of critical phenomena together with numerical insights allow to study such systems by performing a cyclic sequence of qualitative exploration, theory formulation and numerical testing of the analytical predictions.
 {: .text-justify}
 
 
