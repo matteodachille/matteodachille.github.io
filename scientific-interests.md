@@ -7,7 +7,7 @@ order: 2
 <!--- TOC
 {:toc}-->
 
-Mathematical aspects of statistical mechanics, disordered systems, critical phenomena and universality, with both analytical and numerical methods. The following are the specific topic I have so far contributed to.
+Mathematical aspects of statistical mechanics, disordered systems, critical phenomena and universality, with both analytical and numerical methods. The following are the specific topics I have so far contributed to.
 {: .text-justify}
 
 ### Stochastic assignment problems
@@ -22,7 +22,7 @@ $$
 where \\( w_{ij} \\) is the cost of assigning the $$i$$-th object of a certain class to the $$j$$-th one of another one. $$ E(\pi^*;w)$$ is called the _optimal cost_ or _the ground state energy_, depending on the context. Thus the problem is completely specified by a $$n\times n$$ matrix $$w$$, called ''cost matrix''. For example, you run a business and you know that employee $$i$$ can finish task $$j$$ in $$w_{ij}$$ seconds, and you would like to minimize the total employees time of execution for the whole set of $$n$$ tasks under the constraint that each employee does only one task. 
 {: .text-justify}
 
-This problem was solved by **H.W.Kuhn** in 1955[^1] with the introduction of the "Hungarian method", an algorithm that solves this problem in polynomial time complexity $$O(n^4)$$[^2]. But what happens if $$w$$ is a **random matrix**?
+This problem was solved by **H.W.Kuhn** in 1955[^1] with the introduction of the "Hungarian method", an algorithm that runs in polynomial time complexity $$O(n^4)$$[^2]. But what happens if $$w$$ is a **random matrix**?
 {: .text-justify}
 
 
@@ -40,13 +40,13 @@ In a seminal paper on the subject[^3], **M.Mézard** and **G.Parisi** introduced
 {: .text-justify}
 
 
-The EBMP is in many respect more difficult than the RAP due to the geometry of the underlying space; solutions may have very different qualitative behavior depending on $$D$$ and $$p$$. Remarkably, it has rich connections with different areas of mathematics, for example with the Monge-Kantorovich problem and with cycle properties of random permutations (especially in $$D=1$$).
+The EBMP is in many respect more difficult than the RAP due to the geometry of the underlying space; solutions may have very different qualitative behavior depending on $$D$$ and $$p$$. Remarkably, it has rich connections with different areas of mathematics, for example with the Monge-Kantorovich problem, with gaussian stochastic processes and with cycle properties of random permutations (especially in $$D=1$$).
 {: .text-justify}
 
 Since the problem at fixed instance is solved in polynomial time, current technologies allow a Monte Carlo approach to sizes up to $$n=10^4$$ on a personal computer, so that analytical predictions can be significantly tested against numerical simulations.
 {: .text-justify}
 
-The research on these problems started in [my M.Sc. thesis](downloads/masterthesis.pdf){:target="_blank"}. You can find relevant publications by [clicking here](/publications).
+The research on these problems started in [my M.Sc. thesis](downloads/masterthesis.pdf){:target="_blank"}. You can find updated publications [clicking here](/publications) or at the [ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs){:target="_blank"}.
 {: .text-justify}
 
 <!--div class="tf2d" markdown="block"-->
