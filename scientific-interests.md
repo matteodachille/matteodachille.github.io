@@ -49,10 +49,10 @@ Since the problem at fixed instance is solved in polynomial time, current techno
 The research on these problems started in [my M.Sc. thesis](downloads/masterthesis.pdf){:target="_blank"}. You can find relevant publications by [clicking here](/publications).
 {: .text-justify}
 
-<div class="tf2d" markdown="block">
-![I'm rendering a big .svg image...please wait: this may take a while.](assets/size50002d.png){:width="100%"}
+<!--div class="tf2d" markdown="block"-->
+![I'm rendering a big image... please wait: this may take a while.](assets/size50002d.png){:width="100%"}
 
-</div>
+<!--/div-->
 
 <p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>The solution of an instance of the EBMP in D=2 on the unit square. Each link contributes to the total cost with its Euclidean length, which determines its color as shown in the key (image also accessible <a href="assets/size50002d.png" target="_blank">here</a>). </p>
 {: .text-justify}
