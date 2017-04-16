@@ -50,7 +50,7 @@ The research on these problems started in [my M.Sc. thesis](downloads/masterthes
 {: .text-justify}
 
 <!--div class="tf2d" markdown="block"-->
-![I'm rendering a big image... please wait: this may take a while.](assets/size50002d.png){:width="100%"}
+![I'm rendering a big image... please wait: this may take a while.](/assets/size50002d.png){:width="100%"}
 
 <!--/div-->
 
