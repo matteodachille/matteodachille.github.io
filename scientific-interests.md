@@ -54,7 +54,7 @@ The research on these problems started in [my M.Sc. thesis](downloads/masterthes
 
 </div>
 
-<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>The solution of an instance of the EBMP in D=2 on the unit square. Each link contributes to the total cost with its Euclidean length, which determines its color as shown in the key (image also accessible <a href="/assets/size50002d.png" target="_blank">here</a>). </p>
+<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>The solution of an instance of the EBMP in D=2 on the unit square. Each link contributes to the total cost with its Euclidean length, which determines its color as shown in the key (image also accessible <a href="assets/size50002d.png" target="_blank">here</a>). </p>
 {: .text-justify}
 
 **Footnotes**
