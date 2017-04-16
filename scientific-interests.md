@@ -50,11 +50,11 @@ The research on these problems started in [my M.Sc. thesis](downloads/masterthes
 {: .text-justify}
 
 <div class="tf2d" markdown="block">
-![I'm rendering a big .svg image...please wait: this may take a while.](assets/size50002d.svg){:width="100%"}
+![I'm rendering a big .svg image...please wait: this may take a while.](assets/size50002d.png){:width="100%"}
 
 </div>
 
-<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>The solution of an instance of the EBMP in D=2 on the unit square. Each link contributes to the total cost with its Euclidean length, which determines its color as shown in the key (image also accessible <a href="/assets/size50002d.svg" target="_blank">here</a>). </p>
+<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>The solution of an instance of the EBMP in D=2 on the unit square. Each link contributes to the total cost with its Euclidean length, which determines its color as shown in the key (image also accessible <a href="/assets/size50002d.png" target="_blank">here</a>). </p>
 {: .text-justify}
 
 **Footnotes**
