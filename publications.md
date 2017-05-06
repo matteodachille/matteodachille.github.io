@@ -15,6 +15,7 @@ order: 3
 ### Submitted articles
 
 **Finite size corrections in the random assignment problem** 
+([Accepted Paper](https://journals.aps.org/pre/accepted/81075R59O311ab18d62327a448e27fce8c0f16b99){:target="_blank"}: _Physical Review E_)
 : with _S.Caracciolo, E.M.Malatesta_ and _G.Sicuro_
 :  <span class="fa-stack fa-lg"><a href="assets/FSC.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></span><a href="https://arxiv.org/abs/1702.05991" target="_blank"><i class="ai ai-arxiv" aria-hidden="true"></i></a>
 
@@ -25,7 +26,7 @@ order: 3
 
  -->
  
-### Articles
+<!-- ### Articles -->
 
 <!--
 <dl>
