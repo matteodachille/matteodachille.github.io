@@ -63,7 +63,7 @@ The research on these problems started in [my M.Sc. thesis](downloads/masterthes
 	Kuhn, H. W. (1955), _The Hungarian method for the assignment problem_. Naval Research Logistics, 2: 83–97. [doi:10.1002/nav.3800020109](http://onlinelibrary.wiley.com/doi/10.1002/nav.3800020109/abstract){:target="_blank"}
 
 [^2]:
-	It seems the solution to this precise problem was known to Jacobi, who found it in a completely different setting in its work "_[On the study of the order of a system of differential equations with arbitrary coefficients](http://gdz.sub.uni-goettingen.de/dms/load/img/?PPN=GDZPPN002152592&IDDOC=266552){:target="_blank"}_"
+	It seems the solution to this precise problem was known to Jacobi, who found it in a completely different setting in his work "_[On the study of the order of a system of differential equations with arbitrary coefficients](http://gdz.sub.uni-goettingen.de/dms/load/img/?PPN=GDZPPN002152592&IDDOC=266552){:target="_blank"}_"
 	
 [^3]:
 	Mézard, M., & Parisi, G. (1985), _Replicas and optimization_. Journal de Physique Lettres, 46(17), 771–778. [doi:10.1051/jphyslet:019850046017077100](http://jphyslet.journaldephysique.org/en/articles/jphyslet/abs/1985/17/jphyslet_1985__46_17_771_0/jphyslet_1985__46_17_771_0.html){:target="_blank"}
