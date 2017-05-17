@@ -6,18 +6,16 @@ order: 3
 <!-- - TOC
 {:toc} -->
 
-## 2017  
-
-
 ### Preprints 
 
 
-### Submitted articles
+### Published articles
 
-**Finite size corrections in the random assignment problem** 
-([Accepted Paper](https://journals.aps.org/pre/accepted/81075R59O311ab18d62327a448e27fce8c0f16b99){:target="_blank"}: _Physical Review E_)
-: with _S.Caracciolo, E.M.Malatesta_ and _G.Sicuro_
-:  <span class="fa-stack fa-lg"><a href="assets/FSC.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></span><a href="https://arxiv.org/abs/1702.05991" target="_blank"><i class="ai ai-arxiv" aria-hidden="true"></i></a>
+[1] **Finite-size corrections in the random assignment problem**
+: with Sergio Caracciolo, Enrico M. Malatesta and  Gabriele Sicuro
+: Physical Review E **95**, 052129 – Published 17 May 2017
+: [doi: 10.1103/PhysRevE.95.052129](https://doi.org/10.1103/PhysRevE.95.052129){:target="_blank"}
+:  <a href="assets/FSC.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
 <!--
 
