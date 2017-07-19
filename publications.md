@@ -8,14 +8,16 @@ order: 3
 
 ### Preprints 
 
+[2] **Random Euclidean matching problems in one dimension**
+: with Sergio Caracciolo and Gabriele Sicuro
+: [arXiv:1707.05541 [cond-mat.dis-nn]](https://arxiv.org/abs/1707.05541){:target="_blank"} - Submitted 18 July 2017 
 
-### Published articles
+### Journal articles
 
 [1] **Finite-size corrections in the random assignment problem**
 : with Sergio Caracciolo, Enrico M. Malatesta and  Gabriele Sicuro
 : Physical Review E **95**, 052129 – Published 17 May 2017
-: [doi: 10.1103/PhysRevE.95.052129](https://doi.org/10.1103/PhysRevE.95.052129){:target="_blank"}
-:  <a href="assets/FSC.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
+: [doi: 10.1103/PhysRevE.95.052129](https://doi.org/10.1103/PhysRevE.95.052129){:target="_blank"} - <a href="assets/FSC.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
 <!--
 

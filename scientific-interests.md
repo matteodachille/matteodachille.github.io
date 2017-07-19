@@ -7,10 +7,11 @@ order: 2
 <!--- TOC
 {:toc}-->
 
-Mathematical aspects of statistical mechanics, disordered systems, critical phenomena and universality, with both analytical and numerical methods. The following are the specific topics I have so far contributed to.
+Mathematical aspects of statistical mechanics, disordered systems, critical phenomena and universality, with both analytical and numerical methods. 
+The following are the specific topics I have so far contributed to.
 {: .text-justify}
 
-### Stochastic assignment problems
+### Stochastic matching problems
 
 
 The _assignment problem_ is the search of a permutation \\( \pi^* \in \mathcal{S}_n \\), the symmetric group on $$n$$ symbols, that minimizes a cost or energy
