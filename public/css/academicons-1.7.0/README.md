@@ -1,4 +1,5 @@
 Academicons
+show : hyde
 ===========
 Academicons is an icon font for academics. It aims to supplement other packages (such as Font Awesome) with icons for academic websites. Go to http://jpswalsh.github.io/academicons to view the full icon set along with instructions for their use.
 
