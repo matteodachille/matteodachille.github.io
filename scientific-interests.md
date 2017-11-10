@@ -4,16 +4,22 @@ title: Scientific interests
 order: 2
 ---
 
-<!--- TOC
-{:toc}-->
 
-Mathematical aspects of statistical mechanics, disordered systems, critical phenomena and universality, with both analytical and numerical methods. 
-The following are the specific topics I have so far contributed to.
+
+I work in mathematical aspects of statistical mechanics, disordered systems and their applications with both analytical and numerical methods. <br />
+The topics I have so far contributed are listed below.
 {: .text-justify}
+
+<!-- * TOC
+{:toc} -->
 
 ### Stochastic matching problems
 
 
+
+### Physics of allostery
+
+<!--
 The _assignment problem_ is the search of a permutation \\( \pi^* \in \mathcal{S}_n \\), the symmetric group on $$n$$ symbols, that minimizes a cost or energy
 {: .text-justify}
 
@@ -51,13 +57,17 @@ The research on these problems started in [my M.Sc. thesis](downloads/masterthes
 {: .text-justify}
 
 <!--div class="tf2d" markdown="block"-->
+<!--
 ![I'm rendering a big image... please wait: this may take a while.]({{ site.url }}/assets/size50002d.png){:width="100%"}
-
+-->
 <!--/div-->
 
+<!--
 <p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>The solution of an instance of the EBMP in D=2 on the unit square. Each link contributes to the total cost with its Euclidean length, which determines its color as shown in the key (image also accessible <a href="assets/size50002d.png" target="_blank">here</a>). </p>
 {: .text-justify}
 
+-->
+<!--
 **Footnotes**
 
 [^1]:
@@ -68,3 +78,5 @@ The research on these problems started in [my M.Sc. thesis](downloads/masterthes
 	
 [^3]:
 	Mézard, M., & Parisi, G. (1985), _Replicas and optimization_. Journal de Physique Lettres, 46(17), 771–778. [doi:10.1051/jphyslet:019850046017077100](http://jphyslet.journaldephysique.org/en/articles/jphyslet/abs/1985/17/jphyslet_1985__46_17_771_0/jphyslet_1985__46_17_771_0.html){:target="_blank"}
+    
+   --> 

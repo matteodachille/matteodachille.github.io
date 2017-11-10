@@ -9,8 +9,8 @@ permalink:        :title
 
 # Setup
 title:            "Matteo D'Achille"
-tagline:          "Personal website"
-description:      "Personal website"
+tagline:          "PhD Candidate"
+description:      "PhD candidate at <br/>- CEA Saclay<br/>- Collège de France <br/> - UVSQ"
 url:              https://matteodachille.github.io/
 baseurl:          https://matteodachille.github.io/
 tag_page: 		  tags
