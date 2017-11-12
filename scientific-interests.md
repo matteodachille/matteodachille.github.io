@@ -7,7 +7,7 @@ order: 2
 
 
 I work in mathematical aspects of statistical mechanics, disordered systems and their applications with both analytical and numerical methods. <br />
-The topics I have so far contributed are listed below.
+<!--The topics I have so far contributed are listed below.-->
 {: .text-justify}
 
 <!-- * TOC
@@ -15,9 +15,12 @@ The topics I have so far contributed are listed below.
 
 ### Stochastic matching problems
 
-
+Work in progress...
+[see [publications]({{  site.baseurl }}publications )]
 
 ### Physics of allostery
+
+Work in progress...
 
 <!--
 The _assignment problem_ is the search of a permutation \\( \pi^* \in \mathcal{S}_n \\), the symmetric group on $$n$$ symbols, that minimizes a cost or energy
