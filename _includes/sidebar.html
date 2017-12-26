@@ -53,14 +53,22 @@
           </span>
         </a>
       {% endif %}-->
-
-      <!--{% if site.linkedin %}
-        <a href="https://linkedin.com/in/{{ site.linkedin }}">
+          
+         {% if site.email %}
+        <a href="mailto: {{ site.email }}" target="_blank">
           <span class="fa-stack fa-lg">
-            <i class="fa fa-linkedin fa-align-center-1x"></i>
+            <i class="fa fa-envelope fa-align-center-1x"></i>
           </span>
         </a>
-      {% endif %}-->
+      {% endif %}
+          
+    
+        <a href="https://scholar.google.it/citations?user=cGOADLcAAAAJ" target="_blank">
+          <span class="fa-stack fa-lg">
+            <i class="ai ai-google-scholar ai-align-center-1x"></i>
+          </span>
+        </a>
+
 
 	 {% if site.researchgate %}
         <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
@@ -68,7 +76,15 @@
             <i class="ai ai-researchgate ai-align-center-1x"></i>
           </span>
         </a>
-      {% endif %}	  
+      {% endif %}
+          
+     {% if site.linkedin %}
+        <a href="https://linkedin.com/in/{{ site.linkedin }}">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-linkedin fa-align-center-1x"></i>
+          </span>
+        </a>
+      {% endif %}
 
 	{% if site.academia %}
         <a href="https://unimi.academia.edu/{{ site.academia }}" target="_blank">
@@ -86,13 +102,6 @@
         </a>
       {% endif %}	
 		  
-     {% if site.email %}
-        <a href="mailto: {{ site.email }}" target="_blank">
-          <span class="fa-stack fa-lg">
-            <i class="fa fa-envelope fa-align-center-1x"></i>
-          </span>
-        </a>
-      {% endif %}
 		  
   </div>
   </div>
