@@ -10,7 +10,7 @@ permalink:        :title
 # Setup
 title:            "Matteo D'Achille"
 tagline:          "PhD Candidate"
-description:      "PhD candidate at <br/>- CEA Saclay<br/>- Collège de France <br/> - UVSQ"
+description:      "PhD candidate at Université Paris Saclay"
 url:              https://matteodachille.github.io/
 baseurl:          https://matteodachille.github.io/
 tag_page: 		  tags
@@ -22,7 +22,7 @@ linkedin:         matteopdachille
 researchgate:     "Matteo_Dachille"
 academia:         "MatteoDAchille"
 mendeley:         "matteo-dachille"
-twitter:          
+twitter:
 email:			"matteopdachille@gmail.com"
 
 paginate:         2

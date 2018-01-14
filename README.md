@@ -1,6 +1,6 @@
 ## About
 
-A customization of [Hyde](matteodachille.github.io).
+Repository behind provisional academic website started from a customization of the nice [Hyde](matteodachille.github.io) theme.
 
 
 

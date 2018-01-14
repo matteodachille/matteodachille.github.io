@@ -8,12 +8,12 @@ order: 4
 {:toc}
 
 
-You can also download my CV in [.pdf]({{  site.baseurl }}downloads/cv.pdf ). 
+## Current position
+**PhD candidate**, Université Paris Saclay, under the supervision of _Michel Masella_ (CEA Saclay) and _Olivier Rivoire_ (Collège de France).
 
-
-## Date and place of birth
+<!--## Date and place of birth
 Thursday 6 December 1990 in Monza, 20900 MB, Italy  
-
+-->
 
 ## Education
 
@@ -62,3 +62,6 @@ Conference at **Scuola Normale Superiore**, Pisa, Italy, 7-11 November 2016.
 {: .no_toc}
 Summer school at **Ruprecht-Karls-Universität Heidelberg**, Heidelberg, Germany, 21-26 July 2014.
 [Website](http://www.thphys.uni-heidelberg.de/~salmhofer/summerschool-2014/summer-school-2014.html){:target="_blank"}
+
+
+You can also download my CV in [.pdf]({{  site.baseurl }}downloads/cv.pdf ).
