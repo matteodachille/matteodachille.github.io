@@ -38,6 +38,18 @@ Thursday 6 December 1990 in Monza, 20900 MB, Italy
 
 ## Schools, conferences, workshops and other scientific activities
 
+### 2018
+#### "Information transmission in biological systems"
+{: .no_toc}
+Conference at **The Mathematical Research and Conference Center**, Będlewo, Poland, March 5-9, 2018.
+[Website](https://www.impan.pl/en/activities/banach-center/conferences/18-sstransmission){:target="_blank"}
+
+#### Visiting PhD
+{: .no_toc}
+at **Banach Center** of the **Institute of Mathematics of the Polish Academy of Sciences (IM PAN)**, Warsaw, Poland, February 18-March 4, 2018.
+[Website](https://www.impan.pl/en/activities/banach-center){:target="_blank"}
+
+
 ### 2017
 
 #### "Computational approaches to investigating allostery"
