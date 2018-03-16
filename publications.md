@@ -6,7 +6,11 @@ order: 3
 <!-- - TOC
 {:toc} -->
 
-<!-- ### Preprints -->
+### Preprints
+
+[1] **Anomalous scaling of the optimal cost in the one-dimensional random assignment problem**
+: with Sergio Caracciolo and Gabriele Sicuro
+: <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> download</a>
 
 ### Journal articles
 
@@ -29,7 +33,7 @@ order: 3
 {: .text-justify}
 
  -->
- 
+
 <!-- ### Articles -->
 
 <!--

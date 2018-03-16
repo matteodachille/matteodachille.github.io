@@ -46,7 +46,7 @@ Conference at **The Mathematical Research and Conference Center**, Będlewo, Pol
 
 #### Visiting PhD
 {: .no_toc}
-at **Banach Center** of the **Institute of Mathematics of the Polish Academy of Sciences (IM PAN)**, Warsaw, Poland, February 18-March 4, 2018.
+at **Banach Center**, **Institute of Mathematics of the Polish Academy of Sciences (IM PAN)**, Warsaw, Poland, February 18-March 4, 2018.
 [Website](https://www.impan.pl/en/activities/banach-center){:target="_blank"}
 
 
@@ -69,6 +69,8 @@ Workshop at **Laboratoire Exascale Computing Research (ECR), Campus Ter@tec**, B
 {: .no_toc}
 Conference at **Scuola Normale Superiore**, Pisa, Italy, 7-11 November 2016.
 [Website](http://webtheory.sns.it/optimal-transport/index.php){:target="_blank"}
+
+### 2014
 
 #### "Mathematical Physics, Analysis and Stochastics"  
 {: .no_toc}
