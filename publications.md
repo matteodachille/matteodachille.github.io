@@ -6,13 +6,18 @@ order: 3
 <!-- - TOC
 {:toc} -->
 
-### Preprints
+<!-- ### Preprints
 
-[1] **Anomalous scaling of the optimal cost in the one-dimensional random assignment problem**
+<!--[1] **Anomalous scaling of the optimal cost in the one-dimensional random assignment problem**
 : with Sergio Caracciolo and Gabriele Sicuro
-: <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> download</a>
+: <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> download</a>-->
 
 ### Journal articles
+
+[3] **Anomalous scaling of the optimal cost in the one-dimensional random assignment problem**
+: with Sergio Caracciolo and Gabriele Sicuro
+: Journal of Statistical Physics **174**, 846 – Published 17 December 2018
+: [doi: 10.1007/s10955-018-2212-9](https://doi.org/10.1007/s10955-018-2212-9){:target="_blank"} - <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
 [2] **Random Euclidean matching problems in one dimension**
 : with Sergio Caracciolo and Gabriele Sicuro
