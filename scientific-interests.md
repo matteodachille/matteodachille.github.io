@@ -14,15 +14,15 @@ I work in mathematical aspects of statistical mechanics, disordered systems and 
 {:toc}
 
 ### Stochastic matching problems
-
-It is well established[^3] that different instances of the same optimization problem may be thought at as a single, disordered physical system. One example is the *stochastic matching problem*, where one wants to understand the _typical optimal matching_ between two families of random variables of equal size, the dependence on the geometry of the underlying space, or the thermodynamic limit. Monte Carlo simulations display very non-trivial behaviors that, in some case, we were able to explain using techniques from **statistical physics**.
-For details see [my M.Sc. thesis](downloads/masterthesis.pdf){:target="_blank"}, [the relevant publications]({{  site.baseurl }}publications ), and the [ResearchGate page of the project](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
+It has been observed[^3] that different instances of the same optimization problem may be meaningfully thought at as a single physical system with _disordered interactions_. Such idea has since then stimulated the development of an active and fruitful cross-fertilization area at the interface between computer scientists working in linear optimization, statistical physicists working in complex/disordered systems and mathematicians working in optimal transport. One of the simplest problems one can approach is the **stochastic matching problem**, which can be formulated as the study of the _typical optimal matching_ between two sets of random points given a metric to bi-univocally map them. A fixed instance of the stochastic matching problem can be solved in polynomial time[^1], as was already noticed almost two centuries ago by a very famous mathematician[^2]. This fact makes it possible to perform extensive computational studies aimed at understanding several aspects of interest, like the dependence of the typical optimal solution on the metric structure of the space where the points are embedded, the nature of the fluctuations in the set of optimal solutions, and what happens if the sets to be matched contain a very large number of points. Despite their elementary formulation which almost immediately lead to develop conceptually simple Monte Carlo simulations, variants of the stochastic matching problem continue to exhibit very non-trivial behaviors, that only in some cases we were able to explain using techniques from **statistical physics** like the replica method, the study of finite-size corrections and regularization techniques.
+I started to be interested in this problem in [my M.Sc. thesis](downloads/masterthesis.pdf){:target="_blank"}. See [here for the relevant publications]({{  site.baseurl }}publications ), and [here for the ResearchGate page dedicated to the project](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
+{: .text-justify}
 <div class="tf2d" markdown="block">
 
 ![I'm rendering a big image... please wait: depending on the speed of your connection this may take a while.]({{ site.url }}/assets/size50002d.png){:width="100%"}
 
 </div>
-<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>The solution of an instance of a bipartite matching problem on the unit square. Each link contributes to the total cost with its Euclidean length, which determines its color, as shown in the key (image also accessible <a href="assets/size50002d.png" target="_blank">here</a>). </p>
+<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>The solution of an instance of a bipartite matching problem on the unit square. The points are uniformly distributed, and each link contributes to the total cost only via its Euclidean length, which for clarity has been assigned a color as shown in the colorbar. This image can be downloaded <a href="assets/size50002d.png" target="_blank">here</a>. </p>
 {: .text-justify}
 <br/>
 
@@ -81,16 +81,13 @@ The research on these problems started in [my M.Sc. thesis](downloads/masterthes
 {: .text-justify}
 
 -->
-<!--
 **Footnotes**
 
 [^1]:
 	Kuhn, H. W. (1955), _The Hungarian method for the assignment problem_. Naval Research Logistics, 2: 83–97. [doi:10.1002/nav.3800020109](http://onlinelibrary.wiley.com/doi/10.1002/nav.3800020109/abstract){:target="_blank"}
 
 [^2]:
-	It seems the solution to this precise problem was known to Jacobi, who found it in a completely different setting in his work "_[On the study of the order of a system of differential equations with arbitrary coefficients](http://gdz.sub.uni-goettingen.de/dms/load/img/?PPN=GDZPPN002152592&IDDOC=266552){:target="_blank"}_"
+	It seems that an algorithmic solution to the assignment problem essentially equivalent to the Hungarian's method was first developed by the famous Jacobi, who needed it for studying the order of a system of differential equations with arbitrary coefficients "_([see page 300 here - in Latin](http://gdz.sub.uni-goettingen.de/dms/load/img/?PPN=GDZPPN002152592&IDDOC=266552){:target="_blank"}_)"
 
 [^3]:
 	Mézard, M., & Parisi, G. (1985), _Replicas and optimization_. Journal de Physique Lettres, 46(17), 771–778. [doi:10.1051/jphyslet:019850046017077100](http://jphyslet.journaldephysique.org/en/articles/jphyslet/abs/1985/17/jphyslet_1985__46_17_771_0/jphyslet_1985__46_17_771_0.html){:target="_blank"}
-
-   -->
