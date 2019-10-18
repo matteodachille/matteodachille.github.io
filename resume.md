@@ -8,10 +8,9 @@ order: 5
 {:toc}
 
 -->
-## Current position
-**PhD Candidate** at the Université Paris-Saclay
+Since October 2017, I am doing my **PhD** at the **Université Paris-Saclay**.
 
-
+ I am supervised by Andrea Sportiello (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and William Jalby (Li-PARAD UVSQ).
 
 ## Recent activities
 

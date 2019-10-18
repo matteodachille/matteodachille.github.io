@@ -1,19 +1,20 @@
 ---
 layout: page
-title: Teaching
+title: Teaching activities
 order: 3
 ---
 
 <!--- TOC
 {:toc}-->
+I am "Doctorant-enseignant" at the Mathematics Department of the Université Paris-Sud.
 
 ### '18-'19
 
 <ul>
   {% for course in site.courses %}
     <li>
-      <a href="{{ course.url }}">{{ course.title }}</a>
-      - {{ course.hours }} hours - {{ course.level }}
+      <!--<a href="{{ course.url }}">{{ course.title }}</a>-->
+      <b>{{ course.title }}</b>, Travaux dirigés for the {{course.studtype}} students {{ course.level }}
     </li>
   {% endfor %}
 </ul>

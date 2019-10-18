@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Calculus Math151
+title: Calculus Math 151
 year: 	2018-2019
 semester: Fall
-hours: 31.5
-role: Moniteur
+hours: 30
+role: TD
 professor: Guy David, Frederic Haglund
 level: L1
-class-description: Double Licence Physico-Chimie
+studtype: DLPC (Double Licence Physico-Chimie)
 ---
 
 ### Program
