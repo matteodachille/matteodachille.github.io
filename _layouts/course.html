@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="course">
+
+  {% if page.picture %}
+    <img src="{{ page.picture }}" alt="Photo of a {{ page.title | downcase }}">
+  {% endif %}
+
+  <h1>{{ page.title | capitalize}}</h1>
+  <div class="course-class {{ page.professor | downcase}}">
+    Professor: {{ page.professor }}
+    </div>
+
+  <div class="course-class {{ page.year | downcase }}">
+    Academic year: {{ page.year }}
+  </div>
+
+  <div>
+    {{ content }}
+  </div>
+
+</article>

@@ -1,14 +1,24 @@
 ---
 layout: page
 title: Teaching
-order: 4
+order: 3
 ---
 
-- TOC
-{:toc}
+<!--- TOC
+{:toc}-->
 
+### '18-'19
 
-### 2018/2019
+<ul>
+  {% for course in site.courses %}
+    <li>
+      <a href="{{ course.url }}">{{ course.title }}</a>
+      - {{ course.hours }} hours - {{ course.level }}
+    </li>
+  {% endfor %}
+</ul>
+
+<!--### 2018/2019
 <!--
 ## Remediation
 Teaching assistant

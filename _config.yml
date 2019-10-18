@@ -33,3 +33,15 @@ excerpt_separator: '<!--more-->'
 version:          0.9.9
 
 repository:       https://github.com/matteodachille/matteodachille.github.io
+
+collections:
+  courses:
+    output: true
+    permalink: /courses/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "courses"
+    values:
+      layout: course
