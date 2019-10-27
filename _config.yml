@@ -21,9 +21,10 @@ github:			  matteodachille
 linkedin:         matteopdachille
 researchgate:     "Matteo_Dachille"
 academia:         "MatteoDAchille"
-mendeley:         "matteo-dachille"
+mendeley:         #"matteo-dachille"
+orcid:        "0000-0002-8750-1275"
 twitter:
-email:			"matteopdachille@gmail.com"
+email:			#"matteopdachille@gmail.com"
 
 paginate:         2
 

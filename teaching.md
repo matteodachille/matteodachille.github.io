@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Teaching activities
-order: 3
+order: 4
 ---
 
 <!--- TOC
 {:toc}-->
-I am "Doctorant-enseignant" at the Mathematics Department of the Université Paris-Sud.
+I am currently "doctorant-enseignant" in Mathematics at the Mathematics Department ([Département de Mathématiques d'Orsay](https://www.math.u-psud.fr/?lang=fr){:target="_blank"}) of the Université Paris-Sud.
 
 ### '18-'19
 

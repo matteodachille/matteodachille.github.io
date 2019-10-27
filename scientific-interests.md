@@ -1,19 +1,19 @@
 ---
 layout: page
 title: Scientific interests
-order: 4
+order: 2
 ---
 
 
 
-My main interest is in mathematical aspects of the statistical mechanics of disordered systems and their applications, using both analytical and numerical methods. <br />
+Large discrete random structures <br />
 <!--The topics I have so far contributed are listed below.-->
 {: .text-justify}
 
-
+<!--
 ### Stochastic matching problems
 Mézard and Parisi observed long ago that different instances of the same optimization problem may be meaningfully thought at as a single "physical system" with _disordered interactions_[^3].  Such idea has since then stimulated the development of an active and fruitful cross-fertilization area at the interface between computer scientists working in linear optimization, statistical physicists working in complex/disordered systems and mathematicians working in optimal transport. One of the simplest problems one can approach is the **stochastic matching problem**, which can be formulated as the study of the _typical optimal matching_ between two sets of random points given a metric to bi-univocally map them. A fixed instance of the stochastic matching problem can be solved in polynomial time[^1], as was already noticed almost two centuries ago by C.G.J.Jacobi[^2]. This fact makes it possible to perform extensive computational studies aimed at understanding several aspects of interest, like the dependence of the typical optimal solution on the structure of the space where the points are embedded, properties of fluctuations inside the set of optimal solutions, and asymptotic behavior in the limit in which the two sets to be matched contain a large number of points. Despite their elementary formulations, which rather naturally lead to develop conceptually simple Monte Carlo simulations, variants of the stochastic matching problem continue to exhibit highly non-trivial behaviors, that sometimes can be efficiently attacked with methods from **statistical physics** like e.g. the replica method, the study of finite-size corrections or regularization techniques.
-I started to be interested in this problem during my Master thanks to Sergio Caracciolo [my M.Sc. thesis](downloads/masterthesis.pdf){:target="_blank"}. See [here for relevant publications]({{  site.baseurl }}publications ), and [here for the ResearchGate page dedicated to the project](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
+I started to be interested in this problem during my Master work thanks to professor Sergio Caracciolo [my M.Sc. thesis](downloads/masterthesis.pdf){:target="_blank"}. See [here for relevant publications]({{  site.baseurl }}publications ), and [here for the ResearchGate page dedicated to the project](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
 {: .text-justify}
 <div class="tf2d" markdown="block">
 
@@ -76,6 +76,7 @@ The research on these problems started in [my M.Sc. thesis](downloads/masterthes
 {: .text-justify}
 
 -->
+<!--
 **Footnotes**
 
 [^1]:
@@ -86,3 +87,5 @@ The research on these problems started in [my M.Sc. thesis](downloads/masterthes
 
 [^3]:
 	Mézard, M., & Parisi, G. (1985), _Replicas and optimization_. Journal de Physique Lettres, 46(17), 771–778. [doi:10.1051/jphyslet:019850046017077100](http://jphyslet.journaldephysique.org/en/articles/jphyslet/abs/1985/17/jphyslet_1985__46_17_771_0/jphyslet_1985__46_17_771_0.html){:target="_blank"}
+
+-->

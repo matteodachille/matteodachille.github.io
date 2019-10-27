@@ -69,6 +69,13 @@
           </span>
         </a>
 
+        {% if site.orcid %}
+             <a href="https://orcid.org/{{ site.orcid }}" target="_blank">
+               <span class="fa-stack fa-lg">
+                 <i class="ai ai-orcid ai-align-center-1x"></i>
+               </span>
+             </a>
+           {% endif %}
 
 	 {% if site.researchgate %}
         <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
@@ -78,13 +85,6 @@
         </a>
       {% endif %}
 
-     {% if site.linkedin %}
-        <a href="https://linkedin.com/in/{{ site.linkedin }}">
-          <span class="fa-stack fa-lg">
-            <i class="fa fa-linkedin fa-align-center-1x"></i>
-          </span>
-        </a>
-      {% endif %}
 
 	{% if site.academia %}
         <a href="https://unimi.academia.edu/{{ site.academia }}" target="_blank">
@@ -93,6 +93,14 @@
           </span>
         </a>
       {% endif %}
+
+  {% if site.linkedin %}
+         <a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank">
+           <span class="fa-stack fa-lg">
+             <i class="fa fa-linkedin fa-align-center-1x"></i>
+           </span>
+         </a>
+       {% endif %}
 
      {% if site.mendeley %}
         <a href="https://www.mendeley.com/profiles/{{ site.mendeley }}" target="_blank">
