@@ -10,7 +10,7 @@ order: 5
 -->
 Since October 2017, I am doing my PhD at the **Université Paris-Saclay**, with the financial support of the **Université de Versailles-Saint-Quentin-en-Yvelines**.<br/><br/>
 <!--[Andrea Sportiello](https://www-lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"}-->
- I am co-supervised by Andrea Sportiello (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and William Jalby (Li-PARAD Université de Versailles-Saint-Quentin-en-Yvelines).
+ I am co-supervised by [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"} (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and William Jalby (Li-PARAD Université de Versailles-Saint-Quentin-en-Yvelines).
 
 ## Recent activities
 
@@ -45,6 +45,10 @@ at the **Banach Center** of the **Institute of Mathematics of the Polish Academy
 ## Schools, conferences and workshops attended
 
 #### 2019
+
+#### Combinatorics and Arithmetic for Physics: special days
+Meeting held at the **IHES**, Le Bois-Marie, Bures-sur-Yvette, France, Novemeber 6-November 8, 2019.
+[Website](https://indico.math.cnrs.fr/event/5243/overview){:target="_blank"}
 
 #### "Journées MathSTIC 2019 -- Probabilités et Combinatoire
 {: .no_toc}
