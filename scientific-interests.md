@@ -6,7 +6,7 @@ order: 2
 
 
 
-Large discrete random structures <br />
+Rigorous aspects of the Statistical Mechanics of Disordered Systems, in connection with Critical Phenomena. <br />
 <!--The topics I have so far contributed are listed below.-->
 {: .text-justify}
 

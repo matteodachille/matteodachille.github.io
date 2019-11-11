@@ -12,6 +12,7 @@ order: 3
 : with Sergio Caracciolo and Gabriele Sicuro
 : <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> download</a>-->
 
+
 ### Journal articles
 [4] **The Dyck bound in the concave 1-dimensional random assignment model**
 : with Sergio Caracciolo, Vittorio Erba and Andrea Sportiello
