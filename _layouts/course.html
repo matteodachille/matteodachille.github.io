@@ -7,13 +7,16 @@ layout: default
     <img src="{{ page.picture }}" alt="Photo of a {{ page.title | downcase }}">
   {% endif %}
 
-  <h1>{{ page.title | capitalize}}</h1>
+  <h1>{{ page.title }}</h1>
   <div class="course-class {{ page.professor | downcase}}">
     Professor: {{ page.professor }}
     </div>
 
   <div class="course-class {{ page.year | downcase }}">
     Academic year: {{ page.year }}
+  </div>
+  <div class="course-semester {{ page.semester | downcase }}">
+    Semester: {{ page.semester }}
   </div>
 
   <div>

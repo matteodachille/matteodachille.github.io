@@ -10,7 +10,7 @@ order: 5
 -->
 Since October 2017, I am doing my PhD at the **Université Paris-Saclay**, with the financial support of the **Université de Versailles-Saint-Quentin-en-Yvelines**.<br/><br/>
 <!--[Andrea Sportiello](https://www-lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"}-->
- I am co-supervised by [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"} (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and William Jalby (Li-PARAD Université de Versailles-Saint-Quentin-en-Yvelines).
+ I am co-supervised by [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"} (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and Prof. William Jalby (Li-PARAD Université de Versailles-Saint-Quentin-en-Yvelines).
 
 ## Recent activities
 
@@ -105,4 +105,4 @@ Summer school at **Ruprecht-Karls-Universität Heidelberg**, Heidelberg, Germany
  2013 - today, Italian Physical Society ([SIF](https://www.sif.it){:target="_blank"}), voting member
 
 
-A .pdf version of my CV may be downloaded [here]({{  site.baseurl }}downloads/cv.pdf ){:target="_blank"}.
+A CV in .pdf format can be downloaded [here]({{  site.baseurl }}downloads/cv.pdf ){:target="_blank"}.

@@ -5,12 +5,26 @@ year: 	2018-2019
 semester: Fall
 hours: 30
 role: TD
-professor: Guy David, Frederic Haglund
+professor: Guy David
 level: L1
-studtype: DLPC (Double Licence Physico-Chimie)
+studtype: DLPC #(Double Licence Physico-Chimie)
 ---
 
-### Program
- Functions and graphs; limits and continuity; Taylor expansion and derivatives; parametric curves; behavior of functions on a closed and bounded interval; Taylor expansion of order greater than 2; differential equations; primitives and integrals; multivariable calculus.
+### Programme
 
-### References
+- Fonctions et graphes
+- Limites et continuité
+- Développements limités, Dérivée
+- Courbes paramétrées
+- Comportement des fonctions sur un intervalle fermé borné
+- Développements limités d'ordre \\(\geq 2\\)
+- Equations différentielles
+- Primitives et intégrales
+- Fonctions de plusieurs variables
+
+
+<!--
+### Indicative program
+- Functions and graphs
+- limits and continuity; Taylor expansion and derivatives; parametric curves; behavior of functions on a closed and bounded interval; Taylor expansion of order greater than 2; simple ordinary differential equations; simple primitives and integrals; some hints about multivariable Calculus.
+-->
