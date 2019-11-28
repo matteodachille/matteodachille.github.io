@@ -11,4 +11,4 @@ studtype: MPI #(Mathématiques - Physique - Informatique)
 ---
 ### Programme et détails
 
-Voir la [page dediée](http://joelcohen.github.io/ens/mpi/remediation/) sur le site de Joël Cohen
+Voir la [page dediée](http://joelcohen.github.io/ens/mpi/remediation/) sur le site de Joël Cohen.

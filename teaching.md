@@ -6,7 +6,7 @@ order: 4
 
 <!--- TOC
 {:toc}-->
-Currently I carry out teaching activities (mostly Travaux Dirigés) in Mathematics, on behalf of the Mathematics Department ([Département de Mathématiques d'Orsay](https://www.math.u-psud.fr/?lang=fr){:target="_blank"}) of the Université de Paris-Sud.
+Currently, I carry out teaching activities (mostly Travaux Dirigés) in Mathematics, on behalf of the Mathematics Department ([Département de Mathématiques d'Orsay](https://www.math.u-psud.fr/?lang=fr){:target="_blank"}) of the Université de Paris-Sud.
 
 
 ### '18-'19
