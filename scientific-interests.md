@@ -11,21 +11,23 @@ The Euclidean Random Assignment Problem and, more broadly, rigorous aspects in t
 
 ### The Euclidean Random Assignment Problem
 
-The assignment problem is a classical combinatorial optimisation problem which consists in finding a permutation of the columns of a cost matrix of real entries that minimises the trace.  Such an optimal permutation \\( \pi^\* \\) corresponds to a vertex of the Birkhoff polytope and can be found in polynomial time in the size of the cost matrix, for example using the ``Hungarian method'' of Kuhn[^1]. Owing to its simplicity, it is not surprising that many interesting and relevant phenomena can be modeled as assignment problems, if an appropriate choice of the cost matrix is made. Some examples are the determination of a resource transport plan in a regime of economy of scales[^2], the prediction of planar secondary structure of RNA[^3] and optimisation of traffic scheduling in network routers[^4].
+The assignment problem is a classical combinatorial optimisation problem which consists in finding a permutation of the columns of a cost matrix \\(c \\) of real entries that minimises the trace.  Such an optimal permutation \\( \pi^\* \\) corresponds to a vertex of the Birkhoff polytope and can be found in polynomial time in the size of the cost matrix, for example using the ``Hungarian method'' of Kuhn[^1]. Owing to its simplicity, it is not surprising that many interesting and relevant phenomena can be modeled as assignment problems, if an appropriate choice of the cost matrix is made. Some examples are the determination of a resource transport plan in a regime of economy of scales[^2], the prediction of planar secondary structure of RNA[^3] and optimisation of traffic scheduling in network routers[^4].
 {: .text-justify}
 
-In the mid '80s, an approach has been proposed in Statistical Physics focusing on typical properties of ensembles of combinatorial optimisation problems, such as the assignment problem or the traveling salesman problem[^5]. Within this approach, spectacular behaviors about the typical properties of large random structures have been predicted mostly by means of the replica or the cavity method developed in theory of disordered systems. Some of these results, concerning mostly mean field problems, have been proven rigorously much later. An example is the construction of the Poisson Weighted Infinite Tree[^6], which allowed to put on rigorous grounds an intriguing connection between one such mean field models and Riemann's \\(\zeta\\) function. However, outside the mean-field approximation, many results still await to be put on rigorous footing. It has been argued that already for mean-field models the work to establish on rigorous grounds some of these results prompted the development of new directions in Mathematics, in particular in Probability Theory[^7].
+In the mid '80s, an approach has been proposed in Statistical Physics focusing on typical properties of ensembles of combinatorial optimisation problems, such as the assignment problem or the traveling salesman problem[^5]. Within this approach, spectacular behaviors about the typical properties of large random structures have been predicted mostly by means of the replica or the cavity method developed within the theory of disordered systems[^10]. Some of these results, concerning mostly mean field problems, have been proven rigorously much later. An example in the mean-field setting is the construction of the Poisson Weighted Infinite Tree[^6], which allowed to put on rigorous grounds a connection between one such models and Riemann's \\(\zeta\\) function[^5]. However, outside the mean-field approximation, many results still await to be put on rigorous footing. It has been argued that already for mean-field models the work to establish on rigorous grounds some of these results prompted the development of new directions in Mathematics, in particular in Probability Theory[^7].
 {: .text-justify}
 
 
-My current interest is in the Euclidean Random Assignment Problem (ERAP). The ERAP is a linear sum assignment problem in which the assignment of \\( n \\) objects (the blue points, say) to another set of \\( n \\) objects (the red points, say) minimises a global energy function \\( \mathcal{H} \\). A configuration of minimal energy is called the ground state. In an ERAP, blue and red points are families of i.i.d. random variables drawn from a known probability measure \\( \mu \\) supported on a metric space \\( \mathcal{M} \\) of Hausdorff dimension \\( d_H \\). The \\( ij \\)-th entry of the cost matrix is a scale invariant function of the \\(d\\)-dimensional Euclidean distance between blue \\(i\\) and red \\(j\\), such as \\( c(x) = \|x \|^p \\) with \\( p \in \mathbb{R} \\), thus qualifying the ERAP as a prototypical and genuine finite dimensional example of a critical, frustrated and disordered system.
+My current interest is in the Euclidean Random Assignment Problem (ERAP). The ERAP is a linear sum assignment problem[^9] in which the assignment of \\( n \\) objects (the blue points, say) to another set of \\( n \\) objects (the red points, say) minimises a global energy function \\( \mathcal{H}(\pi) \\). A configuration of minimal energy is specified by a permutation \\(\pi^\* \\) and is called the ground state. In an ERAP, blue and red points are families of i.i.d. random variables drawn from a known probability measure \\( \mu \\) supported on a metric space \\( \mathcal{M} \\) of Hausdorff dimension \\( d_H \\). \\( c_{ij} \\), the \\( ij \\)-th entry of the cost matrix, is a scale invariant function of the \\(d\\)-dimensional Euclidean distance between blue \\(i\\) and red \\(j\\), such as \\( c(x) = \|x \|^p \\) with \\( p \in \mathbb{R} \\). These aspects qualify the ERAP as a prototypical and genuinely finite-dimensional example of a critical, frustrated and disordered system in which analytical predictions can be tested by simple numerical explorations.
 {: .text-justify}
 
-The ERAP is a natural and discrete version of a classical continuum problem in the calculus of variations, the so-called optimal transport problem[^8]. The energy function \\( \mathcal{H}\\) of an ERAP, with the above choice of cost function \\(c\\) depending on \\(p\\), corresponds to the \\(p\\)-Wasserstein distance (to the power \\(p\\)) between the two empirical measures associated to blue and red points; and Monge-Kantorovich duality of optimal transport, which corresponds to linear programming duality in a discrete setting[^8], corresponds to the physical fact that, on the ground state, the energy can be written as a sum of local quantities, sometimes termed _prices_ or _cavity fields_:
+The ERAP is a natural discrete version of a classical continuum problem in the calculus of variations, the so-called Monge-Kantorovich problem in optimal transport. Deep aspects of this discrete-continuum correspondence can be at least traced back to the work of Leonid Kantorovich, one of the ``founding fathers'' of optimal transport and recipient of the Nobel Prize in Economics in 1975 for his work on the optimal allocation of resources[^8]. For example, the energy function \\( \mathcal{H}\\) of an ERAP, with the above choice of cost function \\(c\\) depending on \\(p\\), corresponds to the \\(p\\)-Wasserstein distance (to the power \\(p\\)) between the two empirical measures associated to blue and red points. Monge-Kantorovich duality in the continuum, which corresponds to linear programming duality in a discrete setting[^8], corresponds to the physical fact that the ground state energy (which is a sum of non-local terms) can be written as a sum of local quantities, sometimes termed _prices_ or _cavity fields_:
+{: .text-justify}
 
 \\[ c_{i\pi^\*(i)}=u_i+v_{\pi^\*(i)} \qquad \forall i=1,\ldots,n \\]
 
-Hence, the ERAP stands at an interface between several problems of current interest in Mathematics and Physics where frequent cross-fertilisation is observed. Interestingly, predictions based on physical arguments have often pre-anticipated results that were rigorously proven later on.
+Hence, the ERAP stands at an interface between several problems of past and current interest in Mathematics and Physics where frequent and fruitful cross-fertilisation is observed and where, surprisingly, predictions based on physical arguments have often pre-anticipated results that were rigorously proven later on.
+{: .text-justify}
 
 
 
@@ -35,11 +37,12 @@ Hence, the ERAP stands at an interface between several problems of current inter
 
 </div>
 
-<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>Instance of an ERAP in the unit square with the uniform measure. Here, blue and red points are not shown for clarity, and p=1, so that arrows connecting optimally matched points do not cross. Each arrow has been assigned a color to emphasize its contribution to the ground state energy (colorbar). (this image can be downloaded <a href="assets/size50002d.png" target="_blank">here</a>. </p>
+<p class="message"><i class="fa fa-info-circle fa-fw" aria-hidden="true"></i>Instance of an ERAP in the unit square with the uniform measure. Here, the n=5000 blue and red points are not shown for clarity, and p=1, so that arrows connecting optimally matched points do not cross. Each arrow has been assigned a color to emphasize its contribution to the ground state energy (colorbar). This image can be downloaded <a href="assets/size50002d.png" target="_blank">here</a>. </p>
 {: .text-justify}
 <br/>
 
-Further details can be found in [a relevant ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
+I am working on this topic together with Sergio Caracciolo, Vittorio Erba, Gabriele Sicuro and Andrea Sportiello.
+Further details on the ERAP and related stochastic combinatorial optimisation problems may be found at this [ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
 {: .text-justify}
 
 
@@ -71,3 +74,9 @@ Further details can be found in [a relevant ResearchGate project page](https://w
 
 [^8]:
     Villani, C. (2009). _Optimal transport, old and new_ (Springer). [doi:10.1007/978-3-540-71050-9](https://doi.org/10.1007/978-3-540-71050-9)
+
+[^9]:
+    Burkard, R. E., & Çela, E. (1999). _Linear Assignment Problems and Extensions_. In Handbook of Combinatorial Optimization (pp. 75–149). [doi:10.1007/978-1-4757-3023-4_2](https://doi.org/10.1007/978-1-4757-3023-4_2)
+
+[^10]:
+    Mezard, M., Parisi, G., & Virasoro, M. (1986). _Spin Glass Theory and Beyond_ (World Scientific). [doi:10.1142/0271](https://doi.org/10.1142/0271)

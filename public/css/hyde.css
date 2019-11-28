@@ -70,6 +70,10 @@ html {
 
 }*/
 
+.instlogos div {
+  display: inline-block;
+}
+
 .sidebar-logo img {
   display: none;
 }
@@ -95,8 +99,8 @@ html {
   	height: 75px;
     display: block;
   	border-radius: 50%;
-  	/*margin: auto !important;
-    position: inherit;*/
+  	margin: auto !important;
+    position: inherit;
   	box-shadow: 1px 1px 3px #263238;
   }
   #contact-list {
@@ -441,7 +445,7 @@ a.sidebar-nav-item:focus {
 }
 .post-cat  a{
 	color: black;
-	
+
 }
 
 .post-cat:hover{

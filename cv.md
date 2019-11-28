@@ -8,16 +8,16 @@ order: 5
 {:toc}
 
 -->
-Since October 2017, I am doing my PhD at the **Université Paris-Saclay**, with the financial support of the **Université de Versailles-Saint-Quentin-en-Yvelines**.<br/><br/>
-<!--[Andrea Sportiello](https://www-lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"}-->
- I am co-supervised by [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"} (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and Prof. William Jalby (Li-PARAD Université de Versailles-Saint-Quentin-en-Yvelines).
+Since October 2019, I am associated member (``membre associé'') of the [Laboratoire d'Informatique de l'Université de Paris Nord](https://lipn.univ-paris13.fr/){:target="_blank"} at the Université Paris-Nord
 
-## Recent activities
+Since October 2017, I am doing my **PhD** at the **Université Paris-Saclay** under the financial support of the **Université de Versailles-Saint-Quentin-en-Yvelines**<br/><br/>
+ I am co-supervised by [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"} (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and Prof. William Jalby (Li-PARAD Université de Versailles-Saint-Quentin-en-Yvelines)
 
-### Visiting PhD
-{: .no_toc}
-at the **Banach Center** of the **Institute of Mathematics of the Polish Academy of Sciences (IM PAN)**, Warsaw, Poland, February 18-March 4, 2018.
-[Website](https://www.impan.pl/en/activities/banach-center){:target="_blank"}
+
+## Visiting Positions
+
+Visiting PhD student hosted at the **Banach Center** of the **Institute of Mathematics of the Polish Academy of Sciences (IM PAN)**, Warsaw, Poland, from February 18 to March 4, 2018.
+ [Website](https://www.impan.pl/en/activities/banach-center){:target="_blank"}
 
 
 ## Education

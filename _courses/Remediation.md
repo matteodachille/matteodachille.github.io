@@ -1,6 +1,6 @@
 ---
 layout: course # You can ommit this if you've set it as a default
-title: Remédiation en Mathématiques #(OuiSi)
+title: Remédiation en Mathématiques (OuiSi)
 year: 	2018-2019
 semester: Spring
 hours: 35

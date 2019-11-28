@@ -3,7 +3,12 @@ layout: default
 title: Home
 order: 1
 ---
-<!--Welcome to Matteo D'Achille's home page-->
+## Welcome
+
+I am a third year PhD student at the Universitè de Paris-Saclay
+
+
+
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -14,7 +19,7 @@ order: 1
       </a>
     </h1>
 
-    <p class="post-meta"><span class="post-date"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i>{{ post.date | date: "%A %-d %B %Y" }} • {{ post.content | number_of_words }} words</span>{% if post.tags %}
+  <p class="post-meta"><span class="post-date"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i>{{ post.date | date: "%A %-d %B %Y" }} • {{ post.content | number_of_words }} words</span>{% if post.tags %}
   {% for tag in post.tags %}
     <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
   {% endfor %}<br />
