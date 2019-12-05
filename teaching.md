@@ -7,14 +7,13 @@ order: 4
 <!--- TOC
 {:toc}-->
 Currently, I carry out teaching activities (mostly Travaux Dirigés) in Mathematics, on behalf of the Mathematics Department ([Département de Mathématiques d'Orsay](https://www.math.u-psud.fr/?lang=fr){:target="_blank"}) of the Université de Paris-Sud.
+<!-- -->
 
-
-### '18-'19
 
 <ul>
   {% for course in site.courses %}
     <li>
-      <a href="{{ course.url }}"><b>{{ course.title }}</b></a>
+      {{course.year}} - <a href="{{ course.url }}"><b>{{ course.title }}</b></a>
       - Travaux dirigés for {{course.studtype}} students {{ course.level }}, {{ course.hours}} hours
     </li>
   {% endfor %}

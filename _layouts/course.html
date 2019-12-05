@@ -9,7 +9,7 @@ layout: default
 
   <h1>{{ page.title }}</h1>
   <div class="course-class {{ page.professor | downcase}}">
-    Professor: {{ page.professor }}
+    Responsible(s): {{ page.professor }}
     </div>
 
   <div class="course-class {{ page.year | downcase }}">
@@ -17,6 +17,9 @@ layout: default
   </div>
   <div class="course-semester {{ page.semester | downcase }}">
     Semester: {{ page.semester }}
+  </div>
+  <div class="course-nstuds {{ page.nostudents | downcase }}">
+    N. of students (avg.): {{ page.nostudents }}
   </div>
 
   <div>

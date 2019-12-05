@@ -19,7 +19,7 @@ order: 3
 ### In press
 [4] **The Dyck bound in the concave 1-dimensional random assignment model**
 : with Sergio Caracciolo, Vittorio Erba and Andrea Sportiello
-: Journal Physics of Physics A: Mathematical and Theoretical, special issue "Disordered Serendipity: A Glassy path to discovery" – Accepted 2 October 2019
+: Journal of Physics A: Mathematical and Theoretical, special issue "Disordered Serendipity: A Glassy path to discovery" – Accepted 2 October 2019
 : [doi: ...](#){:target="_blank"} - <a href="assets/concave1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
 ### Published

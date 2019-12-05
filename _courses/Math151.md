@@ -2,9 +2,10 @@
 layout: course
 title: Calculus Math 151
 year: 	2018-2019
-semester: Fall
+semester: S1
 hours: 30
 role: TD
+nostudents: 33
 professor: Guy David
 level: L1
 studtype: DLPC #(Double Licence Physico-Chimie)

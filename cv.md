@@ -46,11 +46,11 @@ Visiting PhD student hosted at the **Banach Center** of the **Institute of Mathe
 
 #### 2019
 
-#### Combinatorics and Arithmetic for Physics: special days
-Meeting held at the **IHES**, Le Bois-Marie, Bures-sur-Yvette, France, Novemeber 6-November 8, 2019.
+#### "Combinatorics and Arithmetic for Physics: special days"
+Meeting held at the **IHES**, Le Bois-Marie, Bures-sur-Yvette, France, November 6-November 8, 2019.
 [Website](https://indico.math.cnrs.fr/event/5243/overview){:target="_blank"}
 
-#### "Journées MathSTIC 2019 -- Probabilités et Combinatoire
+#### "Journées MathSTIC 2019 -- Probabilités et Combinatoire"
 {: .no_toc}
 Workshop held at the **Bâtiment Galilée, Université Paris 13**, Villetaneuse, France, October 21-October 23, 2019.
 [Website](https://mathstic.univ-paris13.fr/journees-mathSTIC-2019/index.html){:target="_blank"}
