@@ -5,7 +5,7 @@ order: 2
 ---
 
 
-The Euclidean Random Assignment Problem and, more broadly, the typical properties of large random structures.
+The Euclidean Random Assignment Problem and, more broadly, typical properties of large random structures.
 {: .text-justify}
 
 ### The Euclidean Random Assignment Problem

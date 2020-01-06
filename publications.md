@@ -12,7 +12,7 @@ order: 3
 : with Sergio Caracciolo and Gabriele Sicuro
 : <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> download</a>-->
 ### Work in progress
-[5] **Anomalous scaling of the optimal cost in the one-dimensional Random Euclidean Assignment Problem: rigorous results**
+[5] **Anomalous scaling of the optimal cost in the one-dimensional Random Euclidean Assignment Problem: some rigorous results**
 : with Andrea Sportiello
 
 
