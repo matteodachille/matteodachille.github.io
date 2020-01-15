@@ -12,30 +12,33 @@ order: 3
 : with Sergio Caracciolo and Gabriele Sicuro
 : <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> download</a>-->
 ### Work in progress
-[5] **Anomalous scaling of the optimal cost in the one-dimensional Random Euclidean Assignment Problem: some rigorous results**
+[6] **Field-Theoretic approach to the Euclidean Random Assignment Problem**
+: with Sergio Caracciolo, Gabriele Sicuro and Andrea Sportiello
+
+
+[5] **Anomalous scaling of the optimal cost in the one-dimensional Euclidean Random Assignment Problem: some rigorous results**
 : with Andrea Sportiello
 
 
-### In press
+### Published
 [4] **The Dyck bound in the concave 1-dimensional random assignment model**
 : with Sergio Caracciolo, Vittorio Erba and Andrea Sportiello
-: Journal of Physics A: Mathematical and Theoretical, special issue "Disordered Serendipity: A Glassy path to discovery" – Accepted 2 October 2019
-: [doi: ...](#){:target="_blank"} - <a href="assets/concave1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
+: J. Phys. A: Math. Theor. **53** 064001 – Published 14 January 2020
+: [doi: 10.1088/1751-8121/ab4a34](https://doi.org/10.1088/1751-8121/ab4a34){:target="_blank"} - <a href="assets/concave1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
-### Published
 [3] **Anomalous scaling of the optimal cost in the one-dimensional random assignment problem**
 : with Sergio Caracciolo and Gabriele Sicuro
-: Journal of Statistical Physics **174**, 846 – Published 17 December 2018
+: J. Stat. Phys. **174**, 846 – Published 17 December 2018
 : [doi: 10.1007/s10955-018-2212-9](https://doi.org/10.1007/s10955-018-2212-9){:target="_blank"} - <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
 [2] **Random Euclidean matching problems in one dimension**
 : with Sergio Caracciolo and Gabriele Sicuro
-: Physical Review E **96**, 042102  – Published 3 October 2017
+: Phys. Rev. E **96**, 042102  – Published 3 October 2017
 : [doi: 10.1103/PhysRevE.96.042102](https://doi.org/10.1103/PhysRevE.96.042102){:target="_blank"} - <a href="assets/OneDimension.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
 [1] **Finite-size corrections in the random assignment problem**
 : with Sergio Caracciolo, Enrico M. Malatesta and  Gabriele Sicuro
-: Physical Review E **95**, 052129 – Published 17 May 2017
+: Phys. Rev. E **95**, 052129 – Published 17 May 2017
 : [doi: 10.1103/PhysRevE.95.052129](https://doi.org/10.1103/PhysRevE.95.052129){:target="_blank"} - <a href="assets/FSC.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
 
