@@ -1,23 +1,24 @@
 ---
 layout: page
 title: Curriculum Vitae
-order: 5
+order: 6
 ---
 
 <!--- TOC
-{:toc}
+{:toc}-->
 
--->
-Since October 2019, I am associated member (``membre associé'') of the [Laboratoire d'Informatique de l'Université de Paris Nord](https://lipn.univ-paris13.fr/){:target="_blank"} at the Université Paris-Nord
+## Current Position
 
-Since October 2017, I am doing my **PhD** at the **Université Paris-Saclay** under the financial support of the **Université de Versailles-Saint-Quentin-en-Yvelines**<br/><br/>
- I am co-supervised by [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"} (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and Prof. William Jalby (Li-PARAD Université de Versailles-Saint-Quentin-en-Yvelines)
+Since October 2019, I am associated member (``membre associé'') of the [Laboratoire d'Informatique de l'Université de Paris Nord](https://lipn.univ-paris13.fr/){:target="_blank"} at the Université Paris-Nord.
+
+Since October 2017, I am doing my **PhD** at the **Université Paris-Saclay** under the financial support of the **Université de Versailles-Saint-Quentin-en-Yvelines**.<br/><br/>
+ I am co-supervised by [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"} (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and Prof. William Jalby (Li-PARAD Université de Versailles-Saint-Quentin-en-Yvelines).
 
 
-## Visiting Positions
+## Visiting Position(s)
 
-Visiting PhD student hosted at the **Banach Center** of the **Institute of Mathematics of the Polish Academy of Sciences (IM PAN)**, Warsaw, Poland, from February 18 to March 4, 2018.
- [Website](https://www.impan.pl/en/activities/banach-center){:target="_blank"}
+Visiting PhD student hosted at the **Banach Center** of the **Institute of Mathematics of the Polish Academy of Sciences (IM PAN)**, Warsaw, Poland, from February 18 to March 4, 2018
+ ([website](https://www.impan.pl/en/activities/banach-center){:target="_blank"})
 
 
 ## Education
@@ -42,61 +43,8 @@ Visiting PhD student hosted at the **Banach Center** of the **Institute of Mathe
 : _Liceo Scientifico Statale 'Paolo Frisi'_, Monza, 20900 MI, Italy
 : Date of oral examination: _Monday 13 July 2009_
 -->
-## Schools, conferences and workshops attended
 
-#### 2019
-
-#### "Combinatorics and Arithmetic for Physics: special days"
-Meeting held at the **IHES**, Le Bois-Marie, Bures-sur-Yvette, France, November 6-November 8, 2019.
-[Website](https://indico.math.cnrs.fr/event/5243/overview){:target="_blank"}
-
-#### "Journées MathSTIC 2019 -- Probabilités et Combinatoire"
-{: .no_toc}
-Workshop held at the **Bâtiment Galilée, Université Paris 13**, Villetaneuse, France, October 21-October 23, 2019.
-[Website](https://mathstic.univ-paris13.fr/journees-mathSTIC-2019/index.html){:target="_blank"}
-
-#### 2018
-
-#### "Paths in Statistical Physics"
-{: .no_toc}
-Conference held at the **Physics Department, Université Paris Diderot**, Paris, France, September 6-September 7, 2018.
-[Website](http://www.msc.univ-paris-diderot.fr/peliti2018){:target="_blank"}
-
-
-#### "Information transmission in biological systems"
-{: .no_toc}
-Conference at **The Mathematical Research and Conference Center**, Będlewo, Poland, March 5-9, 2018.
-[Website](https://www.impan.pl/en/activities/banach-center/conferences/18-sstransmission){:target="_blank"}
-
-
-#### 2017
-
-#### "Computational approaches to investigating allostery"
-{: .no_toc}
-Workshop at **Centre Européen de Calcul Atomique et Moléculaire (CECAM), Headquarters, EPFL**, Lausanne, Switzerland, October 30-November 1, 2017.
-[Website](https://www.cecam.org/workshop-1414.html){:target="_blank"}
-
-#### "26th VI-HPS Tuning Workshop"
-{: .no_toc}
-Workshop at **Laboratoire Exascale Computing Research (ECR), Campus Ter@tec**, Bruyères-le-Châtel, France, 16-20 October 2017.
-[Website](http://www.vi-hps.org/training/tws/tw26.html){:target="_blank"}
-
-
-#### 2016
-
-#### "Optimal Transport and Applications"
-{: .no_toc}
-Conference at **Scuola Normale Superiore**, Pisa, Italy, 7-11 November 2016.
-[Website](http://webtheory.sns.it/optimal-transport/index.php){:target="_blank"}
-
-#### 2014
-
-#### "Mathematical Physics, Analysis and Stochastics"  
-{: .no_toc}
-Summer school at **Ruprecht-Karls-Universität Heidelberg**, Heidelberg, Germany, 21-26 July 2014.
-[Website](http://www.thphys.uni-heidelberg.de/~salmhofer/summerschool-2014/summer-school-2014.html){:target="_blank"}
-
-## Scientific societies
+## Membership of scientific societies
 
  2019 - today, Italian Statistical Physics Society ([SIFS](https://www.fisicastatistica.org){:target="_blank"}), voting member
 

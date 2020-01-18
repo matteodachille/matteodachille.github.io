@@ -10,7 +10,7 @@ The Euclidean Random Assignment Problem and, more broadly, typical properties of
 
 ### The Euclidean Random Assignment Problem
 
-#### Current works in progress
+#### Works in preparation
 
 [6] **Field-Theoretic approach to the Euclidean Random Assignment Problem**
 : with Sergio Caracciolo, Gabriele Sicuro and Andrea Sportiello
@@ -50,7 +50,7 @@ Further details on the ERAP and other stochastic combinatorial optimisation prob
 {: .text-justify}
 
 
-**References**
+**(Essential) references**
 
 [^1]:
     Kuhn, H. W. (1955), _The Hungarian method for the assignment problem_. Naval Research Logistics, 2: 83–97. [doi:10.1002/nav.3800020109](http://onlinelibrary.wiley.com/doi/10.1002/nav.3800020109/abstract){:target="_blank"}
