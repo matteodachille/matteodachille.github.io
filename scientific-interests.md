@@ -9,15 +9,19 @@ The Euclidean Random Assignment Problem and, more broadly, typical properties of
 {: .text-justify}
 
 ### The Euclidean Random Assignment Problem
-<!--
-The assignment problem is a classical combinatorial optimisation problem which consists in finding a permutation of the columns of a cost matrix \\(c \\) of real entries that minimises the trace.  Such an optimal permutation \\( \pi^\* \\) corresponds to a vertex of the Birkhoff polytope and can be found in polynomial time in the size of the cost matrix, for example using the ``Hungarian method'' of Kuhn[^1]. Owing to its simplicity, it is not surprising that many interesting and relevant phenomena can be modeled as assignment problems, if an appropriate choice of the cost matrix is made. Some examples are the determination of a resource transport plan in a regime of economy of scales[^2], the prediction of planar secondary structure of RNA[^3] and optimisation of traffic scheduling in network routers[^4].
-{: .text-justify}
 
-In the mid '80s, an approach has been proposed in Statistical Physics focusing on typical properties of ensembles of combinatorial optimisation problems, such as the assignment problem or the traveling salesman problem[^5]. Within this approach, spectacular behaviors about the typical properties of large random structures have been predicted mostly by means of the replica or the cavity method developed within the theory of disordered systems[^10]. Some of these results, concerning mostly mean field problems, have been proven rigorously much later. An example in the mean-field setting is the construction of the Poisson Weighted Infinite Tree[^6], which allowed to put on rigorous grounds a connection between one such models and Riemann's \\(\zeta\\) function[^5]. However, outside the mean-field approximation, many results still await to be put on rigorous footing. It has been argued that already for mean-field models the work to establish on rigorous grounds some of these results prompted the development of new directions in Mathematics, in particular in Probability Theory[^7].
-{: .text-justify}
+#### Current works in progress
 
--->
-The Euclidean Random Assignment Problem (ERAP) is a problem at an interface between several problems of past and current interest in Mathematics and Physics where especially frequent and fruitful cross-fertilisation is observed. Formally, an ERAP is a linear sum assignment problem[^9] in which the assignment of \\( n \\) objects (the blue points, say) to another set of \\( n \\) objects (the red points, say) minimises a global energy function \\( \mathcal{H}(\pi) \\). A configuration of minimal energy can be specified by a permutation \\(\pi^\* \\), and it is called the ground state. In an ERAP, blue and red points are families of i.i.d. random variables drawn from a given probability measure \\( \mu \\) supported on a metric space \\( \mathcal{M} \\) of Hausdorff dimension \\( d_H \\). \\( c_{ij} \\), the \\( ij \\)-th entry of the cost matrix, is a scale invariant function of the \\(d\\)-dimensional Euclidean distance between blue \\(i\\) and red \\(j\\), such as \\( c(x) = \|x \|^p \\) with \\( p \in \mathbb{R} \\). These aspects qualify the ERAP as a prototypical and genuinely finite-dimensional example of a critical, frustrated and disordered system in which analytical predictions can be tested by simple numerical explorations (an example of solution to an ERAP at \\(d=2\\) on the unit square is given in the following figure).
+[6] **Field-Theoretic approach to the Euclidean Random Assignment Problem**
+: with Sergio Caracciolo, Gabriele Sicuro and Andrea Sportiello
+
+
+[5] **Anomalous scaling of the optimal cost in the one-dimensional Euclidean Random Assignment Problem: some rigorous results**
+: with Andrea Sportiello
+
+#### Some motivations
+
+Formally, an ERAP is a linear sum assignment problem[^9] in which the assignment of \\( n \\) objects (the blue points, say) to another set of \\( n \\) objects (the red points, say) minimises a global energy function \\( \mathcal{H}(\pi) \\) which is linear in the contribution of each edge. This choice, coupled with the convexity of the search space, makes the problem simple, and a solution can be found in polynomial time under rather mild conditions[^1]. A configuration of minimal energy can be specified by a permutation \\(\pi^\* \\), which is called the optimal assignment or ground state. In an ERAP, blue and red points are families of i.i.d. random variables drawn from a given probability measure \\( \mu \\) supported on a metric space \\( \mathcal{M} \\) of Hausdorff dimension \\( d_H \\). \\( c_{ij} \\), the \\( ij \\)-th entry of the cost matrix, is a scale invariant function of the \\(d\\)-dimensional Euclidean distance between blue \\(i\\) and red \\(j\\), such as \\( c(x) = \|x \|^p \\) with \\( p \in \mathbb{R} \\). These aspects qualify the ERAP as a prototypical and genuinely finite-dimensional example of a critical (due to having the same number of points of each color), frustrated (due to the Euclidean correlations) and disordered system, in which analytical predictions can be tested by simple numerical explorations (an example of solution to an ERAP at \\(d=2\\) on the unit square is given in the following figure).
 {: .text-justify}
 
 <!--
@@ -38,11 +42,11 @@ For example, the energy function \\( \mathcal{H}\\) of an ERAP, with the above c
 {: .text-justify}
 <br/>
 
-The ERAP can also be seen as a discrete version of a well-known problem in the calculus of variations, the so-called Monge-Kantorovich problem in optimal transport. Some aspects of this correspondence can be at least traced back to the work of Leonid Kantorovich, who is considered to be one of the ``founding fathers'' of optimal transport[^8] and has been recipient of the Nobel Prize in Economics in 1975 for his work on the optimal allocation of resources. Moreover, like any assignment problem, the ERAP can also be interpreted in terms of the optimal strategy in a certain zero-sum, two player non-cooperative game[^15]. More recently, and already in several occasions, at this fruitful interface predictions based on physical arguments[^5][^11][^12] have been proven rigorously much later[^6][^13][^14].
+The ERAP is also intimately related to a well-known problem in the calculus of variations, the so-called Monge-Kantorovich problem in optimal transport. Some aspects of this correspondence can be at least traced back to the work of Leonid Kantorovich, recipient of the Nobel Prize in Economics in 1975 for his work on the optimal allocation of resources and one of the ``founding fathers'' of optimal transport[^8]. Moreover, like any assignment problem, the ERAP can also be interpreted in terms of the optimal strategy in a certain zero-sum, two player non-cooperative game[^15]. It is interesting to notice that within this context results based on physical arguments [^5][^11][^12] have been proven rigorously much later[^6][^13][^14], and often raised new and challenging questions.
 {: .text-justify}
 
-We have started a program of investigations of the ERAP combining analytical and numerical methods (see my [publications](/publications) page).
-Further details on the ERAP and related stochastic combinatorial optimisation problems may be found at this [ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
+We have started a program of investigations of the ERAP combining analytical and numerical methods (see the [publications](/publications) page for some relevant references).
+Further details on the ERAP and other stochastic combinatorial optimisation problems may be found at this [ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
 {: .text-justify}
 
 

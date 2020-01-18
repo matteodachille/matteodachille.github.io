@@ -14,7 +14,7 @@ Currently, I carry out teaching activities (mostly Travaux Dirigés) in Mathemat
   {% for course in site.courses %}
     <li>
       {{course.year}} - <a href="{{ course.url }}"><b>{{ course.title }}</b></a>
-      - Travaux dirigés for {{course.studtype}} students {{ course.level }}, {{ course.hours}} hours
+      - {{course.studtype}} students {{ course.level }}, {{ course.hours}} hours
     </li>
   {% endfor %}
 </ul>

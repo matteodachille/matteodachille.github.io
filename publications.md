@@ -11,16 +11,8 @@ order: 3
 <!--[1] **Anomalous scaling of the optimal cost in the one-dimensional random assignment problem**
 : with Sergio Caracciolo and Gabriele Sicuro
 : <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> download</a>-->
-### Work in progress
-[6] **Field-Theoretic approach to the Euclidean Random Assignment Problem**
-: with Sergio Caracciolo, Gabriele Sicuro and Andrea Sportiello
 
 
-[5] **Anomalous scaling of the optimal cost in the one-dimensional Euclidean Random Assignment Problem: some rigorous results**
-: with Andrea Sportiello
-
-
-### Published
 [4] **The Dyck bound in the concave 1-dimensional random assignment model**
 : with Sergio Caracciolo, Vittorio Erba and Andrea Sportiello
 : J. Phys. A: Math. Theor. **53** 064001 – Published 14 January 2020
