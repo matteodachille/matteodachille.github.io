@@ -6,7 +6,7 @@ order: 5
 
 <!--- TOC
 {:toc}-->
-Currently, I am Lecturer in Mathematics for the Mathematics Department ([Département de Mathématiques d'Orsay](https://www.math.u-psud.fr/?lang=fr){:target="_blank"}) of the Université de Paris-Sud.
+Currently, I am Lecturer in Mathematics for the Mathematics Department ([Département de Mathématiques d'Orsay](https://www.math.u-psud.fr/?lang=fr){:target="_blank"}) of Université de Paris-Sud.
 
 
 <ul>

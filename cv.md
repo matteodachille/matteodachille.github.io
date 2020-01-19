@@ -53,4 +53,4 @@ Visiting PhD student hosted at the **Banach Center** of the **Institute of Mathe
  2013 - today, Italian Physical Society ([SIF](https://www.sif.it){:target="_blank"}), voting member
 
 
-A CV in .pdf format can be downloaded [here]({{  site.baseurl }}downloads/cv.pdf ){:target="_blank"}.
+You can download this CV in .pdf format [here]({{  site.baseurl }}downloads/cv.pdf ){:target="_blank"}.

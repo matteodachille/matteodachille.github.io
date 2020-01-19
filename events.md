@@ -8,7 +8,7 @@ order: 4
 {:toc}
 
 
-## Next events not to be missed
+## Events not to be missed
 
 **30/1/2020** "Philippe Flajolet" Seminar on Combinatorics at the Institut Henri Poincaré ([link](http://semflajolet.math.cnrs.fr/){:target="_blank"})
 : Andrea Sportiello will give a one hour seminar on aspects of the perturbative series arising in the field theoretical approach to the study of the ERAP
