@@ -10,16 +10,26 @@ order: 4
 
 ## Events not to be missed
 
-**30/1/2020** "Philippe Flajolet" Seminar on Combinatorics at the Institut Henri Poincaré ([link](http://semflajolet.math.cnrs.fr/){:target="_blank"})
-: Andrea Sportiello will give a one hour seminar on aspects of the perturbative series arising in the field theoretical approach to the study of the ERAP
+**4-7/2/2020** Combinatorics days of Bordeaux at LaBRI ([link](https://jcb2020.labri.fr/){:target="_blank"})
+
 
 ## Seminars and talks
 
 **14/1/2020** "_Le problème de l'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_"
-: Day-seminar of Combinatorics of the CALIN Team of **LIPN** ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
+
+Seminar for the CALIN Team at **LIPN** ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
 
 
-## Schools, conferences and workshops attended
+## Schools, conferences, seminars, and workshops attended
+
+
+#### 2020
+{: .no_toc}
+
+#### "Philippe Flajolet" Seminar on Combinatorics at the Institut Henri Poincaré
+{: .no_toc}
+January 30, 2020
+([Website](http://semflajolet.math.cnrs.fr/){:target="_blank"})
 
 #### 2019
 {: .no_toc}
@@ -33,6 +43,11 @@ Meeting held at the **IHES**, Le Bois-Marie, Bures-sur-Yvette, France, November 
 {: .no_toc}
 Workshop held at the **Bâtiment Galilée, Université Paris 13**, Villetaneuse, France, October 21-October 23, 2019.
 [Website](https://mathstic.univ-paris13.fr/journees-mathSTIC-2019/index.html){:target="_blank"}
+
+#### "Philippe Flajolet" Seminar on Combinatorics at the Institut Henri Poincaré
+{: .no_toc}
+October 3, 2019
+([Website](http://semflajolet.math.cnrs.fr/index.php/Main/2019-2020\#J031019){:target="_blank"})
 
 #### 2018
 {: .no_toc}
