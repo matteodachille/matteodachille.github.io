@@ -8,10 +8,11 @@ order: 4
 {:toc}
 
 
-## Events not to be missed
+<!--## Events not to be missed
+**5/2020** WIP
 
-**4-7/2/2020** Combinatorics days of Bordeaux at LaBRI ([link](https://jcb2020.labri.fr/){:target="_blank"})
-
+**4/2020** WIP 
+-->
 
 ## Seminars and talks
 
@@ -20,11 +21,16 @@ order: 4
 Seminar for the CALIN Team at **LIPN** ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
 
 
-## Schools, conferences, seminars, and workshops attended
+## Seminars, conferences, workshops and schools attended
 
 
 #### 2020
 {: .no_toc}
+
+#### Combinatorics days of Bordeaux (JCB2020) at LaBRI Université de Bordeaux
+{: .no_toc}
+February 4-February 7, 2020.
+([Website](https://jcb2020.labri.fr/){:target="_blank"})
 
 #### "Philippe Flajolet" Seminar on Combinatorics at the Institut Henri Poincaré
 {: .no_toc}
