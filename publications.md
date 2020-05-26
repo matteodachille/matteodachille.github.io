@@ -6,12 +6,15 @@ order: 3
 <!-- - TOC
 {:toc} -->
 
-<!-- ### Preprints
+<!--
+### Preprints
 
-<!--[1] **Anomalous scaling of the optimal cost in the one-dimensional random assignment problem**
-: with Sergio Caracciolo and Gabriele Sicuro
-: <a href="assets/Corrections1d.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> download</a>-->
+[5] **Random assignment problems on 2d manifolds**
+: with Dario Benedetto, Emanuele Caglioti, Sergio Caracciolo, Gabriele Sicuro and Andrea Sportiello
+: [doi: 10.1088/1751-8121/ab4a34](https://doi.org/10.1088/1751-8121/ab4a34){:target="\_blank"} - <a href="assets/concave1d.pdf" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
+### Published
+-->
 
 [4] **The Dyck bound in the concave 1-dimensional random assignment model**
 : with Sergio Caracciolo, Vittorio Erba and Andrea Sportiello
@@ -36,12 +39,6 @@ order: 3
 
 <!-- ### Posters -->
 
-<!--
-
-: >We analytically derive, in the context of the replica formalism, the first finite size corrections to the average optimal cost in the random assignment problem for a quite generic distribution law for the costs. We show that, when moving from a power law distribution to gamma distribution, the leading correction changes both in sign and in its scaling properties. We also examine the behavior of the corrections when approaching a delta function distribution. By using a numerical solution of the saddle-point equations, we provide predictions which are very well confirmed by numerical simulations.
-{: .text-justify}
-
- -->
 
 <!-- ### Articles -->
 

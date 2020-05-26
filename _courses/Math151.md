@@ -6,7 +6,7 @@ semester: S1
 hours: 30
 role: TD
 nostudents: 33
-professor: Guy David
+professor: Prof. Guy David
 level: L1
 studtype: DLPC #(Double Licence Physico-Chimie)
 ---

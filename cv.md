@@ -46,7 +46,7 @@ Visiting PhD student hosted at the **Banach Center** of the **Institute of Mathe
 
 ## Membership of scientific societies
 
- 2019 - today, Italian Statistical Physics Society ([SIFS](https://www.fisicastatistica.org){:target="_blank"}), voting member
+ 2019 - today, Italian Society of Statistical Physics ([SIFS](https://www.fisicastatistica.org){:target="_blank"}), voting member
 
  2017 - today, European Physical Society ([EPS](https://www.eps.org/){:target="_blank"}), individual member
 

@@ -9,9 +9,9 @@ order: 4
 
 
 <!--## Events not to be missed
-**5/2020** WIP
+**5/2020** WIP ([link](https://jcb2020.labri.fr/){:target="_blank"})
 
-**4/2020** WIP 
+**4/2020** WIP ([link](https://jcb2020.labri.fr/){:target="_blank"})
 -->
 
 ## Seminars and talks
