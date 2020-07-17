@@ -1,24 +1,40 @@
 ---
 layout: page
-title: Scientific interests
+title: Scientific interests and projects
 order: 2
 ---
 
+Statistical mechanics in random combinatorial optimization; phase transitions; scaling and universality.
 
+
+<!-- I am interested in ...
 The Euclidean Random Assignment Problem and, more broadly, typical properties of large random structures.
 {: .text-justify}
+-->
 
-### The Euclidean Random Assignment Problem
+## Active projects
 
-#### Works in preparation
+#### - Euclidean Random Assignment Problem (2017-)
 
-[6] **Field-Theoretic approach to the Euclidean Random Assignment Problem**
-: with Sergio Caracciolo, Gabriele Sicuro and Andrea Sportiello
+Works in preparation:
+
+- Random assignment problems on \\( 2d \\) manifolds
+ with *D. Benedetto, E. Caglioti, S. Caracciolo, G. Sicuro and A. Sportiello*.
 
 
-[5] **Anomalous scaling of the optimal cost in the one-dimensional Euclidean Random Assignment Problem: some rigorous results**
-: with Andrea Sportiello
+- Field theoretic approach to the Euclidean random assignment problem
+with *S. Caracciolo, G. Sicuro and A. Sportiello*.
 
+- The Euclidean random assignment problem at non-integer Hausdorff dimension \\( d_H \in (1,2) \\)
+ with *A. Sportiello*.
+
+- Anomalous scaling of the optimal cost in the one-dimensional Euclidean random assignment problem: some rigorous results
+ with *A. Sportiello*.
+
+ Further details on the ERAP (and other random combinatorial optimization problems) can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
+ {: .text-justify}
+
+<!--
 #### Some motivations
 
 Formally, an ERAP is a linear sum assignment problem[^9] in which the assignment of \\( n \\) objects (the blue points, say) to another set of \\( n \\) objects (the red points, say) minimises a global energy function \\( \mathcal{H}(\pi) \\) which is linear in the contribution of each edge. This choice, coupled with the convexity of the search space, makes the problem simple, and a solution can be found in polynomial time under rather mild conditions[^1]. A configuration of minimal energy can be specified by a permutation \\(\pi^\* \\), which is called the optimal assignment or ground state. In an ERAP, blue and red points are families of i.i.d. random variables drawn from a given probability measure \\( \mu \\) supported on a metric space \\( \mathcal{M} \\) of Hausdorff dimension \\( d_H \\). \\( c_{ij} \\), the \\( ij \\)-th entry of the cost matrix, is a scale invariant function of the \\(d\\)-dimensional Euclidean distance between blue \\(i\\) and red \\(j\\), such as \\( c(x) = \|x \|^p \\) with \\( p \in \mathbb{R} \\). These aspects qualify the ERAP as a prototypical and genuinely finite-dimensional example of a critical (due to having the same number of points of each color), frustrated (due to the Euclidean correlations) and disordered system, in which analytical predictions can be tested by simple numerical explorations (an example of solution to an ERAP at \\(d=2\\) on the unit square is given in the following figure).
@@ -31,7 +47,7 @@ For example, the energy function \\( \mathcal{H}\\) of an ERAP, with the above c
 \\[ c_{i\pi^\*(i)}=u_i+v_{\pi^\*(i)} \qquad \forall i=1,\ldots,n \\]
 
 -->
-
+<!--
 <div class="tf2d" markdown="block">
 
 ![I'm rendering a big image... please wait: depending on the speed of your connection this may take a while.]({{ site.url }}/assets/size50002d.png){:width="100%"}
@@ -99,3 +115,5 @@ Further details on the ERAP and other stochastic combinatorial optimisation prob
 
 [^15]:
     von Neumann, J. (1953). _1. A Certain Zero-sum Two-person Game Equivalent to the Optimal Assignment Problem_. In H. W. Kuhn & A. W. Tucker (Eds.), Contributions to the Theory of Games (AM-28), Volume II (pp. 5–12). [doi:10.1515/9781400881970-002](https://doi.org/10.1515/9781400881970-002)
+
+-->

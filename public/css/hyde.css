@@ -71,7 +71,10 @@ html {
 }*/
 
 .instlogos div {
-  display: inline-block;
+  /*display: inline-block;*/
+  position: absolute;
+  float:left;
+  bottom: 0;
 }
 
 .sidebar-logo img {
@@ -326,6 +329,16 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+
+/* UP-Saclay */
+.theme-base-upsaclay .sidebar {
+  background-color: #63003c;
+}
+.theme-base-upsaclay .content a,
+.theme-base-upsaclay .related-posts li a:hover {
+  color: #63003c;
 }
 
 

@@ -1,4 +1,48 @@
 ---
+- title: Random assignment problems on 2d manifolds
+  authors: D. Benedetto, E. Caglioti, S. Caracciolo, G. Sicuro and A. Sportiello
+  preprint: True
+  published: False
+  arxivurl: "https://arxiv.org/abs/1904.10867"
+  arxivcode: 1904.10867
+  year: 2020
+
+- title: The Dyck bound in the concave 1-dimensional random assignment model
+  authors: S. Caracciolo, V. Erba and A. Sportiello
+  preprint: False
+  published: True
+  journal: "J. Phys. A: Math. Theor."
+  volume: 53
+  doi: "https://doi.org/10.1088/1751-8121/ab4a34"
+  pages: "064001"
+  year: 2020
+
+- title: Anomalous scaling of the optimal cost in the one-dimensional random assignment problem
+  authors: S. Caracciolo and G. Sicuro
+  preprint: False
+  published: True
+  journal: Journal of Statistical Physics
+  volume: 174
+  doi : "https://doi.org/10.1007/s10955-018-2212-9"
+  pages: 846-864
+  year: 2019
+
+- title: Random Euclidean matching problems in one dimension
+  authors: S. Caracciolo and G. Sicuro
+  preprint: False
+  published: True
+  journal: Physical Review E
+  volume: 96
+  doi : "https://doi.org/10.1103/PhysRevE.96.042102"
+  pages: "042102"
+  year: 2017
+
 - title: Finite size corrections in the random assignment problem
-  authors: S.Caracciolo, E.M.Malatesta and G.Sicuro
-  preprint: true
+  authors: S. Caracciolo, E.M. Malatesta and G. Sicuro
+  preprint: False
+  published: True
+  journal: Physical Review E
+  doi: "https://doi.org/10.1103/PhysRevE.95.052129"
+  volume: 95
+  pages: "052129"
+  year: 2017

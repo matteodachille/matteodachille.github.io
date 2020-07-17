@@ -15,7 +15,7 @@ order: 3
 
 ### Published
 -->
-
+<!--
 [4] **The Dyck bound in the concave 1-dimensional random assignment model**
 : with Sergio Caracciolo, Vittorio Erba and Andrea Sportiello
 : J. Phys. A: Math. Theor. **53** 064001 – Published 14 January 2020
@@ -37,18 +37,31 @@ order: 3
 : [doi: 10.1103/PhysRevE.95.052129](https://doi.org/10.1103/PhysRevE.95.052129){:target="_blank"} - <a href="assets/FSC.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> (preprint)</a>
 
 
-<!-- ### Posters -->
+<### Posters -->
 
 
 <!-- ### Articles -->
 
+
+<!--### Preprints-->
 <!--
 <dl>
 {% assign list = site.data.pubs | where: 'preprint', true %}
+{% assign count = 1 %}
 {% for pub in list %}
-  <dt>  {{ pub.title }}  
-  </dt>
-  <dd> with {{ pub.authors }} </dd>
+  <dd style="margin-left: 20px;">[{{ count }}] <b>{{ pub.title }}</b> with {{ pub.authors }}. Preprint: <a href="{{ pub.arxivurl }}" target="\_blank"> arXiv: {{ pub.arxivcode }} </a> ({{ pub.year }}).</dd>
+{% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
 -->
+### Published
+<dl>
+{% assign list = site.data.pubs | where: 'published', true %}
+{% assign count = 4 %}
+{% for pub in list %}
+  <!--dt>  {{ pub.title }} with {{ pub.authors }}
+  </dt-->
+  <dd style="margin-left: 20px;">[{{ count }}] <a href="{{ pub.doi }}" target="\_blank">{{ pub.title }}</a> with {{ pub.authors }}. &nbsp;<i>{{ pub.journal }}</i> <b>{{ pub.volume }}</b>, {{ pub.pages }} ({{ pub.year }}).</dd>
+{% assign count = count | plus: -1 %}
+{% endfor %}
+</dl>

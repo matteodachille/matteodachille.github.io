@@ -1,19 +1,22 @@
 ---
 layout: page
 title: Teaching
-order: 5
+order: 4
 ---
 
 <!--- TOC
+I am currently Research and Teaching Assistant (ATER) at the Université de Paris Est (Créteil). During my PhD, I was Tutor (Moniteur) and then Lecturer in Mathematics at the Université de Paris-Saclay.
+Classes I am/have been involved with are:
 {:toc}-->
-Currently, I am Lecturer in Mathematics for the Mathematics Department ([Département de Mathématiques d'Orsay](https://www.math.u-psud.fr/?lang=fr){:target="_blank"}) of Université de Paris-Sud.
 
+I am currently Lecturer in Mathematics for the Mathematics Department ([Département de Mathématiques d'Orsay](https://www.math.u-psud.fr/?lang=fr){:target="_blank"}) of the Université de Paris-Saclay.
 
 <ul>
-  {% for course in site.courses %}
-    <li>
+  {% assign sorted = site.courses | sort: 'year' | reverse %}
+  {% for course in sorted %}
+    <li style="margin-left: -20px;">
       {{course.year}} - <a href="{{ course.url }}"><b>{{ course.title }}</b></a>
-      - {{course.studtype}} students {{ course.level }}, {{ course.hours}} hours
+      - {{ course.level }} level, {{ course.hours}} hours eqTD.
     </li>
   {% endfor %}
 </ul>
