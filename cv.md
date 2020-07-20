@@ -13,6 +13,7 @@ order: 6
 
 10/2017- today: PhD candidate at **Université Paris-Saclay**. Thesis title: ''Statistical properties of the Euclidean random assignment problem''. Supervisors: [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and Prof. William Jalby (UVSQ).
 
+<!--Jury composition: qui la lista dei membri del Jury de These-->
 
 ### Visiting Position(s)
 

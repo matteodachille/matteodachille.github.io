@@ -24,7 +24,7 @@ _Le problème de l'assignation aléatoire euclidienne: état de l'art et quelque
 #### 2020
 {: .no_toc}
 
- Combinatorics days of Bordeaux (JCB2020) at **LaBRI** Université de Bordeaux
+-- Combinatorics days of Bordeaux (JCB2020) at **LaBRI** Université de Bordeaux
 February 4-February 7, 2020 ([website](https://jcb2020.labri.fr/){:target="_blank"}).
 
 

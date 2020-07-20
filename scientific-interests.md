@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scientific interests and projects
+title: Scientific interests
 order: 2
 ---
 
@@ -12,7 +12,7 @@ The Euclidean Random Assignment Problem and, more broadly, typical properties of
 {: .text-justify}
 -->
 
-## Active projects
+### Current projects
 
 #### - Euclidean Random Assignment Problem (2017-)
 
