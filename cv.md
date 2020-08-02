@@ -3,10 +3,20 @@ layout: page
 title: Curriculum Vitae
 order: 6
 ---
-
 <!--- TOC
 {:toc}-->
 
+<!-- To uncomment and sanitize after September, hopefully
+
+### Education
+
+PhD, Paris-Saclay University
+
+MSc, University of Milan
+
+BSc, University of Milan
+
+-->
 ### Current Position(s)
 
 10/2019 - today: Associate Member (''Membre Associé'') at [LIPN](https://lipn.univ-paris13.fr/){:target="\_blank"}, Université Sorbonne Paris-Nord.
@@ -49,11 +59,11 @@ Thesis supervisor: [Prof. Luca Guido Molinari](http://wwwteor.mi.infn.it/~molina
 
 ### Membership of scientific societies
 
- 2019 - today, Italian Society of Statistical Physics ([SIFS](https://www.fisicastatistica.org){:target="_blank"}), voting member.
+ 2019 - today, Italian Society of Statistical Physics ([SIFS](https://www.fisicastatistica.org){:target="\_blank"}), voting member.
 
- 2017 - today, European Physical Society ([EPS](https://www.eps.org/){:target="_blank"}), individual member.
+ 2017 - today, European Physical Society ([EPS](https://www.eps.org/){:target="\_blank"}), individual member.
 
- 2013 - today, Italian Physical Society ([SIF](https://www.sif.it){:target="_blank"}), voting member.
+ 2013 - today, Italian Physical Society ([SIF](https://www.sif.it){:target="\_blank"}), voting member.
 
 
-A detailed CV is available [here]({{  site.baseurl }}downloads/cv.pdf ){:target="_blank"}.
+An updated CV is available [here]({{  site.baseurl }}downloads/cv.pdf ){:target="\_blank"}.

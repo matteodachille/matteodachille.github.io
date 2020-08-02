@@ -12,19 +12,19 @@ The Euclidean Random Assignment Problem and, more broadly, typical properties of
 {: .text-justify}
 -->
 
-### Current projects
+### Projects
 
 #### - Euclidean Random Assignment Problem (2017-)
 
 Works in preparation:
 
-- Random assignment problems on \\( 2d \\) manifolds
+<!--- Random assignment problems on \\( 2d \\) manifolds
  with *D. Benedetto, E. Caglioti, S. Caracciolo, G. Sicuro and A. Sportiello*.
 
 
 - Field theoretic approach to the Euclidean random assignment problem
 with *S. Caracciolo, G. Sicuro and A. Sportiello*.
-
+-->
 - The Euclidean random assignment problem at non-integer Hausdorff dimension \\( d_H \in (1,2) \\)
  with *A. Sportiello*.
 
