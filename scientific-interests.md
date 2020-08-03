@@ -4,7 +4,7 @@ title: Scientific interests
 order: 2
 ---
 
-Statistical mechanics in random combinatorial optimization; phase transitions; scaling and universality.
+Statistical mechanics, phase transitions, scaling and universality.
 
 
 <!-- I am interested in ...
@@ -34,6 +34,12 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
  Further details on the ERAP (and other random combinatorial optimization problems) can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
  {: .text-justify}
 
+<!--
+#### Webpages of coauthors
+(that I know of ...)
+
+[Sergio Caracciolo](https://google.com/), [Gabriele Sicuro](https://google.com/), [Andrea Sportiello](https://google.com/).
+-->
 <!--
 #### Some motivations
 

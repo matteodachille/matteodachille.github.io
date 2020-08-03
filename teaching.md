@@ -9,7 +9,7 @@ order: 4
     {% assign i = i | plus: c.hours %}
 {% endfor %}
 
-(total experience: approx. {{ i }} hours)
+(total experience: approx. {{ i }} hours eqTD)
 <!--- TOC
 I am currently Research and Teaching Assistant (ATER) at the Université de Paris Est (Créteil). During my PhD, I was Tutor (Moniteur) and then Lecturer in Mathematics at the Université de Paris-Saclay.
 Classes I am/have been involved with are:
