@@ -4,7 +4,7 @@ title: Scientific interests
 order: 2
 ---
 
-Statistical mechanics, phase transitions, scaling and universality.
+Statistical mechanics in combinatorial optimization, statistical field theory, especially in the context of disordered systems in low dimension, phase transitions, scaling, universality...
 
 
 <!-- I am interested in ...
@@ -14,9 +14,11 @@ The Euclidean Random Assignment Problem and, more broadly, typical properties of
 
 ### Projects
 
-#### - Euclidean Random Assignment Problem (2017-)
+#### The Euclidean Random Assignment Problem (2017-)
 
-Works in preparation:
+*Brief description.* Given \\( 2n \\) points, \\(n\\) “red” and \\(n\\) “blue”, in a Euclidean space, solving the associated Euclidean Assignment Problem consists in finding the bijection between red and blue points that minimizes a functional of the point positions. In the stochastic version of this problem, the points are a Poisson Point Process, and some interest has developed over the years on the typical and average properties of the solution in the limit \\( n \to \infty \\) motivated (among others) by the physics of Disordered Systems, and by results in Functional Analysis on the Monge–Kantorovich problem in the continuum.
+
+_Works in preparation:_
 
 <!--- Random assignment problems on \\( 2d \\) manifolds
  with *D. Benedetto, E. Caglioti, S. Caracciolo, G. Sicuro and A. Sportiello*.
@@ -25,11 +27,11 @@ Works in preparation:
 - Field theoretic approach to the Euclidean random assignment problem
 with *S. Caracciolo, G. Sicuro and A. Sportiello*.
 -->
-- The Euclidean random assignment problem at non-integer Hausdorff dimension \\( d_H \in (1,2) \\)
- with *A. Sportiello*.
+2. The Euclidean random assignment problem at non-integer Hausdorff dimension \\( d_H \in (1,2) \\)
+ with *A. Sportiello*. (2020-)
 
-- Anomalous scaling of the optimal cost in the one-dimensional Euclidean random assignment problem: some rigorous results
- with *A. Sportiello*.
+1. Anomalous scaling of the optimal cost in the one-dimensional Euclidean random assignment problem: some rigorous results
+ with *A. Sportiello*. (2019-)
 
  Further details on the ERAP (and other random combinatorial optimization problems) can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
  {: .text-justify}

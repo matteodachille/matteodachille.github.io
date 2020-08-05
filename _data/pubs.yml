@@ -3,10 +3,11 @@
   authors: D. Benedetto, E. Caglioti, S. Caracciolo, G. Sicuro and A. Sportiello
   preprint: True
   published: False
-  arxivurl: "https://arxiv.org/"
-  arxivcode: TBD
+  arxivurl: "https://arxiv.org/abs/2008.01462"
+  arxivcode: "2008.01462"
   year: 2020
   submitted: True
+  pdf: "assets/DiffMatch.pdf"
 
 - title: The Dyck bound in the concave 1-dimensional random assignment model
   authors: S. Caracciolo, V. Erba and A. Sportiello
