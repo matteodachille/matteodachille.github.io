@@ -156,8 +156,12 @@ text-align: center;
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 2.0rem;
+/*  font-family: "Abril Fatface", serif;*/
+  font-size: 1.8rem;
+}
+
+.sidebar-about h5 {
+  font-size: .85rem;  
 }
 
 /* Sidebar nav */

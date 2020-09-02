@@ -11,6 +11,8 @@
 	  <!--img src="../assets/dachille2.png" /-->
     <div class="sidebar-about">
 
+      <h5> <a >Personal webpage of </a></h5>
+
 
       <h1>
         <a href="{{ site.baseurl }}">
@@ -21,7 +23,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <!--a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a-->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -30,7 +32,7 @@
 
       {% assign pages_list = site.pages | sort: "order" %}
       {% for node in pages_list %}
-        {% if node.title != null %}
+        {% if node.title != null  %}
           {% if node.layout == "page" and node.show != "hyde" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
@@ -83,6 +85,14 @@
              </a>
            {% endif %}
 
+           {% if site.rid %}
+                <a href="https://publons.com/researcher/{{ site.rid }}" target="_blank">
+                  <span class="fa-stack fa-lg">
+                    <i class="ai ai-publons ai-align-center-1x"></i>
+                  </span>
+                </a>
+              {% endif %}
+
 	 {% if site.researchgate %}
         <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
           <span class="fa-stack fa-lg">
@@ -99,6 +109,7 @@
           </span>
         </a>
       {% endif %}
+
 
   {% if site.linkedin %}
          <a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank">

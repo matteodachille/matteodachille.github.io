@@ -4,8 +4,7 @@ title: Scientific interests
 order: 2
 ---
 
-Statistical mechanics in combinatorial optimization, statistical field theory, especially in the context of disordered systems in low dimension, phase transitions, scaling, universality...
-
+My main research interests lie in statistical and mathematical physics, especially in connection with finite-dimensional disordered systems. I often make use of numerical experiments.
 
 <!-- I am interested in ...
 The Euclidean Random Assignment Problem and, more broadly, typical properties of large random structures.
@@ -16,7 +15,7 @@ The Euclidean Random Assignment Problem and, more broadly, typical properties of
 
 #### The Euclidean Random Assignment Problem (2017-)
 
-*Brief description.* Given \\( 2n \\) points, \\(n\\) “red” and \\(n\\) “blue”, in a Euclidean space, solving the associated Euclidean Assignment Problem consists in finding the bijection between red and blue points that minimizes a functional of the point positions. In the stochastic version of this problem, the points are a Poisson Point Process, and some interest has developed over the years on the typical and average properties of the solution in the limit \\( n \to \infty \\) motivated (among others) by the physics of Disordered Systems, and by results in Functional Analysis on the Monge–Kantorovich problem in the continuum.
+*Brief description.* Given \\( 2n \\) points, \\(n\\) “red” and \\(n\\) “blue”, in a Euclidean space, solving the associated Euclidean Assignment Problem consists in finding the bijection between red and blue points that minimizes a functional of the point positions. In the stochastic version of this problem, the points are a Poisson Point Process, and some interest has developed over the years on the typical and average properties of the solution in the limit \\( n \to \infty \\) motivated (among others) by an analogy with the physics of low-dimensional disordered systems, and by recent results in Functional Analysis on the Monge–Kantorovich problem in the continuum.
 
 _Works in preparation:_
 
