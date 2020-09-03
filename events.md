@@ -24,6 +24,9 @@ _Le problème de l'assignation aléatoire euclidienne: état de l'art et quelque
 #### 2020
 {: .no_toc}
 
+
+-- **Clay** Mathematics Institute & **Heilbronn** Institute for Mathematical Research Integrable Probability Online Summer School, remote Zoom sessions, July 2020 ([website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"}).
+
 -- Combinatorics days of Bordeaux (JCB2020) at **LaBRI** Université de Bordeaux
 February 4-February 7, 2020 ([website](https://jcb2020.labri.fr/){:target="_blank"}).
 
