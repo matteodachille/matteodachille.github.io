@@ -161,7 +161,7 @@ text-align: center;
 }
 
 .sidebar-about h5 {
-  font-size: .85rem;  
+  font-size: .85rem;
 }
 
 /* Sidebar nav */
@@ -343,6 +343,17 @@ a.sidebar-nav-item:focus {
 .theme-base-upsaclay .content a,
 .theme-base-upsaclay .related-posts li a:hover {
   color: #63003c;
+}
+
+/* UPEC */
+
+.theme-base-upec .sidebar {
+  background-color: #cb1436;
+}
+
+.theme-base-upec .content a,
+.theme-base-upec .related-posts li a:hover {
+  color: #cb1436;
 }
 
 

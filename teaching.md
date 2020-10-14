@@ -15,18 +15,18 @@ I am currently Research and Teaching Assistant (ATER) at the Université de Pari
 Classes I am/have been involved with are:
 {:toc}-->
 
-Currently: Lecturer in Mathematics for the Mathematics Department ([Département de Mathématiques d'Orsay](https://www.math.u-psud.fr/?lang=fr){:target="\_blank"}) of the Université de Paris-Saclay.
+I am currently a research and teaching assistant (ATER) for the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil.
 
 
 
-### Classes:
+### Current and previous classes:
 
 <ul>
   {% assign sorted = site.courses | sort: 'year' | reverse %}
   {% for course in sorted %}
     <li style="margin-left: -20px;">
       {{course.year}} - <a href="{{ course.url }}"><b>{{ course.title }}</b></a>
-      - {{ course.level }} level, {{ course.hours}} hours eqTD.
+      - {{ course.level }} level{% if course.hours %}, {{ course.hours}} hours eqTD {% endif %}.
     </li>
   {% endfor %}
 </ul>

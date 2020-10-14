@@ -9,8 +9,8 @@ permalink:        :title
 
 # Setup
 title:            "Matteo D'Achille"
-tagline:          "PhD Candidate"
-description:      PhD candidate at Université Paris Saclay
+tagline:          " "
+description:      Post-doctoral research and teaching assistant at Université Paris-Est
 url:              https://matteodachille.github.io/
 baseurl:          https://matteodachille.github.io/
 tag_page: 		  tags
