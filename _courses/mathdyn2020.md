@@ -3,13 +3,19 @@ layout: course # You can ommit this if you've set it as a default
 title: Mathématiques des systèmes dynamiques
 year: 	2020-2021
 semester: S1
-#hours: 
+#hours:
 role : TD
 level: L3
 nostudents: 150
 professor: Arnaud Le Ny
-#studtype: MPI #(Mathématiques - Physique - Informatique)
+hoursCM : 24
+hoursTD: 18
+assistants: Matteo D'Achille, Trâm Ngô
+studtype: Economie #(Mathématiques - Physique - Informatique)
 ---
-### Programme et détails
+### Programme
 
-Voir la [page dediée](http://joelcohen.github.io/ens/mpi/remediation/) sur le site de Joël Cohen.
+
+_Systèmes dynamiques en temps discret_: equations récurrentes d’ordre 1, equations récurrentes linéaires d’ordre 2, systèmes récurrents (non-)linéaires en Economie.
+
+_Systèmes dynamiques en temps continu_: equations différentielles d’ordre 1, equations différentielles linéaires d’ordre 2, systèmes différentiels (non-)linéaires en Economie.

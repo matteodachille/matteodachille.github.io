@@ -6,22 +6,14 @@ semester: S1
 hours: 30
 role: TD
 nostudents: 33
-professor: Prof. Guy David
+professor: Guy David
 level: L1
 studtype: DLPC #(Double Licence Physico-Chimie)
 ---
 
 ### Programme
 
-- Fonctions et graphes
-- Limites et continuité
-- Développements limités, Dérivée
-- Courbes paramétrées
-- Comportement des fonctions sur un intervalle fermé borné
-- Développements limités d'ordre \\(\geq 2\\)
-- Equations différentielles
-- Primitives et intégrales
-- Fonctions de plusieurs variables
+Fonctions et graphes, limites et continuité, développements limités, dérivée, courbes paramétrées, comportement des fonctions sur un intervalle fermé borné, développements limités d'ordre \\(\geq 2\\), equations différentielles, primitives et intégrales, fonctions de plusieurs variables.
 
 
 <!--

@@ -9,39 +9,36 @@ order: 6
 <!-- To uncomment and sanitize after September, hopefully -->
 
 
-### Current Position(s)
+## Current Position(s)
 
 
-Post-doctoral research and teaching assistante (ATER) at the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil.
+Post-doctoral research and teaching assistant (ATER) <a href="https://lama.u-pem.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/UPEC-logo.jpg"></a> at the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil, working with [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}
 
-Associate Member (''Membre Associé'') at [Laboratoire d'Informatique de Paris Nord (LIPN)](https://lipn.univ-paris13.fr/){:target="\_blank"} of the Université Sorbonne Paris-Nord.
+Associate Member (Membre Associé) <a href="https://lipn.univ-paris13.fr/" target="\_blank"> <img style="max-width:100px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/logouspnord.jpg"></a> at the [Laboratoire d'Informatique de Paris Nord (LIPN)](https://lipn.univ-paris13.fr/){:target="\_blank"} of the Université Sorbonne Paris-Nord, working with [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html/){:target="\_blank"}
 
-<!--
-### Education
 
-PhD, Université Paris-Saclay.<br/> Thesis: ''_Statistical properties of the Euclidean random assignment problem_''
+## Education
 
-PhD candidate at **Université Paris-Saclay**.<br/> Thesis: ''_Statistical properties of the Euclidean random assignment problem_'', under [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} (CNRS and LIPN Université Paris-Nord), Olivier Rivoire (CNRS and CIRB Collège de France) and Prof. William Jalby (UVSQ-Université Paris-Saclay).
-
-<!--Jury composition: qui la lista dei membri del Jury de These-->
+#### PhD, Université Paris-Saclay, 2020
+<a href="https://www.universite-paris-saclay.fr/" target="\_blank"> <img style="max-width:200px;float:right;padding:10px;" src="../assets/logoupsaclay.png"></a>
+ Thesis: _Statistical properties of the Euclidean random assignment problem_ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/phdthesis.pdf){:target="\_blank"} <br/> Advisors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="\_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="\_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} <br/> PhD committee: [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="\_blank"} (rapporteur), [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/){:target="\_blank"} (rapporteur), [Michel Ledoux](https://perso.math.univ-toulouse.fr/ledoux/){:target="\_blank"} (president), [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="\_blank"} (examinateur) and [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/){:target="\_blank"} (examinatrice). [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"} was an invited member.
 
 
 
-### Education
+#### MSc University of Milan, 2016
+<a href="https://www.unimi.it/en" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/logounimi.png"></a>
+ Thesis: _On two linear assignment problems: random assignment and Euclidean bipartite matching_ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/masterthesis.pdf){:target="\_blank"}<br/>
+Advisor: [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}
 
-**PhD**, Université Paris-Saclay. <br/> Thesis: ''_Statistical properties of the Euclidean random assignment problem_''. [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/phdthesis.pdf){:target="\_blank"} <br/> Advisors: William Jalby, Olivier Rivoire and Andrea Sportiello. <br/> The other members of my PhD thesis were Charles Bordenave (rapporteur), Massimiliano Gubinelli (rapporteur), Michel Ledoux (president), Guilhem Semerjian (examinateur) and Lenka Zdeborová (examinatrice). <br/> Sergio Caracciolo was an invited member.
+#### BSc University of Milan, 2012
+<a href="https://www.unimi.it/en" target="_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/logounimi.png"></a>
+ Thesis: _La teoria di Schwarz-Christoffel e il Biliardo Quantistico Poligonale_ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/bscthesis.pdf){:target="_blank"}<br/>
+Advisor: [Luca Guido Molinari](http://wwwteor.mi.infn.it/~molinari/){:target="\_blank"}
 
+#### Visiting Position(s)
 
-**MSc**, University of Milan (advisor: [Prof. Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}).
-Thesis: "_On two linear assignment problems: random assignment and Euclidean bipartite matching_". [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/masterthesis.pdf){:target="\_blank"}
-
-**BSc**, University of Milan (advisor: [Prof. Luca Guido Molinari](http://wwwteor.mi.infn.it/~molinari/){:target="\_blank"}).
-Thesis: "_La teoria di Schwarz-Christoffel e il Biliardo Quantistico Poligonale_". [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/bscthesis.pdf){:target="_blank"}
-
-### Visiting Position(s)
-
-Visiting PhD student (18/02 - 4/3/2018), Banach Center of the Institute of Mathematics of the Polish Academy of Sciences (IM PAN), Warsaw, Poland
- ([website](https://www.impan.pl/en/activities/banach-center){:target="\_blank"}).
+Visiting PhD student (18/02 - 4/3/2018), <a href="https://www.impan.pl/" target="_blank"> <img style="max-width:200px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/logo_IMPAN.png"></a> Banach Center of the Institute of Mathematics of the Polish Academy of Sciences (IM PAN), Warsaw, Poland
+ ([website](https://www.impan.pl/en/activities/banach-center){:target="\_blank"})
 
 <!--
 ### Education
@@ -72,11 +69,11 @@ Thesis supervisor: [Prof. Luca Guido Molinari](http://wwwteor.mi.infn.it/~molina
 
 ### Membership of scientific societies
 
- Italian Society of Statistical Physics ([SIFS](https://www.fisicastatistica.org){:target="\_blank"}), voting member (2019 - today).
+ Italian Society of Statistical Physics ([SIFS](https://www.fisicastatistica.org){:target="\_blank"}), voting member (2019 - today)
 
- European Physical Society ([EPS](https://www.eps.org/){:target="\_blank"}), individual member (2017 - today).
+ European Physical Society ([EPS](https://www.eps.org/){:target="\_blank"}), individual member (2017 - today)
 
- Italian Physical Society ([SIF](https://www.sif.it){:target="\_blank"}), voting member (2013 - today).
+ Italian Physical Society ([SIF](https://www.sif.it){:target="\_blank"}), voting member (2013 - today)
 
 
-An updated CV is available [here]({{  site.baseurl }}downloads/cv.pdf ){:target="\_blank"}.
+An updated CV is available [here]({{  site.baseurl }}downloads/cv.pdf ){:target="\_blank"}

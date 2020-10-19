@@ -8,9 +8,17 @@ layout: default
   {% endif %}
 
   <h1>{{ page.title }}</h1>
-  <div class="course-class {{ page.professor | downcase}}">
+  <div class="course-class {{ page.professor | downcase }}">
     Responsible(s): {{ page.professor }}
     </div>
+
+    {% if page.assistants%}
+
+  <div class="course-class {{ page.professor | downcase}}">
+      Assistant(s): {{ page.assistants }}
+      </div>
+  {% endif %}
+
 
   <div class="course-class {{ page.year | downcase }}">
     Academic year: {{ page.year }}
@@ -19,7 +27,7 @@ layout: default
     Semester: {{ page.semester }}
   </div>
   <div class="course-nstuds {{ page.nostudents | downcase }}">
-    N. of students (avg.): {{ page.nostudents }}
+    N. of students (avg): {{ page.nostudents }}
   </div>
 
   <div>

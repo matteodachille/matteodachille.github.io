@@ -15,7 +15,12 @@ The Euclidean Random Assignment Problem and, more broadly, typical properties of
 
 #### The Euclidean Random Assignment Problem (2017-)
 
-*Brief description.* Given \\( 2n \\) points, \\(n\\) “red” and \\(n\\) “blue”, in a Euclidean space, solving the associated Euclidean Assignment Problem consists in finding the bijection between red and blue points that minimizes a functional of the point positions. In the stochastic version of this problem, the points are a Poisson Point Process, and some interest has developed over the years on the typical and average properties of the solution in the limit \\( n \to \infty \\) motivated (among others) by an analogy with the physics of low-dimensional disordered systems, and by recent results in Functional Analysis on the Monge–Kantorovich problem in the continuum.
+<!--![](assets/config.png =100x20)-->
+<img style="max-width:350px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/config.png">
+
+ Given \\( 2n \\) points, \\(n\\) “reds” and \\(n\\) “blues” in a Euclidean space, solving the associated Euclidean Assignment Problem consists in finding the bijection between red and blue points that minimizes a functional of the point positions. In the stochastic version of this problem, the points are a Poisson Point Process, and some interest has developed over the years on the typical and average properties of the solution in the limit \\( n \to \infty \\) motivated (among others) by an analogy with the physics of low-dimensional disordered systems, and by recent results in Functional Analysis on the Monge–Kantorovich problem in the continuum.
+
+  _Keywords_: random assignment problem, Monge-Kantorovich transportation problem, statistical field theory, disordered systems in finite dimension.
 
 _Works in preparation:_
 
@@ -32,9 +37,19 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
 1. Anomalous scaling of the optimal cost in the one-dimensional Euclidean random assignment problem: some rigorous results
  with *A. Sportiello*. (2019-)
 
- Further details on the ERAP (and other random combinatorial optimization problems) can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
+ Further papers on the ERAP and other random combinatorial optimization problems can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
  {: .text-justify}
 
+<!--
+### Co-authors' webpages
+
+[Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="\_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/Research/a-brief-description){:target="\_blank"}, [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}, [Vittorio Erba](https://com){:target="\_blank"}, [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="\_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html/){:target="\_blank"}
+
+### Co-authors
+
+Dario Benedetto, Emanuele Caglioti, Sergio Caracciolo, Vittorio Erba, Enrico Malatesta, Gabriele Sicuro, Andrea Sportiello.
+
+-->
 <!--
 #### Webpages of coauthors
 (that I know of ...)
