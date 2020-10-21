@@ -4,7 +4,7 @@ title: Scientific interests
 order: 2
 ---
 
-My main research interests lie in statistical and mathematical physics, especially in connection with finite-dimensional disordered systems. I often make use of numerical experiments.
+My main research interests lie in statistical and mathematical physics, especially in connection with finite-dimensional disordered systems and the Monge-Kantorovich problem. I often make use of numerical experiments.
 
 <!-- I am interested in ...
 The Euclidean Random Assignment Problem and, more broadly, typical properties of large random structures.
@@ -15,12 +15,13 @@ The Euclidean Random Assignment Problem and, more broadly, typical properties of
 
 #### The Euclidean Random Assignment Problem (2017-)
 
+_Keywords_: random assignment problem, statistical field theory, disordered systems in finite dimension, Monge-Kantorovich transportation problem.
+
 <!--![](assets/config.png =100x20)-->
-<img style="max-width:350px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/config.png">
+<img style="max-width:350px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/config-n500.png">
 
- Given \\( 2n \\) points, \\(n\\) “reds” and \\(n\\) “blues” in a Euclidean space, solving the associated Euclidean Assignment Problem consists in finding the bijection between red and blue points that minimizes a functional of the point positions. In the stochastic version of this problem, the points are a Poisson Point Process, and some interest has developed over the years on the typical and average properties of the solution in the limit \\( n \to \infty \\) motivated (among others) by an analogy with the physics of low-dimensional disordered systems, and by recent results in Functional Analysis on the Monge–Kantorovich problem in the continuum.
+ _In brief_: given \\( 2n \\) points, \\(n\\) “reds” and \\(n\\) “blues” in a Euclidean space, solving the associated Euclidean Assignment Problem consists in finding the bijection between red and blue points that minimizes a functional of the point positions (an example instance at \\(n=500\\) on the unit square is depicted in figure). In the simplest stochastic version of this problem, the points are a Poisson Point Process, and some interest has developed over the years on the typical properties of the solution in the limit \\( n \to \infty \\) depending on the dimension of the ambient space and choice of cost function, motivated (among others) by an analogy with the physics of low-dimensional disordered systems and by recent results in Functional Analysis on the Monge–Kantorovich problem in the continuum.
 
-  _Keywords_: random assignment problem, Monge-Kantorovich transportation problem, statistical field theory, disordered systems in finite dimension.
 
 _Works in preparation:_
 

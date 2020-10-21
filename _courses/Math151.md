@@ -1,14 +1,16 @@
 ---
 layout: course
 title: Calculus Math 151
-year: 	2018-2019
+year: 	18/19
 semester: S1
 hours: 30
+lang: french
 role: TD
 nostudents: 33
 professor: Guy David
 level: L1
 studtype: DLPC #(Double Licence Physico-Chimie)
+etab: Université Paris-Saclay
 ---
 
 ### Programme

@@ -17,7 +17,7 @@ order: 3
   ### Preprints
   {% endif %}-->
 {% for pub in list %}
-  <dd style="margin-left: 20px;">[{{ count }}] <b>{{ pub.title }}</b> with {{ pub.authors }}. Preprint: <a href="{{ pub.arxivurl }}" target="\_blank"> arXiv: {{ pub.arxivcode }} </a> ({{ pub.year }}){% if pub.submitted %}, <i>submitted</i>{% endif %}. <a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></dd>
+  <dd style="margin-left: 20px;">[{{ count }}] <b>{{ pub.title }}</b> with {{ pub.authors }}. Preprint: <a href="{{ pub.arxivurl }}" target="\_blank"> arXiv: {{ pub.arxivcode }} </a> ({{ pub.year }}){% if pub.submitted %}, <i>submitted</i>{% endif %} <a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></dd>
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
@@ -29,7 +29,7 @@ order: 3
 {% for pub in list %}
   <!--dt>  {{ pub.title }} with {{ pub.authors }}
   </dt-->
-  <dd style="margin-left: 20px;">[{{ count }}] <a href="{{ pub.doi }}" target="\_blank">{{ pub.title }}</a> with {{ pub.authors }}. &nbsp;<i>{{ pub.journal }}</i> <b>{{ pub.volume }}</b>, {{ pub.pages }} ({{ pub.year }}). <a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></dd>
+  <dd style="margin-left: 20px;">[{{ count }}] <a href="{{ pub.doi }}" target="\_blank">{{ pub.title }}</a> with {{ pub.authors }}. &nbsp;<i>{{ pub.journal }}</i> <b>{{ pub.volume }}</b>, {{ pub.pages }} ({{ pub.year }}) <a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></dd>
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>

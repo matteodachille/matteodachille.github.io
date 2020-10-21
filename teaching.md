@@ -9,24 +9,28 @@ order: 4
     {% assign i = i | plus: c.hours %}
 {% endfor %}
 
-(total experience: approx. {{ i }} hours eqTD)
-<!--- TOC
-I am currently Research and Teaching Assistant (ATER) at the Université de Paris Est (Créteil). During my PhD, I was Tutor (Moniteur) and then Lecturer in Mathematics at the Université de Paris-Saclay.
-Classes I am/have been involved with are:
-{:toc}-->
+
 
 I am currently a research and teaching assistant (ATER) for the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil.
 
 
 
-### Current and previous classes:
+### Current and previous classes
 
-<ul>
+(academic year  class title - institution, level, total teaching load)
+
+<ul style="list-style: none;
+   margin-left: 10;
+   padding-left: 1em;
+   text-indent: -2.2em;">
   {% assign sorted = site.courses | sort: 'year' | reverse %}
   {% for course in sorted %}
-    <li style="margin-left: -20px;">
-      {{course.year}} - <a href="{{ course.url }}"><b>{{ course.title }}</b></a>
-      - {{ course.level }} level{% if course.hours %}, {{ course.hours}} hours eqTD {% endif %}.
+    <li style="margin-left: -40px;">
+      {{course.year}} &nbsp; <a href="{{ course.url }}"><b>{{ course.title }}</b></a>
+      - {{ course.etab}}, {{ course.level }}{% if course.hours %}, {{ course.hours}}h eqTD {% endif %}
     </li>
   {% endfor %}
 </ul>
+
+
+Total experience: approximatively {{ i }}h eqTD

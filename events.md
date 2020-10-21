@@ -14,12 +14,17 @@ order: 5
 **4/2020** WIP ([link](https://jcb2020.labri.fr/){:target="_blank"})
 -->
 
-### Talks
+### Talks & seminars
 
-_Le problème de l'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_, seminar, CALIN Team at **LIPN**, 14/1/20 ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}).
+#### 2020
+{: .no_toc}
+
+-- _Statistical properties of the Euclidean random assignment problem_, **PhD thesis defense**, 16/10/20 ([slides](https://lipn.univ-paris13.fr/~banderier/Seminaires/)). Online talk, registration available [here](/home){:target="_blank"}
+
+-- _Le problème de l'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_, seminar, CALIN Team at **LIPN**, 14/1/20 ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
 
 
-### Recent attended events (including Schools)
+### List of attended events (including Schools)
 
 #### 2020
 {: .no_toc}

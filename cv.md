@@ -14,7 +14,7 @@ order: 6
 
 Post-doctoral research and teaching assistant (ATER) <a href="https://lama.u-pem.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/UPEC-logo.jpg"></a> at the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil, working with [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}
 
-Associate Member (Membre Associé) <a href="https://lipn.univ-paris13.fr/" target="\_blank"> <img style="max-width:100px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/logouspnord.jpg"></a> at the [Laboratoire d'Informatique de Paris Nord (LIPN)](https://lipn.univ-paris13.fr/){:target="\_blank"} of the Université Sorbonne Paris-Nord, working with [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html/){:target="\_blank"}
+Associate Member (Membre Associé) <a href="https://lipn.univ-paris13.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/logouspnord.jpg"></a> at the [Laboratoire d'Informatique de Paris Nord (LIPN)](https://lipn.univ-paris13.fr/){:target="\_blank"} of the Université Sorbonne Paris Nord, working with [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html/){:target="\_blank"}
 
 
 ## Education
@@ -35,7 +35,7 @@ Advisor: [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\
  Thesis: _La teoria di Schwarz-Christoffel e il Biliardo Quantistico Poligonale_ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/bscthesis.pdf){:target="_blank"}<br/>
 Advisor: [Luca Guido Molinari](http://wwwteor.mi.infn.it/~molinari/){:target="\_blank"}
 
-#### Visiting Position(s)
+### Visiting Position(s)
 
 Visiting PhD student (18/02 - 4/3/2018), <a href="https://www.impan.pl/" target="_blank"> <img style="max-width:200px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/logo_IMPAN.png"></a> Banach Center of the Institute of Mathematics of the Polish Academy of Sciences (IM PAN), Warsaw, Poland
  ([website](https://www.impan.pl/en/activities/banach-center){:target="\_blank"})
@@ -76,4 +76,4 @@ Thesis supervisor: [Prof. Luca Guido Molinari](http://wwwteor.mi.infn.it/~molina
  Italian Physical Society ([SIF](https://www.sif.it){:target="\_blank"}), voting member (2013 - today)
 
 
-An updated CV is available [here]({{  site.baseurl }}downloads/cv.pdf ){:target="\_blank"}
+A CV in .pdf format can be download [here]({{  site.baseurl }}downloads/cv.pdf ){:target="\_blank"}.

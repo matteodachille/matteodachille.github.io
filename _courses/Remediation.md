@@ -1,14 +1,16 @@
 ---
 layout: course # You can ommit this if you've set it as a default
 title: Remédiation en Mathématiques (OuiSi)
-year: 	2018-2019
+year: 	18/19
 semester: S2
 hours: 35
+lang: french
 role : TD
 level: L1
 nostudents: 15
 professor: Grégory Moreau, Sophie Lemaire (WIMS activity)
-studtype: MPI #(Mathématiques - Physique - Informatique)
+studtype: MPI 
+etab: Université Paris-Saclay
 ---
 ### Programme et détails
 

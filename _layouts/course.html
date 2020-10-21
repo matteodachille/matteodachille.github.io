@@ -15,7 +15,7 @@ layout: default
     {% if page.assistants%}
 
   <div class="course-class {{ page.professor | downcase}}">
-      Assistant(s): {{ page.assistants }}
+      Teaching assistant(s): {{ page.assistants }}
       </div>
   {% endif %}
 
@@ -26,9 +26,12 @@ layout: default
   <div class="course-semester {{ page.semester | downcase }}">
     Semester: {{ page.semester }}
   </div>
-  <div class="course-nstuds {{ page.nostudents | downcase }}">
-    N. of students (avg): {{ page.nostudents }}
+  <div class="course-lang {{ page.lang | downcase }}">
+    Language: {{ page.lang }}
   </div>
+  <!--div class="course-nstuds {{ page.nostudents | downcase }}">
+    N. of students (avg): {{ page.nostudents }}
+  </div-->
 
   <div>
     {{ content }}

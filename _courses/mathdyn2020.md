@@ -1,9 +1,10 @@
 ---
 layout: course # You can ommit this if you've set it as a default
 title: Mathématiques des systèmes dynamiques
-year: 	2020-2021
-semester: S1
-#hours:
+year: 	20/21
+semester: first
+lang: french
+#hours: in progress
 role : TD
 level: L3
 nostudents: 150
@@ -12,6 +13,7 @@ hoursCM : 24
 hoursTD: 18
 assistants: Matteo D'Achille, Trâm Ngô
 studtype: Economie #(Mathématiques - Physique - Informatique)
+etab: Université Paris-Est Créteil
 ---
 ### Programme
 
