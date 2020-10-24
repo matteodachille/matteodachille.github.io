@@ -12,7 +12,7 @@ order: 6
 ## Current Position(s)
 
 
-Post-doctoral research and teaching assistant (ATER) <a href="https://lama.u-pem.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/UPEC-logo.jpg"></a> at the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil, working with [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}
+Research and teaching assistant (ATER) <a href="https://lama.u-pem.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/UPEC-logo.jpg"></a> at the [Laboratoire d’Analyse et de Mathématiques Appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil, working with [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}
 
 Associate Member (Membre Associé) <a href="https://lipn.univ-paris13.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/logouspnord.jpg"></a> at the [Laboratoire d'Informatique de Paris Nord (LIPN)](https://lipn.univ-paris13.fr/){:target="\_blank"} of the Université Sorbonne Paris Nord, working with [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html/){:target="\_blank"}
 
@@ -21,7 +21,7 @@ Associate Member (Membre Associé) <a href="https://lipn.univ-paris13.fr/" targe
 
 #### PhD, Université Paris-Saclay, 2020
 <a href="https://www.universite-paris-saclay.fr/" target="\_blank"> <img style="max-width:200px;float:right;padding:10px;" src="../assets/logoupsaclay.png"></a>
- Thesis: _Statistical properties of the Euclidean random assignment problem_ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/phdthesis.pdf){:target="\_blank"} <br/> Advisors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="\_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="\_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} <br/> PhD committee: [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="\_blank"} (rapporteur), [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/){:target="\_blank"} (rapporteur), [Michel Ledoux](https://perso.math.univ-toulouse.fr/ledoux/){:target="\_blank"} (president), [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="\_blank"} (examinateur) and [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/){:target="\_blank"} (examinatrice). [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"} was an invited member.
+ Thesis: _Statistical properties of the Euclidean random assignment problem_ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> coming soon]({{  site.baseurl }}downloads/phdthesis.pdf){:target="\_blank"} <br/> Advisors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="\_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="\_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} <br/> PhD committee: [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="\_blank"} (_rapporteur_), [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/){:target="\_blank"} (_rapporteur_), [Michel Ledoux](https://perso.math.univ-toulouse.fr/ledoux/){:target="\_blank"} (_président_), [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="\_blank"} (_examinateur_) and [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/){:target="\_blank"} (_examinatrice_)<br/> [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"} was an _invited member_
 
 
 
@@ -76,4 +76,4 @@ Thesis supervisor: [Prof. Luca Guido Molinari](http://wwwteor.mi.infn.it/~molina
  Italian Physical Society ([SIF](https://www.sif.it){:target="\_blank"}), voting member (2013 - today)
 
 
-A CV in .pdf format can be download [here]({{  site.baseurl }}downloads/cv.pdf ){:target="\_blank"}.
+A CV in .pdf format can be download [here]({{  site.baseurl }}downloads/cv.pdf ){:target="\_blank"}

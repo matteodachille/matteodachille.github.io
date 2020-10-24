@@ -33,3 +33,7 @@ order: 3
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
+
+### Co-authors
+
+Dario Benedetto (1), Emanuele Caglioti (1), Sergio Caracciolo (5), Vittorio Erba (1), Enrico M. Malatesta (1), Gabriele Sicuro (4), Andrea Sportiello (4)

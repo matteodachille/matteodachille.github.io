@@ -33,4 +33,4 @@ I am currently a research and teaching assistant (ATER) for the [Laboratoire dâ€
 </ul>
 
 
-Total experience: approximatively {{ i }}h eqTD
+_Total experience_: approximatively {{ i }}h eqTD

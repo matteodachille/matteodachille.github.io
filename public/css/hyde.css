@@ -101,7 +101,7 @@ html {
   .sidebar-logo img {
   	height: 75px;
     display: block;
-  	border-radius: 50%;
+  	border-radius: 10%;
   	margin: auto !important;
     position: inherit;
   	box-shadow: 1px 1px 3px #263238;

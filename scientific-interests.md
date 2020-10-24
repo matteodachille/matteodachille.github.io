@@ -33,24 +33,22 @@ _Works in preparation:_
 with *S. Caracciolo, G. Sicuro and A. Sportiello*.
 -->
 2. The Euclidean random assignment problem at non-integer Hausdorff dimension \\( d_H \in (1,2) \\)
- with *A. Sportiello*. (2020-)
+ with *A. Sportiello* (2020-)
 
 1. Anomalous scaling of the optimal cost in the one-dimensional Euclidean random assignment problem: some rigorous results
- with *A. Sportiello*. (2019-)
+ with *A. Sportiello* (2019-)
 
- Further papers on the ERAP and other random combinatorial optimization problems can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs).
+ Further papers on the ERAP and other random combinatorial optimization problems can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
  {: .text-justify}
 
 <!--
 ### Co-authors' webpages
 
 [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="\_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/Research/a-brief-description){:target="\_blank"}, [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}, [Vittorio Erba](https://com){:target="\_blank"}, [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="\_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html/){:target="\_blank"}
-
-### Co-authors
-
-Dario Benedetto, Emanuele Caglioti, Sergio Caracciolo, Vittorio Erba, Enrico Malatesta, Gabriele Sicuro, Andrea Sportiello.
-
 -->
+
+
+<!-->
 <!--
 #### Webpages of coauthors
 (that I know of ...)

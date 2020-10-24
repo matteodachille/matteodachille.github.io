@@ -9,8 +9,8 @@ role : TD
 level: L1
 nostudents: 15
 professor: Grégory Moreau, Sophie Lemaire (WIMS activity)
-studtype: MPI 
-etab: Université Paris-Saclay
+studtype: MPI
+etab: Université Paris-Sud (Orsay)
 ---
 ### Programme et détails
 

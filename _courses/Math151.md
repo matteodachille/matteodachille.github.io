@@ -10,7 +10,7 @@ nostudents: 33
 professor: Guy David
 level: L1
 studtype: DLPC #(Double Licence Physico-Chimie)
-etab: Université Paris-Saclay
+etab: Université Paris-Sud (Orsay)
 ---
 
 ### Programme
