@@ -19,10 +19,12 @@ order: 5
 #### 2020
 {: .no_toc}
 
--- _Statistical properties of the Euclidean random assignment problem_, **PhD thesis defense**, 16/10/20, online talk. Recording available [here](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} (<a href="{{  site.baseurl }}assets/slides_ERAP_1610.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+-- 10/11 _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques problèmes ouverts en dimension \\(d \leq 2 \\)_, hybrid talk for the Probability working at **LAMA**, Université Paris-Est Créteil, Auditorium MSE ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_fr_nov10.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+
+-- 16/10 _Statistical properties of the Euclidean random assignment problem_, **PhD thesis defense** (online talk, recording available [here](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_1610.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
 
 
--- _Le problème de l'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_, combinatorics seminars, CALIN Team at **LIPN**, 14/1/20 ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
+-- 14/01 _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_, combinatorics seminars, CALIN Team at **LIPN**, Université Sorbonne Paris Nord ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
 
 
 ### List of attended events (including Schools)
