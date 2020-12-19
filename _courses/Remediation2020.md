@@ -16,5 +16,5 @@ etab: Université Paris-Sud (Orsay)
 
 ### Activités et programme
 
-J'ai surtout participé à l'élaboration d'exercices sur la plateforme [WIMS](https://fr.wikipedia.org/wiki/WIMS){:target="_blank"}.<br/>
-Pour plus des details sur le cours [voir ici](http://joelcohen.github.io/ens/mpi/remediation/){:target="_blank"}.
+Participation à l'élaboration d'exercices sur la plateforme [WIMS](https://fr.wikipedia.org/wiki/WIMS){:target="_blank"}.<br/>
+[Voir ici](http://joelcohen.github.io/ens/mpi/remediation/){:target="_blank"} pour plus des details.

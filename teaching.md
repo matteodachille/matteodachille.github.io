@@ -17,7 +17,7 @@ I am currently a research and teaching assistant (ATER) for the [Laboratoire dâ€
 
 ### Current and previous classes
 
-(academic year  class title - institution, level, total teaching load)
+(academic year  class title - institution, level, total teaching load in eqTD hours)
 
 <ul style="list-style: none;
    margin-left: 10;
@@ -27,7 +27,7 @@ I am currently a research and teaching assistant (ATER) for the [Laboratoire dâ€
   {% for course in sorted %}
     <li style="margin-left: -40px;">
       {{course.year}} &nbsp; <a href="{{ course.url }}"><b>{{ course.title }}</b></a>
-      - {{ course.etab}}, {{ course.level }}{% if course.hours %}, {{ course.hours}}h eqTD {% endif %}
+      - {{ course.etab}}, {{ course.level }}{% if course.hours %}, {{ course.hours}}h {% endif %}
     </li>
   {% endfor %}
 </ul>
