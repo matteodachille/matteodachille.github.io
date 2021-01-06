@@ -6,7 +6,7 @@ order: 3
 <!-- - TOC
 {:toc} -->
 
-(click on <i class="fa fa-file-pdf-o" aria-hidden="true"></i> for preprint files)
+(click on <i class="fa fa-file-pdf-o" aria-hidden="true"></i> to download preprint files)
 
 ### Preprints
 
@@ -36,4 +36,4 @@ order: 3
 
 ### Co-authors
 
-Dario Benedetto (1), Emanuele Caglioti (1), Sergio Caracciolo (5), Vittorio Erba (1), Enrico M. Malatesta (1), Gabriele Sicuro (4), Andrea Sportiello (4)
+D.Benedetto (1), E.Caglioti (1), S.Caracciolo (5), V.Erba (1), E.Malatesta (1), G.Sicuro (4), A.Sportiello (4)

@@ -15,11 +15,14 @@ assistants: Matteo D'Achille, Habib Ben Rayana
 studtype: Economie #(Mathématiques - Physique - Informatique)
 etab: Université Paris-Est (Créteil)
 ---
-### Programme
+### Programme synthétique
 
-_Estimation ponctuelle_: definition et proprietés d'un estimateur, méthode des moments,
+
+_Estimation ponctuelle_: definition et propriétes d'un estimateur, méthode des moments, méthode du maximum de vraisemblance.
 
 
 _Estimation par intervalle de confiance_: intervalle de confiance de la moyenne, intervalle de confiance de la variance, intervalle de confiance d'une proportion.
 
 _Tests statistiques_: principes; test paramétriques ( moyenne, variance, proportion ), test de comparaison de deux moyennes, test de comparaison de deux variances, test de comparaison de deux proportions; test non-paramétriques, test d'indipendence.
+
+_Méthode des moindres carrés_: introduction à l'économétrie, modèle linéaire simple, modèle linéaire multiple.

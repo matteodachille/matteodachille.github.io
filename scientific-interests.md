@@ -11,9 +11,10 @@ The Euclidean Random Assignment Problem and, more broadly, typical properties of
 {: .text-justify}
 -->
 
-### Projects
+### Active projects
 
-#### The Euclidean Random Assignment Problem (2017-)
+
+#### The Euclidean Random Assignment Problem
 
 _Keywords_: random assignment problem, statistical field theory, disordered systems in finite dimension, Monge-Kantorovich transportation problem.
 
@@ -32,14 +33,42 @@ _Works in preparation:_
 - Field theoretic approach to the Euclidean random assignment problem
 with *S. Caracciolo, G. Sicuro and A. Sportiello*.
 -->
-2. The Euclidean random assignment problem at non-integer Hausdorff dimension \\( d_H \in (1,2) \\)
- with *A. Sportiello* (2020-)
+1. "Anomalous scaling of the optimal cost in the one-dimensional Euclidean random assignment problem: some rigorous results'',
+ with A. Sportiello (2019-)
 
-1. Anomalous scaling of the optimal cost in the one-dimensional Euclidean random assignment problem: some rigorous results
- with *A. Sportiello* (2019-)
+2. "The Euclidean random assignment problem at non-integer Hausdorff dimension \\( d_H \in (1,2) \\)'',
+ with A. Sportiello (2020-)
+
 
  Further papers on the ERAP and other random combinatorial optimization problems can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
  {: .text-justify}
+
+
+
+#### Gibbs measures, renormalisation group and phase transitions in some disordered model
+
+ _Keywords_: Gibbs measure, decimation, majority rules, disordered systems in finite dimension.
+
+ <!--![](assets/config.png =100x20)-->
+ <img style="max-width:350px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/Tcrit-L33.png">
+
+  _In brief_:
+
+
+ _Works in preparation:_
+
+ 1. "Decimation for Ising and Planar Rotator Models on \\(\mathbb{Z}^d \\)'',
+  with A.C.D. van Enter and A. Le Ny (2020-)
+
+ 2. "Majority rules on Cayley trees'',
+  with A. Le Ny (2020-)
+
+ 3. "Decimation for the long-range Penrose models on fractal lattices'',
+   with A. Le Ny (2021-)
+
+  <!--Some background on this project can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
+  {: .text-justify}-->
+
 
 <!--
 ### Co-authors' webpages
