@@ -4,7 +4,7 @@ title: Scientific interests
 order: 2
 ---
 
-My main research interests lie in statistical and mathematical physics, especially in connection with finite-dimensional disordered systems and the Monge-Kantorovich problem. I often make use of numerical experiments.
+My research is focused on theoretical and mathematical statistical mechanics. The guiding principles of my research are related to the keywords "universality" and "phase transition". I often make use of numerical experiments.
 
 <!-- I am interested in ...
 The Euclidean Random Assignment Problem and, more broadly, typical properties of large random structures.
@@ -45,7 +45,7 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
 
 
 
-#### Gibbs measures, renormalisation group and phase transitions in some disordered model
+#### Gibbs measures, phase transitions and renormalisation group and in some lattice model
 
  _Keywords_: Gibbs measure, decimation, majority rules, disordered systems in finite dimension.
 
@@ -63,7 +63,7 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
  2. "Majority rules on Cayley trees'',
   with A. Le Ny (2020-)
 
- 3. "Decimation for the long-range Penrose models on fractal lattices'',
+ 3. "Decimation for long-range Penrose models on fractal lattices'',
    with A. Le Ny (2021-)
 
   <!--Some background on this project can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)

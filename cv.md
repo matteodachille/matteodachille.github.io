@@ -19,9 +19,9 @@ From 12/2019 to 12/2020 I have been Associate Member (Membre Associé) <a href="
 
 ## Education
 
-#### PhD, Université Paris-Saclay, 2020
+#### PhD Université Paris-Saclay, 2020
 <a href="https://www.universite-paris-saclay.fr/" target="\_blank"> <img style="max-width:200px;float:right;padding:10px;" src="../assets/logoupsaclay.png"></a>
- Thesis: _Statistical properties of the Euclidean random assignment problem_. [<i class="ai ai-hal" aria-hidden="true"></i>](https://tel.archives-ouvertes.fr/tel-03098672){:target="\_blank"} <br/> Advisors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="\_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="\_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} <br/> PhD committee: [Michel Ledoux](https://perso.math.univ-toulouse.fr/ledoux/){:target="\_blank"} (_président_), [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="\_blank"} (_rapporteur_), [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/){:target="\_blank"} (_rapporteur_), [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="\_blank"} (_examinateur_) and [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/){:target="\_blank"} (_examinatrice_)<br/> [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"} was an _invited member_
+ Thesis: _Statistical properties of the Euclidean random assignment problem_. Available at [<i class="ai ai-hal" aria-hidden="true"></i>](https://tel.archives-ouvertes.fr/tel-03098672){:target="\_blank"} <br/> Advisors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="\_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="\_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} <br/> PhD committee: [Michel Ledoux](https://perso.math.univ-toulouse.fr/ledoux/){:target="\_blank"} (_président_), [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="\_blank"} (_rapporteur_), [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/){:target="\_blank"} (_rapporteur_), [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="\_blank"} (_examinateur_) and [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/){:target="\_blank"} (_examinatrice_)<br/> [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"} was an _invited member_
 
 
 
@@ -76,4 +76,5 @@ Thesis supervisor: [Prof. Luca Guido Molinari](http://wwwteor.mi.infn.it/~molina
  Italian Physical Society ([SIF](https://www.sif.it){:target="\_blank"}), voting member (2013 - today)
 
 
-A CV in .pdf format can be download [here]({{  site.baseurl }}downloads/cv.pdf ){:target="\_blank"}
+<br/>
+A CV in .pdf format can be download either in [en]({{  site.baseurl }}downloads/cv_dachille_en.pdf ){:target="\_blank"} or [fr]({{  site.baseurl }}downloads/cv_dachille_fr.pdf ){:target="\_blank"}.

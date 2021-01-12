@@ -8,10 +8,10 @@ lang: french
 role : CM+TD
 level: L2
 #nostudents: 150
-professor: Sophie Laruelle
+#professor: Sophie Laruelle
 hoursCM : 24
 hoursTD: 18
-assistants: Matteo D'Achille, Habib Ben Rayana
+assistants: Z. Abidi, H. Ben Rayana, S. Chareyron, M. D'Achille, S. Laruelle, A. Vialfont
 studtype: Economie #(Mathématiques - Physique - Informatique)
 etab: Université Paris-Est (Créteil)
 ---

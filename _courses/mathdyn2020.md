@@ -8,10 +8,10 @@ hours: 90
 role : TD
 level: L3
 nostudents: 150
-professor: Arnaud Le Ny
+#professor: Arnaud Le Ny
 hoursCM : 24
 hoursTD: 18
-assistants: Matteo D'Achille, Trâm Ngô
+assistants: M. D'Achille, A. Le Ny, T. Ngô
 studtype: Economie #(Mathématiques - Physique - Informatique)
 etab: Université Paris-Est (Créteil)
 ---

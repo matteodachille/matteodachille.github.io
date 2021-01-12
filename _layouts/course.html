@@ -8,14 +8,17 @@ layout: default
   {% endif %}
 
   <h1>{{ page.title }}</h1>
+
+  {% if page.professor%}
   <div class="course-class {{ page.professor | downcase }}">
     Responsible(s): {{ page.professor }}
     </div>
+  {% endif %}
 
     {% if page.assistants%}
 
   <div class="course-class {{ page.professor | downcase}}">
-      Teaching assistant(s): {{ page.assistants }}
+      Pedagogical Team: {{ page.assistants }}
       </div>
   {% endif %}
 

@@ -7,7 +7,8 @@ hours: 30
 lang: french
 role: TD
 nostudents: 33
-professor: Guy David
+#professor: Guy David
+assistants: G. David, M. D'Achille, F. Haglund, T. Pugnat
 level: L1
 studtype: DLPC #(Double Licence Physico-Chimie)
 etab: Université Paris-Sud (Orsay)

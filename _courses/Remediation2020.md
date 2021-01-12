@@ -8,8 +8,8 @@ lang: french
 role : TD
 level: L1
 nostudents: --
-assistants: Joël Cohen, Alain Virouleau
-professor: Grégory Moreau, Sophie Lemaire (WIMS activity)
+assistants: J. Cohen, M. D'Achille, S. Lemaire, G. Moreau, A. Virouleau
+#professor: Grégory Moreau, Sophie Lemaire (WIMS activity)
 studtype: -- #(Mathématiques - Physique - Informatique)
 etab: Université Paris-Sud (Orsay)
 ---

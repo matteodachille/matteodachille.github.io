@@ -8,7 +8,8 @@ lang: french
 role : TD
 level: L1
 nostudents: 15
-professor: Grégory Moreau, Sophie Lemaire (WIMS activity)
+#professor: Grégory Moreau, Sophie Lemaire (WIMS activity)
+assistants: T. Chevalérias, J. Cohen, P. Cotte, M. D'Achille, Z.I men, S. Lemaire, G. Moreau, E. Mounzer, U. Ellwanger
 studtype: MPI
 etab: Université Paris-Sud (Orsay)
 ---
