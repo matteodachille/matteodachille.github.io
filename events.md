@@ -16,6 +16,7 @@ order: 5
 
 ### Talks & seminars
 
+
 #### 2020
 {: .no_toc}
 
@@ -29,23 +30,31 @@ order: 5
 
 ### List of attended events (including Schools)
 
+
+#### 2021
+{: .no_toc}
+
+-- **Inhomogeneous Random Systems**, originally scheduled to take place at the [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"} and [Institut Curie](https://curie.fr/){:target="_blank"} in Paris, remote Zoom sessions, January 26-January 27 ([website](http://irs.math.cnrs.fr/2021/){:target="_blank"})
+
+
+
 #### 2020
 {: .no_toc}
 
 
--- **Clay** Mathematics Institute & **Heilbronn** Institute for Mathematical Research Integrable Probability Online Summer School, remote Zoom sessions, July 2020 ([website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"})
+-- **Clay** Mathematics Institute & **Heilbronn** Institute for Mathematical Research Integrable Probability Online Summer School, remote Zoom sessions, July ([website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"})
 
 -- Combinatorics days of Bordeaux (JCB2020) at **LaBRI** Université de Bordeaux
-February 4-February 7, 2020 ([website](https://jcb2020.labri.fr/){:target="_blank"})
+February 4-February 7 ([website](https://jcb2020.labri.fr/){:target="_blank"})
 
 
 #### 2019
 {: .no_toc}
 
--- Combinatorics and Arithmetic for Physics: special days, meeting at the **IHES**, Le Bois-Marie, Bures-sur-Yvette, France, November 6-November 8, 2019
+-- Combinatorics and Arithmetic for Physics: special days, meeting at the **IHES**, Le Bois-Marie, Bures-sur-Yvette, France, November 6-November 8
 ([website](https://indico.math.cnrs.fr/event/5243/overview){:target="_blank"})
 
--- Journées MathSTIC 2019 -- Probabilités et Combinatoire, workshop at the **Institut Galilée, Université Paris 13**, Villetaneuse, France, October 21-October 23, 2019
+-- Journées MathSTIC 2019 -- Probabilités et Combinatoire, workshop at the **Institut Galilée, Université Paris 13**, Villetaneuse, France, October 21-October 23
 ([website](https://mathstic.univ-paris13.fr/journees-mathSTIC-2019/index.html){:target="_blank"})
 
 
@@ -53,39 +62,38 @@ February 4-February 7, 2020 ([website](https://jcb2020.labri.fr/){:target="_blan
 {: .no_toc}
 
 -- Paths in Statistical Physics,
-Conference held at the **Physics Department, Université Paris Diderot**, Paris, France, September 6-September 7, 2018 ([website](http://www.msc.univ-paris-diderot.fr/peliti2018){:target="_blank"})
+Conference held at the **Physics Department, Université Paris Diderot**, Paris, France, September 6-September 7 ([website](http://www.msc.univ-paris-diderot.fr/peliti2018){:target="_blank"})
 
 
 -- Information transmission in biological systems,
-conference at **The Mathematical Research and Conference Center**, Będlewo, Poland, March 5-9, 2018
+conference at **The Mathematical Research and Conference Center**, Będlewo, Poland, March 5-9
 ([website](https://www.impan.pl/en/activities/banach-center/conferences/18-sstransmission){:target="_blank"})
 
 
 #### 2017
 {: .no_toc}
 
--- Computational approaches to investigating allostery, workshop at **Centre Européen de Calcul Atomique et Moléculaire (CECAM), Headquarters, EPFL**, Lausanne, Switzerland, October 30-November 1, 2017
+-- Computational approaches to investigating allostery, workshop at **Centre Européen de Calcul Atomique et Moléculaire (CECAM), Headquarters, EPFL**, Lausanne, Switzerland, October 30-November 1
 ([website](https://www.cecam.org/workshop-1414.html){:target="_blank"})
 
--- 26th VI-HPS Tuning Workshop, workshop at **Laboratoire Exascale Computing Research (ECR), Campus Ter@tec**, Bruyères-le-Châtel, France, 16-20 October 2017 ([website](http://www.vi-hps.org/training/tws/tw26.html){:target="_blank"})
+-- 26th VI-HPS Tuning Workshop, workshop at **Laboratoire Exascale Computing Research (ECR), Campus Ter@tec**, Bruyères-le-Châtel, France, 16-20 October  ([website](http://www.vi-hps.org/training/tws/tw26.html){:target="_blank"})
 
 
 #### 2016
 {: .no_toc}
 
--- Optimal Transport and Applications, conference at **Scuola Normale Superiore**, Pisa, Italy, 7-11 November 2016 ([website](http://webtheory.sns.it/optimal-transport/index.php){:target="_blank"})
+-- Optimal Transport and Applications, conference at **Scuola Normale Superiore**, Pisa, Italy, 7-11 November ([website](http://webtheory.sns.it/optimal-transport/index.php){:target="_blank"})
 
 #### 2014
 {: .no_toc}
 
--- Mathematical Physics, Analysis and Stochastics, summer School at **Ruprecht-Karls-Universität Heidelberg**, Heidelberg, Germany, 21-26 July 2014
+-- Mathematical Physics, Analysis and Stochastics, summer School at **Ruprecht-Karls-Universität Heidelberg**, Heidelberg, Germany, 21-26 July
 ([website](http://www.thphys.uni-heidelberg.de/~salmhofer/summerschool-2014/summer-school-2014.html){:target="_blank"})
 
 
 ### Some periodic seminars in the Paris area
 
 Probability seminar at **LAMA** Paris 12 ([website](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites){:target="_blank"}) <br/> Held twice monthly usually on Tuesday
-
 
 Combinatorics seminar at **LIPN** Paris 13 ([website](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}) <br/> Held weekly usually each Tuesday
 
