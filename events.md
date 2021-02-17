@@ -16,6 +16,12 @@ order: 5
 
 ### Talks & seminars
 
+#### 2021
+{: .no_toc}
+
+-- 19/02 _Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_, online talk for the working group on determinantal point processes at **Laboratoire Painlevé**, Université de Lille (<a href="{{  site.baseurl }}events" target="\_blank">slides soon ... <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+
+
 
 #### 2020
 {: .no_toc}

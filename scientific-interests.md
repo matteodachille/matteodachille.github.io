@@ -45,7 +45,7 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
 
 
 
-#### Gibbs measures, phase transitions and renormalisation group and in some lattice model
+#### Gibbs measures, phase transitions and renormalisation group in some lattice model
 
  _Keywords_: Gibbs measure, decimation, majority rules, disordered systems in finite dimension.
 
