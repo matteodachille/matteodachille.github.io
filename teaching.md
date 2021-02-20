@@ -35,6 +35,8 @@ I am currently a research and teaching assistant (ATER) for the [Laboratoire dâ€
 
 _Total experience_: about {{ i }}h eqTD
 
+
+<!--
 ### Students
 
 #### Travail d'Ã©tude et de recherche (TER) M1
@@ -42,3 +44,4 @@ _Total experience_: about {{ i }}h eqTD
 Mouhamadou BA <br/>
 Yuqi LIU <br/>
 Issa Konate SY <br/>
+-->
