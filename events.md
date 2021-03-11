@@ -19,6 +19,9 @@ order: 5
 #### 2021
 {: .no_toc}
 
+-- 18/03 _Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-exponentially distributed points_, online short talk at the virtual research school **ALEA Days 2021**, CIRM Luminy (<a href="{{  site.baseurl }}events/" target="\_blank">slides soon... <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+
+
 -- 19/02 _Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_, online talk for the working group on determinantal point processes at **Laboratoire Painlevé**, Université de Lille (<a href="{{  site.baseurl }}downloads/erap22-Lille-finalv2.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
 
 
@@ -40,7 +43,10 @@ order: 5
 #### 2021
 {: .no_toc}
 
--- **Inhomogeneous Random Systems**, originally scheduled to take place at the [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"} and [Institut Curie](https://curie.fr/){:target="_blank"} in Paris, remote Zoom sessions, January 26-January 27 ([website](http://irs.math.cnrs.fr/2021/){:target="_blank"})
+-- **ALEA Days 2021**, remote BigBlueBotton sessions (originally scheduled to take place at CIRM - Luminy), March 15-March 19 ([website](http://gt-alea.math.cnrs.fr/alea2021/){:target="_blank"})
+
+
+-- **Inhomogeneous Random Systems**, remote Zoom sessions (originally scheduled to take place at the [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"} and [Institut Curie](https://curie.fr/){:target="_blank"} in Paris), January 26-January 27 ([website](http://irs.math.cnrs.fr/2021/){:target="_blank"})
 
 
 
