@@ -107,8 +107,9 @@ html {
   	box-shadow: 1px 1px 3px #263238;
   }
   #contact-list {
-      /*float: inherit;
-	 padding-left: 50px; */
+      float: inherit;
+	 /*padding-left: 50px;*/
+   position: absolute;
 	  /*display: table;
     margin: 0 auto; */
     }

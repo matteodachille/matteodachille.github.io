@@ -9,26 +9,28 @@ order: 6
 <!-- To uncomment and sanitize after September, hopefully -->
 
 
-## Current Position(s)
+## Current/recent status
 
+Since 10/02/2021 I am habilitated to the functions of Assistant Professor (_qualification aux fonctions de maître de conférences_, CNU Section 26, [source](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf){:target="\_blank"}).
 
-Research and teaching assistant (ATER) <a href="https://lama.u-pem.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/UPEC-logo.jpg"></a> at the [Laboratoire d’Analyse et de Mathématiques Appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil, working with [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}
+Since 01/10/2020 I work as a Research and Teaching Assistant (ATER) <a href="https://lama.u-pem.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/UPEC-logo.jpg"></a> at the [Laboratoire d’Analyse et de Mathématiques Appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil, working with [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}.
 
-From 12/2019 to 12/2020 I have been Associate Member (Membre Associé) <a href="https://lipn.univ-paris13.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/logouspnord.jpg"></a> at the [Laboratoire d'Informatique de Paris Nord (LIPN)](https://lipn.univ-paris13.fr/){:target="\_blank"} of the Université Sorbonne Paris Nord, équipe CALIN, working with [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html/){:target="\_blank"}
+From 12/2019 to 12/2020 I have been Associate Member (Membre Associé) <a href="https://lipn.univ-paris13.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/logouspnord.jpg"></a> at the [Laboratoire d'Informatique de Paris Nord (LIPN)](https://lipn.univ-paris13.fr/){:target="\_blank"} of the Université Sorbonne Paris Nord, équipe CALIN, working with [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html/){:target="\_blank"}.
 
 
 ## Education
 
-#### PhD Université Paris-Saclay, 2020
-<a href="https://www.universite-paris-saclay.fr/" target="\_blank"> <img style="max-width:200px;float:right;padding:10px;" src="../assets/logoupsaclay.png"></a>
- Thesis: _Statistical properties of the Euclidean random assignment problem_. Available at [<i class="ai ai-hal" aria-hidden="true"></i>](https://tel.archives-ouvertes.fr/tel-03098672v1){:target="\_blank"} <br/> Advisors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="\_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="\_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} <br/> PhD committee: [Michel Ledoux](https://perso.math.univ-toulouse.fr/ledoux/){:target="\_blank"} (_président_), [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="\_blank"} (_rapporteur_), [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/){:target="\_blank"} (_rapporteur_), [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="\_blank"} (_examinateur_) and [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/){:target="\_blank"} (_examinatrice_)<br/> [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"} was an _invited member_
+#### PhD Université Paris-Saclay, 2020 <a href="https://www.universite-paris-saclay.fr/" target="\_blank"> <img style="max-width:200px;float:right;padding:10px;" src="../assets/logoupsaclay.png"></a>
+
+ Thesis title: _Statistical properties of the Euclidean random assignment problem_.<br/> Thesis available at the TEL server here: [<i class="ai ai-hal" aria-hidden="true"></i>](https://tel.archives-ouvertes.fr/tel-03098672v1){:target="\_blank"} <br/> Advisors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="\_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="\_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} <br/> Composition of PhD committee: <br/>  [Michel Ledoux](https://perso.math.univ-toulouse.fr/ledoux/){:target="\_blank"} (_président_) <br/> [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="\_blank"} (_rapporteur_), [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/){:target="\_blank"} (_rapporteur_) <br/>  [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="\_blank"} (_examinateur_), [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/){:target="\_blank"} (_examinatrice_)<br/> [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"} was an _invited member_
 
 
 
 #### MSc University of Milan, 2016
 <a href="https://www.unimi.it/en" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/logounimi.png"></a>
  Thesis: _On two linear assignment problems: random assignment and Euclidean bipartite matching_ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/masterthesis.pdf){:target="\_blank"}<br/>
-Advisor: [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}
+Advisor: [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}<br/>
+External rapporteur: [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="\_blank"}
 
 #### BSc University of Milan, 2012
 <a href="https://www.unimi.it/en" target="_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/logounimi.png"></a>
