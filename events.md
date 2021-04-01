@@ -105,8 +105,11 @@ conference at **The Mathematical Research and Conference Center**, Będlewo, Pol
 
 ### Some periodic seminars in the Paris area
 
-Probability seminar at **LAMA** Paris 12 ([website](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites){:target="_blank"}) <br/> Held twice monthly usually on Tuesday
+Journée-séminaire de combinatoire at **LIPN** Paris 13 ([website](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}) <br/> Held weekly usually each Tuesday
 
-Combinatorics seminar at **LIPN** Paris 13 ([website](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}) <br/> Held weekly usually each Tuesday
+Working group "Modélisation" at **LPSM** Paris 6-Paris 7 ([website](https://www.lpsm.paris/semoa/gdt){:target="_blank"})<br/> Held weekly usually on Thursday at 10h45 CET
+
+Working group "Probabilités" at **LAMA** Paris 12 ([website](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites){:target="_blank"}) <br/> Held twice monthly usually on Tuesday
+
 
 "Philippe Flajolet" seminar at the **Institut Henri Poincaré** ([website](http://semflajolet.math.cnrs.fr/){:target="_blank"}) <br/> Held bi-monthly usually on Thursday
