@@ -92,19 +92,21 @@ html {
   }
 
   .sidebar-logo {
-    float: right;
+    float: left;
     /*margin: auto;*/
     padding-top: 200px ;
     padding-top: 10px ;
   }
 
   .sidebar-logo img {
-  	height: 75px;
+  	height: 125px;
     display: block;
-  	border-radius: 10%;
+  	/*border-radius: 10%;
+    box-shadow: 1px 1px 3px #263238;*/
   	margin: auto !important;
-    position: inherit;
-  	box-shadow: 1px 1px 3px #263238;
+    position: absolute;
+    bottom: 0;
+
   }
   #contact-list {
       float: inherit;
@@ -349,12 +351,12 @@ a.sidebar-nav-item:focus {
 /* UPEC */
 
 .theme-base-upec .sidebar {
-  background-color: #cb1436;
+  background-color: #e2293b;
 }
 
 .theme-base-upec .content a,
 .theme-base-upec .related-posts li a:hover {
-  color: #cb1436;
+  color: #e2293b;
 }
 
 
