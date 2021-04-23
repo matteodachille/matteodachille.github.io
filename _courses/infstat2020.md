@@ -1,6 +1,6 @@
 ---
 layout: course # You can ommit this if you've set it as a default
-title: Inférence statistique
+title: Inférence Statistique
 year: 	20/21
 semester: second
 lang: french
