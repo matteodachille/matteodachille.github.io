@@ -4,14 +4,16 @@ title: Scientific interests
 order: 2
 ---
 
-My research is focused on theoretical and mathematical statistical mechanics. The guiding principles of my research are related to the keywords "universality" and "phase transition". I often make use of numerical experiments.
 
-<!-- I am interested in ...
-The Euclidean Random Assignment Problem and, more broadly, typical properties of large random structures.
-{: .text-justify}
--->
+Mathematical and Theoretical Statistical Mechanics, especially in connection with the keywords "universality" and "phase transition". I often make use of numerical experiments.
+
 
 ### Active projects
+{: .no_toc}
+Some scientific projects I am involved in:
+
+- TOC
+{:toc}
 
 
 #### The Euclidean Random Assignment Problem
@@ -58,10 +60,10 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
 
  _Works in preparation:_
 
- 1. "Decimation for Ising and Planar Rotator Models on \\(\mathbb{Z}^d \\)'',
+ 1. "Decimations for Two Dimensional Ising and Rotator Models I'',
   with A.C.D. van Enter and A. Le Ny (2020-)
 
- 2. "Majority rules on Cayley trees'',
+ 2. "Almost Gibbsian Measures on Trees'',
   with A. Le Ny (2020-)
 
  3. "Decimation for long-range Penrose models on fractal lattices'',

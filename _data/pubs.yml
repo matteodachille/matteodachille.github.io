@@ -1,15 +1,62 @@
 ---
-- title: Random assignment problems on 2d manifolds
+
+- title: The Euclidean random assignment problem at non-integer Hausdorff dimension  \( d_H \in (1,2) \)
+  authors: A. Sportiello
+  upcoming: True
+  preprint: False
+  published: False
+  arxivurl: "https://arxiv.org/abs/"
+  arxivcode: ""
+  year: 2020-
+  submitted: False
+  pdf: ""
+
+- title: Almost Gibbsian Measures on Trees
+  authors: A. Le Ny
+  upcoming: True
+  preprint: False
+  published: False
+  arxivurl: "https://arxiv.org/abs/"
+  arxivcode: ""
+  year: 2020-
+  submitted: False
+  pdf: ""
+
+- title: "Decimations for Two Dimensional Ising and Rotator Models I"
+  authors: A.C.D. van Enter, A. Le Ny
+  upcoming: True
+  preprint: False
+  published: False
+  arxivurl: "https://arxiv.org/abs/"
+  arxivcode: ""
+  year: 2020-
+  submitted: False
+  pdf: ""
+
+- title: "Anomalous scaling of the optimal cost in the one-dimensional Euclidean Random Assignment Problem: some rigorous results"
+  authors: A. Sportiello
+  upcoming: True
+  preprint: False
+  published: False
+  arxivurl: "https://arxiv.org/abs/"
+  arxivcode: ""
+  year: 2019-
+  submitted: False
+  pdf: ""
+
+- title: "Random assignment problems on 2d manifolds"
   authors: D. Benedetto, E. Caglioti, S. Caracciolo, G. Sicuro and A. Sportiello
   preprint: True
   published: False
   arxivurl: "https://arxiv.org/abs/2008.01462"
   arxivcode: "2008.01462"
   year: 2020
-  submitted: True
+  submitted: False
+  accepted : True
+  accjourn: J. Stat. Phys.
   pdf: "assets/DiffMatch.pdf"
 
-- title: The Dyck bound in the concave 1-dimensional random assignment model
+- title: "The Dyck bound in the concave 1-dimensional random assignment model"
   authors: S. Caracciolo, V. Erba and A. Sportiello
   preprint: False
   published: True
@@ -20,7 +67,7 @@
   year: 2020
   pdf: "assets/concave1d.pdf"
 
-- title: Anomalous scaling of the optimal cost in the one-dimensional random assignment problem
+- title: "Anomalous scaling of the optimal cost in the one-dimensional random assignment problem"
   authors: S. Caracciolo and G. Sicuro
   preprint: False
   published: True
@@ -31,7 +78,7 @@
   year: 2019
   pdf: "assets/Corrections1d.pdf"
 
-- title: Random Euclidean matching problems in one dimension
+- title: "Random Euclidean matching problems in one dimension"
   authors: S. Caracciolo and G. Sicuro
   preprint: False
   published: True
@@ -42,7 +89,7 @@
   year: 2017
   pdf: "assets/OneDimension.pdf"
 
-- title: Finite size corrections in the random assignment problem
+- title: "Finite size corrections in the random assignment problem"
   authors: S. Caracciolo, E.M. Malatesta and G. Sicuro
   preprint: False
   published: True
