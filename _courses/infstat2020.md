@@ -4,7 +4,7 @@ title: Inférence Statistique
 year: 	20/21
 semester: second
 lang: french
-#hours:
+hours: 75
 role : CM+TD
 level: L2
 #nostudents: 150
