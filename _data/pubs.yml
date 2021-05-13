@@ -13,14 +13,15 @@
 
 - title: Almost Gibbsian Measures on a Cayley Tree
   authors: A. Le Ny
-  upcoming: True
-  preprint: False
+  upcoming: False
+  preprint: True
+  accepted : False
   published: False
   arxivurl: "https://arxiv.org/abs/"
-  arxivcode: ""
-  year: 2020-
-  submitted: False
-  pdf: ""
+  arxivcode: "2105.05767"
+  year: 2021
+  submitted: True
+  pdf: "assets/MajoritiesOnTrees_v14_final.pdf"
 
 - title: "Decimations for Two Dimensional Ising and Rotator Models I"
   authors: A.C.D. van Enter, A. Le Ny
@@ -46,14 +47,17 @@
 
 - title: "Random assignment problems on 2d manifolds"
   authors: D. Benedetto, E. Caglioti, S. Caracciolo, G. Sicuro and A. Sportiello
-  preprint: True
-  published: False
+  preprint: False
+  published: True
   arxivurl: "https://arxiv.org/abs/2008.01462"
   arxivcode: "2008.01462"
-  year: 2020
+  year: 2021
+  doi: " https://doi.org/10.1007/s10955-021-02768-4"
   submitted: False
-  accepted : True
-  accjourn: J. Stat. Phys.
+  accepted : False
+  journal: J. Stat. Phys.
+  volume: 183
+  pages: 34
   pdf: "assets/DiffMatch.pdf"
 
 - title: "The Dyck bound in the concave 1-dimensional random assignment model"

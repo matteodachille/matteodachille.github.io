@@ -34,7 +34,7 @@ order: 3
   {% endif %}-->
 {% for pub in list %}
   <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
-  position: absolute;'>[{{ count }}]</p> <b>{{ pub.title }}</b> with {{ pub.authors }}. Preprint: <a href="{{ pub.arxivurl }}" target="\_blank"> arXiv: {{ pub.arxivcode }}</a>, {{ pub.year }}&nbsp;<a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> {% if pub.submitted %}(<i>accepted</i>){% endif %} {% if pub.accepted %}(<i>accepted for publication on {{ pub.accjourn }}</i>){% endif %}</dd>
+  position: absolute;'>[{{ count }}]</p> <b>{{ pub.title }}</b> with {{ pub.authors }}. Preprint: <a href="{{ pub.arxivurl }}" target="\_blank"> arXiv: {{ pub.arxivcode }}</a>, {{ pub.year }}&nbsp;<a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> {% if pub.submitted %}(<i>submitted</i>){% endif %} {% if pub.accepted %}(<i>accepted for publication on {{ pub.accjourn }}</i>){% endif %}</dd>
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
@@ -52,6 +52,11 @@ order: 3
 {% endfor %}
 </dl>
 
+<!--
+### PhD Thesis
+
+Statistical Properties of the Euclidean Random Assignment Problem <br/> Université Paris-Saclay, 2020. Link TEL:
+-->
 <!--
 v2 with n. of papers
 ### Co-authors (\# joint papers)
