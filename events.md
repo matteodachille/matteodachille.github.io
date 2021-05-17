@@ -63,6 +63,11 @@ Working group "Probabilités" at **LAMA** Paris 12 ([website](https://lama.u-pem
 
 #### 2021
 {: .no_toc}
+-- 17-22/5 **P.L. Chebyshev - 200**, the 6th International Conference on Stochastic Methods, dedicated to the bicentenary of Pafnuty Lvovich Chebyshev. <br/> Organizers: [Steklov Mathematical Institute](http://www.mi-ras.ru/?l=1){:target="_blank"}, [Steklov International Mathematical Center](http://simc.mi-ras.ru/eng/){:target="_blank"}, [St Petersburg Department of Steklov Mathematical
+Institute](http://www.pdmi.ras.ru/eng/institut/institut.php){:target="_blank"}, [Lomonosov Moscow State University](https://www.msu.ru/en/){:target="_blank"}, National
+Committee of the [Bernoulli Society for Mathematical Statistics, Probability,
+Combinatorics and Their Applications](http://www.bernoulli-society.org/){:target="_blank"}, [Don State Technical University](https://donstu.ru/en/){:target="_blank"}, [RUDN University](http://eng.rudn.ru/){:target="_blank"}, Journal [Theory of Probability and Its Applications](https://www.siam.org/publications/journals/theory-of-probability-and-its-applications-tvp){:target="_blank"} ([conference website](http://www.mathnet.ru/eng/conf1902){:target="_blank"})
+
 
 -- 15-19/3 ALEA Days 2021, remote research School (originally scheduled at **CIRM** Marseilles - Luminy) ([website](http://gt-alea.math.cnrs.fr/alea2021/){:target="_blank"})
 
