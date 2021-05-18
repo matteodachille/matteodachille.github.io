@@ -60,10 +60,8 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
 
  _Works in preparation:_
 
- 1. "Decimations for Two Dimensional Ising and Rotator Models I'',
-  with A.C.D. van Enter and A. Le Ny (2020-)
 
- 2. "Decimation for long-range Penrose models on fractal lattices'',
+ 1. "Decimation for long-range Penrose models on fractal lattices'',
    with A. Le Ny (2021-)
 
   <!--Some background on this project can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
