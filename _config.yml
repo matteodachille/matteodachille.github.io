@@ -24,8 +24,9 @@ academia:         "MatteoDAchille"
 mendeley:         #"matteo-dachille"
 orcid:        "0000-0002-8750-1275"
 rid:        "AAX-7396-2020"
-twitter:
-email:			#"matteopdachille@gmail.com"
+arxiv:      "dachille_m_1"
+twitter:  "MatteoDAchille"
+hal: "True"
 
 paginate:         2
 

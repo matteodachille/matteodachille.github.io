@@ -46,7 +46,27 @@
 
     <!--p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.<br />  Built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.</p-->
 	  <div id="contact-list" style="font-size: 14px; position: relative; bottom: 0;">
-      <p style="font-size:0.75rem;">Contacts: </p>
+
+      <p style="font-size:0.75rem;">Preprints in repositories: </p>
+
+      {% if site.arxiv %}
+         <a href="https://arxiv.org/a/{{ site.arxiv }}" target="_blank">
+           <span class="fa-stack fa-lg">
+             <i class="ai ai-arxiv ai-align-center-1x"></i>
+           </span>
+         </a>
+       {% endif %}
+
+       {% if site.hal %}
+          <a href="https://hal.archives-ouvertes.fr/search/index/?q=matteo+d%27achille&level0_domain_s=math+OR+phys+OR+stat" target="_blank">
+            <span class="fa-stack fa-lg">
+              <i class="ai ai-hal ai-align-center-1x"></i>
+            </span>
+          </a>
+        {% endif %}
+
+
+      <p style="font-size:0.75rem;">Profiles, IDs & contacts: </p>
 		  <!--span>To get in touch use</span-->
 	  <!--{% if site.twitter %}
         <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
@@ -127,6 +147,15 @@
           </span>
         </a>
       {% endif %}
+
+       {% if site.twitter %}
+          <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
+            <span class="fa-stack fa-lg">
+              <i class="fa fa-twitter fa-align-center-1x"></i>
+            </span>
+          </a>
+        {% endif %}
+
 
 
   </div>
