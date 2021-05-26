@@ -14,7 +14,7 @@ order: 4
 **4/2020** WIP ([link](https://jcb2020.labri.fr/){:target="_blank"})
 -->
 
-### Talks & seminars
+### Invited talks & seminars
 
 #### 2021
 {: .no_toc}

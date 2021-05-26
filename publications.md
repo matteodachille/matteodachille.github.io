@@ -34,7 +34,7 @@ order: 3
   {% endif %}-->
 {% for pub in list %}
   <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
-  position: absolute;'>[{{ count }}]</p> <b>{{ pub.title }}</b> with {{ pub.authors }}. Preprint: <a href="{{ pub.arxivurl }}" target="\_blank"> arXiv: {{ pub.arxivcode }}</a>, {{ pub.year }}&nbsp;<a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> {% if pub.submitted %}(<i>submitted</i>){% endif %} {% if pub.accepted %}(<i>accepted for publication on {{ pub.accjourn }}</i>){% endif %}</dd>
+  position: absolute;'>[{{ count }}]</p> <b>{{ pub.title }}</b> with {{ pub.authors }}, {{ pub.year }}{% if pub.submitted %}. <i>Submitted</i>{% endif %}. Preprints: <a href="{{ pub.arxivurl }}" target="\_blank">{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a> - {% endif %}<a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> {% if pub.accepted %}(<i>accepted for publication on {{ pub.accjourn }}</i>){% endif %}</dd>
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
@@ -47,22 +47,19 @@ order: 3
   <!--dt>  {{ pub.title }} with {{ pub.authors }}
   </dt-->
   <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
-  position: absolute;'>[{{ count }}]</p> <a href="{{ pub.doi }}" target="\_blank">{{ pub.title }}</a> with {{ pub.authors }}. &nbsp;<i>{{ pub.journal }}</i> <b>{{ pub.volume }}</b>, {{ pub.pages }}, {{ pub.year }}&nbsp; <a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></dd>
+  position: absolute;'>[{{ count }}]</p> <a href="{{ pub.doi }}" target="\_blank">{{ pub.title }}</a> with {{ pub.authors }}. &nbsp;<i>{{ pub.journal }}</i> <b>{{ pub.volume }}</b>, {{ pub.pages }}, {{ pub.year }}. Preprints: <a href="{{ pub.arxivurl }}" target="\_blank">{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a>{% endif %} - <a href="{{  site.baseurl }}{{ pub.pdf }}" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+  </dd>
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
 
-<!--
+
+
 ### PhD Thesis
 
-Statistical Properties of the Euclidean Random Assignment Problem <br/> Université Paris-Saclay, 2020. Link TEL:
--->
-<!--
-v2 with n. of papers
-### Co-authors (\# joint papers)
+ **Statistical properties of the Euclidean random assignment problem** <br/> _Université Paris-Saclay_, 2020, 253 pages. Manuscript : [<i class="ai ai-hal" aria-hidden="true"></i>](https://tel.archives-ouvertes.fr/tel-03098672v1){:target="\_blank"} - <a href="#" target="\_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a><br/><br/> Advisors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="\_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="\_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} <br/> PhD jury members: [Michel Ledoux](https://perso.math.univ-toulouse.fr/ledoux/){:target="\_blank"} (_président_), [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="\_blank"} (_rapporteur_), [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/){:target="\_blank"} (_rapporteur_), [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="\_blank"} (_examinateur_), [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/){:target="\_blank"} (_examinatrice_), [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"} (_invited member_)
 
-Dario Benedetto (1), Emanuele Caglioti (1), Sergio Caracciolo (5), Aernout C.D. van Enter (1), Vittorio Erba (1), Arnaud Le Ny (2), Enrico M. Malatesta (1), Gabriele Sicuro (4), Andrea Sportiello (4)
--->
+
 
 ### Co-authors
 
