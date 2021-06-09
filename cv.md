@@ -1,92 +1,64 @@
 ---
 layout: page
 title: CV
-order: 6
+order: 7
 ---
 <!--- TOC
 {:toc}-->
+<img style="max-height:100px; position: relative; float:right; top: 50%; border:solid 0.05em;transform: translateY(-60%); margin-left:15px !important; border-radius: 0px;" src="../assets/dachille2.jpeg">
 
 (short)
+
+
+<br/>
 
 <!-- To uncomment and sanitize after September, hopefully -->
 
 
-## Current/recent status
+## Current or recent status
+<br/>
 
-10/02/2021 - current: habilitation to the functions of Assistant Professor (_qualification aux fonctions de maître de conférences_, CNU Section 26, [source](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf){:target="\_blank"})
+_10/02/2021 - current_: <a href="https://fr.wikipedia.org/wiki/Conseil_national_des_universit%C3%A9s" target="\_blank"> <img style="max-height:40px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/CNU_logo.jpeg"></a> habilitation to the functions of Assistant Professor (_qualification aux fonctions de maître de conférences_, CNU Section 26) ([source](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf){:target="\_blank"})
 
-01/10/2020 - current: Research and Teaching Assistant (ATER) <a href="https://lama.u-pem.fr/" target="_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/UPEC-logo.jpg"></a> at the [Laboratoire d’Analyse et de Mathématiques Appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"}, <a href="https://www.u-pec.fr/" target="\_blank">Université Paris-Est Créteil</a>. Working with [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}.
+_01/10/2020 - current_: Research and Teaching Assistant (ATER) <a href="https://www.u-pec.fr/" target="\_blank"> <img style="max-height:40px; position: relative; float:right; top: 50%; transform: translateY(-30%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/UPEC-logo.jpg"></a> at [Laboratoire d’Analyse et de Mathématiques Appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"}, <a href="https://www.u-pec.fr/" target="\_blank">Université Paris-Est Créteil</a>. Working with [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}
 
-12/2019 - 12/2020 Associate Member (Membre Associé) <a href="https://lipn.univ-paris13.fr/" target="\_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding:5px;" src="../assets/logouspnord.jpg"></a>, [Laboratoire d'Informatique de Paris Nord (LIPN)](https://lipn.univ-paris13.fr/){:target="\_blank"}, Université Sorbonne Paris Nord, équipe CALIN. Working with [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"}.
+_12/2019 - 12/2020_: Associate Member (Membre Associé) <a href="https://lipn.univ-paris13.fr/" target="\_blank"> <img style="max-height:40px; position: relative; float:right; top: 50%; transform: translateY(-30%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logouspnord.jpg"></a> at [Laboratoire d'Informatique de Paris Nord (LIPN)](https://lipn.univ-paris13.fr/){:target="\_blank"}, Université Sorbonne Paris Nord, équipe CALIN. Working with [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"}
 
-
+<br/>
 ## Education
-<img style="max-height:30px; position: relative; float:right; top: 50%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_FR.png"/><a href="https://www.universite-paris-saclay.fr/" target="_blank"> <img style="max-height:40px; position: relative; float:right; top: 50%; transform: translateY(-30%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logoupsaclay.png"></a><b>Ph.D.</b> Paris-Saclay University 2020 <!--a href="https://www.universite-paris-saclay.fr/" target="\_blank"> <img style="max-height:50px;float:left;padding:10px;" src="../assets/logoupsaclay.png"></a></span-->
-
-<img style="max-height:30px; position: relative; float:right; top: 40%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/><a href="https://www.unimi.it/en" target="_blank"> <img style="max-height:40px; position: relative; float:right; top: 50%; transform: translateY(-20%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logo_unimi_text.jpeg"></a>**M.Sc.** University of Milan 2016
-
-<img style="max-height:30px; position: relative; float:right; top: 40%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/><a href="https://www.unimi.it/en" target="_blank"> <img style="max-height:40px; position: relative; float:right; top: 50%; transform: translateY(-20%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logo_unimi_text.jpeg"></a>**B.Sc.** University of Milan 2012
-
-
-<!--
- Thesis title: _Statistical properties of the Euclidean random assignment problem_.<br/> Thesis available at the TEL server here: [<i class="ai ai-hal" aria-hidden="true"></i>](https://tel.archives-ouvertes.fr/tel-03098672v1){:target="\_blank"} <br/> Advisors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="\_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="\_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"} <br/> Composition of PhD committee: <br/>  [Michel Ledoux](https://perso.math.univ-toulouse.fr/ledoux/){:target="\_blank"} (_président_) <br/> [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="\_blank"} (_rapporteur_), [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/){:target="\_blank"} (_rapporteur_) <br/>  [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="\_blank"} (_examinateur_), [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/){:target="\_blank"} (_examinatrice_)<br/> [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"} was an _invited member_
-
--->
-
-<!--a href="https://www.unimi.it/en" target="\_blank"> <img style="max-height:80px;float:left;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/logounimi.png"></a-->
-<!--
 <br/>
- Thesis: _On two linear assignment problems: random assignment and Euclidean bipartite matching_ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/masterthesis.pdf){:target="\_blank"}<br/>
-Advisor: [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}<br/>
-External rapporteur: [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="\_blank"}
--->
+<img style="max-height:30px; position: relative; float:right; top: 50%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_FR.png"/><a href="https://www.universite-paris-saclay.fr/" target="_blank"> <img style="max-height:40px; position: relative; float:right; top: 50%; transform: translateY(-30%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logoupsaclay.png"></a><b>Ph.D.</b> Paris-Saclay University 2020  ([details](/publications#phd-thesis))<!--a href="https://www.universite-paris-saclay.fr/" target="\_blank"> <img style="max-height:50px;float:left;padding:10px;" src="../assets/logoupsaclay.png"></a></span-->
 
+<img style="max-height:30px; position: relative; float:right; top: 40%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/><a href="https://www.unimi.it/en" target="\_blank"> <img style="max-height:40px; position: relative; float:right; top: 50%; transform: translateY(-20%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/unimi_logo_header_nero.png"></a>**M.Sc.** University of Milan 2016 (110/110 _con lode_) ([details](/publications#msc-thesis))
 
-<!--a href="https://www.unimi.it/en" target="_blank"> <img style="max-width:120px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/logounimi.png"></a>
- Thesis: _La teoria di Schwarz-Christoffel e il Biliardo Quantistico Poligonale_ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{  site.baseurl }}downloads/bscthesis.pdf){:target="_blank"}<br/>
-Advisor: [Luca Guido Molinari](http://wwwteor.mi.infn.it/~molinari/){:target="\_blank"}
--->
-
-### Visiting Position(s)
-
-18/02 - 04/03/2018: Research visit,<img style="max-height:30px; position: relative; float:right; top: 50%; transform: translateY(-10%); border: solid .05em; border-radius: 0px;" src="../assets/flag_PL.png"/> &nbsp; <a href="https://www.impan.pl/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; transform: translateY(-10%); margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/impan_notext.gif"></a>Banach Center of the Institute of Mathematics of the Polish Academy of Sciences (IM PAN), Warsaw, Poland
- ([website](https://www.impan.pl/en/activities/banach-center){:target="\_blank"})
-
-<!--
-### Education
-
--- _Master of Science_ ("Laurea Magistrale") in Theoretical Physics, **Università degli Studi di Milano**, Milan, Italy. Thesis supervisor: [Prof. Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}. Grade: 110/110 "summa cum laude". Thesis: "On two linear assignment problems: random assignment and Euclidean bipartite matching" ([pdf]({{  site.baseurl }}downloads/masterthesis.pdf){:target="\_blank"}).
-
-<!--
-: Title: "_On two linear assignment problems: random assignment and Euclidean bipartite matching_" [pdf]({{  site.baseurl }}downloads/masterthesis.pdf){:target="_blank"}
-: Date of Thesis defense: _Tuesday 12 April 2016_
-: Supervisor: _[Prof. Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"}_
-: Assistant Supervisor: _[Gabriele Sicuro, PhD](https://gabrielesicuro.wordpress.com/){:target="_blank"}_  
--->
-<!--
--- _Bachelor of Science_ ("Laurea Triennale") in Physics, 110/110, **Università degli Studi di Milano**, Milan, Italy.
-Thesis supervisor: [Prof. Luca Guido Molinari](http://wwwteor.mi.infn.it/~molinari/){:target="\_blank"}. Grade: 110/110.
--->
-<!--
-: Title: "_La teoria di Schwarz-Christoffel e il Biliardo Quantistico Poligonale_" [pdf]({{  site.baseurl }}downloads/bscthesis.pdf){:target="_blank"}
-: Date of Thesis defense: _Tuesday 23 October 2012_
-: Supervisor: _[Prof. Luca Guido Molinari](http://wwwteor.mi.infn.it/~molinari/){:target="_blank"}_
--->
-<!--
-
--- High School Diploma, 81/100
-: _Liceo Scientifico Statale 'Paolo Frisi'_, Monza, 20900 MI, Italy
-: Date of oral examination: _Monday 13 July 2009_
--->
-
-### Membership of scientific societies
-
- Italian Society of Statistical Physics ([SIFS](https://www.fisicastatistica.org){:target="\_blank"}), voting member (2019 - today)
-
- European Physical Society ([EPS](https://www.eps.org/){:target="\_blank"}), individual member (2017 - today)
-
- Italian Physical Society ([SIF](https://www.sif.it){:target="\_blank"}), voting member (2013 - today)
+<img style="max-height:30px; position: relative; float:right; top: 40%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/><a href="https://www.unimi.it/en" target="_blank"> <img style="max-height:40px; position: relative; float:right; top: 50%; transform: translateY(-20%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/unimi_logo_header_nero.png"></a>**B.Sc.** University of Milan 2012 (110/110) ([details](/publications#bsc-thesis))
 
 
 <br/>
-A detailed CV in .pdf format can be download either in [en]({{  site.baseurl }}downloads/cv_dachille_en.pdf ){:target="\_blank"} or [fr]({{  site.baseurl }}downloads/cv_dachille_fr.pdf ){:target="\_blank"}.
+
+#### Visiting Position(s)
+
+_18/02/18 - 04/03/18_: Banach Center, IMPAN, Warsaw, Poland
+ ([website](https://www.mimuw.edu.pl/~miekisz/index.php?st=4){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_PL.png"/> &nbsp; <a href="https://www.impan.pl/en/activities/banach-center" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/impan_notext.gif"></a>
+
+<br/>
+
+#### Peer reviewer for
+
+[Chaos](https://aip.scitation.org/journal/cha){:target="\_blank"} (AIP), [Physical Review X](https://journals.aps.org/prx/){:target="\_blank"} (APS) <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_US.png"/>&nbsp; <a href="https://www.aps.org/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/logo_APS.png"></a>&nbsp; <a href="https://www.aip.org/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 30%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/logo_AIP.png"></a>
+
+<br/>
+
+#### Membership of scientific societies
+
+ Italian Society of Statistical Physics ([SIFS](https://www.fisicastatistica.org){:target="\_blank"}), voting member (2019 - current)
+
+ European Physical Society ([EPS](https://www.eps.org/){:target="\_blank"}), individual member (2017 - current)
+
+ Italian Physical Society ([SIF](https://www.sif.it){:target="\_blank"}), voting member (2013 - current)
+
+
+
+<br/>
+<br/>
+A detailed (possibly outdated) CV is available in [en]({{  site.baseurl }}downloads/cv_dachille_en.pdf ){:target="\_blank"} or [fr]({{  site.baseurl }}downloads/cv_dachille_fr.pdf ){:target="\_blank"}.

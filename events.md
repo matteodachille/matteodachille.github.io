@@ -1,50 +1,50 @@
 ---
 layout: page
-title: Activities
+title: Talks
 order: 4
 ---
 
-- TOC
+<!--- TOC
 {:toc}
-
-
-<!--## Events not to be missed
-**5/2020** WIP ([link](https://jcb2020.labri.fr/){:target="_blank"})
-
-**4/2020** WIP ([link](https://jcb2020.labri.fr/){:target="_blank"})
 -->
 
-### Invited talks & seminars
+### Upcoming
+
+
+xx/06/2021: _Euclidean Random Assignment Problems: origin, state of the art and some open problems in one dimension_, **Journées de probabilités 2021**, Guidel Plages, FR ([slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](#))<br/>
+xx/06/2021: _Consequences of Weyl's law in low-dimensional Euclidean Random Assignment Problems_, I Convention of **SIFS**, Parma, IT ([slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](#))
+
+
+
+### Past
 
 #### 2021
 {: .no_toc}
 
--- 18/03 _Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-exponentially distributed points_, online short talk at the virtual research school **ALEA Days 2021**, CIRM Marseilles Luminy (<a href="{{  site.baseurl }}downloads/ALEA2021_MZSVs_ERAP_final.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+- 18/03: _Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-exponentially distributed points_, **ALEA Days 2021**, CIRM Marseilles Luminy (<a href="{{  site.baseurl }}downloads/ALEA2021_MZSVs_ERAP_final.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
 
 
--- 19/02 _Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_, online talk for the working group on determinantal point processes at **Laboratoire Painlevé**, Université de Lille (<a href="{{  site.baseurl }}downloads/erap22-Lille-finalv2.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+- 19/02: _Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_, working group on determinantal point processes at **Laboratoire Painlevé**, Université de Lille (<a href="{{  site.baseurl }}downloads/erap22-Lille-finalv2.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
 
 
 
 #### 2020
 {: .no_toc}
 
--- 10/11 _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques problèmes ouverts en dimension \\(d \leq 2 \\)_, hybrid talk for the Probability working group at **LAMA**, Université Paris-Est Créteil, Auditorium MSE ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_fr_nov10.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+- 10/11: _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques problèmes ouverts en dimension \\(d \leq 2 \\)_, working group in Probability at **LAMA**, Université Paris-Est Créteil ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_fr_nov10.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
 
--- 16/10 _Statistical properties of the Euclidean random assignment problem_, **PhD thesis defense** (online talk, recording available [here](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_1610.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
-
-
--- 14/01 _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_, Combinatorics seminar, CALIN Team at **LIPN**, Université Sorbonne Paris Nord ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
+- 16/10: _Statistical properties of the Euclidean random assignment problem_, PhD thesis defense, **Université Paris-Saclay** ([video](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_1610.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
 
 
-### Interviews
+- 14/01: _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_, Combinatorics seminar of CALIN Team at **LIPN**, Université Sorbonne Paris Nord ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
 
 
-#### 2021
+<br/>
+
+## Miscellanea
 {: .no_toc}
 
--- 14/4 guest on "Salon de Café" on **Radio Monte Carlo Doualiya**.<br/> Topic: the meaning of vaccine efficacy and possible future scenarios of the COVID-19 epidemic (in French with Arabic voice-over) ([website](https://mc-d.co/1b5W){:target="_blank"})
-
+_14/04/2021_: radio guest on "Salon de Café" on **Radio Monte Carlo Doualiya**.<br/> Topic: the meaning of vaccine efficacy and possible future scenarios of the COVID-19 epidemic (French with Arabic voice-over) ([website](https://mc-d.co/1b5W){:target="_blank"})
 
 ### Some periodic seminars in the Paris area
 
@@ -58,7 +58,11 @@ Working group "Probabilités" at **LAMA** Paris 12 ([website](https://lama.u-pem
 "Philippe Flajolet" seminar at the **Institut Henri Poincaré** ([website](http://semflajolet.math.cnrs.fr/){:target="_blank"}) <br/> Held bi-monthly usually on Thursday
 
 
-### List of attended events (including Schools)
+
+
+
+
+### Some attended events (including Schools)
 
 
 #### 2021

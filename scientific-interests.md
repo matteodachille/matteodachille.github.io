@@ -8,23 +8,23 @@ order: 2
 Mathematical and Theoretical Statistical Mechanics, especially in connection with the keywords "universality" and "phase transition". I often make use of numerical experiments.
 
 
-### Active projects
+### Current projects
 {: .no_toc}
-Some scientific projects I am involved in:
 
 - TOC
 {:toc}
 
+<br/>
 
 #### The Euclidean Random Assignment Problem
-
-_Keywords_: random assignment problem, statistical field theory, disordered systems in finite dimension, Monge-Kantorovich transportation problem.
+{: style="text-align: justify" }
+<ins>Keywords</ins>: random assignment problem, statistical field theory, disordered systems in finite dimension, Monge-Kantorovich transportation problem.
 
 <!--![](assets/config.png =100x20)-->
 <img style="max-width:350px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/config-n500.png">
-
- _In brief_: given \\( 2n \\) points, \\(n\\) “reds” and \\(n\\) “blues” in a Euclidean space, solving the associated Euclidean Assignment Problem consists in finding the bijection between red and blue points that minimizes a functional of the point positions (an example instance at \\(n=500\\) on the unit square is depicted in figure). In the simplest stochastic version of this problem, the points are a Poisson Point Process, and some interest has developed over the years on the typical properties of the solution in the limit \\( n \to \infty \\) depending on the dimension of the ambient space and choice of cost function, motivated (among others) by an analogy with the physics of low-dimensional disordered systems and by recent results in Functional Analysis on the Monge–Kantorovich problem in the continuum.
-
+{: style="text-align: justify" }
+ <ins>In brief</ins>: given \\( 2n \\) points, \\(n\\) “reds” and \\(n\\) “blues” in a Euclidean space, solving the associated Euclidean Assignment Problem consists in finding the bijection between red and blue points that minimizes a functional of the point positions (an example instance at \\(n=500\\) on the unit square is depicted in figure). In the simplest stochastic version of this problem, the points are a Poisson Point Process, and some interest has developed over the years on the typical properties of the solution in the limit \\( n \to \infty \\) depending on the dimension of the ambient space and choice of cost function, motivated (among others) by an analogy with the physics of low-dimensional disordered systems and by recent results in Functional Analysis on the Monge–Kantorovich problem in the continuum.
+{: style="text-align: justify" }
 
 _Works in preparation:_
 
@@ -42,27 +42,31 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
  with A. Sportiello (2020-)
 
 
- Further papers on the ERAP and other random combinatorial optimization problems can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
+ Further papers on the ERAP and related random combinatorial optimization problems can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
  {: .text-justify}
 
+<br/>
+<br/>
 
+#### Gibbs measures, Phase Transitions and Renormalisation Group in some lattice model
 
-#### Gibbs measures, phase transitions and renormalisation group in some lattice model
-
- _Keywords_: Gibbs measure, decimation, majority rules, disordered systems in finite dimension.
-
+ <ins>Keywords</ins>: Gibbs measure, decimation, majority rules, disordered systems in finite dimension.
+{: style="text-align: justify" }
  <!--![](assets/config.png =100x20)-->
  <img style="max-width:350px;float:right;margin: 1px 1px 1px 1px;padding: 10px;" src="../assets/Tcrit-L33.png">
 
-  _In brief_: mathematical equilibrium statistical mechanics is the context in which phenomena such as phase transitions and conceptual frameworks such as the renormalization group can be approached rigorously. A central object in this domain are Gibbs mesures and their generalizations, which extend the canonical ensemble of the classical Gibbs theory to infinite systems. In order to model phase transitions, one can construct probability measures on an infinite product probability space in an alternative way to the standard Kolmogorov construction which avoids the thermodynamic limit of intensive quantities and takes into account the non-unicity (because there can be more than one Gibbs measure for an infinite system). This rigorous alternative "DLR" construction has been introduced at the end of the sixties by Dobrushin in the East and Lanford-Ruelle in the West and uses systems of compatible conditional probabilities with respect to the exterior of finite subsets, when the boundary conditions are fixed to then directly reach quantities of interest at infinite volume.
+  <ins>In brief</ins>: in mathematical statistical mechanics phenomena such as phase transitions and conceptual frameworks such as the renormalization group can be approached rigorously. A central object in this domain are Gibbs mesures and their generalizations, which extend the canonical ensemble of the classical Gibbs theory at finite volume to infinite systems. In order to model phase transitions, one can construct probability measures on an infinite product probability space in an alternative way to the standard Kolmogorov construction which avoids the thermodynamic limit of intensive quantities and takes into account the non-unicity (because there can be more than one Gibbs measure for an infinite system). This rigorous alternative "DLR" construction has been introduced at the end of the sixties by Dobrushin in the East and Lanford-Ruelle in the West and uses systems of compatible conditional probabilities with respect to the exterior of finite subsets, when the boundary conditions are fixed to then directly reach quantities of interest at infinite volume.
   Within this context we are currently focusing on aspects of the renormalization group in lattice systems, such as for nearest neighbors and long-range Ising and planar rotator models at low lattice dimensions and Ising models on Cayley trees.
-
+{: style="text-align: justify" }
 
  _Works in preparation:_
 
-
- 1. "Decimation for long-range Penrose models on fractal lattices'',
+1. "Decimations for Two Dimensional Ising and Rotator Models II'' with A.C.D. van Enter and A. Le Ny (2021-)
+2. "Decimation for long-range Penrose models on fractal lattices'',
    with A. Le Ny (2021-)
+
+
+
 
   <!--Some background on this project can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
   {: .text-justify}-->

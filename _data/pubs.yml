@@ -23,6 +23,8 @@
   year: 2021
   submitted: True
   pdf: "assets/DecLer30_final.pdf"
+  rg: 351656439
+  academia: 49094709
 
 - title: Almost Gibbsian Measures on a Cayley Tree
   authors: A. Le Ny
@@ -36,6 +38,8 @@
   year: 2021
   submitted: True
   pdf: "assets/MajoritiesOnTrees_v14_final.pdf"
+  rg: 351537068
+  academia: 48907624
 
 - title: "Anomalous scaling of the optimal cost in the one-dimensional Euclidean Random Assignment Problem: some rigorous results"
   authors: A. Sportiello
@@ -63,6 +67,8 @@
   volume: 183
   pages: 34
   pdf: "assets/DiffMatch.pdf"
+  rg: 351542313
+  academia: 44361528
 
 - title: "The Dyck bound in the concave 1-dimensional random assignment model"
   authors: S. Caracciolo, V. Erba and A. Sportiello
@@ -77,6 +83,8 @@
   pages: "064001"
   year: 2020
   pdf: "assets/concave1d.pdf"
+  rg: 332630361
+  academia: 42043679
 
 - title: "Anomalous scaling of the optimal cost in the one-dimensional random assignment problem"
   authors: S. Caracciolo and G. Sicuro
@@ -90,6 +98,8 @@
   pages: 846-864
   year: 2019
   pdf: "assets/Corrections1d.pdf"
+  rg: 323746608
+  academia: 38370087
 
 - title: "Random Euclidean matching problems in one dimension"
   authors: S. Caracciolo and G. Sicuro
@@ -103,6 +113,8 @@
   pages: "042102"
   year: 2017
   pdf: "assets/OneDimension.pdf"
+  rg: 318527977
+  academia: 33931431
 
 - title: "Finite size corrections in the random assignment problem"
   authors: S. Caracciolo, E.M. Malatesta and G. Sicuro
@@ -116,3 +128,5 @@
   pages: "052129"
   year: 2017
   pdf: "assets/FSC.pdf"
+  rg: 313857481
+  academia: 33014405
