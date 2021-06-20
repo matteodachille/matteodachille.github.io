@@ -51,11 +51,11 @@ _18/02/18 - 04/03/18_: Banach Center, IMPAN, Warsaw, Poland
 
 #### Membership of scientific societies
 
- Italian Society of Statistical Physics ([SIFS](https://www.fisicastatistica.org){:target="\_blank"}), voting member (2019 - current)
+ _2019 - current_ : [SIFS](https://www.fisicastatistica.org/home){:target="\_blank"} - Italian Society of Statistical Physics <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/>&nbsp; <a href="https://www.fisicastatistica.org/home" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/logo_SIFS.png"></a>
 
- European Physical Society ([EPS](https://www.eps.org/){:target="\_blank"}), individual member (2017 - current)
+ _2017 - current_ : [EPS](https://www.eps.org/){:target="\_blank"} - European Physical Society <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_EU.png"/>&nbsp; <a href="https://www.eps.org/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:17px;" src="../assets/logo_EPS.png"></a>
 
- Italian Physical Society ([SIF](https://www.sif.it){:target="\_blank"}), voting member (2013 - current)
+ _2013 - current_ : [SIF](https://www.sif.it){:target="\_blank"} - Italian Physical Society <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/>&nbsp; <a href="https://en.sif.it/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/logo_SIF.png"></a>
 
 
 

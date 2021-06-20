@@ -53,18 +53,6 @@ order: 3
 {% endfor %}
 </dl>
 
-### Co-authors webpages
-
-(if available)
-
-<!--
-Previous version
-Dario Benedetto, Emanuele Caglioti, Sergio Caracciolo, Aernout C.D. van Enter, Vittorio Erba, Arnaud Le Ny, Enrico M. Malatesta, Gabriele Sicuro, Andrea Sportiello
--->
-
-[Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="\_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="\_blank"}, [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="\_blank"}, [Vittorio Erba](https://vittorioerba.github.io/){:target="\_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}, Enrico M. Malatesta, [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"}
-
-<br/>
 
 ### PhD Thesis
 
@@ -84,3 +72,17 @@ Dario Benedetto, Emanuele Caglioti, Sergio Caracciolo, Aernout C.D. van Enter, V
  **La teoria di Schwarz-Christoffel e il Biliardo Quantistico Poligonale** <br/>
  University of Milan, 2012. Manuscript (in italian): [<i class="ai ai-researchgate ai-align-center-1x" aria-hidden="true"></i>](http://dx.doi.org/10.13140/RG.2.1.2101.6403){:target="\_blank"} - [<i class="ai ai-academia ai-align-center-1x" aria-hidden="true"></i>](https://www.academia.edu/2506378/La_Teoria_di_Schwarz_Christoffel_e_il_Biliardo_Quantistico_Poligonale){:target="\_blank"} - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/bscthesis.pdf){:target="_blank"}<br/>
  Supervisor: [Luca Guido Molinari](http://wwwteor.mi.infn.it/~molinari/){:target="_blank"}
+
+
+
+<br/>
+
+### Co-authors webpages
+
+
+ <!--
+ Previous version
+ Dario Benedetto, Emanuele Caglioti, Sergio Caracciolo, Aernout C.D. van Enter, Vittorio Erba, Arnaud Le Ny, Enrico M. Malatesta, Gabriele Sicuro, Andrea Sportiello
+ -->
+
+ [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="\_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="\_blank"}, [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="\_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="\_blank"}, [Vittorio Erba](https://vittorioerba.github.io/){:target="\_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}, [Enrico M. Malatesta](https://www.artlab.unibocconi.eu/wps/wcm/connect/cdr/artlab/home/people/students+and+postdocs/enrico+malatesta){:target="\_blank"}, [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="\_blank"}

@@ -13,7 +13,7 @@ hoursCM : 24
 hoursTD: 18
 assistants: Z. Abidi, H. Ben Rayana, S. Chareyron, M. D'Achille, S. Laruelle, A. Vialfont
 studtype: Economie #(Mathématiques - Physique - Informatique)
-etab: Université Paris-Est (Créteil)
+etab: Université Paris-Est Créteil
 ---
 ### Programme synthétique
 

@@ -13,7 +13,7 @@ hoursCM : 24
 hoursTD: 18
 assistants: M. D'Achille, A. Le Ny, T. Ngô
 studtype: Economie #(Mathématiques - Physique - Informatique)
-etab: Université Paris-Est (Créteil)
+etab: Université Paris-Est Créteil
 ---
 ### Programme
 
