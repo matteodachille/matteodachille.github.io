@@ -8,16 +8,16 @@ order: 4
 {:toc}
 -->
 
-### Upcoming
+### Recent
 
 
 25/06/2021 -  **Journées de probabilités 2021**, Guidel, FR, ([link](https://journees-probabilites.univ-rennes1.fr/programme.htm){:target="_blank"}). 40 min
 {: style="font-size: 20px" }
-_Euclidean Random Assignment Problems: origin, state of the art and some open problems in one dimension_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](#)
+_Euclidean Random Assignment Problems: origin, state of the art and some open problems in one dimension_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_JdP_v25_final.pdf){:target="_blank"}
 {: style="margin-left: 40px" }
 
 
-24/06/2021 - **I convention of SIFS**, Parma, IT, ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}). 12 min (Poster session, Room 4)
+24/06/2021 - **I convention of SIFS**, Parma, IT, ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}). 12 min + Poster session, Room 4
 {: style="font-size: 20px" }
 
 _Consequences of Weyl's law in low-dimensional Euclidean Random Assignment Problems_, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=4RcOiW20C_E){:target="_blank"}, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAPs_Low_d_Weyl_SIFS_v8.pdf){:target="_blank"}
