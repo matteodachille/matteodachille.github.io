@@ -8,13 +8,11 @@ order: 4
 {:toc}
 -->
 
+<!--
 ### Recent
 
 
-25/06/2021 -  **Journées de probabilités 2021**, Guidel, FR, ([link](https://journees-probabilites.univ-rennes1.fr/programme.htm){:target="_blank"}). 40 min
-{: style="font-size: 20px" }
-_Euclidean Random Assignment Problems: origin, state of the art and some open problems in one dimension_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://journees-probabilites.univ-rennes1.fr/exposes/D%27Achille.pdf){:target="_blank"}
-{: style="margin-left: 40px" }
+
 
 
 24/06/2021 - **I convention of SIFS**, Parma, IT, ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}). 12 min + live video session
@@ -26,13 +24,24 @@ _Consequences of Weyl's law in low-dimensional Euclidean Random Assignment Probl
 
 
 ### Past
-
+-->
 #### 2021
 {: .no_toc}
 
-18/03 - **Alea Days 2021**, Centre International de Rencontres Mathematiques - **Marseilles Luminy**, 20 min
+25/06 -  **Journées de probabilités 2021**, Guidel, FR, ([link](https://journees-probabilites.univ-rennes1.fr/programme.htm){:target="_blank"}). 40 min
+{: style="font-size: 16px" }
+_Euclidean Random Assignment Problems: origin, state of the art and some open problems in one dimension_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://journees-probabilites.univ-rennes1.fr/exposes/D%27Achille.pdf){:target="_blank"}
+{: style="font-size: 17px; margin-left: 40px" }
+
+
+24/06 - **I convention of SIFS**, Parma, IT, ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}). 12 min + live Zoom session
+{: style="font-size: 16px" }
+_Consequences of Weyl's law in low-dimensional Euclidean Random Assignment Problems_ <br/> [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=4RcOiW20C_E){:target="_blank"}, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAPs_Low_d_Weyl_SIFS_v8.pdf){:target="_blank"}
+{: style="font-size: 17px; margin-left: 40px" }
+
+18/03 - **Alea Days 2021**, Centre International de Rencontres Mathématiques - **Marseilles Luminy**, 20 min
 {: style="font-size: 16px;" }
-_Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-exponentially distributed points_, (<a href="{{  site.baseurl }}downloads/ALEA2021_MZSVs_ERAP_final.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+_Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-exponentially distributed points_<br/> (<a href="{{  site.baseurl }}downloads/ALEA2021_MZSVs_ERAP_final.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
 {: style="font-size: 17px; margin-left: 40px" }
 
 
@@ -70,7 +79,7 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 
 14/04/2021
 {: style="font-size: 16px; margin-left: 20px" }
- Radio guest on "Salon de Café" on **Radio Monte Carlo Doualiya**.<br/> Topic: the meaning of vaccine efficacy and possible future scenarios of the COVID-19 epidemic (French with Arabic voice-over) ([website](https://mc-d.co/1b5W){:target="_blank"})
+ Radio guest on "Salon de Café" on **Radio Monte Carlo Doualiya**, 10min <br/> Topic: _Meaning of vaccine efficacy and possible future scenarios of the COVID-19 epidemic_ (French with Arabic voice-over) ([website](https://mc-d.co/1b5W){:target="_blank"})
  {: style="font-size: 17px; margin-left: 40px" }
 
  <br/>
@@ -82,6 +91,9 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 
 #### 2021
 {: .no_toc}
+
+21-25/06 - **Journées de probabilités 2021**, Guidel. [Website](https://journees-probabilites.univ-rennes1.fr/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
 
 17-22/05 - **P.L. Chebyshev - 200**, the 6th International Conference on Stochastic Methods, dedicated to the bicentenary of Pafnuty Lvovich Chebyshev. [Website](http://www.mathnet.ru/eng/conf1902){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
