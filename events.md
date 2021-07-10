@@ -44,9 +44,9 @@ _Consequences of Weyl's law in low-dimensional Euclidean Random Assignment Probl
 {: .no_toc}
 
 
-07/07 - **Franco-Dutch meeting, CNRS International Research Project "Bézout-Eurandom"**, Amphithéâtre Hermite, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris ([link](https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf){:target="_blank"}). 40 min
+07/07 - **Franco-Dutch meeting, CNRS IRP "Bézout-Eurandom"**, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris ([link](https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf){:target="_blank"}). 40 min
 {: style="font-size: 16px" }
-_On the phase diagram of Euclidean Random Assignment Problems at low dimensions_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_IHP_v18_final.pdf)
+_On the phase diagram of Euclidean Random Assignment Problems at low dimensions_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_IHP_v18_final.pdf){:target="_blank"}
 {: style="font-size: 17px; margin-left: 40px" }
 
 25/06 -  **Journées de probabilités 2021**, Guidel, FR, ([link](https://journees-probabilites.univ-rennes1.fr/programme.htm){:target="_blank"}). 40 min
@@ -62,13 +62,13 @@ _Consequences of Weyl's law in low-dimensional Euclidean Random Assignment Probl
 
 18/03 - **Alea Days 2021**, Centre International de Rencontres Mathématiques - **Marseilles Luminy**, 20 min
 {: style="font-size: 16px;" }
-_Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-exponentially distributed points_<br/> (<a href="{{  site.baseurl }}downloads/ALEA2021_MZSVs_ERAP_final.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+_Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-exponentially distributed points_<br/> <a href="{{  site.baseurl }}downloads/ALEA2021_MZSVs_ERAP_final.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 {: style="font-size: 17px; margin-left: 40px" }
 
 
 19/02 - Determinantal point processes working group, Laboratoire Painlevé, **Université de Lille**, 45 min
 {: style="font-size: 16px;" }
-_Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_ (<a href="{{  site.baseurl }}downloads/erap22-Lille-finalv2.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+_Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_, <a href="{{  site.baseurl }}downloads/erap22-Lille-finalv2.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 {: style="font-size: 17px; margin-left: 40px" }
 
 
@@ -76,20 +76,20 @@ _Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimension
 #### 2020
 {: .no_toc}
 
-10/11 - Probability working group at LAMA, **Université Paris-Est Créteil**, 45 min
+10/11 - Probability working group at LAMA, **Université Paris-Est Créteil**, ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"}). 45 min
 {: style="font-size: 16px;" }
-_Le problème d'assignation aléatoire euclidienne: état de l'art et quelques problèmes ouverts en dimension \\(d \leq 2 \\)_ ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_fr_nov10.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
+_Le problème d'assignation aléatoire euclidienne: état de l'art et quelques problèmes ouverts en dimension \\(d \leq 2 \\)_, <a href="{{  site.baseurl }}assets/slides_ERAP_fr_nov10.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 {: style="font-size: 17px; margin-left: 40px" }
 
-16/10 - PhD thesis defense, **Université Paris-Saclay**, 45 min
+16/10 - PhD thesis defense, **Université Paris-Saclay**. 45 min
 {: style="font-size: 16px;" }
 _Statistical properties of the Euclidean random assignment problem_, ([video](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_1610.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
 {: style="font-size: 17px; margin-left: 40px" }
 
 
-14/01 - Seminar of CALIN Team at LIPN, **Université Sorbonne Paris Nord**, 45 min
+14/01 - Seminar of CALIN Team at LIPN, **Université Sorbonne Paris Nord**, ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}). 45 min
 {: style="font-size: 16px;" }
-_Le problème d'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_ ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
+_Le problème d'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_
 {: style="font-size: 17px; margin-left: 40px" }
 
 
