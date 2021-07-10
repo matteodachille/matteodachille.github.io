@@ -6,7 +6,7 @@ order: 4
 
 <!--- TOC
 {:toc}
--->
+
 
 
 ### Upcoming
@@ -38,10 +38,16 @@ _Consequences of Weyl's law in low-dimensional Euclidean Random Assignment Probl
 
 ### Past
 -->
-### Past
+<!--### Past -->
 
 #### 2021
 {: .no_toc}
+
+
+07/07 - **Franco-Dutch meeting, CNRS International Research Project "Bézout-Eurandom"**, Amphithéâtre Hermite, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris ([link](https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf){:target="_blank"}). 40 min
+{: style="font-size: 16px" }
+_On the phase diagram of Euclidean Random Assignment Problems at low dimensions_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_IHP_v18_final.pdf)
+{: style="font-size: 17px; margin-left: 40px" }
 
 25/06 -  **Journées de probabilités 2021**, Guidel, FR, ([link](https://journees-probabilites.univ-rennes1.fr/programme.htm){:target="_blank"}). 40 min
 {: style="font-size: 16px" }
