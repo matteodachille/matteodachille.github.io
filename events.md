@@ -66,7 +66,7 @@ _Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-expone
 {: style="font-size: 17px; margin-left: 40px" }
 
 
-19/02 - Determinantal point processes working group, Laboratoire Painlevé, **Université de Lille**, 45 min
+19/02 - Determinantal point processes working group, **Laboratoire Painlevé**, **Université de Lille**, 45 min
 {: style="font-size: 16px;" }
 _Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_, <a href="{{  site.baseurl }}downloads/erap22-Lille-finalv2.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 {: style="font-size: 17px; margin-left: 40px" }
@@ -112,25 +112,23 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 
 #### 2021
 {: .no_toc}
-
-21-25/06 - **Journées de probabilités 2021**, Guidel. [Website](https://journees-probabilites.univ-rennes1.fr/){:target="_blank"}
+07-09/07 - **Franco-Dutch meeting « Bézout-Eurandom »**, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](https://perso.math.u-pem.fr/le_ny.arnaud/ProgramIHP-July-Bezout-TUe-V3.pdf){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-17-22/05 - **P.L. Chebyshev - 200**, the 6th International Conference on Stochastic Methods, dedicated to the bicentenary of Pafnuty Lvovich Chebyshev. [Website](http://www.mathnet.ru/eng/conf1902){:target="_blank"}
-{: style="font-size: 16px; margin-left: 20px" }
-<!--
- the 6th International Conference on Stochastic Methods, dedicated to the bicentenary of Pafnuty Lvovich Chebyshev. [Website](http://www.mathnet.ru/eng/conf1902){:target="_blank"} <br/> Organizers: [Steklov Mathematical Institute](http://www.mi-ras.ru/?l=1){:target="_blank"}, [Steklov International Mathematical Center](http://simc.mi-ras.ru/eng/){:target="_blank"}, [St Petersburg Department of Steklov Mathematical
-Institute](http://www.pdmi.ras.ru/eng/institut/institut.php){:target="_blank"}, [Lomonosov Moscow State University](https://www.msu.ru/en/){:target="_blank"}, National
-Committee of the [Bernoulli Society for Mathematical Statistics, Probability,
-Combinatorics and Their Applications](http://www.bernoulli-society.org/){:target="_blank"}, [Don State Technical University](https://donstu.ru/en/){:target="_blank"}, [RUDN University](http://eng.rudn.ru/){:target="_blank"}, Journal [Theory of Probability and Its Applications](https://www.siam.org/publications/journals/theory-of-probability-and-its-applications-tvp){:target="_blank"} ([conference website](http://www.mathnet.ru/eng/conf1902){:target="_blank"})
-{: style="font-size: 17px; margin-left: 40px" }
--->
-
-15-19/03 - **ALEA Days 2021**, [CIRM](https://www.cirm-math.com/){:target="_blank"}, Marseilles - Luminy. [Website](http://gt-alea.math.cnrs.fr/alea2021/){:target="_blank"}
+05-06/07 - **Journées « Processus de Hawkes »**, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](https://perso.math.u-pem.fr/le_ny.arnaud/listetitreProgramme-Hawkes.pdf){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
+21-25/06 - **Journées de probabilités 2021**, Guidel, France. [Website](https://journees-probabilites.univ-rennes1.fr/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
 
-26-27/01 - **Inhomogeneous Random Systems**, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, [Institut Curie](https://curie.fr/){:target="_blank"}, Paris. [Website](http://irs.math.cnrs.fr/2021/){:target="_blank"}
+17-22/05 - **P.L. Chebyshev - 200**, the 6th International Conference on Stochastic Methods, dedicated to the bicentenary of Pafnuty Lvovich Chebyshev, online. [Website](http://www.mathnet.ru/eng/conf1902){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+15-19/03 - **ALEA Days 2021**, [CIRM](https://www.cirm-math.com/){:target="_blank"}, Marseilles - Luminy (online). [Website](http://gt-alea.math.cnrs.fr/alea2021/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+26-27/01 - **Inhomogeneous Random Systems**, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, [Institut Curie](https://curie.fr/){:target="_blank"}, (online). [Website](http://irs.math.cnrs.fr/2021/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
@@ -139,7 +137,7 @@ Combinatorics and Their Applications](http://www.bernoulli-society.org/){:target
 {: .no_toc}
 
 
-27-31/07 - **Integrable Probability Online Summer School**, **Clay** Mathematics Institute & **Heilbronn** Institute for Mathematical Research. [Website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"}
+27-31/07 - **Integrable Probability Online Summer School**, **Clay** Mathematics Institute & **Heilbronn** Institute for Mathematical Research, online. [Website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 04-07/02 -  **Combinatorics days of Bordeaux (JCB2020)**, [LaBRI](https://www.labri.fr/){:target="_blank"}, Université de Bordeaux. [Website](https://jcb2020.labri.fr/){:target="_blank"}
@@ -163,7 +161,7 @@ Combinatorics and Their Applications](http://www.bernoulli-society.org/){:target
 {: style="font-size: 16px; margin-left: 20px" }
 
 
-05-09/03  - **Information transmission in biological systems**, The Mathematical Research and Conference Center, Będlewo, Poland.
+05-09/03 - **Information transmission in biological systems**, The Mathematical Research and Conference Center, Będlewo, Poland.
 [Website](https://www.impan.pl/en/activities/banach-center/conferences/18-sstransmission){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
@@ -175,20 +173,20 @@ Combinatorics and Their Applications](http://www.bernoulli-society.org/){:target
 [Website](https://www.cecam.org/workshop-1414.html){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-16-20/10 26th **VI-HPS Tuning Workshop**,Laboratoire Exascale Computing Research (ECR), Campus Ter@tec, Bruyères-le-Châtel, France. [Website](http://www.vi-hps.org/training/tws/tw26.html){:target="_blank"}
+16-20/10 - 26th **VI-HPS Tuning Workshop**,Laboratoire Exascale Computing Research (ECR), Campus Ter@tec, Bruyères-le-Châtel, France. [Website](http://www.vi-hps.org/training/tws/tw26.html){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
 #### 2016
 {: .no_toc}
 
-07-11/11 **Optimal Transport and Applications**, Scuola Normale Superiore, Pisa, Italy. [Website](http://webtheory.sns.it/optimal-transport/index.php){:target="_blank"}
+07-11/11 - **Optimal Transport and Applications**, Scuola Normale Superiore, Pisa, Italy. [Website](http://webtheory.sns.it/optimal-transport/index.php){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 #### 2014
 {: .no_toc}
 
-21-26/07 **Mathematical Physics, Analysis and Stochastics**, summer School at Ruprecht-Karls-Universität Heidelberg, Heidelberg, Germany.
+21-26/07 - **Mathematical Physics, Analysis and Stochastics**, summer School at Ruprecht-Karls-Universität Heidelberg, Heidelberg, Germany.
 [Website](http://www.thphys.uni-heidelberg.de/~salmhofer/summerschool-2014/summer-school-2014.html){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
