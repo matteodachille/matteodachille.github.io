@@ -21,24 +21,25 @@ _On the phase diagram of Euclidean Random Assignment Problems at low dimensions_
 {: style="margin-left: 40px" }
 -->
 
-<!--
+
 ### Upcoming
 
 
 
 
 
-24/06/2021 - **I convention of SIFS**, Parma, IT, ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}). 12 min + live video session
+14/09/2021 - **Eindhoven SPOR Seminar**, Eindhoven, NL, ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}). 60 min
 {: style="font-size: 20px" }
 
-_Consequences of Weyl's law in low-dimensional Euclidean Random Assignment Problems_, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=4RcOiW20C_E){:target="_blank"}, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAPs_Low_d_Weyl_SIFS_v8.pdf){:target="_blank"}
+Title: _TBA_, [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> (slides soon)]({{ site.baseurl }}events){:target="_blank"}
 {: style="margin-left: 40px" }
+
+<!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
 
 
 
 ### Past
--->
-<!--### Past -->
+
 
 #### 2021
 {: .no_toc}
