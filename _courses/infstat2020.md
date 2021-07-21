@@ -11,9 +11,10 @@ level: L2
 #professor: Sophie Laruelle
 hoursCM : 24
 hoursTD: 18
-assistants: Z. Abidi, H. Ben Rayana, S. Chareyron, M. D'Achille, S. Laruelle, A. Vialfont
+assistants: Z. Abidi, H. Ben Rayana, S. Chareyron, M. D'Achille, <b>S. Laruelle</b>, A. Vialfont
 studtype: Economie #(Mathématiques - Physique - Informatique)
 etab: Université Paris-Est Créteil
+classnumber: 5
 ---
 ### Programme synthétique
 

@@ -15,23 +15,34 @@ layout: default
     </div>
   {% endif %}
 
-    {% if page.assistants%}
+  {% if page.studtype%}
+
+<div class="course-class {{ page.studtype | downcase}}">
+    Class for {{ page.level }} students in {{ page.studtype }} at {{ page.etab }}
+    </div>
+{% endif %}
+
+<br/>
+
+<div class="course-class {{ page.year | downcase }}">
+  Academic year: {{ page.year }}
+</div>
+<div class="course-semester {{ page.semester | downcase }}">
+  Semester: {{ page.semester }}
+</div>
+<div class="course-lang {{ page.lang | downcase }}">
+  Language: {{ page.lang }}
+</div>
+
+    {% if page.team%}
 
   <div class="course-class {{ page.professor | downcase}}">
-      Pedagogical Team: {{ page.assistants }}
+      Pedagogical Team (responsible in <b>bold</b>): {{ page.team }}
       </div>
   {% endif %}
 
 
-  <div class="course-class {{ page.year | downcase }}">
-    Academic year: {{ page.year }}
-  </div>
-  <div class="course-semester {{ page.semester | downcase }}">
-    Semester: {{ page.semester }}
-  </div>
-  <div class="course-lang {{ page.lang | downcase }}">
-    Language: {{ page.lang }}
-  </div>
+
   <!--div class="course-nstuds {{ page.nostudents | downcase }}">
     N. of students (avg): {{ page.nostudents }}
   </div-->

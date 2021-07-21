@@ -8,14 +8,14 @@ hours: 90
 role : TD
 level: L3
 nostudents: 150
-#professor: Arnaud Le Ny
 hoursCM : 24
 hoursTD: 18
-assistants: M. D'Achille, A. Le Ny, T. Ngô
-studtype: Economie #(Mathématiques - Physique - Informatique)
+team: M. D'Achille, <b>A. Le Ny</b>, T. Ngô
+studtype: Economie
 etab: Université Paris-Est Créteil
+classnumber: 4
 ---
-### Programme
+### Programme synthétique
 
 
 _Systèmes dynamiques en temps discret_: equations récurrentes d’ordre 1, equations récurrentes linéaires d’ordre 2, systèmes récurrents (non-)linéaires en Economie.

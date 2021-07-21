@@ -23,7 +23,7 @@ I currently teach for the [Laboratoire d’analyse et de mathématiques appliqu�
    margin-left: 10;
    padding-left: 1em;
    text-indent: -2.2em;">
-  {% assign sorted = site.courses | sort: 'year' | reverse %}
+  {% assign sorted = site.courses | sort: 'classnumber' | reverse %}
   {% for course in sorted %}
     <li style="margin-left: -40px;">
       {{course.year}} &nbsp; <a href="{{ course.url }}"><b>{{ course.title }}</b></a>

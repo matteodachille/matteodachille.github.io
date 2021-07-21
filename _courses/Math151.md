@@ -7,14 +7,14 @@ hours: 30
 lang: french
 role: TD
 nostudents: 33
-#professor: Guy David
-assistants: G. David, M. D'Achille, F. Haglund, T. Pugnat
+team: <b>G. David</b>, M. D'Achille, F. Haglund, T. Pugnat
 level: L1
-studtype: DLPC #(Double Licence Physico-Chimie)
+studtype: Double Licence Physico-Chimie
 etab: Université Paris-Sud (Orsay)
+classnumber: 1
 ---
 
-### Programme
+### Programme synthétique
 
 Fonctions et graphes, limites et continuité, développements limités, dérivée, courbes paramétrées, comportement des fonctions sur un intervalle fermé borné, développements limités d'ordre \\(\geq 2\\), equations différentielles, primitives et intégrales, fonctions de plusieurs variables.
 
