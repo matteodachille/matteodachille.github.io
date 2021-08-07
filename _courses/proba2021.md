@@ -1,6 +1,6 @@
 ---
 layout: course # You can ommit this if you've set it as a default
-title: Probabilités
+title: Probability
 year: 	21/22
 semester: first
 lang: french
@@ -9,7 +9,7 @@ role : CM+TD
 level: L2
 hoursCM :
 hoursTD:
-team: Z. Abidi, H. Ben Rayana, S. Chareyron, M. D'Achille, P. Durand, <b>S. Laruelle</b>, A. Vialfont
+team: Z. Abidi, H. Ben Rayana, M. D'Achille, P. Durand, <b>S. Laruelle</b>, A. Vialfont
 studtype: Economie
 etab: Université Paris-Est Créteil
 classnumber: 6

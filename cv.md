@@ -36,7 +36,11 @@ _12/2019 - 12/2020_: Associate Member (Membre Associé) <a href="https://lipn.un
 
 <br/>
 
-#### Visiting Position(s)
+#### Visiting Positions
+
+_09/09/21 - 25/09/21_: EURANDOM, TU Eindhoven, Netherlands
+ ([website](https://www.eurandom.tue.nl/){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://www.eurandom.tue.nl/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/logo_EURANDOM.png"></a>
+ <br/>
 
 _18/02/18 - 04/03/18_: Banach Center, IMPAN, Warsaw, Poland
  ([website](https://www.mimuw.edu.pl/~miekisz/index.php?st=4){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_PL.png"/> &nbsp; <a href="https://www.impan.pl/en/activities/banach-center" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/impan_notext.gif"></a>

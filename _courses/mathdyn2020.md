@@ -1,6 +1,6 @@
 ---
 layout: course # You can ommit this if you've set it as a default
-title: Mathématiques des systèmes dynamiques
+title: Mathematics for Dynamical Systems
 year: 	20/21
 semester: first
 lang: french

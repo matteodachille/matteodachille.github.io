@@ -1,6 +1,6 @@
 ---
 layout: course # You can ommit this if you've set it as a default
-title: Inférence Statistique
+title: Statistical Inference
 year: 	20/21
 semester: second
 lang: french
@@ -11,7 +11,7 @@ level: L2
 #professor: Sophie Laruelle
 hoursCM : 24
 hoursTD: 18
-assistants: Z. Abidi, H. Ben Rayana, S. Chareyron, M. D'Achille, <b>S. Laruelle</b>, A. Vialfont
+team: Z. Abidi, H. Ben Rayana, S. Chareyron, M. D'Achille, <b>S. Laruelle</b>, A. Vialfont
 studtype: Economie #(Mathématiques - Physique - Informatique)
 etab: Université Paris-Est Créteil
 classnumber: 5

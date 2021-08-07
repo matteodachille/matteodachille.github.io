@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Mathématiques des systèmes dynamiques
+title: Mathematics for Dynamical Systems
 year: 	21/22
 semester: first
 lang: french
@@ -10,7 +10,7 @@ level: L3
 nostudents:
 hoursCM :
 hoursTD:
-team: M. D'Achille, <b>A. Le Ny</b>, TBD
+team: M. D'Achille, <b>A. Deshayes</b>, TBD
 studtype: Economie
 etab: Université Paris-Est Créteil
 classnumber: 7
