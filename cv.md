@@ -39,7 +39,7 @@ _12/2019 - 12/2020_: Associate Member (Membre Associé) <a href="https://lipn.un
 #### Visiting Positions
 
 _09/09/21 - 25/09/21_: EURANDOM, TU Eindhoven, Netherlands
- ([website](https://www.eurandom.tue.nl/){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://www.eurandom.tue.nl/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/logo_EURANDOM.png"></a>
+ ([website](https://casa.win.tue.nl/event/matteo-dachille-universite-paris-est-creteil/){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://www.eurandom.tue.nl/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/logo_EURANDOM.png"></a>
  <br/>
 
 _18/02/18 - 04/03/18_: Banach Center, IMPAN, Warsaw, Poland
