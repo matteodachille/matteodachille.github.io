@@ -28,7 +28,7 @@ _On the phase diagram of Euclidean Random Assignment Problems at low dimensions_
 
 
 
-14/09/2021 - **Eindhoven SPOR Seminar**, Eindhoven, NL, ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}). 60 min
+14/09/2021 - **Eindhoven SPOR Seminar**, Eindhoven, NL, ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}). 45 min
 {: style="font-size: 20px" }
 
 Title: _TBA_, [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> (slides soon)]({{ site.baseurl }}events){:target="_blank"}
