@@ -5,7 +5,7 @@ order: 5
 ---
 
 
-### Master
+### Master Students
 
 <br/>
 **Moustapha Mouhamadou BA**, supervised research work (_TER_) titled "_Universalité dans le problème d’assignation aléatoire

@@ -8,17 +8,21 @@ order: 3
 
 (click on YYMM.NNNNN - <i class="ai ai-hal ai-align-center-1x"></i> - <i class="ai ai-researchgate ai-align-center-1x"></i> - <i class="ai ai-academia ai-align-center-1x"></i> - <i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; to access/download preprint versions)
 
+{% assign list_wip = site.data.pubs | where: 'upcoming', true %}
+{% assign list_prep = site.data.pubs | where: 'preprint', true %}
+{% assign list = site.data.pubs | where: 'published', true %}
+
+
 ### In preparation
 
 <dl>
-{% assign list = site.data.pubs | where: 'upcoming', true %}
-{% assign count = list.size %}
+{% assign count = list_wip.size | plus: list.size | plus: list_prep.size %}
 <!--{% if count != 0 %}
   ### Preprints
   {% endif %}-->
-{% for pub in list %}
+{% for pub in list_wip %}
   <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
-  position: absolute;'>[{{ count }}]</p> {{ pub.title }} <i>with {{ pub.authors }}</i>, {{ pub.year }}</dd>
+  position: absolute;'>[{{ count }}]</p>&nbsp; {{ pub.title }} <i>with {{ pub.authors }}</i>, {{ pub.year }}</dd>
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
@@ -27,12 +31,11 @@ order: 3
 ### Preprints
 
 <dl>
-{% assign list = site.data.pubs | where: 'preprint', true %}
-{% assign count = list.size %}
+{% assign count = list_prep.size | plus: list.size %}
 <!--{% if count != 0 %}
   ### Preprints
   {% endif %}-->
-{% for pub in list %}
+{% for pub in list_prep %}
   <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
   position: absolute;'>[{{ count }}]</p> <b>{{ pub.title }}</b> with {{ pub.authors }}, {{ pub.year }}{% if pub.submitted %}. <i>Submitted</i>{% endif %}. Preprints: <a href="{{ pub.arxivurl }}" target="_blank">{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a>{% endif %}{% if pub.rg %} - <a href="https://www.researchgate.net/publication/{{ pub.rg }}" target="_blank"><i class="ai ai-researchgate ai-align-center-1x"></i></a>{% endif %}{% if pub.academia %} - <a href="https://www.academia.edu/{{ pub.academia }}" target="_blank"><i class="ai ai-academia ai-align-center-1x"></i></a>{% endif %} - <a href="{{  site.baseurl }}{{ pub.pdf }}" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> {% if pub.accepted %}(<i>accepted for publication on {{ pub.accjourn }}</i>){% endif %}</dd>
 {% assign count = count | plus: -1 %}

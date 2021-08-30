@@ -4,7 +4,7 @@ title: Calculus Math 151
 year: 	18/19
 semester: S1
 hours: 30
-lang: french
+lang: French
 role: TD
 nostudents: 33
 team: <b>G. David</b>, M. D'Achille, F. Haglund, T. Pugnat

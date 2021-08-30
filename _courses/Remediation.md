@@ -4,7 +4,7 @@ title: Remédiation en Mathématiques (OuiSi)
 year: 	18/19
 semester: S2
 hours: 35
-lang: french
+lang: French
 role : TD
 level: L1
 nostudents: 15
