@@ -31,7 +31,7 @@ _On the phase diagram of Euclidean Random Assignment Problems at low dimensions_
 14/09/2021 - **Eindhoven SPOR Seminar**, TU/e, Eindhoven, NL, ([link](https://www.eurandom.tue.nl/eindhoven-spor-seminar/){:target="_blank"}). 45 min
 {: style="font-size: 20px" }
 
-Title: _TBA_, [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> (slides soon)]({{ site.baseurl }}events){:target="_blank"}
+Title: _One dimensional Euclidean Random Assignment Problems: anomalous scaling and critical hyperbolae_, [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> (slides soon)]({{ site.baseurl }}events){:target="_blank"}
 {: style="margin-left: 40px" }
 
 <!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
@@ -67,7 +67,7 @@ _Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-expone
 {: style="font-size: 17px; margin-left: 40px" }
 
 
-19/02 - Determinantal point processes working group, **Laboratoire Painlevé**, **Université de Lille**, 45 min
+19/02 - Cristal Point Processes and Applications, **Painlevé Laboratory**, **Université de Lille**, ([link](http://seminaire.univ-lille1.fr/node/544){:target="_blank"}), 45 min
 {: style="font-size: 16px;" }
 _Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_, <a href="{{  site.baseurl }}downloads/erap22-Lille-finalv2.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 {: style="font-size: 17px; margin-left: 40px" }
