@@ -19,14 +19,13 @@ _On the phase diagram of Euclidean Random Assignment Problems at low dimensions_
 
 <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}events){:target="_blank"}
 {: style="margin-left: 40px" }
--->
-
+s
 
 ### Upcoming
 
 
 
-
+<!--
 
 14/09/2021 - **Eindhoven SPOR Seminar**, TU/e, Eindhoven, NL, ([link](https://www.eurandom.tue.nl/eindhoven-spor-seminar/){:target="_blank"}). 45 min
 {: style="font-size: 20px" }
@@ -36,13 +35,18 @@ Title: _One dimensional Euclidean Random Assignment Problems: anomalous scaling 
 
 <!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
 
-
-
+<!--
 ### Past
 
+-->
 
 #### 2021
 {: .no_toc}
+
+14/09 - **Eindhoven SPOR Seminar**, TU/e, Eindhoven, NL, ([link](https://www.eurandom.tue.nl/eindhoven-spor-seminar/){:target="_blank"}). 45 min
+{: style="font-size: 16px" }
+_One dimensional ERAPs: anomalous scaling and critical hyperbolae_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}events){:target="_blank"}
+{: style="font-size: 17px; margin-left: 40px" }
 
 
 07/07 - **Franco-Dutch meeting, CNRS IRP "Bézout-Eurandom"**, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris ([link](https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf){:target="_blank"}). 40 min
