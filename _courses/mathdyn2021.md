@@ -10,7 +10,7 @@ level: L3
 nostudents:
 hoursCM :
 hoursTD:
-team: M. D'Achille, <b>A. Deshayes</b>
+team: K. Attar, M. D'Achille, <b>A. Deshayes</b>
 studtype: Economie
 etab: Université Paris-Est Créteil
 classnumber: 7
