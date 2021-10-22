@@ -8,7 +8,6 @@ order: 4
 {:toc}
 
 
-
 ### Upcoming
 
 07/07/2021 - **Franco-Dutch meeting, CNRS International Research Project "Bézout-Eurandom"**, Amphithéâtre Hermite, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris ([link](https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf){:target="_blank"}). 40 min
@@ -21,24 +20,23 @@ _On the phase diagram of Euclidean Random Assignment Problems at low dimensions_
 {: style="margin-left: 40px" }
 s
 
+-->
+
 ### Upcoming
 
 
 
-<!--
 
-14/09/2021 - **Eindhoven SPOR Seminar**, TU/e, Eindhoven, NL, ([link](https://www.eurandom.tue.nl/eindhoven-spor-seminar/){:target="_blank"}). 45 min
+
+14/09/2021 - **Optimal Transport and Uncertainty**, Pisa, IT, ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}). 45 min
 {: style="font-size: 20px" }
 
-Title: _One dimensional Euclidean Random Assignment Problems: anomalous scaling and critical hyperbolae_, [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> (slides soon)]({{ site.baseurl }}events){:target="_blank"}
+Title: _TBA_, &nbsp; [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> (slides soon)]({{ site.baseurl }}events){:target="_blank"}
 {: style="margin-left: 40px" }
 
 <!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
 
-<!--
 ### Past
-
--->
 
 #### 2021
 {: .no_toc}
@@ -117,6 +115,17 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 
 #### 2021
 {: .no_toc}
+
+
+#### Upcoming
+29/11 - **Optimal Transport and Uncertainty**, Pisa, Italy. [Website](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}
+{: style="font-size: 20px; margin-left: 20px" }
+15-19/11 - **Stochastic Geometry Days**, Dunkerque, France. [Website](https://www.mathconf.org/sgd2021){:target="_blank"}
+{: style="font-size: 20px; margin-left: 20px" }
+
+
+
+#### Past
 07-09/07 - **Franco-Dutch meeting « Bézout-Eurandom »**, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](https://perso.math.u-pem.fr/le_ny.arnaud/ProgramIHP-July-Bezout-TUe-V3.pdf){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
@@ -142,7 +151,7 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 {: .no_toc}
 
 
-27-31/07 - **Integrable Probability Online Summer School**, **Clay** Mathematics Institute & **Heilbronn** Institute for Mathematical Research, online. [Website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"}
+27-31/07 - **Integrable Probability Online Summer School**, Clay Mathematics Institute & Heilbronn Institute for Mathematical Research, online. [Website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 04-07/02 -  **Combinatorics days of Bordeaux (JCB2020)**, [LaBRI](https://www.labri.fr/){:target="_blank"}, Université de Bordeaux. [Website](https://jcb2020.labri.fr/){:target="_blank"}

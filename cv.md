@@ -38,6 +38,10 @@ _12/2019 - 12/2020_: Associate Member (Membre Associé) <a href="https://lipn.un
 
 #### Scientific Visits
 
+_22/11/21 - 29/11/21_: Mathematics Dept., University of Pisa
+ ([website](#){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_IT.png"/> &nbsp; <a href="https://www.dm.unipi.it/webnew/en/info/introduction" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/logo_Pisa.png"></a>
+ <br/>
+
 _09/09/21 - 24/09/21_: CASA, TU Eindhoven, Netherlands
  ([website](https://casa.win.tue.nl/event/matteo-dachille-universite-paris-est-creteil/){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://casa.win.tue.nl/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/casa_logo.png"></a>
  <br/>
