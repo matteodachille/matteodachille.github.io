@@ -28,7 +28,7 @@ s
 
 
 
-29/11/2021 - **Optimal Transport and Uncertainty**, Pisa, IT, ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}). 45 min
+26/11/2021 - **Optimal Transport and Uncertainty**, Pisa, IT, ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}). 45 min
 {: style="font-size: 20px" }
 
 Title: _TBA_, &nbsp; [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> (slides soon)]({{ site.baseurl }}events){:target="_blank"}
