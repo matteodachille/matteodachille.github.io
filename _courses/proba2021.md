@@ -28,3 +28,9 @@ _Chapitre 3_ : Variables Aléatoires Continues (densité, fonction de répartiti
 
 
 _Chapitre 4_: Modes de Convergence et Théorèmes Limites (convergence presque-sûre, en probabilité, en loi, lois forte et faible des grands nombres, Théorème Central Limite, illustration à l’aide de la méthode Monte Carlo).
+
+
+### Résultats
+
+
+[Premier contrôle continu - 23/10/2021]({{ site.baseurl }}downloads/CC1_proba_23_10_2021_results.pdf){:target="_blank"}

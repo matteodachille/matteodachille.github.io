@@ -13,12 +13,11 @@ Mathematical and Theoretical Statistical Mechanics in connection with the keywor
 
 - Euclidean Random Assignment Problems and extensions ([read more]({{ site.baseurl }}erap))
 - Gibbs measures, phase transitions and renormalisation group ([read more]({{ site.baseurl }}gibbsrg))
-- Nonlinear randomized urn models ([read more]({{ site.baseurl }}nlrum))
-
+<!-- - Nonlinear randomized urn models ([coming soon...]({{ site.baseurl }}nlrum))
+-->
 
   <!--Some background on this project can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
   {: .text-justify}-->
-
 
 <!--
 ### Co-authors' webpages

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks
+title: Talks and activities
 order: 4
 ---
 
@@ -21,6 +21,8 @@ _On the phase diagram of Euclidean Random Assignment Problems at low dimensions_
 s
 
 -->
+
+## Talks
 
 ### Upcoming
 
@@ -118,7 +120,7 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 
 
 #### Upcoming
-29/11 - **Optimal Transport and Uncertainty**, Pisa, Italy. [Website](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}
+26/11 - **Optimal Transport and Uncertainty**, Pisa, Italy. [Website](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 15-19/11 - **Stochastic Geometry Days**, Dunkerque, France. [Website](https://www.mathconf.org/sgd2021){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
@@ -207,7 +209,12 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 
 <br/>
 
-### Some periodic seminars in the Paris area
+
+### Seminar organization
+I co-organize the Seed Seminar of Mathematics and Physics together with Aymane El Fardi (Tours) and Eda Kilinçarslan (Istanbul) ([website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"})
+
+
+### Periodic seminars in the Paris area
 
 Journée-séminaire de combinatoire at **LIPN** Paris 13 ([website](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}) <br/> Held weekly usually each Tuesday
 
