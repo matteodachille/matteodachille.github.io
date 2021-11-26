@@ -24,7 +24,7 @@ s
 
 ## Talks
 
-### Upcoming
+<!--### Upcoming
 
 
 
@@ -33,15 +33,20 @@ s
 26/11/2021 - **Optimal Transport and Uncertainty**, Pisa, IT, ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}). 45 min
 {: style="font-size: 20px" }
 
-Title: _TBA_, &nbsp; [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> (slides soon)]({{ site.baseurl }}events){:target="_blank"}
+Title: _Euclidean Random Assignment Problems, old and new_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
 {: style="margin-left: 40px" }
 
 <!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
 
-### Past
+<!--### Past -->
 
 #### 2021
 {: .no_toc}
+
+26/11 - **Optimal Transport and Uncertainty**, Pisa, IT, ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}). 45 min
+{: style="font-size: 16px" }
+_Euclidean Random Assignment Problems, old and new_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
+{: style="font-size: 17px; margin-left: 40px" }
 
 14/09 - **Eindhoven SPOR Seminar**, TU/e, Eindhoven, NL, ([link](https://www.eurandom.tue.nl/eindhoven-spor-seminar/){:target="_blank"}). 45 min
 {: style="font-size: 16px" }
@@ -119,15 +124,16 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 {: .no_toc}
 
 
-#### Upcoming
+<!--#### Upcoming-->
 26/11 - **Optimal Transport and Uncertainty**, Pisa, Italy. [Website](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+
+<!--#### Past-->
 15-19/11 - **Stochastic Geometry Days**, Dunkerque, France. [Website](https://www.mathconf.org/sgd2021){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
+{: style="font-size: 16px; margin-left: 20px" }
 
-
-
-#### Past
 07-09/07 - **Franco-Dutch meeting « Bézout-Eurandom »**, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](https://perso.math.u-pem.fr/le_ny.arnaud/ProgramIHP-July-Bezout-TUe-V3.pdf){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
