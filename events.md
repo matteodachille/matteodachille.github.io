@@ -45,7 +45,7 @@ Title: _Euclidean Random Assignment Problems, old and new_, [slides <i class="fa
 
 26/11 - **Optimal Transport and Uncertainty**, Pisa, IT, ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}). 45 min
 {: style="font-size: 16px" }
-_Euclidean Random Assignment Problems, old and new_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
+_Euclidean Random Assignment Problems, old and new_, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://drive.google.com/file/d/10wfRI0MZS2UnDIAGcq3a9AQJT9DSQGwe/view){:target="_blank"}, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
 {: style="font-size: 17px; margin-left: 40px" }
 
 14/09 - **Eindhoven SPOR Seminar**, TU/e, Eindhoven, NL, ([link](https://www.eurandom.tue.nl/eindhoven-spor-seminar/){:target="_blank"}). 45 min
