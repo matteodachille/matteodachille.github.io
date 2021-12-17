@@ -34,3 +34,5 @@ _Chapitre 4_: Modes de Convergence et Théorèmes Limites (convergence presque-s
 
 
 [Premier contrôle continu - 23/10/2021]({{ site.baseurl }}downloads/CC1_proba_23_10_2021_results.pdf){:target="_blank"}
+
+[Deuxième contrôle continu - 04/12/2021]({{ site.baseurl }}downloads/CC2_proba_4_12_2021_results.pdf){:target="_blank"}
