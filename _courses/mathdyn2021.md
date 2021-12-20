@@ -4,7 +4,7 @@ title: Mathematics for Dynamical Systems
 year: 	21/22
 semester: first
 lang: French
-hours:
+hours: 54
 role : TD
 level: L3
 nostudents:
