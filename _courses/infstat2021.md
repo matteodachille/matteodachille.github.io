@@ -11,7 +11,7 @@ level: L2
 #professor: Sophie Laruelle
 hoursCM :
 hoursTD:
-team: Z. Abidi, H. Ben Rayana, S. Chareyron, M. D'Achille, A. Deshayes, <b>S. Laruelle</b>, A. Vialfont
+team:  H. Ben Rayana, S. Chareyron, M. D'Achille, A. Deshayes, <b>S. Laruelle</b>
 studtype: Economie #(Mathématiques - Physique - Informatique)
 etab: Université Paris-Est Créteil
 classnumber: 8
@@ -19,11 +19,11 @@ classnumber: 8
 ### Programme synthétique
 
 
-_Estimation ponctuelle_: definition et propriétes d'un estimateur, méthode des moments, méthode du maximum de vraisemblance.
+_Estimation ponctuelle_ : definition et propriétés d'un estimateur, méthode des moments, méthode du maximum de vraisemblance.
 
 
-_Estimation par intervalle de confiance_: intervalle de confiance de la moyenne, intervalle de confiance de la variance, intervalle de confiance d'une proportion.
+_Estimation par intervalle de confiance_ : intervalle de confiance de la moyenne, intervalle de confiance de la variance, intervalle de confiance d'une proportion.
 
-_Tests statistiques_: principes; test paramétriques ( moyenne, variance, proportion ), test de comparaison de deux moyennes, test de comparaison de deux variances, test de comparaison de deux proportions; test non-paramétriques, test d'indipendence.
+_Tests statistiques_ : principes; test paramétriques (moyenne, variance, proportion), test de comparaison de deux moyennes, test de comparaison de deux variances, test de comparaison de deux proportions; test non-paramétriques, test d'indépendance.
 
-_Méthode des moindres carrés_: introduction à l'économétrie, modèle linéaire simple, modèle linéaire multiple.
+_Méthode des moindres carrés_ : introduction à l'économétrie, modèle linéaire simple, modèle linéaire multiple.
