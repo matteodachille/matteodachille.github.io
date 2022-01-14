@@ -120,17 +120,27 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 ### Some attended events (including Schools)
 
 
+
+#### 2022
+
+#### Upcoming
+{: .no_toc}
+
+
+25-26/1 - **Inhomogeneous Random Systems**, [Institut Curie](https://curie.fr/){:target="_blank"} & [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](http://irs.math.cnrs.fr/2022/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+#### Past
+
+
 #### 2021
 {: .no_toc}
 
 
-<!--#### Upcoming-->
 26/11 - **Optimal Transport and Uncertainty**, Pisa, Italy. [Website](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
-
-<!--#### Past-->
 15-19/11 - **Stochastic Geometry Days**, Dunkerque, France. [Website](https://www.mathconf.org/sgd2021){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
