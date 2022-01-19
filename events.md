@@ -24,21 +24,30 @@ s
 
 ## Talks
 
-<!--### Upcoming
+### Upcoming
 
 
+#### 2022
 
 
+18/02 - **Les probas du vendredi**, LPSM, Sorbonne Université, Paris. ([link](https://www.lpsm.paris/agenda/seminaires-gdt/les-probas-du-vendredi/){:target="_blank"}). 60min
+{: style="font-size: 18px" }
 
-26/11/2021 - **Optimal Transport and Uncertainty**, Pisa, IT, ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}). 45 min
-{: style="font-size: 20px" }
-
-Title: _Euclidean Random Assignment Problems, old and new_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
-{: style="margin-left: 40px" }
+Title: _TBA_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
+{: style="margin-left: 40px" }-->
 
 <!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
 
-<!--### Past -->
+
+08/02 - **Séminaire de probabilité de Créteil**, LAMA, Université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/){:target="_blank"}). 60min
+{: style="font-size: 18px" }
+
+Title: _TBA_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
+{: style="margin-left: 40px" }-->
+
+<!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
+
+### Past
 
 #### 2021
 {: .no_toc}
