@@ -30,20 +30,21 @@ s
 #### 2022
 
 
-18/02 - **Les probas du vendredi**, LPSM, Sorbonne Université, Paris. ([link](https://www.lpsm.paris/agenda/seminaires-gdt/les-probas-du-vendredi/){:target="_blank"}). 60min
+
+TBA - **Séminaire de probabilité de Créteil**, LAMA, Université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/){:target="_blank"}). 60min
 {: style="font-size: 18px" }
 
-Title: _TBA_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
-{: style="margin-left: 40px" }-->
+Title: _TBA_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}-->
+{: style="margin-left: 40px" }
 
 <!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
 
 
-08/02 - **Séminaire de probabilité de Créteil**, LAMA, Université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/){:target="_blank"}). 60min
+18/02 - **Les probas du vendredi**, LPSM, Sorbonne Université, Paris ([link](https://www.lpsm.paris/agenda/seminaires-gdt/les-probas-du-vendredi/){:target="_blank"}). 60min
 {: style="font-size: 18px" }
 
-Title: _TBA_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
-{: style="margin-left: 40px" }-->
+Title: _ERAP : du pont brownien à la fonction \\(\vartheta_4\\) de Jacobi_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}-->
+{: style="margin-left: 40px" }
 
 <!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
 
