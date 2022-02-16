@@ -31,10 +31,10 @@ s
 
 
 
-TBA - **Séminaire de probabilité de Créteil**, LAMA, Université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/){:target="_blank"}). 60min
+08/03 - **Séminaire de probabilité de Créteil**, LAMA, Université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/){:target="_blank"}). 60min
 {: style="font-size: 18px" }
 
-Title: _TBA_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}-->
+Title: _Décimation dans les modèles d'Ising et \\( XY \\) à \\(d \leq 2\\)_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}-->
 {: style="margin-left: 40px" }
 
 <!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
