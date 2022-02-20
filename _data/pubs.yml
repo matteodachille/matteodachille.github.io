@@ -37,13 +37,14 @@
   authors: A.C.D. van Enter, A. Le Ny
   upcoming: False
   preprint: True
-  accepted: False
+  accepted: True
   published: False
+  accjourn: "J. Math. Phys."
   arxivurl: "https://arxiv.org/abs/2105.07950"
   halurl: "https://hal.archives-ouvertes.fr/hal-03229089"
   arxivcode: "2105.07950"
   year: 2021
-  submitted: True
+  submitted: False
   pdf: "assets/DecLer30_final.pdf"
   rg: 351656439
   academia: 49094709
@@ -52,14 +53,15 @@
   authors: A. Le Ny
   upcoming: False
   preprint: True
-  accepted : False
+  accepted : True
   published: False
+  accjourn: "Markov Process. Relat. Fields"
   arxivurl: "https://arxiv.org/abs/2105.05767"
   halurl: "https://hal.archives-ouvertes.fr/hal-03226422"
   arxivcode: "2105.05767"
   year: 2021
-  submitted: True
-  pdf: "assets/MajoritiesOnTrees_v14_final.pdf"
+  submitted: False
+  pdf: "assets/MajoritiesOnTrees-MDAchille-ALeNy-Revised-2022-Final.pdf"
   rg: 351537068
   academia: 48907624
 
