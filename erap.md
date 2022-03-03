@@ -29,7 +29,7 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
  with A. Sportiello (2020-)
 
 
- Further papers on the ERAP and related random combinatorial optimization problems can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
+ Further papers on the ERAP and related random combinatorial optimization problems can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs){:target="_blank"}
  {: .text-justify}
 
 

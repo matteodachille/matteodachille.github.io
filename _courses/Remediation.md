@@ -10,7 +10,7 @@ level: L1
 nostudents: 15
 team: T. Chevalérias, J. Cohen, P. Cotte, M. D'Achille, Z.Imen, S. Lemaire, <b>G. Moreau</b>, E. Mounzer, U. Ellwanger
 studtype: Mathématiques, Physique et Informatique
-etab: Université Paris-Sud (Orsay)
+etab: université Paris-Sud Orsay
 classnumber: 2
 ---
 ### Programme et détails

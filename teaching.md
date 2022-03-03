@@ -11,7 +11,7 @@ order: 6
 
 
 {: style="text-align: justify" }
-I currently teach for the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the Université de Paris-Est Créteil.
+I currently teach for the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the université Paris-Est Créteil.
 
 
 

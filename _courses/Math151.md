@@ -10,7 +10,7 @@ nostudents: 33
 team: <b>G. David</b>, M. D'Achille, F. Haglund, T. Pugnat
 level: L1
 studtype: Double Licence Physico-Chimie
-etab: Université Paris-Sud (Orsay)
+etab: université Paris-Sud Orsay
 classnumber: 1
 ---
 

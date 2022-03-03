@@ -12,7 +12,7 @@ hoursCM :
 hoursTD:
 team: K. Attar, M. D'Achille, <b>A. Deshayes</b>
 studtype: Economie
-etab: Université Paris-Est Créteil
+etab: université Paris-Est Créteil
 classnumber: 7
 ---
 ### Programme synthétique

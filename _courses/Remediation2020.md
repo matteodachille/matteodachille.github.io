@@ -11,7 +11,7 @@ nostudents: --
 team: J. Cohen, M. D'Achille, S. Lemaire, <b>G. Moreau</b>, A. Virouleau
 #professor: Grégory Moreau, Sophie Lemaire (WIMS activity)
 studtype: Mathématiques, Physique et Informatique
-etab: Université Paris-Sud (Orsay)
+etab: université Paris-Sud Orsay
 classnumber: 3
 ---
 

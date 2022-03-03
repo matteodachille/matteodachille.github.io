@@ -11,7 +11,7 @@ hoursCM :
 hoursTD:
 team: Z. Abidi, H. Ben Rayana, M. D'Achille, P. Durand, <b>S. Laruelle</b>, A. Vialfont
 studtype: Economie
-etab: Université Paris-Est Créteil
+etab: université Paris-Est Créteil
 classnumber: 6
 ---
 

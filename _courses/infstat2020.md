@@ -13,7 +13,7 @@ hoursCM : 24
 hoursTD: 18
 team: Z. Abidi, H. Ben Rayana, S. Chareyron, M. D'Achille, <b>S. Laruelle</b>, A. Vialfont
 studtype: Economie #(Mathématiques - Physique - Informatique)
-etab: Université Paris-Est Créteil
+etab: université Paris-Est Créteil
 classnumber: 5
 ---
 ### Programme synthétique

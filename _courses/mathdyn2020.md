@@ -12,7 +12,7 @@ hoursCM : 24
 hoursTD: 18
 team: M. D'Achille, <b>A. Le Ny</b>, T. Ngô
 studtype: Economie
-etab: Université Paris-Est Créteil
+etab: université Paris-Est Créteil
 classnumber: 4
 ---
 ### Programme synthétique

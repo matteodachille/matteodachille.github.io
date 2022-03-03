@@ -13,7 +13,7 @@ hoursCM :
 hoursTD:
 team:  H. Ben Rayana, S. Chareyron, M. D'Achille, A. Deshayes, <b>S. Laruelle</b>
 studtype: Economie #(Mathématiques - Physique - Informatique)
-etab: Université Paris-Est Créteil
+etab: université Paris-Est Créteil
 classnumber: 8
 ---
 ### Programme synthétique

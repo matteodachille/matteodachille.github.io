@@ -39,16 +39,16 @@ Title: _Décimation dans les modèles d'Ising et \\( XY \\) à \\(d \leq 2\\)_ <
 
 <!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
 
+### Past
+
+#### 2022
+{: .no_toc}
 
 18/02 - **Les probas du vendredi**, LPSM, Sorbonne Université, Paris ([link](https://www.lpsm.paris/agenda/seminaires-gdt/les-probas-du-vendredi/matte-dachille-erap-du-pont-brownien-%C3%A0-la-fonction-theta_4-de-jacobi/){:target="_blank"}). 60min
-{: style="font-size: 18px" }
+{: style="font-size: 16px" }
+_ERAP : du pont brownien à la fonction \\(\vartheta_4\\) de Jacobi_
+{: style="font-size: 17px; margin-left: 40px" }
 
-Title: _ERAP : du pont brownien à la fonction \\(\vartheta_4\\) de Jacobi_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}-->
-{: style="margin-left: 40px" }
-
-<!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
-
-### Past
 
 #### 2021
 {: .no_toc}
