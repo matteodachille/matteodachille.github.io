@@ -33,13 +33,13 @@
   submitted: False
   pdf: ""
 
-- title: "Decimations for Two Dimensional Ising and Rotator Models I"
-  authors: A.C.D. van Enter, A. Le Ny
+- title: "Decimations for Two Dimensional Ising and Rotator Models"
+  authors: A.C.D. van Enter and A. Le Ny
   upcoming: False
-  preprint: True
-  accepted: True
-  published: False
-  accjourn: "J. Math. Phys."
+  preprint: False
+  accepted: False
+  published: True
+  journal: "J. Math. Phys."
   doi : "https://doi.org/10.1063/5.0057174"
   arxivurl: "https://arxiv.org/abs/2105.07950"
   halurl: "https://hal.archives-ouvertes.fr/hal-03229089"
@@ -47,6 +47,8 @@
   year: 2021
   submitted: False
   pdf: "assets/DecLer30_final.pdf"
+  volume: 63
+  pages: 27
   rg: 351656439
   academia: 49094709
 
