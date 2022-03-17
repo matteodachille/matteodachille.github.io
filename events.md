@@ -23,7 +23,7 @@ s
 -->
 
 ## Talks
-
+<!--
 ### Upcoming
 
 
@@ -31,18 +31,18 @@ s
 
 
 
-08/03 - **Séminaire de probabilité de Créteil**, LAMA, Université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/){:target="_blank"}). 60min
-{: style="font-size: 18px" }
-
-Title: _Décimation dans les modèles d'Ising et \\( XY \\) à \\(d \leq 2\\)_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}-->
-{: style="margin-left: 40px" }
-
-<!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]({{ site.baseurl }}events){:target="_blank"},-->
 
 ### Past
+-->
 
 #### 2022
 {: .no_toc}
+
+08/03 - **Séminaire de probabilité de Créteil**, LAMA, Université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}). 60min
+{: style="font-size: 16px" }
+_Décimation dans les modèles d'Ising et \\( XY \\) à \\(d \leq 2\\)_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}-->
+{: style="font-size: 17px; margin-left: 40px" }
+
 
 18/02 - **Les probas du vendredi**, LPSM, Sorbonne Université, Paris ([link](https://www.lpsm.paris/agenda/seminaires-gdt/les-probas-du-vendredi/matte-dachille-erap-du-pont-brownien-%C3%A0-la-fonction-theta_4-de-jacobi/){:target="_blank"}). 60min
 {: style="font-size: 16px" }
@@ -130,22 +130,29 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 ### Some attended events (including Schools)
 
 
-
-#### 2022
-
 #### Upcoming
 {: .no_toc}
 
 
-25-26/1 - **Inhomogeneous Random Systems**, [Institut Curie](https://curie.fr/){:target="_blank"} & [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](http://irs.math.cnrs.fr/2022/){:target="_blank"}
-{: style="font-size: 16px; margin-left: 20px" }
+21-25/03 - **ALEA Days 2022**, [CIRM](https://www.cirm-math.com/){:target="_blank"}, Marseilles - Luminy. [Website](http://gt-alea.math.cnrs.fr/alea2022/){:target="_blank"}
+{: style="font-size: 20px; margin-left: 20px" }
+
 
 #### Past
+
+#### 2022
+{: .no_toc}
+
+14-15/03 - **Quantization, Location, Sampling and Matching**, [Lagrange Mathematics and Computation Research Center](#){:target="_blank"}, Paris. [Website](https://sites.google.com/view/ot-lagrange/quantization-2022){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+25-26/01 - **Inhomogeneous Random Systems**, [Institut Curie](https://curie.fr/){:target="_blank"} & [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](http://irs.math.cnrs.fr/2022/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
 
 
 #### 2021
 {: .no_toc}
-
 
 26/11 - **Optimal Transport and Uncertainty**, Pisa, Italy. [Website](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
