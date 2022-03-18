@@ -40,7 +40,7 @@ s
 
 08/03 - **Séminaire de probabilité de Créteil**, LAMA, Université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}). 60min
 {: style="font-size: 16px" }
-_Décimation dans les modèles d'Ising et \\( XY \\) à \\(d \leq 2\\)_ <!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}-->
+_Décimation dans les modèles d'Ising et \\( XY \\) à \\(d \leq 2\\)_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/NonGibbs_Decimation_ParisEst_final.pdf){:target="_blank"}
 {: style="font-size: 17px; margin-left: 40px" }
 
 
