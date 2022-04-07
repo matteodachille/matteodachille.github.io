@@ -134,14 +134,19 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 {: .no_toc}
 
 
-21-25/03 - **ALEA Days 2022**, [CIRM](https://www.cirm-math.com/){:target="_blank"}, Marseilles - Luminy. [Website](http://gt-alea.math.cnrs.fr/alea2022/){:target="_blank"}
+07-08/04 - **Random matrices meet random permutations**, [Laboratoire Paul Painlevé](https://math.univ-lille.fr/){:target="_blank"}, Lille, France. [Website](https://rmtmeetrp.sciencesconf.org/){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
+
 
 
 #### Past
 
 #### 2022
 {: .no_toc}
+
+21-25/03 - **ALEA Days 2022**, [CIRM](https://www.cirm-math.com/){:target="_blank"}, Marseilles - Luminy. [Website](http://gt-alea.math.cnrs.fr/alea2022/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
 
 14-15/03 - **Quantization, Location, Sampling and Matching**, [Lagrange Mathematics and Computation Research Center](#){:target="_blank"}, Paris. [Website](https://sites.google.com/view/ot-lagrange/quantization-2022){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
@@ -170,7 +175,7 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 21-25/06 - **Journées de probabilités 2021**, Guidel, France. [Website](https://journees-probabilites.univ-rennes1.fr/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-17-22/05 - **P.L. Chebyshev - 200**, the 6th International Conference on Stochastic Methods, dedicated to the bicentenary of Pafnuty Lvovich Chebyshev, online. [Website](http://www.mathnet.ru/eng/conf1902){:target="_blank"}
+17-22/05 - **P.L. Chebyshev - 200**, online. [Website](http://www.mathnet.ru/eng/conf1902){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 15-19/03 - **ALEA Days 2021**, [CIRM](https://www.cirm-math.com/){:target="_blank"}, Marseilles - Luminy (online). [Website](http://gt-alea.math.cnrs.fr/alea2021/){:target="_blank"}
@@ -186,7 +191,7 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 {: .no_toc}
 
 
-27-31/07 - **Integrable Probability Online Summer School**, Clay Mathematics Institute & Heilbronn Institute for Mathematical Research, online. [Website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"}
+27-31/07 - **Integrable Probability Online Summer School**, Clay & Heilbronn Institutes, online. [Website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 04-07/02 -  **Combinatorics days of Bordeaux (JCB2020)**, [LaBRI](https://www.labri.fr/){:target="_blank"}, Université de Bordeaux. [Website](https://jcb2020.labri.fr/){:target="_blank"}

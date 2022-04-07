@@ -9,7 +9,18 @@
 #  arxivcode: ""
 #  year: 2021-
 #  submitted: False
-#  pdf: ""
+#  pdf:
+
+- title: Counting the number of equilibria in non-linear randomized urn models via phase transitions
+  authors: S. Laruelle
+  upcoming: True
+  preprint: False
+  published: False
+  arxivurl: "https://arxiv.org/abs/"
+  arxivcode: ""
+  year: 2021-
+  submitted: False
+  pdf: ""
 
 - title: Decimations for Two Dimensional Ising and Rotator Models II
   authors: A.C.D. van Enter, A. Le Ny

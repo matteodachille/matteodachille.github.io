@@ -12,6 +12,7 @@ In the two-color setting using a convex skewing function \\(f\\) to reinforce th
 
 <ins>Works in preparation</ins>:
 
-1. TBA, with S.Laruelle (2021-)
+1. "Counting the number of equilibria in non-linear randomized urn models via
+phase transitions'', with S.Laruelle (2021-)
 
 <ins>Keywords</ins>:  extended Pólya urn models, stochastic approximation, reinforcement, phase diagram, multiple equilibrium points.
