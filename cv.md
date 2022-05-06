@@ -69,4 +69,4 @@ _18/02/18 - 04/03/18_: Banach Center, IMPAN, Warsaw, Poland
 
 <br/>
 <br/>
-A detailed (possibly outdated) CV is available in [en]({{  site.baseurl }}downloads/cv_dachille_en.pdf ){:target="\_blank"} or [fr]({{  site.baseurl }}downloads/cv_dachille_fr.pdf ){:target="\_blank"}.
+A detailed (possibly outdated!) CV is available in [en]({{  site.baseurl }}downloads/cv_dachille_en.pdf ){:target="\_blank"}, [fr]({{  site.baseurl }}downloads/cv_dachille_fr.pdf ){:target="\_blank"} and [it]({{  site.baseurl }}downloads/cv_dachille_it.pdf ){:target="\_blank"}.

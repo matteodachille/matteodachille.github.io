@@ -23,22 +23,25 @@ s
 -->
 
 ## Talks
-<!--
+
 ### Upcoming
 
 
-#### 2022
+06-07/09 - **Optimal Transport and Uncertainty - 2nd Workshop**, Napoli, IT, ([link](https://sites.google.com/view/otau2){:target="_blank"}).
+{: style="font-size: 20px" }
+
+Title: _TBA_
+{: style="margin-left: 40px" }
 
 
 
 
 ### Past
--->
 
 #### 2022
 {: .no_toc}
 
-08/03 - **Séminaire de probabilité de Créteil**, LAMA, Université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}). 60min
+08/03 - **Séminaire de probabilité de Créteil**, LAMA, université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}). 60min
 {: style="font-size: 16px" }
 _Décimation dans les modèles d'Ising et \\( XY \\) à \\(d \leq 2\\)_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/NonGibbs_Decimation_ParisEst_final.pdf){:target="_blank"}
 {: style="font-size: 17px; margin-left: 40px" }
@@ -86,7 +89,7 @@ _Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-expone
 {: style="font-size: 17px; margin-left: 40px" }
 
 
-19/02 - Cristal Point Processes and Applications, **Painlevé Laboratory**, **Université de Lille**, ([link](http://seminaire.univ-lille1.fr/node/544){:target="_blank"}), 45 min
+19/02 - Cristal Point Processes and Applications, **Painlevé Laboratory**, **université de Lille**, ([link](http://seminaire.univ-lille1.fr/node/544){:target="_blank"}), 45 min
 {: style="font-size: 16px;" }
 _Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_, <a href="{{  site.baseurl }}downloads/erap22-Lille-finalv2.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 {: style="font-size: 17px; margin-left: 40px" }
@@ -96,18 +99,18 @@ _Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimension
 #### 2020
 {: .no_toc}
 
-10/11 - Probability working group at LAMA, **Université Paris-Est Créteil**, ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"}). 45 min
+10/11 - Probability working group at LAMA, **université Paris-Est Créteil**, ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"}). 45 min
 {: style="font-size: 16px;" }
 _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques problèmes ouverts en dimension \\(d \leq 2 \\)_, <a href="{{  site.baseurl }}assets/slides_ERAP_fr_nov10.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 {: style="font-size: 17px; margin-left: 40px" }
 
-16/10 - PhD thesis defense, **Université Paris-Saclay**. 45 min
+16/10 - PhD thesis defense, **université Paris-Saclay**. 45 min
 {: style="font-size: 16px;" }
 _Statistical properties of the Euclidean random assignment problem_, ([video](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_1610.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
 {: style="font-size: 17px; margin-left: 40px" }
 
 
-14/01 - Seminar of CALIN Team at LIPN, **Université Sorbonne Paris Nord**, ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}). 45 min
+14/01 - Seminar of CALIN Team at LIPN, **université Sorbonne Paris Nord**, ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}). 45 min
 {: style="font-size: 16px;" }
 _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_
 {: style="font-size: 17px; margin-left: 40px" }
@@ -133,8 +136,15 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 #### Upcoming
 {: .no_toc}
 
+29/06-01/07 - **Random Point Processes in Statistical Physics**, [Harnack-Haus](https://www.harnackhaus-berlin.mpg.de/en){:target="_blank"}, Berlin, Germany. [Website](https://www.wias-berlin.de/workshops/RaPoStatPhys/#){:target="_blank"}
+{: style="font-size: 20px; margin-left: 20px" }
 
-07-08/04 - **Random matrices meet random permutations**, [Laboratoire Paul Painlevé](https://math.univ-lille.fr/){:target="_blank"}, Lille, France. [Website](https://rmtmeetrp.sciencesconf.org/){:target="_blank"}
+
+14/06 - **10th Anniversary of the Bézout Labex**, université Gustave Eiffel, Champs-sur-Marne, France. [Website](https://labex-bezout.fr/10th-anniversary-of-the-bezout-labex//#){:target="_blank"}
+{: style="font-size: 20px; margin-left: 20px" }
+
+
+30/05-03/06 - **100 (102!) Years of the Ising Model**, [IHES](https://www.ihes.fr/){:target="_blank"}, Bures-sur-Yvette, France. [Website](https://indico.math.cnrs.fr/event/5466/){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
 
@@ -143,6 +153,9 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 
 #### 2022
 {: .no_toc}
+
+07-08/04 - **Random matrices meet random permutations**, [Laboratoire Paul Painlevé](https://math.univ-lille.fr/){:target="_blank"}, Lille, France. [Website](https://rmtmeetrp.sciencesconf.org/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
 
 21-25/03 - **ALEA Days 2022**, [CIRM](https://www.cirm-math.com/){:target="_blank"}, Marseilles - Luminy. [Website](http://gt-alea.math.cnrs.fr/alea2022/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
@@ -191,10 +204,10 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 {: .no_toc}
 
 
-27-31/07 - **Integrable Probability Online Summer School**, Clay & Heilbronn Institutes, online. [Website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"}
+27-31/07 - **Integrable Probability Online Summer School**, Clay & Heilbronn Institu, online. [Website](https://www.claymath.org/events/cmi-himr-integrable-probability-summer-school){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-04-07/02 -  **Combinatorics days of Bordeaux (JCB2020)**, [LaBRI](https://www.labri.fr/){:target="_blank"}, Université de Bordeaux. [Website](https://jcb2020.labri.fr/){:target="_blank"}
+04-07/02 -  **Combinatorics days of Bordeaux (JCB2020)**, [LaBRI](https://www.labri.fr/){:target="_blank"}, université de Bordeaux. [Website](https://jcb2020.labri.fr/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
@@ -205,13 +218,13 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 [Website](https://indico.math.cnrs.fr/event/5243/overview){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-21-23/10 - **Journées MathSTIC 2019 -- Probabilités et Combinatoire**, [Institut Galilée](https://galilee.univ-paris13.fr/){:target="_blank"}, Université Sorbonne Paris Nord, Villetaneuse, France. [Website](https://mathstic.univ-paris13.fr/journees-mathSTIC-2019/index.html){:target="_blank"}
+21-23/10 - **Journées MathSTIC 2019 -- Probabilités et Combinatoire**, [Institut Galilée](https://galilee.univ-paris13.fr/){:target="_blank"}, université Sorbonne Paris Nord, Villetaneuse, France. [Website](https://mathstic.univ-paris13.fr/journees-mathSTIC-2019/index.html){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 #### 2018
 {: .no_toc}
 
-06-07/09 - **Paths in Statistical Physics**, Physics Department, Université Paris Diderot, Paris. [Website](http://www.msc.univ-paris-diderot.fr/peliti2018){:target="_blank"}
+06-07/09 - **Paths in Statistical Physics**, Physics Department, université Paris Diderot, Paris. [Website](http://www.msc.univ-paris-diderot.fr/peliti2018){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
