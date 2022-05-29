@@ -26,12 +26,19 @@ s
 
 ### Upcoming
 
+06/06 - **DYOGENE Seminar**, INRIA, CNRS and ENS, Paris, FR, ([link](https://www.di.ens.fr/dyogene/index.html){:target="_blank"}).
+{: style="font-size: 20px" }
+
+Title: _TBA_
+{: style="margin-left: 40px" }
+
 
 06-07/09 - **Optimal Transport and Uncertainty - 2nd Workshop**, Napoli, IT, ([link](https://sites.google.com/view/otau2){:target="_blank"}).
 {: style="font-size: 20px" }
 
 Title: _TBA_
 {: style="margin-left: 40px" }
+
 
 
 
