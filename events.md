@@ -26,10 +26,10 @@ s
 
 ### Upcoming
 
-06/06 - **DYOGENE Seminar**, INRIA, CNRS and ENS, Paris, FR, ([link](https://www.di.ens.fr/dyogene/index.html){:target="_blank"}).
+20/06 - **DYOGENE Seminar**, INRIA, CNRS and ENS, Paris, FR, ([link](https://www.di.ens.fr/dyogene/index.html){:target="_blank"}). 60 min
 {: style="font-size: 20px" }
 
-Title: _TBA_
+Title: _Back and forth between the beta distribution and edge stochastic domination in ERAPs_
 {: style="margin-left: 40px" }
 
 
@@ -48,13 +48,13 @@ Title: _TBA_
 #### 2022
 {: .no_toc}
 
-08/03 - **Séminaire de probabilité de Créteil**, LAMA, université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}). 60min
+08/03 - **Séminaire de probabilité de Créteil**, LAMA, université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}). 60 min
 {: style="font-size: 16px" }
 _Décimation dans les modèles d'Ising et \\( XY \\) à \\(d \leq 2\\)_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/NonGibbs_Decimation_ParisEst_final.pdf){:target="_blank"}
 {: style="font-size: 17px; margin-left: 40px" }
 
 
-18/02 - **Les probas du vendredi**, LPSM, Sorbonne Université, Paris ([link](https://www.lpsm.paris/agenda/seminaires-gdt/les-probas-du-vendredi/matte-dachille-erap-du-pont-brownien-%C3%A0-la-fonction-theta_4-de-jacobi/){:target="_blank"}). 60min
+18/02 - **Les probas du vendredi**, LPSM, Sorbonne Université, Paris ([link](https://www.lpsm.paris/agenda/seminaires-gdt/les-probas-du-vendredi/matte-dachille-erap-du-pont-brownien-%C3%A0-la-fonction-theta_4-de-jacobi/){:target="_blank"}). 60 min
 {: style="font-size: 16px" }
 _ERAP : du pont brownien à la fonction \\(\vartheta_4\\) de Jacobi_
 {: style="font-size: 17px; margin-left: 40px" }
