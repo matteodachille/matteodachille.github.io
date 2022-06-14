@@ -22,16 +22,16 @@
   submitted: False
   pdf: ""
 
-- title: Decimations for Two Dimensional Ising and Rotator Models II
-  authors: A.C.D. van Enter, A. Le Ny
-  upcoming: True
-  preprint: False
+- title: "Decimations for Two Dimensional Ising and Rotator Models II: Continuous versus Discrete Symmetries"
+  authors: A. Le Ny, A.C.D. van Enter
+  upcoming: False
+  preprint: True
   published: False
+  submitted: True
   arxivurl: "https://arxiv.org/abs/"
   arxivcode: ""
-  year: 2021-
-  submitted: False
-  pdf: ""
+  year: 2022
+  pdf: "assets/DecRGSpinFlopV27.pdf"
 
 - title: The Euclidean random assignment problem at non-integer Hausdorff dimension  \( d_H \in (1,2) \)
   authors: A. Sportiello
@@ -55,7 +55,7 @@
   arxivurl: "https://arxiv.org/abs/2105.07950"
   halurl: "https://hal.archives-ouvertes.fr/hal-03229089"
   arxivcode: "2105.07950"
-  year: 2021
+  year: 2022
   submitted: False
   pdf: "assets/DecLer30_final.pdf"
   volume: 63
@@ -66,16 +66,19 @@
 - title: Almost Gibbsian Measures on a Cayley Tree
   authors: A. Le Ny
   upcoming: False
-  preprint: True
-  accepted : True
-  published: False
+  preprint: False
+  accepted : False
+  published: True
   accjourn: "Markov Process. Relat. Fields"
   arxivurl: "https://arxiv.org/abs/2105.05767"
   halurl: "https://hal.archives-ouvertes.fr/hal-03226422"
   arxivcode: "2105.05767"
-  year: 2021
+  year: 2022
   submitted: False
+  journal : "Markov Process. Relat. Fields"
   pdf: "assets/MajoritiesOnTrees-MDAchille-ALeNy-Revised-2022-Final.pdf"
+  volume: 28
+  pages: 245-273
   rg: 351537068
   academia: 48907624
 
