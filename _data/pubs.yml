@@ -28,8 +28,8 @@
   preprint: True
   published: False
   submitted: True
-  arxivurl: "https://arxiv.org/abs/"
-  arxivcode: ""
+  arxivurl: "https://arxiv.org/abs/2206.06990"
+  arxivcode: "2206.06990"
   year: 2022
   pdf: "assets/DecRGSpinFlopV27.pdf"
 
@@ -52,7 +52,6 @@
   published: True
   journal: "J. Math. Phys."
   doi : "https://doi.org/10.1063/5.0057174"
-  arxivurl: "https://arxiv.org/abs/2105.07950"
   halurl: "https://hal.archives-ouvertes.fr/hal-03229089"
   arxivcode: "2105.07950"
   year: 2022
