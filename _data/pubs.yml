@@ -33,6 +33,8 @@
   arxivcode: "2206.06990"
   year: 2022
   pdf: "assets/DecRGSpinFlopV27.pdf"
+  rg: 361300849
+  academia: 81601957
 
 - title: The Euclidean random assignment problem at non-integer Hausdorff dimension  \( d_H \in (1,2) \)
   authors: A. Sportiello
@@ -74,6 +76,7 @@
   halurl: "https://hal.archives-ouvertes.fr/hal-03226422"
   arxivcode: "2105.05767"
   year: 2022
+  doi: "http://math-mprf.org/journal/articles/id1640/"
   submitted: False
   journal : "Markov Process. Relat. Fields"
   pdf: "assets/MajoritiesOnTrees-MDAchille-ALeNy-Revised-2022-Final.pdf"
