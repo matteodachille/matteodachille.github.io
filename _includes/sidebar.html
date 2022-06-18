@@ -66,6 +66,25 @@
         {% endif %}
 
 
+        {% if site.researchgate %}
+             <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
+               <span class="fa-stack fa-lg">
+                 <i class="ai ai-researchgate ai-align-center-1x"></i>
+               </span>
+             </a>
+           {% endif %}
+
+
+     	{% if site.academia %}
+             <a href="https://unimi.academia.edu/{{ site.academia }}" target="_blank">
+               <span class="fa-stack fa-lg">
+                 <i class="ai ai-academia ai-align-center-1x"></i>
+               </span>
+             </a>
+           {% endif %}
+
+
+
       <p style="font-size:0.75rem;">Profiles, IDs & contacts: </p>
 		  <!--span>To get in touch use</span-->
 	  <!--{% if site.twitter %}
@@ -114,22 +133,6 @@
                 </a>
               {% endif %}
 
-	 {% if site.researchgate %}
-        <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
-          <span class="fa-stack fa-lg">
-            <i class="ai ai-researchgate ai-align-center-1x"></i>
-          </span>
-        </a>
-      {% endif %}
-
-
-	{% if site.academia %}
-        <a href="https://unimi.academia.edu/{{ site.academia }}" target="_blank">
-          <span class="fa-stack fa-lg">
-            <i class="ai ai-academia ai-align-center-1x"></i>
-          </span>
-        </a>
-      {% endif %}
 
 
   {% if site.linkedin %}
@@ -155,6 +158,15 @@
             </span>
           </a>
         {% endif %}
+
+
+        {% if site.instagram %}
+           <a href="https://www.instagram.com/{{ site.instagram }}" target="_blank">
+             <span class="fa-stack fa-lg">
+               <i class="fa fa-instagram fa-align-center-1x"></i>
+             </span>
+           </a>
+         {% endif %}
 
 
 
