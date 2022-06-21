@@ -26,12 +26,6 @@ s
 
 ### Upcoming
 
-20/06 - **DYOGENE Seminar**, INRIA, CNRS and ENS, Paris, FR, ([link](https://www.di.ens.fr/dyogene/index.html){:target="_blank"}). 60 min
-{: style="font-size: 20px" }
-
-Title: _Back and forth between the beta distribution and edge stochastic domination in ERAPs_
-{: style="margin-left: 40px" }
-
 
 06-07/09 - **Optimal Transport and Uncertainty - 2nd Workshop**, Napoli, IT, ([link](https://sites.google.com/view/otau2){:target="_blank"}).
 {: style="font-size: 20px" }
@@ -47,6 +41,14 @@ Title: _TBA_
 
 #### 2022
 {: .no_toc}
+
+
+20/06 - **DYOGENE Seminar**, INRIA, CNRS and ENS, Paris, FR, ([link](https://www.di.ens.fr/dyogene/index.html){:target="_blank"}). 60 min
+{: style="font-size: 16px" }
+
+Title: _Back and forth between the beta distribution and edge stochastic domination in ERAPs_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_INRIA_Paris_final.pdf){:target="_blank"}
+{: style="font-size: 17px; margin-left: 40px" }
+
 
 08/03 - **Séminaire de probabilité de Créteil**, LAMA, université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}). 60 min
 {: style="font-size: 16px" }
