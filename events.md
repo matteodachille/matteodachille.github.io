@@ -145,16 +145,12 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 #### Upcoming
 {: .no_toc}
 
-29/06-01/07 - **Random Point Processes in Statistical Physics**, [Harnack-Haus](https://www.harnackhaus-berlin.mpg.de/en){:target="_blank"}, Berlin, Germany. [Website](https://www.wias-berlin.de/workshops/RaPoStatPhys/#){:target="_blank"}
+29/08-31/08 - **Journées MAS 2022**, Rouen, France. [Website](https://mas2022.sciencesconf.org/){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
-
-14/06 - **10th Anniversary of the Bézout Labex**, université Gustave Eiffel, Champs-sur-Marne, France. [Website](https://labex-bezout.fr/10th-anniversary-of-the-bezout-labex//#){:target="_blank"}
+29/06-01/07 - **Random Point Processes in Statistical Physics**, [Harnack-Haus](https://www.harnackhaus-berlin.mpg.de/en){:target="_blank"}, Berlin. [Website](https://www.wias-berlin.de/workshops/RaPoStatPhys/#){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
-
-30/05-03/06 - **100 (102!) Years of the Ising Model**, [IHES](https://www.ihes.fr/){:target="_blank"}, Bures-sur-Yvette, France. [Website](https://indico.math.cnrs.fr/event/5466/){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
 
 
 
@@ -162,6 +158,13 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 
 #### 2022
 {: .no_toc}
+
+14/06 - **10th Anniversary of the Bézout Labex**, université Gustave Eiffel, Champs-sur-Marne, France. [Website](https://labex-bezout.fr/10th-anniversary-of-the-bezout-labex//#){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+30/05-03/06 - **100 (102!) Years of the Ising Model**, [IHES](https://www.ihes.fr/){:target="_blank"}, Bures-sur-Yvette, France. [Website](https://indico.math.cnrs.fr/event/5466/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
 
 07-08/04 - **Random matrices meet random permutations**, [Laboratoire Paul Painlevé](https://math.univ-lille.fr/){:target="_blank"}, Lille, France. [Website](https://rmtmeetrp.sciencesconf.org/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
