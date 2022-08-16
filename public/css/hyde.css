@@ -79,6 +79,14 @@ html {
 
 .sidebar-logo img {
   display: none;
+  width: auto;
+  text-align:center;
+}
+.imgContainer{
+    float:left;
+    padding-top: 50px;
+    padding-right: 10px;
+    margin: 0;
 }
 
 @media (min-width: 48em) {
