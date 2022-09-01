@@ -11,13 +11,14 @@ order: 6
 
 
 {: style="text-align: justify" }
+<!--
 I currently teach for the [Laboratoire d’analyse et de mathématiques appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"} of the université Paris-Est Créteil.
+-->
 
 
+### Classes
 
-### Current and previous classes
-
-(academic year  class title - institution, level, total teaching load in eqTD hours). <br/> Click on class name for more details (possibly in French).
+(academic year  class title - institution, level, total teaching load in eqTD hours). <br/> Click on class name for more details (possibly in French!).
 
 <ul style="list-style: none;
    margin-left: 10;

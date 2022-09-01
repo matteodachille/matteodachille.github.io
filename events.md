@@ -26,12 +26,20 @@ s
 
 ### Upcoming
 
+22/09 - **Journée de rentrée du LMO**, Orsay, FR ([link](#){:target="_blank"}).
+{: style="font-size: 20px" }
+
+Title: _TBA_. 30 min
+{: style="margin-left: 40px" }
+
 
 06-07/09 - **Optimal Transport and Uncertainty - 2nd Workshop**, Napoli, IT, ([link](https://sites.google.com/view/otau2){:target="_blank"}).
 {: style="font-size: 20px" }
 
-Title: _TBA_
+Title: _TBA_. 50 min
 {: style="margin-left: 40px" }
+
+<!--Lattice Helmholtz decomposition in a two-dimensional ERAP -->
 
 
 
