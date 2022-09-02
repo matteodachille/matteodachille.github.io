@@ -78,15 +78,24 @@ html {
 }
 
 .sidebar-logo img {
+  float: left;
   display: none;
   width: auto;
   text-align:center;
 }
-.imgContainer{
+
+.imgContainer {
     float:left;
-    padding-top: 50px;
+    padding-top: 12px;
     padding-right: 10px;
     margin: 0;
+    display: block;
+}
+
+@media (max-width: 940px) {
+  .imgContainer {
+      display: none;
+  }
 }
 
 @media (min-width: 48em) {
@@ -107,8 +116,8 @@ html {
   }
 
   .sidebar-logo img {
-  	height: 100px;
-    display: block;
+  	height: 50%;
+    display: none;
   	/*border-radius: 10%;
     box-shadow: 1px 1px 3px #263238;*/
   	margin: auto !important;
@@ -116,6 +125,7 @@ html {
     bottom: 0;
 
   }
+
   #contact-list {
       float: inherit;
 	 /*padding-left: 50px;*/
