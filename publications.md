@@ -84,7 +84,7 @@ order: 3
 
 <br/>
 
-### Co-authors webpages
+### Co-authors
 
 
  <!--
@@ -92,4 +92,5 @@ order: 3
  Dario Benedetto, Emanuele Caglioti, Sergio Caracciolo, Aernout C.D. van Enter, Vittorio Erba, Arnaud Le Ny, Enrico M. Malatesta, Gabriele Sicuro, Andrea Sportiello
  -->
 
- [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="_blank"}, [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="_blank"}, [Vittorio Erba](https://vittorioerba.github.io/){:target="_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="_blank"}, [Enrico M. Malatesta](https://www.artlab.unibocconi.eu/wps/wcm/connect/cdr/artlab/home/people/students+and+postdocs/enrico+malatesta){:target="_blank"}, [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"}
+ [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="_blank"}, [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="_blank"}, [Vittorio Erba](https://vittorioerba.github.io/){:target="_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="_blank"}, Yuqi Liu, [Enrico M. Malatesta](https://www.artlab.unibocconi.eu/wps/wcm/connect/cdr/artlab/home/people/students+and+postdocs/enrico+malatesta){:target="_blank"}, [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"}
+ {: style="font-size: 18px; margin-left: 20px" }

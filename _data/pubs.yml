@@ -11,6 +11,17 @@
 #  submitted: False
 #  pdf:
 
+- title: Using stochastic order to compare different Euclidean Random Assignment Problems
+  authors: Y. Liu
+  upcoming: False
+  preprint: True
+  published: False
+  arxivurl: "https://arxiv.org/abs/2209.00067"
+  arxivcode: "2209.00067"
+  year: 2022
+  submitted: False
+  pdf: "assets/USOCDERAPS_draft_v1____12_pages.pdf"
+
 - title: Counting the number of equilibria in non-linear randomized urn models via phase transitions
   authors: S. Laruelle
   upcoming: True

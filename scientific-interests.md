@@ -4,11 +4,10 @@ title: Scientific interests
 order: 2
 ---
 
+  My research work focuses on topics in statistical mechanics, mathematical physics and probability, especially in connection with the keywords **universality** and **phase transition**. I often make use of numerical experiments.
 
-Mathematical and Theoretical Statistical Mechanics in connection with the keywords **universality** and **phase transitions**. I often make use of numerical experiments.
 
-
-### Research themes
+### Main research themes (work in progress...)
 {: .no_toc}
 
 - Euclidean Random Assignment Problems and extensions ([read more]({{ site.baseurl }}erap))

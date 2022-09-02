@@ -29,8 +29,11 @@ with *S. Caracciolo, G. Sicuro and A. Sportiello*.
  with A. Sportiello (2020-)
 
 
- Further papers on the ERAP and related random combinatorial optimization problems can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs){:target="_blank"}
+ Further papers on ERAP and related topics can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs){:target="_blank"}
  {: .text-justify}
 
 
 <ins>Keywords</ins>: random assignment problem, statistical field theory, disordered systems in finite dimension, Monge-Kantorovich transportation problem
+
+
+<ins>See also</ins>: [ERAP2d.py](https://github.com/matteodachille/ERAPs2d){:target="_blank"}, a Python module for numerical studies of ERAPs (mostly in 2d)
