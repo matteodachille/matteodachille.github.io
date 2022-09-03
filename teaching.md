@@ -34,4 +34,4 @@ I currently teach for the [Laboratoire d’analyse et de mathématiques appliqu�
 </ul>
 
 
-_Total experience_: about {{ i }}h eqTD
+_Total teaching experience_: about {{ i }}h eqTD

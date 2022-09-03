@@ -4,7 +4,7 @@ title: Probability
 year: 	21/22
 semester: first
 lang: French
-hours: 100
+hours: 85
 role : CM+TD
 level: L2
 hoursCM :

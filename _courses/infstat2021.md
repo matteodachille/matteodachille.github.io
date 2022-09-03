@@ -4,7 +4,7 @@ title: Statistical Inference
 year: 	21/22
 semester: second
 lang: French
-hours:
+hours: 45
 role : CM+TD
 level: L2
 #nostudents: 150
