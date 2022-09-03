@@ -4,7 +4,7 @@ title: Scientific interests
 order: 2
 ---
 
-  My research work focuses on topics in statistical mechanics, mathematical physics and probability, especially in connection with the keywords **universality** and **phase transition**. I often make use of numerical experiments.
+  My research work focuses on statistical mechanics, mathematical physics and probability, especially in connection with the keywords **universality** and **phase transition**. I often make use of numerical experiments.
 
 
 ### Main research themes (work in progress...)
