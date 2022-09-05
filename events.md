@@ -33,7 +33,7 @@ Title: _TBA_
 {: style="margin-left: 40px" }
 
 
-06-07.09 &#x2022; **Optimal Transport and Uncertainty - 2nd Workshop**, Naples ([link](https://sites.google.com/view/otau2){:target="_blank"}).
+06.09 &#x2022; **Optimal Transport and Uncertainty - 2nd Workshop**, Naples ([link](https://sites.google.com/view/otau2){:target="_blank"}).
 {: style="font-size: 20px" }
 
 Title: _Lattice Helmholtz decomposition in a two-dimensional ERAP_. 50 min
