@@ -60,7 +60,7 @@ Title: _TBA_
 #### 2021
 {: .no_toc}
 
-06.11 &#x2022; Optimal Transport and Uncertainty 1st Workshop, Pisa ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}) [[<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]](https://drive.google.com/file/d/10wfRI0MZS2UnDIAGcq3a9AQJT9DSQGwe/view){:target="_blank"} [ [slides] ]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
+06.11 &#x2022; Optimal Transport and Uncertainty - 1st Workshop, Pisa ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}) [[<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]](https://drive.google.com/file/d/10wfRI0MZS2UnDIAGcq3a9AQJT9DSQGwe/view){:target="_blank"} [ [slides] ]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
 {: style="font-size: 16px" }
 14.09 &#x2022; Eindhoven SPOR Seminar, TU/e, Eindhoven, NL ([link](https://www.eurandom.tue.nl/eindhoven-spor-seminar/){:target="_blank"}) [[slides]]({{ site.baseurl }}events){:target="_blank"}
 {: style="font-size: 16px" }
