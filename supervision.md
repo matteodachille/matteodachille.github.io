@@ -16,7 +16,7 @@ order: 5
 
 <img style="max-height:80px; position: relative; float:left; top: 50%; border:solid 0.05em;transform: translateY(18%); margin-right:15px !important; border-radius: 50%;" src="../assets/Liu.jpeg">
 Yuqi LIU, 2.09.2022, M2 Mathématiques et Applications, université Paris-Est Créteil <br/>
-  Mémoire: _Comparison of different Euclidean Random Assignment Problems_<br/>
+  Mémoire: _Comparison of different Euclidean Random Assignment Problems_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](downloads/Liu.pdf)<br/>
   Stage supported by a three months stipend from UPEC (11.04.22 - 11.07.22) <br/>
   {: style="font-size: 16px" }
   Now at Ping An Life Insurance Company of China, Ltd., Shenzhen, China
