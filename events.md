@@ -29,7 +29,7 @@ s
 22.09 &#x2022; **Journée de rentrée de l'équipe probabilités et statistiques du LMO**, Orsay
 {: style="font-size: 20px" }
 
-Title: _TBA_
+Title: _La fonction \\(\vartheta_4\\) de Jacobi dans l'ERAP sur le cercle unitaire_
 {: style="margin-left: 40px" }
 
 
