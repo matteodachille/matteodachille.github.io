@@ -26,7 +26,7 @@ mendeley:         #"matteo-dachille"
 orcid:        "0000-0002-8750-1275"
 rid:        "AAX-7396-2020"
 arxiv:      "dachille_m_1"
-twitter:  "MatteoDAchille"
+#twitter:  "MatteoDAchille"
 hal: "True"
 
 paginate:         2
