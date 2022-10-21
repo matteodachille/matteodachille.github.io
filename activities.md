@@ -8,16 +8,30 @@ order: 4
 
 ## Organization
 
-### Conferences
 {: .no_toc}
-_01.09.2022 - current_ &#x2022; **Les Probabilités de Demain**, jointly with Quentin Berger (Sorbonne Université), Hélène Halconruy (University of Luxembourg), Łukasz Mądry (Université Paris Dauphine), Antonio Ocello (Sorbonne Université) and Yijun Wan (ENS Paris). [Website](https://www.lesprobabilitesdedemain.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
+_01.09.2022 - current_ &#x2022; [**Les Probabilités de Demain**](https://www.lesprobabilitesdedemain.fr/index.html){:target="_blank"}, Institut Henri-Poincaré, Paris.<br/>
 
-17.10-19.10.2022 &#x2022; **The many facets of Statistical Field Theory**, SISSA - International School for Advanced Studies, Trieste, IT. [Website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"}
+[Website](https://www.lesprobabilitesdedemain.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
+{: style="font-size: 20px; margin-left: 180px" }
 
-### Seminars
-{: .no_toc}
-_01.09.2021 - current_: [Seed Seminar of Mathematics and Physics](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, jointly with Aymane El Fardi (IDP Tours) and Eda Kilinçarslan (IDP Tours). [Website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
+with Quentin Berger (Sorbonne Université), Hélène Halconruy (University of Luxembourg), Łukasz Mądry (Université Paris Dauphine), Antonio Ocello (Sorbonne Université) and Yijun Wan (ENS Paris).
+{: style="font-size: 16px; margin-left: 20px" }
 
+_01.09.2021 - current_ &#x2022; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, online.
+
+[Website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
+{: style="font-size: 20px; margin-left: 180px" }
+
+with Aymane El Fardi (Institut Denis Poisson Tours) and Eda Kilinçarslan (Institut Denis Poisson Tours).
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+_17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](https://sites.google.com/view/the-many-facets-of-sft/home){:target="_blank"}, SISSA - International School for Advanced Studies, Trieste, IT.
+
+[Website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"}{: style="font-size: 20px; margin-left: 180px" }
+
+with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (University of Milan), Enrico Malatesta (Bocconi University), Luca Guido Molinari (University of Milan), Pietro Rotondo (University of Milan), Gabriele Sicuro (King's College London) and Carlo Vanoni (SISSA).
+{: style="font-size: 16px; margin-left: 20px" }
 
 
 <br/>
@@ -28,17 +42,23 @@ _01.09.2021 - current_: [Seed Seminar of Mathematics and Physics](https://seedse
 
 #### Upcoming
 {: .no_toc}
-20.10-21.10 &#x2022; **Lille Days in Point Processes and Stochastic Geometry**, IMT Nord Europe, Lille, FR. [Website](https://www.mathconf.org/jlppgs2022){:target="_blank"}
+
+dd.mm.yy-dd.mm.yy &#x2022; **TBA**. [Website](#){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
-17.10-19.10 &#x2022; **The many facets of Statistical Field Theory**, SISSA - International School for Advanced Studies, Trieste, IT. [Website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"}
+dd.mm &#x2022; **TBA**. [Website](#){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
+
 
 #### Past
 {: .no_toc}
 
 #### 2022
 {: .no_toc}
+
+20.10-21.10 &#x2022; **Lille Days in Point Processes and Stochastic Geometry**, IMT Nord Europe, Lille, FR. [Website](https://www.mathconf.org/jlppgs2022){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
 
 29.09 &#x2022; Journée Aleatoire 2022, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](https://journeealea.sciencesconf.org/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
