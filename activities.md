@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-order: 4
+order: 7
 ---
 * TOC
 {:toc}
@@ -56,7 +56,7 @@ dd.mm &#x2022; **TBA**. [Website](#){:target="_blank"}
 #### 2022
 {: .no_toc}
 
-20.10-21.10 &#x2022; **Lille Days in Point Processes and Stochastic Geometry**, IMT Nord Europe, Lille, FR. [Website](https://www.mathconf.org/jlppgs2022){:target="_blank"}
+20.10-21.10 &#x2022; Lille Days in Point Processes and Stochastic Geometry, IMT Nord Europe, Lille, FR. [Website](https://www.mathconf.org/jlppgs2022){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
