@@ -28,7 +28,8 @@ with Aymane El Fardi (Institut Denis Poisson Tours) and Eda Kilinçarslan (Insti
 
 _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](https://sites.google.com/view/the-many-facets-of-sft/home){:target="_blank"}, SISSA - International School for Advanced Studies, Trieste, IT.
 
-[Website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"}{: style="font-size: 20px; margin-left: 180px" }
+[Website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCVnPxo6C_NPEHcDxGdzxzdw){:target="_blank"}
+{: style="font-size: 20px; margin-left: 180px" }
 
 with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (University of Milan), Enrico Malatesta (Bocconi University), Luca Guido Molinari (University of Milan), Pietro Rotondo (University of Milan), Gabriele Sicuro (King's College London) and Carlo Vanoni (SISSA).
 {: style="font-size: 16px; margin-left: 20px" }
