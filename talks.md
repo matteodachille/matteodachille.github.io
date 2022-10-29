@@ -25,7 +25,7 @@ s
 
 ### Upcoming
 
-06.12.2022 &#x2022; **Séminaire de l'équipe de proba de Paris 13**, Institut Galilée ([link](https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires){:target="_blank"})
+06.12.2022 &#x2022; **Séminaire de l'équipe de probastat de Paris 13**, Institut Galilée ([link](https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires){:target="_blank"})
 {: style="font-size: 20px" }
 
 Title: _TBA_
