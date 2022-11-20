@@ -35,9 +35,11 @@
 
 - title: "Decimations for Two Dimensional Ising and Rotator Models II: Continuous versus Discrete Symmetries"
   authors: A. Le Ny, A.C.D. van Enter
-  upcoming: False
+  #upcoming: True
   preprint: True
-  published: False
+  #published: False
+  accepted: True
+  accjourn: "J. Math. Phys."
   submitted: True
   halurl: "https://hal.archives-ouvertes.fr/hal-03695701"
   arxivurl: "https://arxiv.org/abs/2206.06990"
