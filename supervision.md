@@ -37,6 +37,10 @@ Mouad HAÏ and Yilun LI, 19.05.2022, M1 Mathématiques et Applications, universi
 
 #### 2021
 
-Moustapha Mouhamadou BA, Yuqi Liu and Issa Konate SY, 17.05.2021 <br/>  M1 Mathématiques et Applications, université Paris-Est Créteil <br/>
-  Topic: _Universality in the one-dimensional Euclidean random assignment problem_
+Yuqi Liu, 17.05.2021 <br/>  M1 Mathématiques et Applications, université Paris-Est Créteil <br/>
+  Topic: _Universality in the one-dimensional Euclidean random assignment problem_ [<i class="ai ai-hal ai-align-center-1x" aria-hidden="true"></i>](https://dumas.ccsd.cnrs.fr/MEM-UNIV-UPEC/dumas-03706851v1){:target="_blank"}
+  {: style="font-size: 16px" }
+
+  Moustapha Mouhamadou BA and Issa Konate Sy, 17.05.2021 <br/>  M1 Mathématiques et Applications, université Paris-Est Créteil <br/>
+    Topic: _Universalité dans le problème d’assignation aléatoire euclidienne en dimension \\(1\\)_
   {: style="font-size: 16px" }
