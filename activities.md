@@ -50,16 +50,16 @@ dd.mm.yy-dd.mm.yy &#x2022; **TBA**. [Website](#){:target="_blank"}
 
 
 #### Past
-a.k.a. where we might have met
 {: .no_toc}
+
 
 #### 2022
 {: .no_toc}
 
-18.11.2022 &#x2022; Journée cartes, ENS Lyon. [Website](https://indico.in2p3.fr/event/28096/){:target="_blank"}
+18.11 &#x2022; Journée cartes, ENS Lyon. [Website](https://indico.in2p3.fr/event/28096/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-9.11.2022 &#x2022; Journées Postdoc de la Fondation Mathématique Jacques Hadamard, [IHES](https://www.ihes.fr/){:target="_blank"}, Bures-sur-Yvette, FR. [Website](https://www.fondation-hadamard.fr/fr/la-fmjh-organise/evenements/les-journees-postdoc/){:target="_blank"}
+09.11 &#x2022; Journées Postdoc de la Fondation Mathématique Jacques Hadamard, [IHES](https://www.ihes.fr/){:target="_blank"}, Bures-sur-Yvette, FR. [Website](https://www.fondation-hadamard.fr/fr/la-fmjh-organise/evenements/les-journees-postdoc/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
