@@ -74,7 +74,7 @@ dd.mm.yy-dd.mm.yy &#x2022; **TBA**. [Website](#){:target="_blank"}
 29.08-31.08 &#x2022; Journées MAS 2022, Rouen, France. [Website](https://mas2022.sciencesconf.org/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-29.06-01.07 &#x2022; Random Point Processes in Statistical Physics, [Harnack-Haus](https://www.harnackhaus-berlin.mpg.de/en){:target="_blank"}, Berlin. [Website](https://www.wias-berlin.de/workshops/RaPoStatPhys/#){:target="_blank"}
+29.06-01.07 &#x2022; Random Point Processes in Statistical Physics, [Harnack-Haus](https://www.harnackhaus-berlin.mpg.de/en){:target="_blank"}, Berlin. [Website](https://www.wias-berlin.de/workshops/RaPoStatPhys/#){:target="_blank"} [ [dinner photo] ](https://www.wias-berlin.de/workshops/RaPoStatPhys/images/RaPoStatPhys_Bild.JPG){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 14.06 &#x2022; 10th Anniversary of the Bézout Labex, université Gustave Eiffel, Champs-sur-Marne, FR. [Website](https://labex-bezout.fr/10th-anniversary-of-the-bezout-labex//#){:target="_blank"}
