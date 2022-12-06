@@ -25,8 +25,9 @@ s
 
 ### Upcoming
 
-06.12.2022 &#x2022; **Séminaire de l'équipe de probastat du LAGA**, université Sorbonne Paris Nord ([link](https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires){:target="_blank"})
+06.12.2022 &#x2022; **Séminaire de l'équipe de probastat du LAGA**, université Sorbonne Paris Nord, 50 min ([link](https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires){:target="_blank"})  [ [slides] ]({{ site.baseurl }}downloads/LAGA_DecimationLongRange_v9_final.pdf){:target="_blank"}
 {: style="font-size: 20px" }
+
 
 Title: _Decimation and the spin-flop transition in the \\(XY\\) model on \\(\mathbb{Z}^2\\)_
 {: style="margin-left: 40px" }
