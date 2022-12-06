@@ -79,11 +79,11 @@ Title: _Decimation and the spin-flop transition in the \\(XY\\) model on \\(\mat
 #### 2020
 {: .no_toc}
 
-10.11 &#x2022; Probability working group at LAMA, UPEC, Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"}) [ [slides] ]({{ site.baseurl }}assets/slides_ERAP_fr_nov10.pdf){:target="_blank"}
+10.11 &#x2022; Probability working group at LAMA, UPEC, Créteil, FR, 45 min ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"}) [ [slides] ]({{ site.baseurl }}assets/slides_ERAP_fr_nov10.pdf){:target="_blank"}
 {: style="font-size: 16px;" }
-16.10 &#x2022; PhD Thesis defense, université Paris-Saclay (online) [ [video] ](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} [ [slides] ]({{ site.baseurl }}assets/slides_ERAP_1610.pdf){:target="_blank"}
+16.10 &#x2022; PhD Thesis defense, université Paris-Saclay (online), 45 min [ [video] ](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} [ [slides] ]({{ site.baseurl }}assets/slides_ERAP_1610.pdf){:target="_blank"}
 {: style="font-size: 16px;" }
-14.01 &#x2022; Seminar of CALIN Team at LIPN, université Sorbonne Paris Nord, Villetaneuse, FR ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
+14.01 &#x2022; Seminar of CALIN Team at LIPN, université Sorbonne Paris Nord, Villetaneuse, FR, 45 min ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
 {: style="font-size: 16px;" }
 
 
