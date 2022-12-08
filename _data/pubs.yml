@@ -34,12 +34,13 @@
   pdf: ""
 
 - title: "Decimations for Two Dimensional Ising and Rotator Models II: Continuous versus Discrete Symmetries"
-  authors: A. Le Ny, A.C.D. van Enter
+  authors: A.C.D. van Enter and A. Le Ny
   #upcoming: True
-  preprint: True
-  #published: False
+  preprint: False
+  published: True
   accepted: True
   accjourn: "J. Math. Phys."
+  journal: "J. Math. Phys."
   submitted: True
   halurl: "https://hal.archives-ouvertes.fr/hal-03695701"
   arxivurl: "https://arxiv.org/abs/2206.06990"
@@ -47,7 +48,10 @@
   year: 2022
   pdf: "assets/DecRGSpinFlopV27.pdf"
   rg: 361300849
+  volume: 63
+  pages: 123506
   academia: 81601957
+  doi : "https://doi.org/10.1063/5.0103163"
 
 - title: The Euclidean random assignment problem at non-integer Hausdorff dimension  \( d_H \in (1,2) \)
   authors: A. Sportiello
@@ -75,7 +79,7 @@
   submitted: False
   pdf: "assets/DecLer30_final.pdf"
   volume: 63
-  pages: 27
+  pages: 033506
   rg: 351656439
   academia: 49094709
 
