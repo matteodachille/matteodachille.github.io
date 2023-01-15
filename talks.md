@@ -25,11 +25,11 @@ s
 
 ### Upcoming
 
-06.12.2022 &#x2022; **Séminaire de l'équipe de probastat du LAGA**, université Sorbonne Paris Nord, 50 min ([link](https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires){:target="_blank"})  [ [slides] ]({{ site.baseurl }}downloads/LAGA_DecimationLongRange_v9_final.pdf){:target="_blank"}
+17.01.2023 &#x2022; **Random Geometry-Géométrie Aléatoire**, CIRM Marseille Luminy ([link](https://conferences.cirm-math.fr/3021.html){:target="_blank"})  
 {: style="font-size: 20px" }
 
 
-Title: _Decimation and the spin-flop transition in the \\(XY\\) model on \\(\mathbb{Z}^2\\)_
+Title: _ERAPs: state of art in 1d and future perspectives_
 {: style="margin-left: 40px" }
 
 
@@ -40,6 +40,10 @@ Title: _Decimation and the spin-flop transition in the \\(XY\\) model on \\(\mat
 
 #### 2022
 {: .no_toc}
+
+06.12 &#x2022; Séminaire de l'équipe de probastat du LAGA, université Sorbonne Paris Nord, 50 min ([link](https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires){:target="_blank"})  [ [slides] ]({{ site.baseurl }}downloads/LAGA_DecimationLongRange_v9_final.pdf){:target="_blank"}
+{: style="font-size: 16px" }
+
 
 22.09 &#x2022; Journée de rentrée de l'équipe de probastat du LMO, université Paris-Saclay, Orsay, 30 min
 {: style="font-size: 16px" }
