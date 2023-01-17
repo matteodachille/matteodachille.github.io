@@ -12,6 +12,7 @@ order: 2
 
 - Euclidean Random Assignment Problems and extensions ([read more]({{ site.baseurl }}erap))
 - Gibbs measures, phase transitions and renormalisation group ([read more]({{ site.baseurl }}gibbsrg))
+<!--- TBC: Random hyperbolic geometry ([read more]({{ site.baseurl }}nlrum))-->
 - Nonlinear randomized urn models ([read more]({{ site.baseurl }}nlrum))
 
   <!--Some background on this project can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)

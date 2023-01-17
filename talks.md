@@ -29,7 +29,7 @@ s
 {: style="font-size: 20px" }
 
 
-Title: _ERAPs: state of art in 1d and future perspectives_
+Title: _ERAPs: state of art in 1d and future perspectives_ [ [slides] ]({{ site.baseurl }}downloads/ERAP_CIRM_GA-RG_final.pdf){:target="_blank"}
 {: style="margin-left: 40px" }
 
 
