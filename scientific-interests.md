@@ -11,7 +11,7 @@ order: 2
 {: .no_toc}
 
 - Euclidean Random Assignment Problems and extensions ([read more]({{ site.baseurl }}erap))
-- Gibbs measures, phase transitions and renormalisation group ([read more]({{ site.baseurl }}gibbsrg))
+- Gibbs measures, phase transitions, Renormalisation Group ([read more]({{ site.baseurl }}gibbsrg))
 - Ideal Poisson-Voronoi tessellations ([read more]({{ site.baseurl }}ipvt))
 - Nonlinear randomized urn models ([read more]({{ site.baseurl }}nlrum))
 
