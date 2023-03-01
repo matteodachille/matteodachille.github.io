@@ -11,6 +11,17 @@
 #  submitted: False
 #  pdf:
 
+- title: Ideal Poisson-Voronoi tessellations on hyperbolic spaces
+  authors: N. Curien, N. Enriquez, R. Lyons and M. Ünel
+  upcoming: True
+  preprint: False
+  published: False
+  arxivurl: "https://arxiv.org/abs/"
+  arxivcode: ""
+  year: 2022-
+  submitted: False
+  pdf: ""
+
 - title: Using stochastic order to compare different Euclidean Random Assignment Problems
   authors: Y. Liu
   upcoming: False
@@ -24,6 +35,19 @@
 
 - title: Counting the number of equilibria in non-linear randomized urn models via phase transitions
   authors: S. Laruelle
+  upcoming: True
+  preprint: False
+  published: False
+  arxivurl: "https://arxiv.org/abs/"
+  arxivcode: ""
+  year: 2021-
+  submitted: False
+  pdf: ""
+
+
+- title: "Decimation for long-range Penrose models on fractal lattices"
+  authors: A. Le Ny and J. Sohier
+  #upcoming: True
   upcoming: True
   preprint: False
   published: False

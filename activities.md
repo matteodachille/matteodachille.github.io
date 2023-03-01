@@ -47,7 +47,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 13.03-17.03 &#x2023; **ALEA Days - Journées ALEA**, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2887.html){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
-10.03 &#x2023; **Journées Cartes**, Université Gustave-Eiffel, Champs-sur-Marne.
+10.03 &#x2023; **Journées Cartes**, Université Gustave-Eiffel, Champs-sur-Marne. [Website](https://indico.in2p3.fr/event/29082/){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
 #### Past
@@ -66,7 +66,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 #### 2022
 {: .no_toc}
 
-18.11 &#x2022; Journée cartes, ENS Lyon. [Website](https://indico.in2p3.fr/event/28096/){:target="_blank"}
+18.11 &#x2022; Journée Cartes, ENS Lyon. [Website](https://indico.in2p3.fr/event/28096/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 09.11 &#x2022; Journées Postdoc de la Fondation Mathématique Jacques Hadamard, [IHES](https://www.ihes.fr/){:target="_blank"}, Bures-sur-Yvette, FR. [Website](https://www.fondation-hadamard.fr/fr/la-fmjh-organise/evenements/les-journees-postdoc/){:target="_blank"}
