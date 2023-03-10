@@ -25,23 +25,34 @@ s
 
 ### Upcoming
 
-17.01.2023 &#x2022; **Random Geometry-Géométrie Aléatoire**, CIRM Marseille Luminy ([link](https://conferences.cirm-math.fr/3021.html){:target="_blank"})  
+jj.mm.aaaa &#x2022; **TBA** ([link](#){:target="_blank"})  
 {: style="font-size: 20px" }
 
 
-Title: _ERAPs: state of art in 1d and future perspectives_ [ [slides] ]({{ site.baseurl }}downloads/ERAP_CIRM_GA-RG_final.pdf){:target="_blank"}
+<!--Title: _ERAPs: state of art in 1d and future perspectives_ [ [slides] ]({{ site.baseurl }}downloads/ERAP_CIRM_GA-RG_final.pdf){:target="_blank"}
 {: style="margin-left: 40px" }
-
+-->
 
 
 
 
 ### Past
 
+
+#### 2023
+{: .no_toc}
+
+24.01 &#x2022; Pizzama Seminar, Laboratoire de Mathematiques d'Orsay, 60 min ([link](https://conferences.cirm-math.fr/3021.html){:target="_blank"})
+{: style="font-size: 16px" }
+
+
+17.01 &#x2022; Random Geometry-Géométrie Aléatoire, CIRM Marseille Luminy , 60 min ([link](https://conferences.cirm-math.fr/3021.html){:target="_blank"})  [ [slides] ]({{ site.baseurl }}downloads/ERAP_CIRM_GA-RG_final.pdf){:target="_blank"}
+{: style="font-size: 16px" }
+
 #### 2022
 {: .no_toc}
 
-06.12 &#x2022; Séminaire de l'équipe de probastat du LAGA, université Sorbonne Paris Nord, 50 min ([link](https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires){:target="_blank"})  [ [slides] ]({{ site.baseurl }}downloads/LAGA_DecimationLongRange_v9_final.pdf){:target="_blank"}
+06.12 &#x2022; Séminaire de l'équipe probastat du LAGA, université Sorbonne Paris Nord, 50 min ([link](https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires){:target="_blank"})  [ [slides] ]({{ site.baseurl }}downloads/LAGA_DecimationLongRange_v9_final.pdf){:target="_blank"}
 {: style="font-size: 16px" }
 
 
