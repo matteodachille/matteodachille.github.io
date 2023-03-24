@@ -43,18 +43,21 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 
 #### Upcoming
 
-
-13.03-17.03 &#x2023; **ALEA Days - Journées ALEA**, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2887.html){:target="_blank"}
+02.10-06.10.2023 &#x2023; **Probability and Geometry in, on and of non-Euclidian spaces**, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
-10.03 &#x2023; **Journées Cartes**, Université Gustave-Eiffel, Champs-sur-Marne. [Website](https://indico.in2p3.fr/event/29082/){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
 
 #### Past
 {: .no_toc}
 
 #### 2023
 {: .no_toc}
+
+13.03-17.03 &#x2022; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2887.html){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+10.03 &#x2022; Journées Cartes, Université Gustave-Eiffel, Champs-sur-Marne. [Website](https://indico.in2p3.fr/event/29082/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
 
 24.01-25.01 &#x2022; Inhomogeneous Random Systems, [Institut Curie](https://curie.fr/){:target="_blank"} & [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](https://irs.math.cnrs.fr/2023/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
@@ -69,7 +72,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 18.11 &#x2022; Journée Cartes, ENS Lyon. [Website](https://indico.in2p3.fr/event/28096/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-09.11 &#x2022; Journées Postdoc de la Fondation Mathématique Jacques Hadamard, [IHES](https://www.ihes.fr/){:target="_blank"}, Bures-sur-Yvette, FR. [Website](https://www.fondation-hadamard.fr/fr/la-fmjh-organise/evenements/les-journees-postdoc/){:target="_blank"}
+09.11 &#x2022; Journées Postdoc de la Fondation Mathématique Jacques Hadamard, [IHES](https://www.ihes.fr/){:target="_blank"}, FR. [Website](https://www.fondation-hadamard.fr/fr/la-fmjh-organise/evenements/les-journees-postdoc/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
