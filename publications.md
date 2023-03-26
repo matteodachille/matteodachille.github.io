@@ -13,20 +13,6 @@ order: 3
 {% assign list = site.data.pubs | where: 'published', true %}
 
 
-### In preparation
-
-<dl>
-{% assign count = list_wip.size | plus: list.size | plus: list_prep.size %}
-<!--{% if count != 0 %}
-  ### Preprints
-  {% endif %}-->
-{% for pub in list_wip %}
-  <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
-  position: absolute;'>[{{ count }}]</p>&nbsp; {{ pub.title }} <i>with {{ pub.authors }}</i>, {{ pub.year }}</dd>
-{% assign count = count | plus: -1 %}
-{% endfor %}
-</dl>
-
 
 ### Preprints
 
@@ -55,6 +41,24 @@ order: 3
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
+
+
+<!--
+### In preparation
+
+<dl>
+{% assign count = list_wip.size | plus: list.size | plus: list_prep.size %}
+{% if count != 0 %}
+  ### Preprints
+  {% endif %}
+
+{% for pub in list_wip %}
+  <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
+  position: absolute;'>[{{ count }}]</p>&nbsp; {{ pub.title }} <i>with {{ pub.authors }}</i>, {{ pub.year }}</dd>
+{% assign count = count | plus: -1 %}
+{% endfor %}
+</dl>
+-->
 
 <br/>
 
