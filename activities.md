@@ -216,3 +216,6 @@ Working group "Probabilités" at **LAMA** Paris 12 ([website](https://lama.u-pem
 
 Séminaire probabilités et statistiques, **Institut de Mathématiques d'Orsay** ([website](https://www.imo.universite-paris-saclay.fr/fr/la-recherche/probabilites-et-statistiques/#anchor_2){:target="_blank"})
 <br/> Held weekly on Tuesday afternoon
+
+Les Probas du vendredi, **LPSM** in Jussieu, Paris ([website](https://www.lpsm.paris/seminaires/probasduvendredi/index#les_probas_du_vendredi){:target="_blank"})
+<br/> Held weekly on Friday morning at 10h00 CET

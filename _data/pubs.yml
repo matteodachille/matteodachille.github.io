@@ -11,16 +11,16 @@
 #  submitted: False
 #  pdf:
 
-- title: Ideal Poisson-Voronoi tessellations on hyperbolic spaces
+- title: Ideal Poisson-Voronoi tessellations on hyperbolic spaces, I
   authors: N. Curien, N. Enriquez, R. Lyons and M. Ünel
   upcoming: True
-  preprint: False
+  preprint: True
   published: False
-  arxivurl: "https://arxiv.org/abs/"
-  arxivcode: ""
-  year: 2022-
+  arxivurl: "https://arxiv.org/abs/2303.16831"
+  arxivcode: "2303.16831"
+  year: 2023
   submitted: False
-  pdf: ""
+  pdf: "https://arxiv.org/pdf/2303.16831.pdf"
 
 #- title: Using stochastic order to compare different Euclidean Random Assignment Problems
 #  authors: Y. Liu
