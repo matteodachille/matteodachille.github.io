@@ -3,18 +3,17 @@ layout: page
 title: Scientific interests
 order: 2
 ---
+<!--  My research work focuses on statistical mechanics, mathematical physics and probability, especially in connection with the keywords **universality** and **phase transition**. I often make use of numerical experiments.
+-->
+(work in progress...)
 
-  My research work focuses on statistical mechanics, mathematical physics and probability, especially in connection with the keywords **universality** and **phase transition**. I often make use of numerical experiments.
-
-
-### Main research themes (work in progress...)
-{: .no_toc}
+<br/>
 
 - Euclidean Random Assignment Problems and extensions ([read more]({{ site.baseurl }}erap))
 - Gibbs measures, phase transitions, Renormalisation Group ([read more]({{ site.baseurl }}gibbsrg))
 - Ideal Poisson-Voronoi tessellations ([read more]({{ site.baseurl }}ipvt))
-- Nonlinear randomized urn models ([read more]({{ site.baseurl }}nlrum))
-
+<!--- Nonlinear randomized urn models ([read more]({{ site.baseurl }}nlrum))
+-->
   <!--Some background on this project can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
   {: .text-justify}-->
 
