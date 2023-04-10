@@ -43,11 +43,16 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 
 #### Upcoming
 
-02.10-06.10.2023 &#x2023; **Probability and Geometry in, on and of non-Euclidean spaces**, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
+31.05-02.06.2023 &#x2023; **3 days in honor of Elisabeth Gassiat for her 62nd birthday**, Institut de mathématique d'Orsay, Université Paris-Saclay. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
 10.07-13.07.2023 &#x2023; **Dimers2023 : DIMERS ANR final conference**, Sorbonne University, Paris. [Website](https://dimers2023.sciencesconf.org/){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
+
+02.10-06.10.2023 &#x2023; **Probability and Geometry in, on and of non-Euclidean spaces**, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
+{: style="font-size: 20px; margin-left: 20px" }
+
+
 
 
 #### Past

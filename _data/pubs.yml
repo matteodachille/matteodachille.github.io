@@ -20,6 +20,8 @@
   arxivcode: "2303.16831"
   year: 2023
   submitted: False
+  rg: 369623836
+  academia: 99972215
   pdf: "https://arxiv.org/pdf/2303.16831.pdf"
 
 #- title: Using stochastic order to compare different Euclidean Random Assignment Problems
