@@ -25,13 +25,12 @@ s
 
 ### Upcoming
 
-jj.mm.aaaa &#x2022; **TBA** ([link](#){:target="_blank"})  
+13.06.2023 &#x2022; **Franco-Dutch Day** in **Statistical Mechanics**, LAMA, UPEC, Créteil <!--([link](#){:target="_blank"})  -->
 {: style="font-size: 20px" }
 
 
-<!--Title: _ERAPs: state of art in 1d and future perspectives_ [ [slides] ]({{ site.baseurl }}downloads/ERAP_CIRM_GA-RG_final.pdf){:target="_blank"}
+Title: _TBA_ [ [slides] ](#){:target="_blank"}
 {: style="margin-left: 40px" }
--->
 
 
 
