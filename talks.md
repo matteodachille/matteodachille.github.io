@@ -25,11 +25,11 @@ s
 
 ### Upcoming
 
-13.06.2023 &#x2022; **Franco-Dutch Day** in **Statistical Mechanics**, LAMA, UPEC, Créteil <!--([link](#){:target="_blank"})  -->
+13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, LAMA, UPEC <!--([link](#){:target="_blank"})  -->
 {: style="font-size: 20px" }
 
 
-Title: _TBA_ [ [slides] ](#){:target="_blank"}
+Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
 {: style="margin-left: 40px" }
 
 
