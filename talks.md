@@ -25,13 +25,12 @@ s
 
 ### Upcoming
 
-13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, LAMA, UPEC <!--([link](#){:target="_blank"})  -->
-{: style="font-size: 20px" }
+13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, LAMA, UPEC ([link](https://perso.math.u-pem.fr/le_ny.arnaud/StatMechCreteil2023-V1.pdf){:target="_blank"})
+{: style="font-size: 18.3px" }
 
 
-Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
+Title: _From local to global specifications: the spin-flop transition in the XY model on \\(\mathbb{Z}^2 \\) under decimation_. 45 min  <!--[ [slides] ](#){:target="_blank"}-->
 {: style="margin-left: 40px" }
-
 
 
 
@@ -69,7 +68,7 @@ Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
 {: style="font-size: 16px" }
 08.03 &#x2022; Séminaire de probabilité de Créteil, LAMA, UPEC, Créteil, FR, 60 min ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}) [ [slides] ]({{ site.baseurl }}downloads/NonGibbs_Decimation_ParisEst_final.pdf){:target="_blank"}
 {: style="font-size: 16px" }
-18.02 &#x2022; Séminaire &#171; Les probas du vendredi &#187;, LPSM, Sorbonne Université, Paris, 60 min ([link](https://www.lpsm.paris/seminaires/probasduvendredi/index/#b6-50){:target="_blank"})
+18.02 &#x2022; Séminaire &#171; Les probas du vendredi &#187;, LPSM, Sorbonne Université, Paris, 60 min ([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#b6-50:~:text=Matteo%20D%27Achille%20(LAMA)%20ERAP%20%3A%20du%20pont%20brownien%20%C3%A0%20la%20fonction%20%5Cvartheta_4%20de%20Jacobi){:target="_blank"})
 {: style="font-size: 16px" }
 
 #### 2021

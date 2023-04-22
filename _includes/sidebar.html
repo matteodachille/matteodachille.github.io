@@ -46,6 +46,9 @@
 
 	  <div id="contact-list" style="font-size: 14px; position: relative; bottom: 0;">
 
+
+
+
       <p style="font-size:0.75rem;">Preprints in repositories: </p>
 
       {% if site.arxiv %}
@@ -167,55 +170,9 @@
            </a>
          {% endif %}
 
-
-
   </div>
-  <div class="imgContainer">
-      <a href="https://www.universite-paris-saclay.fr/en" target="_blank">
-        <img class="middle-img" src="../assets/UPSaclay_BLANC.png" style="margin-top : -5px;" height="48" width="100%"/>
-      </a>
-
-  </div>
-
-  <div class="imgContainer">
-       <a href="https://www.imo.universite-paris-saclay.fr/en/" target="_blank">
-         <img src="../assets/Orsay2.jpg" style=" border-radius: 2px; margin-top : 10px; padding-bottom: 5px;" height="30" width="100%"/>
-       </a>
-  </div>
-    <div class="imgContainer">
-        <a href="https://www.cnrs.fr/en" target="_blank">
-          <img src="../assets/CNRS_logo2.png" style=" padding-left: 8px;" height="50" width="100%"/>
-        </a>
-    </div>
+  <p style="font-size:0.6rem;padding-top: 5px;"> <font color="#FFF">Updated</font>: {{ site.time | date: '%B %d, %Y before %H:%M %Z' }}.&nbsp;
+  <font color="#FFF">Pageviews</font>:&nbsp;<span id="visits"></span></p>
 
 
-
-<!--
-
-
-	  <div class="sidebar-logo">
-      <img src="../assets/logo-UPEC-only-white.png" width="100%">
-
-    </div>
-    -->
-	  <!--img src="../assets/dachille2.png" /-->
-<!--
-
-  <!--div class="instlogos">
-            <!--div id="logo2">
-              <p style="font-size:0.75rem;">Current affiliations: </p>
-                <!--img style="max-width:75px; float:left;margin: 5px 5px 5px 5px;" src="../assets/logouvsq.jpg">
-                <img style="max-width:75px;float:left;margin: 5px 5px 5px 5px;" src="../assets/logocdf.jpg"-->
-                <!--img style="max-width:120px;float:left;padding:10px;margin:3px;" src="../assets/UPEC-logo.jpg">
-                <img style="max-width:120px;float:left;padding:10px;margin:3px;" src="../assets/logoup13.jpg">
-                <img style="max-width:75px;float:left;margin: 5px 5px 5px 5px;" src="../assets/logoupsud.jpg"-->
-            <!-- div id="logo2">
-              <img src="../assets/logoup13.jpg">
-              <img src="../assets/logoupsud.png">
-            </div>
-        </div>
-        -->
- <div id="lastupdate" class="sidebar-logo" style="position: absolute; bottom: 0px;">
-          <p style="font-size:0.6rem;"> <br /> <font color="#FFF">Last updated</font>: {{ site.time | date: '%B %d, %Y at around %H:%M %Z' }}.</p>
-</div>
   </div>
