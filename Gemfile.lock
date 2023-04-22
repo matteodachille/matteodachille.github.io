@@ -281,7 +281,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-seo-tag
   json (= 2.5.1)
   minitest (~> 5.1)
   webrick (~> 1.7)

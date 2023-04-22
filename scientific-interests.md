@@ -3,15 +3,16 @@ layout: page
 title: Scientific interests
 order: 2
 ---
-<!--  My research work focuses on statistical mechanics, mathematical physics and probability, especially in connection with the keywords **universality** and **phase transition**. I often make use of numerical experiments.
--->
-(work in progress...)
-
+My research interests in broad lie in **statistical mechanics**, **probability** and **geometry**.
 <br/>
-
-- Euclidean Random Assignment Problems and extensions ([read more]({{ site.baseurl }}erap))
-- Gibbs measures, phase transitions, Renormalisation Group ([read more]({{ site.baseurl }}gibbsrg))
-- Ideal Poisson-Voronoi tessellations ([read more]({{ site.baseurl }}ipvt))
+ <br/>
+ My main focus so far has been in **Euclidean Random Assignment Problems and extensions**, transformation of **Gibbs measures of Ising and XY models** under the **Renormalization Group** and **Ideal Poisson-Voronoi tessellations of the hyperbolic space \\(\mathbb{H}_d\\)**.
+ <br/>
+  <br/>
+ For more details, see:
+- [Euclidean Random Assignment Problems and extensions]({{ site.baseurl }}erap)
+- [Gibbs measures, phase transitions, Renormalisation Group]({{ site.baseurl }}gibbsrg)
+- [Ideal Poisson-Voronoi tessellations]({{ site.baseurl }}ipvt)
 <!--- Nonlinear randomized urn models ([read more]({{ site.baseurl }}nlrum))
 -->
   <!--Some background on this project can be found [at this ResearchGate project page](https://www.researchgate.net/project/Bipartite-matching-relationship-between-random-and-Euclidean-graphs)
