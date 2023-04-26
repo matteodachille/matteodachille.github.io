@@ -46,7 +46,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 22.05-26.05.2023 &#x2023; **Branching Processes and Applications**, Angers, France. [Website](https://site-branpro2023.apps.math.cnrs.fr/index.php){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
-31.05-02.06.2023 &#x2023; **3 days in honor of Elisabeth Gassiat for her 62nd birthday**, Institut de mathématique d'Orsay, Université Paris-Saclay. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
+31.05-02.06.2023 &#x2023; **3 days in honor of Elisabeth Gassiat for her 62nd birthday**, Institut de mathématique d'Orsay, Université Paris-Saclay. [Website](https://www.imo.universite-paris-saclay.fr/fr/conf/conference-62-elisabeth-gassiat/){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
 10.07-13.07.2023 &#x2023; **Dimers2023 : DIMERS ANR final conference**, Sorbonne University, Paris. [Website](https://dimers2023.sciencesconf.org/){:target="_blank"}
