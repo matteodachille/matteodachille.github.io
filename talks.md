@@ -25,6 +25,15 @@ s
 
 ### Upcoming
 
+
+28.06.2023 &#x2022; **Journée Cartes**, IRIF, Paris ([link](https://indico.in2p3.fr/event/30166/){:target="_blank"})
+{: style="font-size: 18.3px" }
+
+
+Title: _TBA_. 60 min <!--[ [slides] ](#){:target="_blank"}-->
+{: style="margin-left: 40px" }
+
+
 13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, LAMA, UPEC ([link](https://perso.math.u-pem.fr/le_ny.arnaud/StatMechCreteil2023-V1.pdf){:target="_blank"})
 {: style="font-size: 18.3px" }
 
