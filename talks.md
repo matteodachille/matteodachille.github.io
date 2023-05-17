@@ -25,21 +25,27 @@ s
 
 ### Upcoming
 
+21-22.09.2023 &#x2022; **Rencontres de probabilités**, Université de Rouen, France ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2022){:target="_blank"})
+{: style="font-size: 18.3px" }
 
-28.06.2023 &#x2022; **Journée Cartes**, IRIF, Paris ([link](https://indico.in2p3.fr/event/30166/){:target="_blank"})
+Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
+{: style="margin-left: 105px" }
+
+
+28.06.2023 &#x2022; **Journée Cartes**, IRIF, Université Paris-Cité ([link](https://indico.in2p3.fr/event/30166/){:target="_blank"})
 {: style="font-size: 18.3px" }
 
 
 Title: _TBA_. 60 min <!--[ [slides] ](#){:target="_blank"}-->
-{: style="margin-left: 40px" }
+{: style="margin-left: 105px" }
 
 
-13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, LAMA, UPEC ([link](https://perso.math.u-pem.fr/le_ny.arnaud/StatMechCreteil2023-V1.pdf){:target="_blank"})
+13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, Université Paris-XII ([link](https://perso.math.u-pem.fr/le_ny.arnaud/StatMechCreteil2023-V1.pdf){:target="_blank"})
 {: style="font-size: 18.3px" }
 
 
 Title: _From local to global specifications: the spin-flop transition in the XY model on \\(\mathbb{Z}^2 \\) under decimation_. 45 min  <!--[ [slides] ](#){:target="_blank"}-->
-{: style="margin-left: 40px" }
+{: style="margin-left: 105px" }
 
 
 
@@ -63,7 +69,7 @@ Title: _From local to global specifications: the spin-flop transition in the XY 
 {: style="font-size: 16px" }
 
 
-22.09 &#x2022; Journée de rentrée de l'équipe de probastat du LMO, université Paris-Saclay, Orsay, 30 min
+22.09 &#x2022; Journée de rentrée de l'équipe probastat du LMO, université Paris-Saclay, Orsay, 30 min
 {: style="font-size: 16px" }
 
 06.09 &#x2022; Optimal Transport and Uncertainty - 2nd Workshop, Naples, 50 min ([link](https://sites.google.com/view/otau2){:target="_blank"}) [ [slides] ]({{ site.baseurl }}downloads/ERAP_OtaU2_Napoli_final.pdf){:target="_blank"} [ [photos] ](https://sites.google.com/view/otau2/photos){:target="_blank"}
