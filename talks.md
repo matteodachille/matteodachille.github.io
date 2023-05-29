@@ -25,7 +25,7 @@ s
 
 ### Upcoming
 
-21-22.09.2023 &#x2022; **Rencontres de probabilités 2023**, Université de Rouen, France <!--([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2022){:target="_blank"})-->
+21-22.09.2023 &#x2022; **Rencontres de Probabilités 2023**, Université de Rouen, France <!--([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2022){:target="_blank"})-->
 {: style="font-size: 18.3px" }
 
 Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
