@@ -43,8 +43,6 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 
 ### Upcoming
 
-22.05-26.05.2023 &#x2023; **Branching Processes and Applications**, Angers, France. [Website](https://site-branpro2023.apps.math.cnrs.fr/index.php){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
 
 31.05-02.06.2023 &#x2023; **3 days in honor of Elisabeth Gassiat for her 62nd birthday**, Institut de mathématique d'Orsay, Université Paris-Saclay. [Website](https://www.imo.universite-paris-saclay.fr/fr/conf/conference-62-elisabeth-gassiat/){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
@@ -64,10 +62,13 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 #### 2023
 {: .no_toc}
 
+22.05-26.05.2023 &#x2022; Branching Processes and Applications, Angers, France. [Website](https://site-branpro2023.apps.math.cnrs.fr/index.php){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
 13.03-17.03 &#x2022; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2887.html){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-10.03 &#x2022; Journées Cartes, Université Gustave-Eiffel, Champs-sur-Marne. [Website](https://indico.in2p3.fr/event/29082/){:target="_blank"}
+10.03 &#x2022; Journée Cartes, Université Gustave-Eiffel, Champs-sur-Marne. [Website](https://indico.in2p3.fr/event/29082/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 24.01-25.01 &#x2022; Inhomogeneous Random Systems, [Institut Curie](https://curie.fr/){:target="_blank"} & [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris. [Website](https://irs.math.cnrs.fr/2023/){:target="_blank"}
@@ -83,7 +84,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 18.11 &#x2022; Journée Cartes, ENS Lyon. [Website](https://indico.in2p3.fr/event/28096/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-09.11 &#x2022; Journées Postdoc de la Fondation Mathématique Jacques Hadamard, [IHES](https://www.ihes.fr/){:target="_blank"}, FR. [Website](https://www.fondation-hadamard.fr/fr/la-fmjh-organise/evenements/les-journees-postdoc/){:target="_blank"}
+09.11 &#x2022; Journée Postdoc de la Fondation Mathématique Jacques Hadamard, [IHES](https://www.ihes.fr/){:target="_blank"}, FR. [Website](https://www.fondation-hadamard.fr/fr/la-fmjh-organise/evenements/les-journees-postdoc/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 

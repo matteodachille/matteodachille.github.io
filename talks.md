@@ -25,7 +25,7 @@ s
 
 ### Upcoming
 
-21-22.09.2023 &#x2022; **Rencontres de probabilités**, Université de Rouen, France ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2022){:target="_blank"})
+21-22.09.2023 &#x2022; **Rencontres de probabilités**, Université de Rouen, France <!--([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2022){:target="_blank"})-->
 {: style="font-size: 18.3px" }
 
 Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
@@ -40,7 +40,7 @@ Title: _TBA_. 60 min <!--[ [slides] ](#){:target="_blank"}-->
 {: style="margin-left: 105px" }
 
 
-13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, Université Paris-XII ([link](https://perso.math.u-pem.fr/le_ny.arnaud/StatMechCreteil2023-V1.pdf){:target="_blank"})
+13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, Université Paris-Est Créteil ([link](https://perso.math.u-pem.fr/le_ny.arnaud/StatMechCreteil2023-V1.pdf){:target="_blank"})
 {: style="font-size: 18.3px" }
 
 
