@@ -40,7 +40,7 @@ Title: _TBA_. 60 min <!--[ [slides] ](#){:target="_blank"}-->
 {: style="margin-left: 105px" }
 
 
-13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, Université Paris-Est Créteil ([link](https://perso.math.u-pem.fr/le_ny.arnaud/StatMechCreteil2023-V1.pdf){:target="_blank"})
+13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, Université Paris-Est Créteil ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/franco_dutch_workshop_stat_mech_in_creteil_2023){:target="_blank"})
 {: style="font-size: 18.3px" }
 
 

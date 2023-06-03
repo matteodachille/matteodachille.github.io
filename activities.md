@@ -62,8 +62,9 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 #### 2023
 {: .no_toc}
 
-22.05-26.05.2023 &#x2022; Branching Processes and Applications, Angers, France. [Website](https://site-branpro2023.apps.math.cnrs.fr/index.php){:target="_blank"}
+22.05-26.05.2023 &#x2022; Branching Processes and Applications, Angers, France. [Website](https://site-branpro2023.apps.math.cnrs.fr/index.php){:target="_blank"} - [group photos](https://site-branpro2023.apps.math.cnrs.fr/pictures.php){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
+
 
 13.03-17.03 &#x2022; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2887.html){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
