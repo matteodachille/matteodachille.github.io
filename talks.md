@@ -44,7 +44,7 @@ Title: _TBA_. 60 min <!--[ [slides] ](#){:target="_blank"}-->
 {: style="font-size: 18.3px" }
 
 
-Title: _From local to global specifications: the spin-flop transition in the XY model on \\(\mathbb{Z}^2 \\) under decimation_. 45 min  <!--[ [slides] ](#){:target="_blank"}-->
+Title: _From local to global specifications: the spin-flop transition in the XY model on \\(\mathbb{Z}^2 \\) under decimation_. 45 min  [ [slides] ]({{ site.baseurl }}downloads/LocGloSpecCreteil13062023_final.pdf){:target="_blank"}
 {: style="margin-left: 105px" }
 
 
