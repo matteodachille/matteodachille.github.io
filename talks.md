@@ -25,22 +25,29 @@ s
 
 ### Upcoming or recent
 
-21-22.09.2023 &#x2022; **Rencontres de Probabilités 2023**, Université de Rouen, France ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023){:target="_blank"})
+21-22.09.2023 &#x2023; **Rencontres de Probabilités 2023**, Université de Rouen, France ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023){:target="_blank"})
 {: style="font-size: 18.3px" }
 
 Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
 {: style="margin-left: 105px" }
 
 
-28.06.2023 &#x2022; **Journée Cartes**, IRIF, Université Paris-Cité ([link](https://indico.in2p3.fr/event/30166/){:target="_blank"})
+20.09.2023 &#x2023; **Seminário de Probabilidade e Mecânica Estatística**, IMPA, Brazil ([link](https://spmes.impa.br/){:target="_blank"})
 {: style="font-size: 18.3px" }
 
-
-Title: _TBA_. 60 min <!--[ [slides] ](#){:target="_blank"}-->
+Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
 {: style="margin-left: 105px" }
 
 
-13.06.2023 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, Université Paris-Est Créteil ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/franco_dutch_workshop_stat_mech_in_creteil_2023){:target="_blank"})
+28.06.2023 &#x2023; **Journée Cartes**, IRIF, Université Paris-Cité ([link](https://indico.in2p3.fr/event/30166/){:target="_blank"})
+{: style="font-size: 18.3px" }
+
+
+Title: _Mosaïques de Poisson-Voronoï idéales sur les espaces hyperboliques_. 60 min <!--[ [slides] ](#){:target="_blank"}-->
+{: style="margin-left: 105px" }
+
+
+13.06.2023 &#x2023; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, U Paris-Est Créteil ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/franco_dutch_workshop_stat_mech_in_creteil_2023){:target="_blank"})
 {: style="font-size: 18.3px" }
 
 
@@ -59,7 +66,7 @@ Title: _From local to global specifications: the spin-flop transition in the XY 
 {: style="font-size: 16px" }
 
 
-17.01 &#x2022; Random Geometry-Géométrie Aléatoire, **CIRM** Marseilles Luminy , 60 min ([link](https://conferences.cirm-math.fr/3021.html){:target="_blank"})  [ [slides] ]({{ site.baseurl }}downloads/ERAP_CIRM_GA-RG_final.pdf){:target="_blank"}
+17.01 &#x2022; Random Geometry-Géométrie Aléatoire, **CIRM** Marseilles Luminy, 60 min ([link](https://conferences.cirm-math.fr/3021.html){:target="_blank"})  [ [slides] ]({{ site.baseurl }}downloads/ERAP_CIRM_GA-RG_final.pdf){:target="_blank"}
 {: style="font-size: 16px" }
 
 #### 2022
@@ -69,7 +76,7 @@ Title: _From local to global specifications: the spin-flop transition in the XY 
 {: style="font-size: 16px" }
 
 
-22.09 &#x2022; Journée de rentrée de l'équipe probastat du LMO, université **Paris-Saclay**, Orsay, 30 min
+22.09 &#x2022; Journée de rentrée de l'équipe probastat du **LMO**, université **Paris-Saclay**, Orsay, 30 min
 {: style="font-size: 16px" }
 
 06.09 &#x2022; Optimal Transport and Uncertainty - 2nd Workshop, **Naples**, 50 min ([link](https://sites.google.com/view/otau2){:target="_blank"}) [ [slides] ]({{ site.baseurl }}downloads/ERAP_OtaU2_Napoli_final.pdf){:target="_blank"} [ [photos] ](https://sites.google.com/view/otau2/photos){:target="_blank"}
@@ -101,7 +108,7 @@ Title: _From local to global specifications: the spin-flop transition in the XY 
 {: style="font-size: 16px" }
 18.03 &#x2022; Alea Days 2021, **CIRM** Marseilles Luminy, FR, 20 min ([link](https://gt-alea.math.cnrs.fr/alea2021/){:target="_blank"}) [ [slides] ]({{ site.baseurl }}downloads/ALEA2021_MZSVs_ERAP_final.pdf){:target="_blank"}
 {: style="font-size: 16px;" }
-19.02 &#x2022; Cristal Point Processes and Applications, Painlevé Laboratory, **Lille**, FR, 45 min ([link](http://seminaire.univ-lille1.fr/node/544){:target="_blank"}) [ [slides] ]({{ site.baseurl }}downloads/erap22-Lille-finalv2.pdf){:target="_blank"}
+19.02 &#x2022; Cristal Point Processes and Applications, **Painlevé** Laboratory, **Lille**, FR, 45 min ([link](http://seminaire.univ-lille1.fr/node/544){:target="_blank"}) [ [slides] ]({{ site.baseurl }}downloads/erap22-Lille-finalv2.pdf){:target="_blank"}
 {: style="font-size: 16px;" }
 
 #### 2020
