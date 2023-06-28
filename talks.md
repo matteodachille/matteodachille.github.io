@@ -43,7 +43,7 @@ Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
 {: style="font-size: 18.3px" }
 
 
-Title: _Mosaïques de Poisson-Voronoï idéales sur les espaces hyperboliques_. 60 min <!--[ [slides] ](#){:target="_blank"}-->
+Title: _Mosaïques de Poisson-Voronoï idéales sur les espaces hyperboliques_. 60 min [ [slides] ]({{ site.baseurl }}downloads/JourneeCartesIRIF_28_06_2023_final.pdf){:target="_blank"}
 {: style="margin-left: 105px" }
 
 
