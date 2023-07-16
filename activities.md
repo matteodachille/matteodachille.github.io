@@ -44,12 +44,6 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 ### Upcoming
 
 
-31.05-02.06.2023 &#x2023; **3 days in honor of Elisabeth Gassiat for her 62nd birthday**, Institut de mathématique d'Orsay, Université Paris-Saclay. [Website](https://www.imo.universite-paris-saclay.fr/fr/conf/conference-62-elisabeth-gassiat/){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
-
-10.07-13.07.2023 &#x2023; **Dimers2023 : DIMERS ANR final conference**, Sorbonne University, Paris. [Website](https://dimers2023.sciencesconf.org/){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
-
 02.10-06.10.2023 &#x2023; **Probability and Geometry in, on and of non-Euclidean spaces**, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
 
@@ -62,7 +56,13 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 #### 2023
 {: .no_toc}
 
-22.05-26.05.2023 &#x2022; Branching Processes and Applications, Angers, France. [Website](https://site-branpro2023.apps.math.cnrs.fr/index.php){:target="_blank"} - [group photos](https://site-branpro2023.apps.math.cnrs.fr/pictures.php){:target="_blank"}
+10.07-13.07 &#x2022; Dimers2023 : DIMERS ANR final conference, Sorbonne Université, Paris. [Website](https://dimers2023.sciencesconf.org/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+31.05-02.06 &#x2022; 3 days for Elisabeth Gassiat's 62nd birthday, LMO, Université Paris-Saclay. [Website](https://www.imo.universite-paris-saclay.fr/fr/conf/conference-62-elisabeth-gassiat/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+22.05-26.05 &#x2022; Branching Processes and Applications, Angers, France. [Website](https://site-branpro2023.apps.math.cnrs.fr/index.php){:target="_blank"} - [group photos](https://site-branpro2023.apps.math.cnrs.fr/pictures.php){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
@@ -90,6 +90,9 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 
 
 20.10-21.10 &#x2022; Lille Days in Point Processes and Stochastic Geometry, IMT Nord Europe, Lille, FR. [Website](https://www.mathconf.org/jlppgs2022){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+17.10-19.10 &#x2022; The many facets of Statistical Field Theory, SISSA, Trieste, IT. [Website](https://sites.google.com/view/the-many-facets-of-sft/home){:target="_blank"} - [group photo](https://lh5.googleusercontent.com/2bFFd-JiBK0H5oYzDco9RYvqt0cVygXx8WlyjXe0c2n1Et3RktcPpiIM6iX3P7yW8UoviD_pcs2SWrNABv95l8ypzWeD6l1TerWjlZnIQuO7zPHQLlzzSj_oDW93-c8LFQ=w1280){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 
