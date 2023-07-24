@@ -3,29 +3,35 @@ layout: page
 title: Activities
 order: 7
 ---
+
+<!--
 * TOC
 {:toc}
-
+-->
 ## Organization
 
+
+#### Recurring seminars
 {: .no_toc}
-_01.09.2022 - current_ &#x2022; [**Les Probabilités de Demain**](https://www.lesprobabilitesdedemain.fr/index.html){:target="_blank"}, Institut Henri-Poincaré, Paris.<br/>
+_01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://www.lesprobabilitesdedemain.fr/index.html){:target="_blank"}, Institut Henri Poincaré, Paris.<br/>
 
-[Website](https://www.lesprobabilitesdedemain.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
+[website](https://www.lesprobabilitesdedemain.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
 {: style="font-size: 20px; margin-left: 180px" }
 
-with Quentin Berger (Sorbonne Université), Hélène Halconruy (University of Luxembourg), Łukasz Mądry (Université Paris Dauphine), Antonio Ocello (Sorbonne Université) and Yijun Wan (ENS Paris).
+with Quentin Berger (Sorbonne Université), Hélène Halconruy (Télécom Paris), Łukasz Mądry (Université Paris Dauphine), Antonio Ocello (Sorbonne Université), Yijun Wan (ENS Paris).
 {: style="font-size: 16px; margin-left: 20px" }
 
-_01.09.2021 - current_ &#x2022; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, online.
+_01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, online.
 
-[Website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
+[website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
 {: style="font-size: 20px; margin-left: 180px" }
 
-with Aymane El Fardi (Institut Denis Poisson Tours) and Eda Kilinçarslan (Institut Denis Poisson Tours).
+with Ariane Carrance (Centre de Mathématiques Appliquées, École Polytechnique), Aymane El Fardi (Institut Denis Poisson Tours), Eda Kilinçarslan (Institut Denis Poisson Tours), Edoardo Lauria (Laboratoire de Physique de l’ENS and CAS, Mines Paris - Université PSL), Meltem Ünel (Institut de Mathématiques d’Orsay).
 {: style="font-size: 16px; margin-left: 20px" }
 
+<br/>
 
+#### Conferences
 _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](https://sites.google.com/view/the-many-facets-of-sft/home){:target="_blank"}, SISSA - International School for Advanced Studies, Trieste, IT.
 
 [Website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCVnPxo6C_NPEHcDxGdzxzdw){:target="_blank"}
@@ -56,7 +62,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 #### 2023
 {: .no_toc}
 
-10.07-13.07 &#x2022; Dimers2023 : DIMERS ANR final conference, Sorbonne Université, Paris. [Website](https://dimers2023.sciencesconf.org/){:target="_blank"}
+10.07-13.07 &#x2022; Dimers2023 : DIMERS ANR final conference, Sorbonne Université. [Website](https://dimers2023.sciencesconf.org/){:target="_blank"} - [group photo](https://dimers2023.sciencesconf.org/resource/gallery/id/4){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 31.05-02.06 &#x2022; 3 days for Elisabeth Gassiat's 62nd birthday, LMO, Université Paris-Saclay. [Website](https://www.imo.universite-paris-saclay.fr/fr/conf/conference-62-elisabeth-gassiat/){:target="_blank"}
@@ -66,7 +72,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 {: style="font-size: 16px; margin-left: 20px" }
 
 
-13.03-17.03 &#x2022; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2887.html){:target="_blank"}
+13.03-17.03 &#x2022; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2887.html){:target="_blank"} - [group photo](https://conferences.cirm-math.fr/wp-content/uploads/2023/06/group_photo1.jpeg){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 10.03 &#x2022; Journée Cartes, Université Gustave-Eiffel, Champs-sur-Marne. [Website](https://indico.in2p3.fr/event/29082/){:target="_blank"}

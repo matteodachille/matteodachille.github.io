@@ -47,6 +47,8 @@ _12.2019 - 12.2020_: Associate Member (Membre Associé) <a href="https://lipn.un
 <br/>
 
 #### Scientific Visits
+(duration \\(\geq \\) 1 week)
+{:style="font-size: 14px" }
 
 _22.11.21 - 29.11.21_: Mathematics Dept., University of Pisa
  ([website](#){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_IT.png"/> &nbsp; <a href="https://www.dm.unipi.it/webnew/en/info/introduction" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/logo_Pisa.png"></a>
@@ -71,9 +73,11 @@ _18.02.18 - 04.03.18_: Banach Center, IMPAN, Warsaw, Poland
 <br/>
 
 #### Membership of scientific societies
-<!--
-_2022 - current_: [SMAI](http://smai.emath.fr/){:target="\_blank"} - Société de Mathématiques       Appliquées et Industrielles <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/>&nbsp; <a href="https://www.fisicastatistica.org/home" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/logo_SIFS.png"></a>
 
+_2022 - ..._ : [SMAI](http://smai.emath.fr/){:target="\_blank"} - Sté de Mathématiques Appliquées et Industrielles <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_FR.png"/>&nbsp; <a href="http://smai.emath.fr/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/SMAI_logo.jpeg"></a>
+
+
+<!--
  _2022 - ..._ : [SMAI](http://smai.emath.fr/){:target="\_blank"} - Society of Applied and Industrial Mathematics <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_FR.png"/>&nbsp; <a href="http://smai.emath.fr/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/logo_SMAI.jpeg"></a>
 -->
  _2019 - ..._ : [SIFS](https://www.fisicastatistica.org/home){:target="\_blank"} - Italian Society of Statistical Physics <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/>&nbsp; <a href="https://www.fisicastatistica.org/home" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/logo_SIFS.png"></a>
@@ -86,4 +90,4 @@ _2022 - current_: [SMAI](http://smai.emath.fr/){:target="\_blank"} - Société d
 
 <br/>
 <br/>
-A detailed (possibly outdated!) CV is available in [en]({{  site.baseurl }}downloads/cv_dachille_en.pdf ){:target="\_blank"}, [fr]({{  site.baseurl }}downloads/cv_dachille_fr.pdf ){:target="\_blank"} and [it]({{  site.baseurl }}downloads/cv_dachille_it.pdf ){:target="\_blank"}.
+A detailed (possibly outdated) CV is available in [en]({{  site.baseurl }}downloads/cv_dachille_en.pdf ){:target="\_blank"}, [fr]({{  site.baseurl }}downloads/cv_dachille_fr.pdf ){:target="\_blank"} and [it]({{  site.baseurl }}downloads/cv_dachille_it.pdf ){:target="\_blank"}.
