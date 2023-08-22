@@ -39,21 +39,6 @@ Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
 {: style="margin-left: 105px" }
 
 
-28.06.2023 &#x2023; **Journée Cartes**, IRIF, Université Paris-Cité ([link](https://indico.in2p3.fr/event/30166/){:target="_blank"})
-{: style="font-size: 18.3px" }
-
-
-Title: _Mosaïques de Poisson-Voronoï idéales sur les espaces hyperboliques_. 60 min [ [slides] ]({{ site.baseurl }}downloads/JourneeCartesIRIF_28_06_2023_final.pdf){:target="_blank"}
-{: style="margin-left: 105px" }
-
-
-13.06.2023 &#x2023; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, U Paris-Est Créteil ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/franco_dutch_workshop_stat_mech_in_creteil_2023){:target="_blank"})
-{: style="font-size: 18.3px" }
-
-
-Title: _From local to global specifications: the spin-flop transition in the XY model on \\(\mathbb{Z}^2 \\) under decimation_. 45 min  [ [slides] ]({{ site.baseurl }}downloads/LocGloSpecCreteil13062023_final.pdf){:target="_blank"}
-{: style="margin-left: 105px" }
-
 
 
 ### Past
@@ -61,6 +46,16 @@ Title: _From local to global specifications: the spin-flop transition in the XY 
 
 #### 2023
 {: .no_toc}
+
+28.06 &#x2022; **Journée Cartes**, IRIF, univ Paris-Cité, 60 min ([link](https://indico.in2p3.fr/event/30166/){:target="_blank"})
+[ [slides] ]({{ site.baseurl }}downloads/JourneeCartesIRIF_28_06_2023_final.pdf){:target="_blank"}
+{: style="font-size: 16px" }
+
+
+13.06 &#x2022; **Franco-Dutch Workshop : Stat-Mech in Créteil 2023**, univ Paris-Est Créteil, 45 min ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/franco_dutch_workshop_stat_mech_in_creteil_2023){:target="_blank"})
+[ [slides] ]({{ site.baseurl }}downloads/LocGloSpecCreteil13062023_final.pdf){:target="_blank"}
+{: style="font-size: 16px" }
+
 
 24.01 &#x2022; Pizzama Seminar, **LMO**, université **Paris-Saclay**, 60 min ([link](https://conferences.cirm-math.fr/3021.html){:target="_blank"})
 {: style="font-size: 16px" }
