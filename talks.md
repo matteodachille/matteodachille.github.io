@@ -23,19 +23,19 @@ s
 -->
 
 
-### Upcoming or recent
+### Upcoming
 
-21-22.09.2023 &#x2023; **Rencontres de Probabilités 2023**, Université de Rouen, France ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023){:target="_blank"})
+21.09.2023 &#x2023; **Rencontres de Probabilités 2023**, Université de Rouen, France ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023){:target="_blank"})
 {: style="font-size: 18.3px" }
 
-Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
+Title: _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_ <!--[ [slides] ](#){:target="_blank"}-->
 {: style="margin-left: 105px" }
 
 
-20.09.2023 &#x2023; **Seminário de Probabilidade e Mecânica Estatística**, IMPA, Brazil ([link](https://spmes.impa.br/){:target="_blank"})
+20.09.2023 &#x2023; **Seminário de Probabilidade e Mecânica Estatística**, IMPA, Brazil (online) ([link](https://spmes.impa.br/){:target="_blank"})
 {: style="font-size: 18.3px" }
 
-Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
+Title: _Almost Gibbsian Measures on a Cayley Tree_ <!--[ [slides] ](#){:target="_blank"}-->
 {: style="margin-left: 105px" }
 
 
@@ -97,7 +97,7 @@ Title: _TBA_ <!--[ [slides] ](#){:target="_blank"}-->
 {: style="font-size: 16px" }
 07.07 &#x2022; Franco-Dutch meeting, CNRS IRP &#171; Bézout-Eurandom &#187;, **IHP**, Paris, 40 min ([link](https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf){:target="_blank"}) [ [slides] ]({{ site.baseurl }}downloads/ERAP_IHP_v18_final.pdf){:target="_blank"}
 {: style="font-size: 16px" }
-25.06 &#x2022;  Journées de probabilités 2021, **Guidel**, FR, 40 min ([link](https://journees-probabilites.univ-rennes1.fr/programme.htm){:target="_blank"}) [[slides]](https://journees-probabilites.univ-rennes1.fr/exposes/D%27Achille.pdf){:target="_blank"}
+25.06 &#x2022;  **Journées de probabilités 2021**, Guidel, FR, 40 min ([link](https://journees-probabilites.univ-rennes1.fr/programme.htm){:target="_blank"}) [[slides]](https://journees-probabilites.univ-rennes1.fr/exposes/D%27Achille.pdf){:target="_blank"}
 {: style="font-size: 16px" }
 24.06 &#x2022; I convention of **SIFS**, Parma, IT, online, 12 min + live Zoom session ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}) [[<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]](https://www.youtube.com/watch?v=4RcOiW20C_E){:target="_blank"} [[slides]]({{ site.baseurl }}downloads/ERAPs_Low_d_Weyl_SIFS_v8.pdf){:target="_blank"}
 {: style="font-size: 16px" }
