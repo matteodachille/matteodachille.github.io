@@ -49,6 +49,11 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 
 ### Upcoming
 
+20.11.2023 &#x2023; **11e séminaire ITZYKSON**, IHES, Bures-sur-Yvette. [Website](https://indico.math.cnrs.fr/event/10584/){:target="_blank"}
+{: style="font-size: 20px; margin-left: 20px" }
+
+18.10.2023 &#x2023; **Sphere Packings and CFT**, kick-off event of the Seed Seminar, Institut Henri Poincaré, Paris. [Website](https://indico.math.cnrs.fr/event/10547/){:target="_blank"}
+{: style="font-size: 20px; margin-left: 20px" }
 
 02.10-06.10.2023 &#x2023; **Probability and Geometry in, on and of non-Euclidean spaces**, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
 {: style="font-size: 20px; margin-left: 20px" }
