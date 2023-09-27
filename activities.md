@@ -8,41 +8,53 @@ order: 7
 * TOC
 {:toc}
 -->
-## Organization
+<br/>
+<br/>
+## (Co-)Organization
 
 
-#### Recurring seminars
+### Recurring seminars
 {: .no_toc}
-_01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://www.lesprobabilitesdedemain.fr/index.html){:target="_blank"}, Institut Henri Poincaré, Paris.<br/>
+<br/>
+_01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://www.lesprobabilitesdedemain.fr/index.html){:target="_blank"}<br/>
+
+<i class="fa fa-university" aria-hidden="true"></i> Institut Henri Poincaré, Paris.
+{: style="font-size: 18px; margin-left: 180px" }
 
 [website](https://www.lesprobabilitesdedemain.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
-{: style="font-size: 20px; margin-left: 180px" }
-
+{: style="font-size: 18px; margin-left: 180px" }
+<!--
 with Quentin Berger (Sorbonne Université), Hélène Halconruy (Télécom Paris), Łukasz Mądry (Université Paris Dauphine), Antonio Ocello (Sorbonne Université), Yijun Wan (ENS Paris).
-{: style="font-size: 16px; margin-left: 20px" }
+{: style="font-size: 16px; margin-left: 20px" }-->
 
-_01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, online.
+_01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}<br/>
+
+ <i class="fa fa-university" aria-hidden="true"></i> Institut Henri Poincaré, Paris & online on Zoom.
+ {: style="font-size: 18px; margin-left: 180px" }
 
 [website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
-{: style="font-size: 20px; margin-left: 180px" }
-
+{: style="font-size: 18px; margin-left: 180px" }
+<!--
 with Ariane Carrance (Centre de Mathématiques Appliquées, École Polytechnique), Aymane El Fardi (Institut Denis Poisson Tours), Eda Kilinçarslan (Institut Denis Poisson Tours), Edoardo Lauria (Laboratoire de Physique de l’ENS and CAS, Mines Paris - Université PSL), Meltem Ünel (Institut de Mathématiques d’Orsay).
 {: style="font-size: 16px; margin-left: 20px" }
-
+-->
 <br/>
 
-#### Conferences
-_17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](https://sites.google.com/view/the-many-facets-of-sft/home){:target="_blank"}, SISSA - International School for Advanced Studies, Trieste, IT.
+### Conferences
+_17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](https://sites.google.com/view/the-many-facets-of-sft/home){:target="_blank"}<br/>
 
-[Website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCVnPxo6C_NPEHcDxGdzxzdw){:target="_blank"}
-{: style="font-size: 20px; margin-left: 180px" }
+ <i class="fa fa-university" aria-hidden="true"></i> SISSA - International School for Advanced Studies, Trieste, IT.
+ {: style="font-size: 18px; margin-left: 165px" }
 
+[website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCVnPxo6C_NPEHcDxGdzxzdw){:target="_blank"}
+{: style="font-size: 20px; margin-left: 165px" }
+<!--
 with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (University of Milan), Enrico Malatesta (Bocconi University), Luca Guido Molinari (University of Milan), Pietro Rotondo (University of Milan), Gabriele Sicuro (King's College London) and Carlo Vanoni (SISSA).
 {: style="font-size: 16px; margin-left: 20px" }
-
+-->
 
 <br/>
-
+<br/>
 
 ## Participation to Schools, conferences, workshops, thematic days ...
 
@@ -59,7 +71,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 {: style="font-size: 20px; margin-left: 20px" }
 
 
-
+<br/>
 
 #### Past
 {: .no_toc}
