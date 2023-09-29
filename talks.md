@@ -25,6 +25,12 @@ s
 
 ### Upcoming or recent
 
+21.11.2023 &#x2023; **Séminaire Analyse-Probabilités**, CEREMADE, université Paris-Dauphine.
+{: style="font-size: 18.3px" }
+
+Title: _TBA_
+{: style="margin-left: 105px" }
+
 21.09.2023 &#x2023; **Rencontres de Probabilités 2023**, Université de Rouen, France ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023){:target="_blank"})
 {: style="font-size: 18.3px" }
 
