@@ -16,6 +16,16 @@ order: 7
 ### Recurring seminars
 {: .no_toc}
 <br/>
+
+_28.09.2023 - current_ &#x2023; [**SuPerGRandMa Weekly Seminar**](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html){:target="_blank"}<br/>
+
+<i class="fa fa-university" aria-hidden="true"></i> Institut de Mathematiques d'Orsay, Paris-Saclay University, Orsay.
+{: style="font-size: 18px; margin-left: 180px" }
+
+[website](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html#:~:text=Weekly%20SuPerGRandMa%20seminar.){:target="_blank"}<!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}-->
+{: style="font-size: 18px; margin-left: 180px" }
+
+
 _01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://www.lesprobabilitesdedemain.fr/index.html){:target="_blank"}<br/>
 
 <i class="fa fa-university" aria-hidden="true"></i> Institut Henri Poincaré, Paris.
