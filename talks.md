@@ -210,12 +210,55 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 -->
 <br/>
 
-## Miscellanea
+
+### Selected Talks by co-authors
 {: .no_toc}
 
-14.04.2021
+<br/>
+
+Sergio Caracciolo
+- 19.09.2018 &#x2022; _New results for random Euclidean optimizations at low dimensions_,
+Sapienza University of Rome &#x2023; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=96Id2gkbkU0){:target="_blank"}
+ {: style="font-size: 16px;" }
+
+Nicolas Curien
+
+-  16.10.2023 &#x2022; _Ideal Poisson-Voronoi tiling_, University of Texas at Austin &#x2023; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=37piBwEasv4){:target="_blank"}
 {: style="font-size: 16px;" }
- Radio guest on "Salon de Café" on **Radio Monte Carlo Doualiya**, 10min <br/> Topic: _Meaning of vaccine efficacy and possible future scenarios of the COVID-19 epidemic_ (French with Arabic voice-over) ([website](https://mc-d.co/1b5W){:target="_blank"})
- {: style="font-size: 17px; margin-left: 40px" }
+
+-  22.09.2023 &#x2022; _Ideal Poisson-Voronoi tiling_, IHES &#x2023;[ details](https://indico.math.cnrs.fr/event/10459/){:target="_blank"}{:target="_blank"}
+{: style="font-size: 16px;" }
+
+
+Russell Lyons
+
+- 04.06.2023 &#x2022; _Voronoi Tessellations without Nuclei_, University of Texas at Austin &#x2023; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=sgBzcuBtFg4){:target="_blank"}
+{: style="font-size: 16px;" }
+
+- 18.05.2023 &#x2022; _Voronoi Tessellations without Nuclei_, 10th Billingsley Lecture on Probability, University of Chicago &#x2023; [poster](https://d3qi0qp55mx5f5.cloudfront.net/stat/docs/Billingsley/2023/Lyons_Russell_Abstract_051823.pdf?mtime=1682693800){:target="_blank"}
+{: style="font-size: 16px;" }
+
+
+Andrea Sportiello
+- 30.01.2020 &#x2022; _Field-Theoretic approach to the Euclidean Random Assignment Problem_, Séminaire Philippe Flajolet, Institut Henri Poincaré &#x2023; [details](https://semflajolet.math.cnrs.fr/archive/2019-2020/#:~:text=Field%2DTheoretic%20approach%20to%20the%20Euclidean%20Random%20Assignment%20Problem){:target="_blank"}
+{: style="font-size: 16px;" }
+
+<br/>
+
+
+## Outreach
+{: .no_toc}
+
+<br/>
+
+14.04.2021 &#x2022; _Meaning of vaccine efficacy_, Radio Monte Carlo Doualiya, Paris &#x2023; [audio recording](https://mc-d.co/1b5W){:target="_blank"} (in French with Arabic voice-over)
+ {: style="font-size: 16px; " }
+
+26.04.2015 &#x2022; _History of special relativity: 1862-1913_, with C.Bressan and F.Paleari, Monza, Italy. &#x2023; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=Bzh4Rb6NP68){:target="_blank"} (in Italian)
+{: style="font-size: 16px; " }
+
+22.03.2015 &#x2022; _On the role of Symmetry in Physics_, Monza, Italy &#x2023; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=mQvotum0OHc){:target="_blank"} (in Italian)
+  {: style="font-size: 16px; " }
+
 
  <br/>
