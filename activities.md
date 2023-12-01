@@ -71,14 +71,12 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 
 ### Upcoming
 
-20.11.2023 &#x2023; **11e séminaire ITZYKSON**, IHES, Bures-sur-Yvette. [Website](https://indico.math.cnrs.fr/event/10584/){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
 
-18.10.2023 &#x2023; **Sphere Packings and CFT**, kick-off event of the Seed Seminar, Institut Henri Poincaré, Paris. [Website](https://indico.math.cnrs.fr/event/10547/){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
+DD.MM.2024 &#x2022; _TBA_
 
-02.10-06.10.2023 &#x2023; **Probability and Geometry in, on and of non-Euclidean spaces**, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
-{: style="font-size: 20px; margin-left: 20px" }
+DD.MM.2024 &#x2022; _TBA_
+
+DD.MM.2024 &#x2022; _TBA_
 
 
 <br/>
@@ -88,6 +86,16 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 
 #### 2023
 {: .no_toc}
+
+20.11 &#x2022; 11e séminaire ITZYKSON, IHES, Bures-sur-Yvette. [Website](https://indico.math.cnrs.fr/event/10584/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+18.10 &#x2022; Sphere Packings and CFT, kick-off event of Seed Seminar, Institut Henri Poincaré, Paris. [Website](https://indico.math.cnrs.fr/event/10547/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+02.10-06.10 &#x2022; Probability and Geometry in, on and of non-Euclidean space, CIRM Luminy. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
 
 10.07-13.07 &#x2022; Dimers2023 : DIMERS ANR final conference, Sorbonne Université. [Website](https://dimers2023.sciencesconf.org/){:target="_blank"} - [group photo](https://dimers2023.sciencesconf.org/resource/gallery/id/4){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }

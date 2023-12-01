@@ -6,7 +6,7 @@ order: 2
 My research interests in broad lie in **statistical mechanics**, **probability** and **geometry**.
 <br/>
  <br/>
- My main focus so far has been in **Euclidean Random Assignment Problems and extensions**, transformation of **Gibbs measures of Ising and XY models** under the **Renormalization Group** and **Ideal Poisson-Voronoi tessellations of the hyperbolic space \\(\mathbb{H}_d\\)**.
+ My main focus so far has been in **Euclidean Random Assignment Problems and extensions**, transformation of **Gibbs measures of Ising and XY models** under the **Renormalization Group** and **Ideal Poisson-Voronoi tessellations**.
  <br/>
   <br/>
  For more details, see:
