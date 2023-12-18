@@ -4,6 +4,7 @@ title: Gibbs measures, phase transitions and renormalisation group
 show: hyde
 ---
 
+<br/>
 
 <img style="max-width:350px;float:right;margin: 15px 15px 15px 15px;padding: 10px;" src="../assets/Tcrit-L33.png">
 <!--

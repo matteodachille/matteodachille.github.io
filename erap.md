@@ -5,7 +5,7 @@ show: hyde
 ---
 
 
-
+<br/>
 
 <img style="max-width:350px;float:right;margin: 15px 15px 15px 15px;padding: 10px;" src="../assets/config-n500.png">
 {: style="text-align: justify" }

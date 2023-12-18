@@ -72,11 +72,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 ### Upcoming
 
 
-DD.MM.2024 &#x2022; _TBA_
-
-DD.MM.2024 &#x2022; _TBA_
-
-DD.MM.2024 &#x2022; _TBA_
+11.01.2024 &#x2023; _Abel in Paris_, Institut Henri Poincaré, Paris. [Website](https://abelprize.no/events/abel-paris-0){:target="_blank"}
 
 
 <br/>
@@ -86,6 +82,7 @@ DD.MM.2024 &#x2022; _TBA_
 
 #### 2023
 {: .no_toc}
+
 
 20.11 &#x2022; 11e séminaire ITZYKSON, IHES, Bures-sur-Yvette. [Website](https://indico.math.cnrs.fr/event/10584/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
