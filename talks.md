@@ -4,23 +4,6 @@ title: Talks
 order: 4
 ---
 
-<!--- TOC
-{:toc}
-
-
-### Upcoming
-
-07/07/2021 - **Franco-Dutch meeting, CNRS International Research Project "Bézout-Eurandom"**, Amphithéâtre Hermite, [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris ([link](https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf){:target="_blank"}). 40 min
-{: style="font-size: 20px" }
-
-_On the phase diagram of Euclidean Random Assignment Problems at low dimensions_
-{: style="margin-left: 40px" }
-
-<!--[slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}events){:target="_blank"}
-{: style="margin-left: 40px" }
-s
-
--->
 
 
 ### Upcoming or recent
