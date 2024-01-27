@@ -13,7 +13,7 @@ show: hyde
 {: style="text-align: justify" }
 
 
-
+<!--
 <ins>Works in preparation</ins>:
 
 1. "Anomalous scaling of the optimal cost in the one-dimensional Euclidean random assignment problem: some rigorous results'',
@@ -21,10 +21,10 @@ show: hyde
 
 2. "The Euclidean random assignment problem at non-integer Hausdorff dimension \\( d_H \in (1,2) \\)'',
  with A. Sportiello (2020-)
-
+-->
 
 <ins>Keywords</ins>: random assignment problem, statistical field theory, disordered systems in finite dimension, Monge-Kantorovich transportation problem
-
+-->
 
 
 If you are interested in numerical simulations, you may want to have a look at [ERAP2d.py](https://github.com/matteodachille/ERAPs2d){:target="_blank"}, a Python module for easy numerical simulations of ERAPs.

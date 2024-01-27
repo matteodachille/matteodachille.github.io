@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: Events
 order: 7
 ---
 
@@ -66,7 +66,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 <br/>
 <br/>
 
-## Participation to Schools, conferences, workshops, thematic days ...
+## Participation
 
 
 ### Upcoming

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gibbs measures, phase transitions and renormalisation group
+title: Gibbs measures, specifications and renormalisation group
 show: hyde
 ---
 
@@ -16,10 +16,10 @@ show: hyde
   Within this context I am currently focusing on the effect of some **renormalization group** transformation to lattice systems, such as nearest-neighbors and long-range Ising and XY models on \\(\mathbb{Z}^2 \\) under **decimation** and Ising models on Cayley trees under **majority rule**. The figure above displays a critical configuration of the n.n. XY model in the box \\([-16,16]^2 \cap \mathbb{Z}^2 \\) with periodic boundary conditions.
 {: style="text-align: justify" }
 
-
+<!--
 <ins>Works in preparation</ins>:
 
-1. "Decimation for long-range Penrose models on fractal lattices'',
-   with A. Le Ny and J. Sohier (2021-)
+<!--1. "Decimation for long-range Penrose models on fractal lattices'',
+   with A. Le Ny and J. Sohier (2021-)-->
 
 <ins>Keywords</ins>: Gibbs measures, Dobrushin-Lanford-Ruelle equations, decimations, majority rules, Ising model, XY model.
