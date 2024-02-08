@@ -10,18 +10,27 @@ order: 4
 ### Upcoming or recent
 
 <br/>
-19.02.2024 &#x2023; Séminaire de Probabilités et Statistiques, LAREMA, Angers.
+
+14.08.2024 &#x2023; Bernoulli-ims
+11th World Congress in Probability and Statistics, Bochum, Germany.
+{: style="font-size: 17.3px" }
+
+Title: _TBA_
+{: style="margin-left: 105px; margin-bottom:20px;" }
+
+
+19.02.2024 &#x2023; Séminaire de Probabilités et Statistiques, LAREMA, Angers, France.
 {: style="font-size: 18.3px" }
 
 Title: _TBA_
-{: style="margin-left: 105px" }
+{: style="margin-left: 105px; margin-bottom:20px" }
 
 
 30.01.2024 &#x2023; Séminaire de Probabilités, Institut Fourier, Grenoble ([announcement](https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille){:target="_blank"})
 {: style="font-size: 18.3px" }
 
 Title: _Jewels in the ideal Poisson-Voronoi tessellation on hyperbolic space_
-{: style="margin-left: 105px" }
+{: style="margin-left: 105px; margin-bottom:20px;" }
 
 
 21.11.2023 &#x2023; Séminaire Analyse-Probabilités, CEREMADE, Paris-Dauphine ([announcement](https://www.ceremade.dauphine.fr/fr/actualites/detail-de-lactualite/article/seminaire-analyse-proba-matteo-dachille-mardi-21-novembre.html){:target="_blank"})

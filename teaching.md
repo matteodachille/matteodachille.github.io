@@ -16,10 +16,15 @@ I currently teach for the [Laboratoire d’analyse et de mathématiques appliqu�
 -->
 
 
-### Classes
+###  Classes
 
-(academic year  class title - institution, level, total teaching load in eqTD hours). <br/> Click on class name for more details (possibly in French!).
+How to read the following list, from left to right: <br/>
+academic year  <a href="#"><b>Class Title</b></a> - institution, level, total teaching load in eqTD hours
+{: style="font-size: 17.3px" }
 
+<!--
+Click on class name for details (beware, possibly in French!).
+-->
 <ul style="list-style: none;
    margin-left: 10;
    padding-left: 1em;
@@ -35,3 +40,6 @@ I currently teach for the [Laboratoire d’analyse et de mathématiques appliqu�
 
 
 _Total teaching experience_: about {{ i }}h eqTD
+
+
+### Invited graduate or research-level courses

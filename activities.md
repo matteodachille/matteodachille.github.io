@@ -9,9 +9,9 @@ order: 7
 {:toc}
 -->
 <br/>
-<br/>
 ## (Co-)Organization
 
+<br/>
 
 ### Recurring seminars
 {: .no_toc}
@@ -22,7 +22,7 @@ _28.09.2023 - current_ &#x2023; [**SuPerGRandMa Weekly Seminar**](https://www.im
 <i class="fa fa-university" aria-hidden="true"></i> Institut de Mathematiques d'Orsay, Paris-Saclay University, Orsay.
 {: style="font-size: 18px; margin-left: 180px" }
 
-[website](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html#:~:text=Weekly%20SuPerGRandMa%20seminar.){:target="_blank"}<!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}-->
+[website](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html#:~:text=Weekly%20SuPerGRandMa%20seminar.){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
 
 
@@ -33,9 +33,7 @@ _01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://www.le
 
 [website](https://www.lesprobabilitesdedemain.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
-<!--
-with Quentin Berger (Sorbonne Université), Hélène Halconruy (Télécom Paris), Łukasz Mądry (Université Paris Dauphine), Antonio Ocello (Sorbonne Université), Yijun Wan (ENS Paris).
-{: style="font-size: 16px; margin-left: 20px" }-->
+
 
 _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}<br/>
 
@@ -44,13 +42,25 @@ _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](ht
 
 [website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
-<!--
-with Ariane Carrance (Centre de Mathématiques Appliquées, École Polytechnique), Aymane El Fardi (Institut Denis Poisson Tours), Eda Kilinçarslan (Institut Denis Poisson Tours), Edoardo Lauria (Laboratoire de Physique de l’ENS and CAS, Mines Paris - Université PSL), Meltem Ünel (Institut de Mathématiques d’Orsay).
-{: style="font-size: 16px; margin-left: 20px" }
--->
+
 <br/>
 
 ### Conferences
+<br/>
+
+_12.08-16.08.2024_ &#x2022; [**11th World Congress in Probability and Statistics**](https://sites.google.com/view/the-many-facets-of-sft/home){:target="_blank"}
+
+
+Contributed paper session: _Randomness on Trees and Random Trees_
+{: style="font-size: 18px; margin-left: 165px" }
+
+
+ <i class="fa fa-university" aria-hidden="true"></i> Ruhr University Bochum, DE.
+ {: style="font-size: 18px; margin-left: 165px" }
+
+
+<br/>
+
 _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](https://sites.google.com/view/the-many-facets-of-sft/home){:target="_blank"}<br/>
 
  <i class="fa fa-university" aria-hidden="true"></i> SISSA - International School for Advanced Studies, Trieste, IT.
@@ -58,10 +68,7 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 
 [website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCVnPxo6C_NPEHcDxGdzxzdw){:target="_blank"}
 {: style="font-size: 20px; margin-left: 165px" }
-<!--
-with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (University of Milan), Enrico Malatesta (Bocconi University), Luca Guido Molinari (University of Milan), Pietro Rotondo (University of Milan), Gabriele Sicuro (King's College London) and Carlo Vanoni (SISSA).
-{: style="font-size: 16px; margin-left: 20px" }
--->
+
 
 <br/>
 <br/>
@@ -69,7 +76,7 @@ with Pasquale Calabrese (SISSA), Andrea Gambassi (SISSA), Marco Gherardi (Univer
 ## Participation
 
 
-### Upcoming
+### Upcoming or recent
 
 
 11.01.2024 &#x2023; _Abel in Paris_, Institut Henri Poincaré, Paris. [Website](https://abelprize.no/events/abel-paris-0){:target="_blank"}

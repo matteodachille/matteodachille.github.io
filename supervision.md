@@ -33,7 +33,7 @@ order: 5
   <br/>
 
 
-**Mouad HAÏ** and **Yilun LI**, 19.05.2022, M1 Mathématiques et Applications, université Paris-Est Créteil <br/>
+**Mouad HAÏ** and **Yilun LI**, 19.05.2022 <br/> M1 Mathématiques et Applications, université Paris-Est Créteil <br/>
   Topic: _Équations de Mathieu et ERAPs sur des domaines elliptiques à \\(p = 2\\)_
   {: style="font-size: 16px" }
 
