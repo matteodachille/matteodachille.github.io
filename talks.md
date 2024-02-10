@@ -11,15 +11,15 @@ order: 4
 
 <br/>
 
-14.08.2024 &#x2023; Bernoulli-ims
-11th World Congress in Probability and Statistics, Bochum, Germany.
+14.08.2024 &#x2023; Bernoulli-*ims*
+11th World Congress in Probability and Statistics, Bochum, Germany
 {: style="font-size: 17.3px" }
 
 Title: _TBA_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 
 
-19.02.2024 &#x2023; Séminaire de Probabilités et Statistiques, LAREMA, Angers, France.
+19.02.2024 &#x2023; Séminaire de Probabilités et Statistiques, LAREMA, Angers, France
 {: style="font-size: 18.3px" }
 
 Title: _TBA_
