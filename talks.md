@@ -23,7 +23,7 @@ Title: _TBA_
 {: style="font-size: 18.3px" }
 
 Title: _TBA_
-{: style="margin-left: 105px; margin-bottom:20px" }
+{: style="margin-left: 105px; margin-bottom:20px;" }
 
 
 30.01.2024 &#x2023; Séminaire de Probabilités, Institut Fourier, Grenoble ([announcement](https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille){:target="_blank"})
