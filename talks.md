@@ -19,10 +19,10 @@ Title: _TBA_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 
 
-19.02.2024 &#x2023; Séminaire de Probabilités et Statistiques, LAREMA, Angers, France
-{: style="font-size: 18.3px" }
+19.02.2024 &#x2023; Séminaire de Probabilités et Statistiques, LAREMA, Angers, France ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/){:target="_blank"})
+{: style="font-size: 17.3px" }
 
-Title: _TBA_
+Title: _Limites locales de la forêt massique sur le graphe complet_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 
 
