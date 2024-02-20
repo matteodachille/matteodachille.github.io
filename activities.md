@@ -48,7 +48,7 @@ _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](ht
 ### Conferences
 <br/>
 
-_12.08-16.08.2024_ &#x2022; [**11th World Congress in Probability and Statistics**](https://sites.google.com/view/the-many-facets-of-sft/home){:target="_blank"}
+_12.08-16.08.2024_ &#x2022; [**11th World Congress in Probability and Statistics**](https://www.bernoulli-ims-worldcongress2024.org/){:target="_blank"}
 
 
 Contributed paper session: _Randomness on Trees and Random Trees_
