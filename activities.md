@@ -78,9 +78,18 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 
 ### Upcoming or recent
 
+<br/>
+
+11.03-15.03.2024 &#x2023; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/3048.html){:target="_blank"}
+{: style="font-size: 18px;"}
+
+
+06.03-08.03.2024 &#x2023; French Japanese Conference on Probability & Interactions, IHES. [Website](https://indico.math.cnrs.fr/event/10598/){:target="_blank"}
+{: style="font-size: 18px;"}
+
 
 11.01.2024 &#x2023; _Abel in Paris_, Institut Henri Poincaré, Paris. [Website](https://abelprize.no/events/abel-paris-0){:target="_blank"}
-
+{: style="font-size: 18px;"}
 
 <br/>
 
@@ -91,7 +100,7 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 {: .no_toc}
 
 
-20.11 &#x2022; 11e séminaire ITZYKSON, IHES, Bures-sur-Yvette. [Website](https://indico.math.cnrs.fr/event/10584/){:target="_blank"}
+20.11 &#x2022; 11e séminaire ITZYKSON, IHES. [Website](https://indico.math.cnrs.fr/event/10584/){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 18.10 &#x2022; Sphere Packings and CFT, kick-off event of Seed Seminar, Institut Henri Poincaré, Paris. [Website](https://indico.math.cnrs.fr/event/10547/){:target="_blank"}

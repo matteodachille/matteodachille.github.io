@@ -16,7 +16,18 @@ I currently teach for the [Laboratoire d’analyse et de mathématiques appliqu�
 -->
 
 
-###  Classes
+### Invited graduate or research-level courses
+<br/>
+
+_29.07.24 - 04.08.24_ &#x2022; _An invitation to random assignment problems_ <br/>
+
+AESIM-CIMPA-ERC Summer School "Probability with / on random graphs:
+trees, networks, dimers, assignments'', Nesin Mathematics Village, Selçuk district, Turkey.<br/> [Infos and Applications](https://sites.google.com/view/probabilityinturkey/main){:target="_blank"}
+{: style="font-size: 15px; margin-left: 165px;" }
+
+<br/>
+
+###  Regular Classes
 
 How to read the following list, from left to right: <br/>
 academic year  <a href="#"><b>Class Title</b></a> - institution, level, total teaching load in eqTD hours
@@ -40,9 +51,3 @@ Click on class name for details (beware, possibly in French!).
 
 
 _Total teaching experience_: about {{ i }}h eqTD
-
-
-### Invited graduate or research-level courses
-
-
-TBA
