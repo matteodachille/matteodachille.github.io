@@ -19,15 +19,17 @@ I currently teach for the [Laboratoire d’analyse et de mathématiques appliqu�
 ### Invited graduate or research-level courses
 <br/>
 
-_29.07.24 - 04.08.24_ &#x2022; _An invitation to random assignment problems_ <br/>
+_29.07.24 - 04.08.24_ &nbsp; *An invitation to random assignment problems*  &nbsp; <span style="font-size: .8rem">([how to apply](https://sites.google.com/view/probabilityinturkey/main){:target="_blank"})</span><br/>
 
-AESIM-CIMPA-ERC Summer School "Probability with / on random graphs:
-trees, networks, dimers, assignments'', Nesin Mathematics Village, Selçuk district, Turkey.<br/> [Infos and Applications](https://sites.google.com/view/probabilityinturkey/main){:target="_blank"}
-{: style="font-size: 15px; margin-left: 165px;" }
+AESIM-CIMPA Summer School "Probability with / on random graphs:
+trees, networks, dimers, assignments'', Nesin Mathematics Village, Turkey<br/>
+{: style="font-size: 15px; margin-left: 170px;" }
 
 <br/>
 
 ###  Regular Classes
+
+Total teaching experience: about {{ i }}h eqTD
 
 How to read the following list, from left to right: <br/>
 academic year  <a href="#"><b>Class Title</b></a> - institution, level, total teaching load in eqTD hours
@@ -48,6 +50,3 @@ Click on class name for details (beware, possibly in French!).
     </li>
   {% endfor %}
 </ul>
-
-
-_Total teaching experience_: about {{ i }}h eqTD

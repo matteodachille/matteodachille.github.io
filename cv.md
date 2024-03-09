@@ -20,7 +20,7 @@ order: 7
 ## Employement
 <br/>
 
-_01.11.2023 - current_: <a href="https://www.imo.universite-paris-saclay.fr/fr/" target="\_blank"> <img style="max-height:80px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/ERC_logo.png"></a> Member of the ERC Grant ["SuPerGRandMa"](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}<br/> with Nicolas Curien (PI) and Jean-François Le Gall (Senior Researcher)
+_01.11.2023 - current_: <a href="https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html" target="\_blank"> <img style="max-height:80px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/ERC_logo.png"></a> Member of the ERC Grant [SuPerGRandMa](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}<br/> with Nicolas Curien (PI) and Jean-François Le Gall (Senior Researcher)
 
 <br/>
 
