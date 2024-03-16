@@ -70,7 +70,7 @@ order: 3
  Dario Benedetto, Emanuele Caglioti, Sergio Caracciolo, Aernout C.D. van Enter, Vittorio Erba, Arnaud Le Ny, Enrico M. Malatesta, Gabriele Sicuro, Andrea Sportiello
  -->
 
- [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="_blank"}, [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"}, [Nicolas Curien](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/){:target="_blank"}, [Nathanaël Enriquez](https://www.imo.universite-paris-saclay.fr/~nathanael.enriquez/){:target="_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="_blank"}, [Vittorio Erba](https://vittorioerba.github.io/){:target="_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="_blank"}, [Russell Lyons](https://rdlyons.pages.iu.edu/){:target="_blank"}, [Enrico M. Malatesta](https://didattica.unibocconi.eu/docenti/cv.php?rif=227138&cognome=MALATESTA&nome=ENRICO_MARIA){:target="_blank"}, [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"}, Meltem Ünel
+ [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="_blank"}, [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"}, [Nicolas Curien](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/){:target="_blank"}, [Nathanaël Enriquez](https://www.imo.universite-paris-saclay.fr/~nathanael.enriquez/){:target="_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="_blank"}, [Vittorio Erba](https://vittorioerba.github.io/){:target="_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="_blank"}, [Russell Lyons](https://rdlyons.pages.iu.edu/){:target="_blank"}, [Enrico M. Malatesta](https://didattica.unibocconi.eu/docenti/cv.php?rif=227138&cognome=MALATESTA&nome=ENRICO_MARIA){:target="_blank"}, [Paul Melotti](https://www.imo.universite-paris-saclay.fr/~paul.melotti/){:target="_blank"}, [Gabriele Sicuro](https://gsicuro.github.io/){:target="_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"}, Meltem Ünel
  {: style="font-size: 20px; margin-left: 20px" }
 
 
@@ -91,7 +91,7 @@ order: 3
    **On two linear assignment problems: random assignment and Euclidean bipartite matching** <br/>
    University of Milan, 2016. Manuscript: [<i class="ai ai-researchgate ai-align-center-1x" aria-hidden="true"></i>](http://dx.doi.org/10.13140/RG.2.1.1725.2082){:target="_blank"} - [<i class="ai ai-academia ai-align-center-1x" aria-hidden="true"></i>](https://www.academia.edu/25062627/On_Two_Linear_Assignment_Problems_Random_Assignment_and_Euclidean_Bipartite_Matching){:target="_blank"} - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/masterthesis.pdf){:target="_blank"} <br/>
  Supervisor: [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"} <br/>
- External rapporteur: [Gabriele Sicuro](https://gabrielesicuro.wordpress.com/){:target="_blank"}
+ External rapporteur: [Gabriele Sicuro](https://gsicuro.github.io/){:target="_blank"}
 
 ### BSc Thesis
 
