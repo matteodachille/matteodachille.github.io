@@ -11,6 +11,21 @@
 #  submitted: False
 #  pdf:
 
+- title:  Local limit of massive spanning forests on the complete graph
+  authors: N. Enriquez and P. Melotti
+  upcoming: True
+  preprint: True
+  published: False
+  arxivurl: "http://arxiv.org/abs/2403.11740"
+  arxivcode: "2403.11740"
+  year: 2024
+  submitted: False
+  rg:
+  halurl:
+  academia:
+  pdf: "assets/lsf.pdf"
+  submitted: False
+
 - title: Ideal Poisson-Voronoi tessellations on hyperbolic spaces
   authors: N. Curien, N. Enriquez, R. Lyons and M. Ünel
   upcoming: True
