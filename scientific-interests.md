@@ -18,4 +18,4 @@ For non-technical introductions to these topics see:
 - [random assignment problems and extensions]({{ site.baseurl }}scientific-interests) (<i class="fa fa-wrench" aria-hidden="true"></i>...)
 
 For my publication list, see [here]({{ site.baseurl }}publications).<br/>
-For a list of delivered talks, see [here]({{ site.baseurl }}talks).
+For a list of delivered or upcoming talks, see [here]({{ site.baseurl }}talks).

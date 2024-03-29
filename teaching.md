@@ -19,10 +19,12 @@ I currently teach for the [Laboratoire d’analyse et de mathématiques appliqu�
 ### Invited graduate or research-level courses
 <br/>
 
-_29.07.24 - 04.08.24_ &nbsp; *An invitation to random assignment problems*  &nbsp; <span style="font-size: .8rem">([how to apply](https://sites.google.com/view/probabilityinturkey/main){:target="_blank"})</span><br/>
+_29.07.24 - 04.08.24_ &nbsp; *An invitation to random assignment problems*  &nbsp; <span style="font-size: .8rem"></span><br/>
+
 
 AESIM-CIMPA Summer School "Probability with / on random graphs:
 trees, networks, dimers, assignments'', Nesin Mathematics Village, Turkey<br/>
+Application [**here**](https://sites.google.com/view/probabilityinturkey/main){:target="_blank"}, <ins>deadline 31/05/2024</ins>
 {: style="font-size: 15px; margin-left: 170px;" }
 
 <br/>

@@ -20,11 +20,11 @@
   arxivcode: "2403.11740"
   year: 2024
   submitted: False
-  rg:
-  halurl:
-  academia:
+  rg: 379374970
+  halurl: "https://hal.science/hal-04521375"
+  academia: 116833187
   pdf: "assets/lsf.pdf"
-  submitted: False
+  submitted: True
 
 - title: Ideal Poisson-Voronoi tessellations on hyperbolic spaces
   authors: N. Curien, N. Enriquez, R. Lyons and M. Ünel
