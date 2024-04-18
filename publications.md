@@ -7,6 +7,7 @@ order: 3
 {:toc} -->
 
 (click on YYMM.NNNNN - <i class="ai ai-hal ai-align-center-1x"></i> - <i class="ai ai-researchgate ai-align-center-1x"></i> - <i class="ai ai-academia ai-align-center-1x"></i> - <i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; to access/download preprint versions)
+{: style="font-size: 18.5px; margin-left: 0px" }
 
 {% assign list_wip = site.data.pubs | where: 'upcoming', true %}
 {% assign list_prep = site.data.pubs | where: 'preprint', true %}
@@ -25,7 +26,13 @@ order: 3
 {% for pub in list_prep %}
   <dd style="margin-left: 30px;"><p style='margin-left: -35px !important;
   position: absolute; font-size: smaller;'>[{{ count }}] </p> <b>{{ pub.title }} </b> <br/>
-  with {{ pub.authors }}, {{ pub.year }}{% if pub.submitted %}. <i> Submitted</i>{% endif %}<br/> <a href="{{ pub.arxivurl }}" target="_blank">{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a>{% endif %}{% if pub.rg %} - <a href="https://www.researchgate.net/publication/{{ pub.rg }}" target="_blank"><i class="ai ai-researchgate ai-align-center-1x"></i></a>{% endif %}{% if pub.academia %} - <a href="https://www.academia.edu/{{ pub.academia }}" target="_blank"><i class="ai ai-academia ai-align-center-1x"></i></a>{% endif %} - <a href="{{  site.baseurl }}{{ pub.pdf }}" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> {% if pub.accepted %}(<i>accepted for publication on {{ pub.accjourn }}</i>){% endif %}</dd>
+  with {{ pub.authors }}, {{ pub.year }}{% if pub.submitted %}. <i> Submitted</i>{% endif %}<br/>{% if pub.abstract %}
+  <details>
+    <summary style="font-size:13pt;"><i>Abstract</i> </summary>
+    <p style="font-size:11.5pt;">{{ pub.abstract }}</p>
+    </details>
+{% endif %}
+<a href="{{ pub.arxivurl }}" target="_blank">{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a>{% endif %}{% if pub.rg %} - <a href="https://www.researchgate.net/publication/{{ pub.rg }}" target="_blank"><i class="ai ai-researchgate ai-align-center-1x"></i></a>{% endif %}{% if pub.academia %} - <a href="https://www.academia.edu/{{ pub.academia }}" target="_blank"><i class="ai ai-academia ai-align-center-1x"></i></a>{% endif %} - <a href="{{  site.baseurl }}{{ pub.pdf }}" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> {% if pub.accepted %}(<i>accepted for publication on {{ pub.accjourn }}</i>){% endif %}</dd>
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
@@ -40,7 +47,13 @@ order: 3
   <!--dt>  {{ pub.title }} with {{ pub.authors }}
   </dt-->
   <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
-  position: absolute;'>[{{ count }}]</p> <a href="{{ pub.doi }}" target="_blank" style='color:#4169e1;'>{{ pub.title }}</a><br/> with {{ pub.authors }}.&nbsp;<br/><b>{{ pub.journal }}</b> {{ pub.volume }}, {{ pub.pages }}, {{ pub.year }}.<br/> <a href="{{ pub.arxivurl }}" target="_blank" >{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a>{% endif %}{% if pub.rg %} - <a href="https://www.researchgate.net/publication/{{ pub.rg }}" target="_blank"><i class="ai ai-researchgate ai-align-center-1x"></i></a>{% endif %}{% if pub.academia %} - <a href="https://www.academia.edu/{{ pub.academia }}" target="_blank"><i class="ai ai-academia ai-align-center-1x"></i></a>{% endif %} - <a href="{{  site.baseurl }}{{ pub.pdf }}" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+  position: absolute;'>[{{ count }}]</p> <a href="{{ pub.doi }}" target="_blank" style='color:#4169e1;'>{{ pub.title }}</a><br/> with {{ pub.authors }}.&nbsp;<br/><b>{{ pub.journal }}</b> {{ pub.volume }}, {{ pub.pages }}, {{ pub.year }}.<br/> {% if pub.abstract %}
+  <details>
+    <summary style="font-size:13pt;"><i>Abstract</i> </summary>
+    <p style="font-size:11.5pt;">{{ pub.abstract }}</p>
+    </details>
+{% endif %}
+  <a href="{{ pub.arxivurl }}" target="_blank" >{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a>{% endif %}{% if pub.rg %} - <a href="https://www.researchgate.net/publication/{{ pub.rg }}" target="_blank"><i class="ai ai-researchgate ai-align-center-1x"></i></a>{% endif %}{% if pub.academia %} - <a href="https://www.academia.edu/{{ pub.academia }}" target="_blank"><i class="ai ai-academia ai-align-center-1x"></i></a>{% endif %} - <a href="{{  site.baseurl }}{{ pub.pdf }}" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
   <br/><br/>
   </dd>
 {% assign count = count | plus: -1 %}
@@ -69,13 +82,11 @@ order: 3
 
 ### Co-authors
 
-(alphabetical order)
- <!--
- Previous version
- Dario Benedetto, Emanuele Caglioti, Sergio Caracciolo, Aernout C.D. van Enter, Vittorio Erba, Arnaud Le Ny, Enrico M. Malatesta, Gabriele Sicuro, Andrea Sportiello
- -->
+(chronological order)
+{: style="font-size: 18.5px; margin-left: 0px" }
 
- [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="_blank"}, [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"}, [Nicolas Curien](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/){:target="_blank"}, [Nathanaël Enriquez](https://www.imo.universite-paris-saclay.fr/~nathanael.enriquez/){:target="_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="_blank"}, [Vittorio Erba](https://vittorioerba.github.io/){:target="_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="_blank"}, [Russell Lyons](https://rdlyons.pages.iu.edu/){:target="_blank"}, [Enrico M. Malatesta](https://didattica.unibocconi.eu/docenti/cv.php?rif=227138&cognome=MALATESTA&nome=ENRICO_MARIA){:target="_blank"}, [Paul Melotti](https://www.imo.universite-paris-saclay.fr/~paul.melotti/){:target="_blank"}, [Gabriele Sicuro](https://gsicuro.github.io/){:target="_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"}, Meltem Ünel
+[Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"}, [Gabriele Sicuro](https://gsicuro.github.io/){:target="_blank"}, [Enrico M. Malatesta](https://didattica.unibocconi.eu/docenti/cv.php?rif=227138&cognome=MALATESTA&nome=ENRICO_MARIA){:target="_blank"}, [Vittorio Erba](https://vittorioerba.github.io/){:target="_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"},
+ [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="_blank"}, [Nicolas Curien](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/){:target="_blank"}, [Nathanaël Enriquez](https://www.imo.universite-paris-saclay.fr/~nathanael.enriquez/){:target="_blank"}, [Russell Lyons](https://rdlyons.pages.iu.edu/){:target="_blank"}, [Meltem Ünel](https://sites.google.com/view/meltemunel/main){:target="_blank"}, [Paul Melotti](https://www.imo.universite-paris-saclay.fr/~paul.melotti/){:target="_blank"}
  {: style="font-size: 18.5px; margin-left: 0px" }
 
 
@@ -86,8 +97,10 @@ order: 3
 ### PhD Thesis
 
 
- **Statistical properties of the Euclidean random assignment problem** <br/> _Université Paris-Saclay_, 2020, 253 pages. Manuscript : [<i class="ai ai-hal" aria-hidden="true"></i>](https://tel.archives-ouvertes.fr/tel-03098672v1){:target="_blank"} - [<i class="ai ai-researchgate ai-align-center-1x" aria-hidden="true"></i>](https://www.researchgate.net/publication/348317683_Statistical_Properties_of_the_Euclidean_Random_Assignment_Problem){:target="_blank"} - <a href="#" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a><br/><br/> Co-Directors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"} <br/> PhD jury members: [Michel Ledoux](https://en.wikipedia.org/wiki/Michel_Ledoux){:target="_blank"} (_président_), [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="_blank"} (_rapporteur_), [Massimiliano Gubinelli](https://www.maths.ox.ac.uk/people/massimiliano.gubinelli){:target="_blank"} (_rapporteur_), [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="_blank"} (_examinateur_), [Lenka Zdeborová](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1){:target="_blank"} (_examinatrice_), [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"} (_membre invité_)
+ **Statistical properties of the Euclidean random assignment problem** <br/> _Université Paris-Saclay_, 2020, 253 pages. Manuscript : [<i class="ai ai-hal" aria-hidden="true"></i>](https://tel.archives-ouvertes.fr/tel-03098672v1){:target="_blank"} - [<i class="ai ai-researchgate ai-align-center-1x" aria-hidden="true"></i>](https://www.researchgate.net/publication/348317683_Statistical_Properties_of_the_Euclidean_Random_Assignment_Problem){:target="_blank"} - <a href="#" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>><br/>
 
+ Co-Directors: [William Jalby](https://scholar.google.fr/citations?user=9m0DLJQAAAAJ&hl=fr){:target="_blank"}, [Olivier Rivoire](https://www.college-de-france.fr/site/en-cirb/rivoire.htm){:target="_blank"} and [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"} <br/> Jury: [Michel Ledoux](https://en.wikipedia.org/wiki/Michel_Ledoux){:target="_blank"} (_président_), [Charles Bordenave](http://www.i2m.univ-amu.fr/perso/charles.bordenave/start){:target="_blank"} (_rapporteur_), [Massimiliano Gubinelli](https://www.maths.ox.ac.uk/people/massimiliano.gubinelli){:target="_blank"} (_rapporteur_), [Guilhem Semerjian](http://www.phys.ens.fr/~guilhem/){:target="_blank"} (_examinateur_), [Lenka Zdeborová](https://en.wikipedia.org/wiki/Lenka_Zdeborov%C3%A1){:target="_blank"} (_examinatrice_), [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"} (_membre invité_)
+{: style="font-size: 17px; margin-left: 0px" }
 
  <br/>
 

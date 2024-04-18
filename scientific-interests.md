@@ -9,7 +9,7 @@ Probability, especially **random geometry**, **statistical mechanics** and **ran
 <br/>
 
 
-My contributions so far have focused on ideal Poisson-Voronoi tessellations, local limits of massive spanning forests, Gibbs measures and specifications within the renormalisation group, random assignment problems and extensions.
+My contributions so far have focused on ideal Poisson-Voronoi tessellations, local limits of massive spanning forests, Gibbs measures and specifications, renormalisation group for spin systems, random assignment problems and extensions.
 
 For non-technical introductions to these topics see:
 - [ideal Poisson-Voronoi tessellations]({{ site.baseurl }}ipvt)

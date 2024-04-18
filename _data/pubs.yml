@@ -25,6 +25,7 @@
   academia: 116833187
   pdf: "assets/lsf.pdf"
   submitted: True
+  abstract: 'We identify the local limit of massive spanning forests on the complete graph. This generalizes a well-known theorem of Grimmett on the local limit of uniform spanning trees on the complete graph.'
 
 - title: Ideal Poisson-Voronoi tessellations on hyperbolic spaces
   authors: N. Curien, N. Enriquez, R. Lyons and M. Ünel
@@ -40,6 +41,7 @@
   academia: 99972215
   pdf: "assets/ipvt.pdf"
   submitted: True
+  abstract: 'We study the limit in low intensity of Poisson--Voronoi tessellations in hyperbolic spaces \( \mathbb{H}_{d} \) for \( d \geq 2 \). In contrast to the Euclidean setting, a limiting nontrivial ideal tessellation \( \mathcal{V}_{d} \) appears as the intensity tends to \(0\). The tessellation \(  \mathcal{V}_{d} \) is  a natural, isometry-invariant decomposition of \( \mathbb{H}_{d} \) into countably many unbounded polytopes, each with a unique end.  We study its basic properties, in particular, the geometric features of its cells.'
 
 #- title: Using stochastic order to compare different Euclidean Random Assignment Problems
 #  authors: Y. Liu
@@ -52,29 +54,29 @@
 #  submitted: False
 #  pdf: "assets/USOCDERAPS_draft_v1____12_pages.pdf"
 
-- title: Counting the number of equilibria in non-linear randomized urn models via phase transitions
-  authors: S. Laruelle
-  upcoming: True
-  preprint: False
-  published: False
-  arxivurl: "https://arxiv.org/abs/"
-  arxivcode: ""
-  year: 2021-
-  submitted: False
-  pdf: ""
+#- title: Counting the number of equilibria in non-linear randomized urn models via phase transitions
+#  authors: S. Laruelle
+#  upcoming: True
+#  preprint: False
+#  published: False
+#  arxivurl: "https://arxiv.org/abs/"
+#  arxivcode: ""
+#  year: 2021-
+#  submitted: False
+#  pdf: ""
 
 
-- title: "Decimation for long-range Penrose models on fractal lattices"
-  authors: A. Le Ny and J. Sohier
-  #upcoming: True
-  upcoming: True
-  preprint: False
-  published: False
-  arxivurl: "https://arxiv.org/abs/"
-  arxivcode: ""
-  year: 2021-
-  submitted: False
-  pdf: ""
+#- title: "Decimation for long-range Penrose models on fractal lattices"
+#  authors: A. Le Ny and J. Sohier
+#  #upcoming: True
+#  upcoming: True
+#  preprint: False
+#  published: False
+#  arxivurl: "https://arxiv.org/abs/"
+#  arxivcode: ""
+#  year: 2021-
+#  submitted: False
+#  pdf: ""
 
 - title: "Decimations for Two Dimensional Ising and Rotator Models II: Continuous versus Discrete Symmetries"
   authors: A.C.D. van Enter and A. Le Ny
@@ -95,6 +97,7 @@
   pages: 123506
   academia: 81601957
   doi : "https://doi.org/10.1063/5.0103163"
+  abstract : 'We show how decimated Gibbs measures having unbroken continuous symmetry due to the Mermin–Wagner theorem, despite their discrete equivalents exhibiting phase transition, can still become non-Gibbsian. The mechanism rests on the occurrence of a spin-flop transition with a broken discrete symmetry, once the model is constrained by the decimated spins in a suitably chosen "bad" configuration.'
 
 - title: The Euclidean random assignment problem at non-integer Hausdorff dimension  \( d_H \in (1,2) \)
   authors: A. Sportiello
@@ -125,6 +128,7 @@
   pages: 033506
   rg: 351656439
   academia: 49094709
+  abstract: 'We extend proofs of non-Gibbsianness of decimated Gibbs measures at low temperatures to include long-range as well as vector-spin interactions. Our main tools consist in a two-dimensional use of "equivalence of boundary conditions" in the long-range case and an extension of global specifications for two-dimensional vector spins.'
 
 - title: Almost Gibbsian Measures on a Cayley Tree
   authors: A. Le Ny
@@ -145,6 +149,7 @@
   pages: 245-273
   rg: 351537068
   academia: 48907624
+  abstract: 'We consider the ferromagnetic n.n. Ising model on Cayley trees submitted to a modified majority rule transformation with overlapping cells already known to lead to non-Gibbsian measures. We describe the renormalized measures within the generalized Gibbs framework and prove that they are almost Gibbs at any temperature.'
 
 - title: "Anomalous scaling of the optimal cost in the one-dimensional Euclidean Random Assignment Problem: some rigorous results"
   authors: A. Sportiello
@@ -174,6 +179,8 @@
   pdf: "assets/DiffMatch.pdf"
   rg: 351542313
   academia: 44361528
+  abstract: 'We consider the assignment problem between two sets of \( N \) random points on a smooth, two-dimensional manifold \( \Omega \)
+ of unit area. It is known that the average cost scales as \( E_\Omega(N) \sim 1/2\pi \ln N \) with a correction that is at most of order \( \sqrt{\ln N \ln \ln N} \). In this paper, we show that, within the linearization approximation of the field-theoretical formulation of the problem, the first \( \Omega \)-dependent correction is on the constant term, and can be exactly computed from the spectrum of the Laplace–Beltrami operator on \( \Omega \). We perform the explicit calculation of this constant for various families of surfaces, and compare our predictions with extensive numerics.'
 
 - title: "The Dyck bound in the concave 1-dimensional random assignment model"
   authors: S. Caracciolo, V. Erba and A. Sportiello
@@ -190,6 +197,7 @@
   pdf: "assets/concave1d.pdf"
   rg: 332630361
   academia: 42043679
+  abstract: 'We consider models of assignment for random \( N \) blue points and \( N \) red points on an interval of length \( 2N \), in which the cost for connecting a blue point in \( x \) to a red point in \( y\)  is the concave function \(|x-y|^p\) , for \( 0<p<1 \). Contrarily to the convex case \( p>1\), where the optimal matching is trivially determined, here the optimization is non-trivial. The purpose of this paper is to introduce a special configuration, that we call the _Dyck matching_, and to study its statistical properties. We compute exactly the average cost, in the asymptotic limit of large \( N \), together with the first subleading correction. The scaling is remarkable: it is of order \( N \) for \( p < \frac{1}{2} \), order \( N\ln N \) for \( p = \frac{1}{2}\), and \( N^{\frac{1}{2}+p} \) for \( p > \frac{1}{2} \), and it is universal for a wide class of models. We conjecture that the average cost of the Dyck matching has the same scaling in \( N \) as the cost of the optimal matching, and we produce numerical data in support of this conjecture. We hope to produce a proof of this claim in future work.'
 
 - title: "Anomalous scaling of the optimal cost in the one-dimensional random assignment problem"
   authors: S. Caracciolo and G. Sicuro
@@ -205,6 +213,7 @@
   pdf: "assets/Corrections1d.pdf"
   rg: 323746608
   academia: 38370087
+  abstract: 'We consider the random Euclidean assignment problem on the line between two sets of \( N \) random points, independently generated with the same probability density function \( \varrho \). The cost of the matching is supposed to be dependent on a power \(p>1\) of the Euclidean distance of the matched pairs. We discuss an integral expression for the average optimal cost for \(N \gg 1 \) that generalizes a previous result obtained for \(p=2\). We also study the possible divergence the given expression due to the vanishing of the probability density function. The provided regularization recipe allows us to recover the proper scaling law for the cost in the divergent cases, and possibly some of the involved coefficients. The possibility that the support of \( \varrho \) is a disconnected interval is also analysed. We exemplify the proposed procedure and we compare our predictions with the results of numerical simulations.'
 
 - title: "Random Euclidean matching problems in one dimension"
   authors: S. Caracciolo and G. Sicuro
@@ -220,6 +229,7 @@
   pdf: "assets/OneDimension.pdf"
   rg: 318527977
   academia: 33931431
+  abstract: 'We discuss the optimal matching solution for both the assignment problem and the matching problem in one dimension for a large class of convex cost functions. We consider the problem in a compact set with the topology both of the interval and of the circumference. Afterwards, we assume the points positions to be random variables identically and independently distributed on the considered domain. We analytically obtain the average optimal cost in the asymptotic regime of very large number of points \( N \) and some correlation functions for a cost function in the form \( c(z)=z^p \), both in the \(p>1\) case and in the \( p<0 \) case. The scaling of the optimal mean cost with the number of points is \( N^{-p/2} \) for the assignment and \( N^{-p} \) for the matching when \( p>1 \), whereas in both cases it is a constant when \( p<0 \). Finally, our predictions are compared with the results of numerical simulations.'
 
 - title: "Finite size corrections in the random assignment problem"
   authors: S. Caracciolo, E.M. Malatesta and G. Sicuro
@@ -235,3 +245,4 @@
   pdf: "assets/FSC.pdf"
   rg: 313857481
   academia: 33014405
+  abstract: 'We analytically derive, in the context of the replica formalism, the first finite-size corrections to the average optimal cost in the random assignment problem for a quite generic distribution law for the costs. We show that, when moving from a power-law distribution to a \(\Gamma\) distribution, the leading correction changes both in sign and in its scaling properties. We also examine the behavior of the corrections when approaching a \(\delta\)-function distribution. By using a numerical solution of the saddle-point equations, we provide predictions that are confirmed by numerical simulations.'
