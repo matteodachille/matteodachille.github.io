@@ -19,10 +19,10 @@ Title: _TBA_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 
 
-30.04.2024 &#x2023; Séminaire CALIN, LIPN, Université Sorbonne Paris Nord
+30.04.2024 &#x2023; Séminaire CALIN, LIPN, Université Sorbonne Paris Nord ([announcement](https://lipn.univ-paris13.fr/~banderier/Seminaires/resume.php?L=1639){:target="_blank"})
 {: style="font-size: 17.3px" }
 
-Title: _TBA_
+Title: _Les bijoux de la tessellation idéale de Poisson-Voronoï de l'espace hyperbolique_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 
 
