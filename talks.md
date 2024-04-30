@@ -57,6 +57,7 @@ Title: _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_
 
 
 21.09 &#x2022; Rencontres de Probabilités 2023, Université de Rouen, France, 40 min ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023){:target="_blank"})
+{: style="font-size: 16px" }
 
 <!--
 Title: _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_ [ [slides] ]({{ site.baseurl }}downloads/Rencontres_de_Proba_final.pdf){:target="_blank"}
