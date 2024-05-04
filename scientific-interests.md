@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Scientific interests
-order: 2
+title: Gallery
+order: 3
 ---
 <br/>
-
-Probability, especially **random geometry**, **statistical mechanics** and **random assignment problems**.
+Here you can find images from my past or current research. Click on the image to get a higher resolution version.
 <br/>
 
-
+<!--
 My contributions so far have focused on ideal Poisson-Voronoi tessellations, local limits of massive spanning forests, Gibbs measures and specifications, renormalisation group for spin systems, random assignment problems and extensions.
 
 For non-technical introductions to these topics see:
@@ -19,3 +18,6 @@ For non-technical introductions to these topics see:
 
 For my publication list, see [here]({{ site.baseurl }}publications).<br/>
 For a list of delivered or upcoming talks, see [here]({{ site.baseurl }}talks).
+
+# Gallery
+-->

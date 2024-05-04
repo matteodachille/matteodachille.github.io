@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-order: 6
+order: 5
 ---
 {% assign i = 0 %}
 {% assign s1 = site.courses %}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-order: 7
+order: 6
 ---
 
 <!--

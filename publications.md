@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-order: 3
+order: 1
 ---
 <!-- - TOC
 {:toc} -->
