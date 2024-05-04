@@ -9,10 +9,15 @@ order: 4
 
 ### Upcoming or recent
 
-<br/>
-
 14.08.2024 &#x2023; Bernoulli-*ims*
 11th World Congress in Probability and Statistics, Bochum, Germany
+{: style="font-size: 17.3px" }
+
+Title: _TBA_
+{: style="margin-left: 105px; margin-bottom:20px;" }
+
+
+19.06.2024 &#x2023; Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil
 {: style="font-size: 17.3px" }
 
 Title: _TBA_
@@ -40,20 +45,23 @@ Title: _Jewels in the ideal Poisson-Voronoi tessellation on hyperbolic space_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 
 
-21.11.2023 &#x2023; Séminaire Analyse-Probabilités, CEREMADE, Paris-Dauphine ([announcement](https://www.ceremade.dauphine.fr/fr/actualites/detail-de-lactualite/article/seminaire-analyse-proba-matteo-dachille-mardi-21-novembre.html){:target="_blank"})
-{: style="font-size: 18.3px" }
-
-Title: _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_
-{: style="margin-left: 105px" }
 
 
-
+<br/>
 
 ### Past
 
 
 #### 2023
 {: .no_toc}
+
+21.11 &#x2022; Séminaire Analyse-Probabilités, CEREMADE, Université Paris-Dauphine, 60 min ([link](https://www.ceremade.dauphine.fr/fr/actualites/detail-de-lactualite/article/seminaire-analyse-proba-matteo-dachille-mardi-21-novembre.html){:target="_blank"})
+{: style="font-size: 16px" }
+
+<!--
+Title: _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_
+{: style="margin-left: 105px" }
+-->
 
 
 21.09 &#x2022; Rencontres de Probabilités 2023, Université de Rouen, France, 40 min ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023){:target="_blank"})
@@ -229,11 +237,27 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 <br/>
 
 
+### Selected talks by co-authors
+{: .no_toc}
+
+#### Ideal Poisson-Voronoi tessellations
+
+- Nicolas Curien - [IHES 2023](https://indico.math.cnrs.fr/event/10459/){:target="_blank"}, [University of Texas Groups & Dynamics 2023](https://youtu.be/37piBwEasv4?feature=shared){:target="_blank"}
+{: style="font-size: 18px;" }
+
+- Russell Lyons - [10th Billingsley Lecture in Probability, The University of Chicago 2023](https://d3qi0qp55mx5f5.cloudfront.net/stat/docs/Billingsley/2023/Billingsley_Poster_2023.pdf?mtime=1682694311){:target="_blank"}
+{: style="font-size: 18px;" }
+
+#### Random assignment problems
+
+- Sergio Caracciolo - [Workshop in honour of Giorgio Parisi's 70th birthday, Rome 2018](https://youtu.be/96Id2gkbkU0?feature=shared){:target="_blank"}
+{: style="font-size: 18px;" }
+
+<br/>
 
 ### Selected outreach talks
 {: .no_toc}
 
-<br/>
 
 14.04.2021 &#x2022; _Meaning of vaccine efficacy_, Radio Monte Carlo Doualiya, Paris &#x2023; [audio recording](https://mc-d.co/1b5W){:target="_blank"} (in French with Arabic voice-over)
  {: style="font-size: 16px; " }
