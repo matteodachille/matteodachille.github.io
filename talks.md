@@ -236,7 +236,7 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 -->
 <br/>
 
-
+<!--
 ### Selected talks by co-authors
 {: .no_toc}
 
@@ -254,7 +254,7 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 {: style="font-size: 18px;" }
 
 <br/>
-
+-->
 ### Selected outreach talks
 {: .no_toc}
 
