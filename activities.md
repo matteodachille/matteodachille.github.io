@@ -13,7 +13,7 @@ order: 6
 
 <br/>
 
-### Recurring seminars
+### Recurring seminars or conferences
 {: .no_toc}
 <br/>
 

@@ -48,19 +48,23 @@ For the hyperbolic space \\( \mathbb{H}_d \\) of dimension \\( d \\), the IPVT, 
   right: 0;
   width: 100%;
   height: 80%;" title="Foam" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d5a6b8aac322480eb8ead3efe18d9e74/embed"> </iframe></div>
-Our Poissonian description of \\( \mathcal{C}_d\\) even allows to easily 3D-print realizations of \\( \mathcal{C}_3\\) (3D printer courtesy of [CIRM Marseille Luminy](https://www.cirm-math.com/)):
+Our Poissonian description of \\( \mathcal{C}_d\\) even allows to easily 3D-print realizations of \\( \mathcal{C}_3\\) in the Poincaré ball model of \\( \mathbb{H}_3 \\):
 <div class="sketchfab-embed-wrapper" style="position: relative;
   overflow: hidden;
   width: 50%;float:center;margin: 15px 15px 15px 15px;  margin-left: auto;
     margin-right: auto;margin-top:40px;margin-bottom:40px;" ><video width="360" height="640" controls>
       <source src="../downloads/3dprint-CIRM.mp4">
       Your browser does not support the video tag.
-  </video> </div>
+  </video><p style="font-style: italic;
+  font-size:15px;
+    text-align: center;">3D printer courtesy: <a href="https://www.cirm-math.com/" target="_blank">library of CIRM, Marseille Luminy</a></p> </div>
 
-For further images, videos and animations see Russ Lyons' gallery: [https://rdlyons.pages.iu.edu/ipvt.html](https://rdlyons.pages.iu.edu/ipvt.html){:target="_blank"}
 
-  <ins>Reference</ins>:
 
-  1. _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_. Matteo D'Achille, Nicolas Curien, Nathanaël Enriquez, Russell Lyons and Meltem Ünel, (2023). arXiv preprint: [2303.16831](https://arxiv.org/abs/2303.16831){:target="_blank"}
 
-  <ins>Keywords</ins>: Hyperbolic tessellations, Poisson-Voronoi tessellations, low intensity limit, Palm measure, typical cell.
+  <ins>Reference paper</ins>:
+
+  _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_. Matteo D'Achille, Nicolas Curien, Nathanaël Enriquez, Russell Lyons and Meltem Ünel, 2023 <br/> arXiv preprint: [2303.16831](https://arxiv.org/abs/2303.16831){:target="_blank"}
+
+
+For further images, videos and animations on this paper see Russ Lyons' dedicated gallery: [https://rdlyons.pages.iu.edu/ipvt.html](https://rdlyons.pages.iu.edu/ipvt.html){:target="_blank"}

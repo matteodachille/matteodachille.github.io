@@ -4,7 +4,7 @@ title: Gallery
 order: 3
 ---
 <br/>
-Here you can find visuals from my past or current research.
+Here are some visuals from my past or current research.
 <br/>
 <br/>
 
@@ -41,20 +41,39 @@ Here you can find visuals from my past or current research.
         </td>
    </tr>
    <tr>
+   <td><img src="./assets/portrait_C2.png" align="right" alt="4" width = 330px height = 310px>
 
+   <p style="font-style: italic;
+   font-size:15px;
+     text-align: center;">Portrait of \( \mathcal{C}_2 \) in the \( \text{IPVT} \) of \(\mathbb{H}_2 \) in 36 samples, disk model (<a href="https://arxiv.org/abs/2303.16831" target="_blank">paper</a>)</p>
+ </td>
+   <td><img src="./assets/causal.png" align="right" alt="4" width = 350px height = 290px>
 
-      <td><img src="./assets/causal.png" align="right" alt="4" width = 350px height = 310px>
+   <p style="font-style: italic;
+   font-size:15px;
+     text-align: center;">Slice of \(\text{Causal}(T)\), where \(T\) is a sample of a  <br/> 3/2-stable critical BGW tree conditioned to survive  <br/> forever (<a href="https://arxiv.org/abs/1710.03137" target="_blank">model</a>)</p>
+ </td>
 
-      <p style="font-style: italic;
-      font-size:15px;
-        text-align: center;">Slice of \(\text{Causal}(T)\), where \(T\) is a sample of a <br/> 3/2-stable critical BGW tree conditioned to survive (<a href="https://arxiv.org/abs/1710.03137" target="_blank">model</a>)</p>
+   </tr>
+   <tr>
+   <td><img src="./assets/msf.png" align="right" alt="4" width = 350px height = 310px>
+
+   <p style="font-style: italic;
+   font-size:15px;
+     text-align: center;">Portion of a sample of \( \lambda {\bf SF}(\mathbb{Z}_2) \) <br/> for small \( \lambda \). Sampling: Wilson's algorithm <br/>  with uniform killing rate (<a href="https://arxiv.org/abs/2403.11740" target="_blank">model</a>)</p>
   </td>
-  <td><img src="./assets/msf.png" align="right" alt="4" width = 350px height = 310px>
+<td><img src="./assets/lsfz3.png" align="right" alt="4" width = 350px height = 310px>
 
-  <p style="font-style: italic;
-  font-size:15px;
-    text-align: center;">Portion of a sample of \( \lambda {\bf SF}(\mathbb{Z}_2) \) <br/> for small \( \lambda \) (<a href="https://arxiv.org/abs/2403.11740" target="_blank">model</a>)</p>
+<p style="font-style: italic;
+font-size:15px;
+  text-align: center;">Portion of a sample of \( \lambda {\bf SF}(\mathbb{Z}_3) \) <br/> for small \( \lambda \). Sampling: Wilson's algorithm <br/> with uniform killing rate (<a href="https://arxiv.org/abs/2403.11740" target="_blank">model</a>)</p>
 </td>
+<!--<td><img src="./assets/brownianloop-n8192.png" align="right" alt="4" width = 350px height = 310px>
+
+<p style="font-style: italic;
+font-size:15px;
+  text-align: center;">Optimal assignment on a \( 2d \) <br/> Brownian loop rooted at the origin. <br/> \(2^{13} \) points of each color</p>
+</td>-->
   </tr>
    <tr>
 
@@ -63,13 +82,13 @@ Here you can find visuals from my past or current research.
 
       <p style="font-style: italic;
       font-size:15px;
-        text-align: center;">Optimal assignment on the 3/2-Cesaro fractal <br/>  (from Chapter 4 of my <a href="https://theses.hal.science/tel-03098672v1" target="_blank">PhD thesis</a>)</p>
+        text-align: center;">Optimal assignment on the 3/2-Cesàro fractal <br/>  (from my <a href="https://theses.hal.science/tel-03098672v1/document#page=202.15" target="_blank">PhD thesis</a>)</p>
   </td>
   <td><img src="./assets/peano.png" align="right" alt="4" width = 350px height = 310px>
 
   <p style="font-style: italic;
   font-size:15px;
-    text-align: center;">Optimal assignment on the 3/2-Peano fractal <br/> (from Chapter 4 of my <a href="https://theses.hal.science/tel-03098672v1" target="_blank">PhD thesis</a>)</p>
+    text-align: center;">Optimal assignment on the 3/2-Peano fractal <br/> (from my <a href="https://theses.hal.science/tel-03098672v1/document#page=202.15" target="_blank">PhD thesis</a>)</p>
 </td>
   </tr>
    <tr>
@@ -79,13 +98,13 @@ Here you can find visuals from my past or current research.
 
       <p style="font-style: italic;
       font-size:15px;
-        text-align: center;">Near critical configuration in ferromagnetic n.n. \( XY \) <br/> model in \( [0,33]^2 \) with free boundary conditions</p>
+        text-align: center;">Near-critical configuration of ferromagnetic n.n. <br/>\( XY \)  model in \( [1,33]^2 \) with free boundary conditions</p>
   </td>
   <td><img src="./assets/quasi_N6.gif" align="right" alt="4" width = 350px height = 310px>
 
   <p style="font-style: italic;
   font-size:15px;
-    text-align: center;">Quasi-periodic structure of the spectrum of  <br/> certain random matrices under investigation</p>
+    text-align: center;">Spectrum of certain random matrices under investigation. Zoom around \( z=1 \)</p>
 </td>
   </tr>
 
