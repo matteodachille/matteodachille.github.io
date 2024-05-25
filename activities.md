@@ -80,15 +80,22 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 
 <br/>
 
-11.03-15.03.2024 &#x2023; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/3048.html){:target="_blank"}
+8.07-12.07 &#x2023; Two Dimensional Random Geometry, IMSI, Chicago. [Website](https://www.imsi.institute/activities/two-dimensional-random-geometry/){:target="_blank"}
 {: style="font-size: 18px;"}
 
 
-06.03-08.03.2024 &#x2023; French Japanese Conference on Probability & Interactions, IHES. [Website](https://indico.math.cnrs.fr/event/10598/){:target="_blank"}
+31.05 &#x2023; Journée cartes à Nanterre. [Website](https://indico.in2p3.fr/event/32935/){:target="_blank"}
+{: style="font-size: 18px;"}
+
+11.03-15.03 &#x2023; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/3048.html){:target="_blank"}
 {: style="font-size: 18px;"}
 
 
-11.01.2024 &#x2023; _Abel in Paris_, Institut Henri Poincaré, Paris. [Website](https://abelprize.no/events/abel-paris-0){:target="_blank"}
+06.03-08.03 &#x2023; French Japanese Conference on Probability & Interactions, IHES. [Website](https://indico.math.cnrs.fr/event/10598/){:target="_blank"}
+{: style="font-size: 18px;"}
+
+
+11.01 &#x2023; _Abel in Paris_, Institut Henri Poincaré, Paris. [Website](https://abelprize.no/events/abel-paris-0){:target="_blank"}
 {: style="font-size: 18px;"}
 
 <br/>
