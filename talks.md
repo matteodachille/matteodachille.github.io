@@ -39,7 +39,7 @@ _TBA_
 <br/>
 
 
-## Selected talks by topic
+## A few talks, sorted by topic
 
 <br/>
 
