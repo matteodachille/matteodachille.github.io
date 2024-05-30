@@ -3,7 +3,7 @@ layout: post
 title:  "Exact expected cost in the one-dimensional ERAP for a generic translation-invariant cost function"
 date:   2021-03-18 22:31:47
 categories: Problems
-tags: ERAP HypergeometricFunctions
+tags: ERAP Hypergeometric&nbsp;functions
 ---
 
 During a recent talk of mine for [ALEA Days 2021](http://gt-alea.math.cnrs.fr/alea2021/) (see [here](/assets/ALEA2021_MZSVs_ERAP_final.pdf) for slides), Nathanaël Enriquez asked in which generality one can hope to obtain _nice_ and _exact_ formulas for the expected ground state energy in the one dimensional ERAP in the convex regime for \\(n\\), \\(\sim U(0,1)\\) blue and red points.

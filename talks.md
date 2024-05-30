@@ -93,14 +93,14 @@ _TBA_
 
 
 
-30.04 &#x2022; Séminaire CALIN, LIPN, Université Sorbonne Paris Nord ([announcement](https://lipn.univ-paris13.fr/~banderier/Seminaires/resume.php?L=1639){:target="_blank"})
+30.04 &#x2022; Séminaire CALIN, LIPN, Université Sorbonne Paris Nord, 60 min ([announcement](https://lipn.univ-paris13.fr/~banderier/Seminaires/resume.php?L=1639){:target="_blank"})
 {: style="font-size: 16px" }
 <!--
 _Les bijoux de la tessellation idéale de Poisson-Voronoï de l'espace hyperbolique_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 -->
 
-19.02 &#x2022; Séminaire de Probabilités et Statistiques, LAREMA, Angers, France ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/){:target="_blank"})
+19.02 &#x2022; Séminaire de Probabilités et Statistiques, LAREMA, Angers, 60 min ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/){:target="_blank"})
 {: style="font-size: 16px" }
 
 <!--
@@ -108,7 +108,7 @@ _Limites locales de la forêt massique sur le graphe complet_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 -->
 
-30.01 &#x2022; Séminaire de Probabilités, Institut Fourier, Grenoble ([announcement](https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille){:target="_blank"})
+30.01 &#x2022; Séminaire de Probabilités, Institut Fourier, Grenoble, 60 min ([announcement](https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille){:target="_blank"})
 {: style="font-size: 16px" }
 
 <!--
