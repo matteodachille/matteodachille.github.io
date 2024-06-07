@@ -29,7 +29,7 @@ Below you will find lists of:
 19.06.2024 &#x2023; Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil
 {: style="font-size: 17.3px" }
 
-_TBA_
+_Local limit of massive spanning forests on the complete graph_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 
 
