@@ -24,7 +24,7 @@ _29.07.24 - 04.08.24_ &nbsp; *An invitation to random assignment problems*  &nbs
 
 AESIM-CIMPA Summer School "Probability with / on random graphs:
 trees, networks, dimers, assignments'', Nesin Mathematics Village, Turkey<br/>
-Application [**here**](https://sites.google.com/view/probabilityinturkey/main){:target="_blank"}, <ins>deadline 31/05/2024</ins>
+[**Webpage**](https://sites.google.com/view/probabilityinturkey/main){:target="_blank"}
 {: style="font-size: 15px; margin-left: 170px;" }
 
 <br/>

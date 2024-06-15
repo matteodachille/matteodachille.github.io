@@ -26,7 +26,7 @@ Below you will find lists of:
 {: style="margin-left: 105px; margin-bottom:20px;" }
 
 
-19.06.2024 &#x2023; Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil
+19.06.2024 &#x2023; Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil ([link](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems){:target="_blank"})
 {: style="font-size: 17.3px" }
 
 _Local limit of massive spanning forests on the complete graph_
