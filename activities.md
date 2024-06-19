@@ -26,7 +26,7 @@ _28.09.2023 - current_ &#x2023; [**SuPerGRandMa Weekly Seminar**](https://www.im
 {: style="font-size: 18px; margin-left: 180px" }
 
 
-_01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://www.lesprobabilitesdedemain.fr/index.html){:target="_blank"}<br/>
+_01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://indico.math.cnrs.fr/category/618/){:target="_blank"}<br/>
 
 <i class="fa fa-university" aria-hidden="true"></i> Institut Henri Poincaré, Paris.
 {: style="font-size: 18px; margin-left: 180px" }
