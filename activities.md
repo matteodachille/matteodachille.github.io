@@ -31,7 +31,7 @@ _01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://indico
 <i class="fa fa-university" aria-hidden="true"></i> Institut Henri Poincaré, Paris.
 {: style="font-size: 18px; margin-left: 180px" }
 
-[website](https://www.lesprobabilitesdedemain.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
+[website](https://indico.math.cnrs.fr/category/618/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
 
 
