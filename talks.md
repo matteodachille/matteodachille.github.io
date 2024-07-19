@@ -19,18 +19,13 @@ Below you will find lists of:
 <br/>
 
 14.08.2024 &#x2023; Bernoulli-*ims*
-11th World Congress in Probability and Statistics, Bochum, Germany
-{: style="font-size: 17.3px" }
+11th World Congress in Probability and Statistics, Bochum, Germany ([details](https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
+{: style="font-size: 16px" }
 
- _TBA_
+ _Many inhomogeneous states for the Ising model on regular tilings of the hyperbolic plane_
 {: style="margin-left: 105px; margin-bottom:20px;" }
 
 
-19.06.2024 &#x2023; Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil ([link](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems){:target="_blank"})
-{: style="font-size: 17.3px" }
-
-_Local limit of massive spanning forests on the complete graph_
-{: style="margin-left: 105px; margin-bottom:20px;" }
 
 
 
@@ -59,6 +54,7 @@ _Local limit of massive spanning forests on the complete graph_
 #### Massive spanning forests
 {: .no_toc}
 
+- Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil ([announcement](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})
 - Séminaire de Probabilités et Statistiques, LAREMA, Angers, 2024 ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/#:~:text=2024%2011H00%2D12H00%20%3A-,MATTEO){:target="_blank"})
 {: style="font-size: 15px" }
 
@@ -92,6 +88,12 @@ _Local limit of massive spanning forests on the complete graph_
 {: .no_toc}
 
 
+19.06 &#x2022; Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil, 45 min ([link](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})
+{: style="font-size: 16px" }
+
+<!--_Local limit of massive spanning forests on the complete graph_
+{: style="margin-left: 105px; margin-bottom:20px;" }
+-->
 
 30.04 &#x2022; Séminaire CALIN, LIPN, Université Sorbonne Paris Nord, 60 min ([announcement](https://lipn.univ-paris13.fr/~banderier/Seminaires/resume.php?L=1639){:target="_blank"})
 {: style="font-size: 16px" }

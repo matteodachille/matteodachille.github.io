@@ -1,0 +1,6 @@
+User-agent: *
+# Disallow all web crawlers from accessing the following pages:
+Disallow: /supervision
+Disallow: /downloads/cv_dachille_en.pdf
+Disallow: /downloads/cv_dachille_fr.pdf
+Disallow: /downloads/cv_dachille_it.pdf
