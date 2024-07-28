@@ -72,7 +72,7 @@ I had the pleasure of supervising the following **12** students:
 {: .no_toc}
 
 
--  Mathys BRUGIER, Tony HAJJAR, Théotime NIAULT, Simon OBJOIS, Adam ROZENTALIS, 16.05.2024 <br/>
+-  Mathys BRUGIER, Tony HAJJAR, Théotime NIAULT, Simon OBJOIS, Adam R., 16.05.2024 <br/>
   _Répulsion de zéros de Yang-Lee aléatoires_<br/>
   L3 Double Diplôme Magistère, Orsay, université Paris-Saclay
   {: style="font-size: 16px" }
