@@ -54,7 +54,7 @@ Below you will find lists of:
 #### Massive spanning forests
 {: .no_toc}
 
-- Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil ([announcement](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})
+- Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil, 2024 ([announcement](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})
 - Séminaire de Probabilités et Statistiques, LAREMA, Angers, 2024 ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/#:~:text=2024%2011H00%2D12H00%20%3A-,MATTEO){:target="_blank"})
 {: style="font-size: 15px" }
 

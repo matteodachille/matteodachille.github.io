@@ -26,7 +26,7 @@ trees, networks, dimers, assignments'', Nesin Mathematics Village, Turkey<br/>
 [**School webpage**](https://sites.google.com/view/probabilityinturkey/main){:target="_blank"}
 {: style="font-size: 15px; margin-left: 170px;" }
 
-Exercises: [1]({{  site.baseurl }}assets/TD1-Nesin24.pdf){:target="_blank"} [2]({{  site.baseurl }}assets/TD2-Nesin24.pdf){:target="_blank"}
+Exercises: [1]({{  site.baseurl }}assets/TD1-Nesin24.pdf){:target="_blank"}, [2]({{  site.baseurl }}assets/TD2-Nesin24.pdf){:target="_blank"}, [3]({{  site.baseurl }}assets/TD3-Nesin24.pdf){:target="_blank"}
 {: style="font-size: 18px; margin-left: 170px;" }
 
 ###  Regular Classes
