@@ -18,12 +18,11 @@ Below you will find lists of:
 ## Upcoming talks
 <br/>
 
-14.08.2024 &#x2023; Bernoulli-*ims*
-11th World Congress in Probability and Statistics, Bochum, Germany ([details](https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
-{: style="font-size: 16px" }
 
- _Many inhomogeneous states for the Ising model on regular tilings of the hyperbolic plane_
-{: style="margin-left: 105px; margin-bottom:20px;" }
+13.11.2024 &#x2023; Probability Seminar, University of Münster, Germany ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})<br/>
+
+Title: _TBA_
+{: style="margin-left: 110px; margin-bottom:20px;" }
 
 
 
@@ -61,6 +60,8 @@ Below you will find lists of:
 #### Gibbs measures, renormalization group
 {: .no_toc}
 
+- Bernoulli-*ims*
+11th World Congress in Probability and Statistics, Bochum, Germany, 2024 ([details](https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
 - Seminário de Probabilidade e Mecânica Estatística, IMPA, Brazil (online), 2023 [[recording on <i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> ]](https://www.youtube.com/watch?v=cJNJ-oxsnJs){:target="_blank"}
 - Séminaire de probabilité de Créteil, 2022 ([announcement](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"})
 - Franco-Dutch meeting Bézout-Eurandom, Institut Henri Poincaré, Paris, 2021
@@ -86,6 +87,10 @@ Below you will find lists of:
 
 #### 2024
 {: .no_toc}
+
+14.08 &#x2022; Bernoulli-*ims*
+11th World Congress in Probability & Statistics, Bochum, Germany, 25 min ([details](https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
+{: style="font-size: 16px" }
 
 
 19.06 &#x2022; Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil, 45 min ([link](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})
