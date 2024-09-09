@@ -19,7 +19,7 @@ Below you will find lists of:
 <br/>
 
 
-13.11.2024 &#x2023; Probability Seminar, University of Münster, Germany ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})<br/>
+13.11.2024 &#x2023; Probability Oberseminar, University of Münster, Germany ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})<br/>
 
 Title: _TBA_
 {: style="margin-left: 110px; margin-bottom:20px;" }
