@@ -33,6 +33,8 @@ _01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://indico
 
 [website](https://indico.math.cnrs.fr/category/618/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
+In person events: 30/11/2022, 12/04/2023, 15/11/2023, 15/05/2024
+{: style="font-size: 14px; margin-left: 180px" }
 
 
 _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}<br/>
@@ -43,12 +45,16 @@ _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](ht
 [website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
 
+[In person events: 11/10/2023, 17/01/2024, 27/03/2024,](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/){:target="_blank"} [7/06/2024 (special day @ IHES)](https://www.ihes.fr/seed-seminar-2024/){:target="_blank"}
+{: style="font-size: 14px; margin-left: 180px" }
+
+
 <br/>
 
 ### Conferences
 <br/>
 
-_12.08-16.08.2024_ &#x2022; [**11th World Congress in Probability and Statistics**](https://www.bernoulli-ims-worldcongress2024.org/){:target="_blank"}
+_14.08.2024_ &#x2022; [**11th World Congress in Probability and Statistics**](https://www.bernoulli-ims-worldcongress2024.org/){:target="_blank"}
 
 
 Contributed paper session: _Randomness on Trees and Random Trees_
@@ -78,33 +84,55 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 
 ### Upcoming or recent
 
+27.01-31.01.2025 &#x2023; Conférence annuelle du GDR branchement, Orsay. [Website](https://indico.math.cnrs.fr/event/12161/){:target="_blank"}
+{: style="font-size: 18px;"}
+
+8.11 &#x2023; Journée 2024 du RT Mathématiques et Physique, Institut Pascal, Saclay. [Website](https://rtmathphys.pages.math.cnrs.fr/journeeRT2024.html){:target="_blank"}
+{: style="font-size: 18px;"}
+
 <br/>
 
-8.07-12.07 &#x2023; Two Dimensional Random Geometry, IMSI, Chicago. [Website](https://www.imsi.institute/activities/two-dimensional-random-geometry/){:target="_blank"}
-{: style="font-size: 18px;"}
 
-
-31.05 &#x2023; Journée cartes à Nanterre. [Website](https://indico.in2p3.fr/event/32935/){:target="_blank"}
-{: style="font-size: 18px;"}
-
-11.03-15.03 &#x2023; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/3048.html){:target="_blank"}
-{: style="font-size: 18px;"}
-
-
-06.03-08.03 &#x2023; French Japanese Conference on Probability & Interactions, IHES. [Website](https://indico.math.cnrs.fr/event/10598/){:target="_blank"}
-{: style="font-size: 18px;"}
-
-
-11.01 &#x2023; _Abel in Paris_, Institut Henri Poincaré, Paris. [Website](https://abelprize.no/events/abel-paris-0){:target="_blank"}
-{: style="font-size: 18px;"}
 
 <br/>
 
 #### Past
 {: .no_toc}
 
+#### 2024
+{: .no_toc}
+
+12.08-16.08 &#x2022; 11th World Congress in Probability and Statistics, Ruhr University Bochum, DE. [Website](https://www.bernoulli-ims-worldcongress2024.org/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+16.07-19.07 &#x2022; Self-similar Markov trees in random geometry, CIRM Luminy. [Website](https://conferences.cirm-math.fr/3415.html){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+8.07-12.07 &#x2022; Two Dimensional Random Geometry, IMSI, Chicago. [Website](https://www.imsi.institute/activities/two-dimensional-random-geometry/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+31.05 &#x2022; Journée cartes à Nanterre. [Website](https://indico.in2p3.fr/event/32935/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+11.03-15.03 &#x2022; ALEA Days - Journées ALEA, CIRM Marseille Luminy. [Website](https://conferences.cirm-math.fr/3048.html){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+06.03-08.03 &#x2022; French Japanese Conference on Probability & Interactions, IHES. [Website](https://indico.math.cnrs.fr/event/10598/){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
+11.01 &#x2022; _Abel in Paris_, Institut Henri Poincaré, Paris. [Website](https://abelprize.no/events/abel-paris-0){:target="_blank"}
+{: style="font-size: 16px; margin-left: 20px" }
+
+
 #### 2023
 {: .no_toc}
+
+
 
 
 20.11 &#x2022; 11e séminaire ITZYKSON, IHES. [Website](https://indico.math.cnrs.fr/event/10584/){:target="_blank"}
