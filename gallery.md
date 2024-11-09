@@ -56,7 +56,7 @@ Here are some visuals from my past or current research.
 
    </tr>
    <tr>
-   <td><img src="./assets/msf.png" align="right" alt="4" width = 350px height = 310px>
+   <td><img src="./assets/minusllarge_Z2_200x200.png" align="right" alt="4" width = 350px height = 310px>
 
    <p style="font-style: italic;
    font-size:15px;
