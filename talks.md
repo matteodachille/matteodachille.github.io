@@ -19,6 +19,12 @@ Below you will find lists of:
 <br/>
 
 
+17.01.2025 &#x2023; Les Probas du vendredi, LPSM, Sorbonne Université, Paris ([link](){:target="_blank"})<br/>
+
+Title: _TBA_
+{: style="margin-left: 110px; margin-bottom:20px;" }
+
+
 13.11.2024 &#x2023; Probability Oberseminar, University of Münster, Germany ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})<br/>
 
 Title: _Ideal Poisson-Voronoi tessellations on and beyond hyperbolic spaces_
@@ -191,7 +197,7 @@ Title: _Almost Gibbsian Measures on a Cayley Tree_ [[<i class="fa fa-youtube fa-
 {: style="font-size: 16px" }
 08.03 &#x2022; Séminaire de probabilité de Créteil, LAMA, UPEC, Créteil, FR, 60 min ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}) <!--[ [slides] ]({{ site.baseurl }}downloads/NonGibbs_Decimation_ParisEst_final.pdf){:target="_blank"}-->
 {: style="font-size: 16px" }
-18.02 &#x2022; Séminaire &#171; Les probas du vendredi &#187;, LPSM, Sorbonne Université, Paris, 60 min ([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#b6-50:~:text=Matteo%20D%27Achille%20(LAMA)%20ERAP%20%3A%20du%20pont%20brownien%20%C3%A0%20la%20fonction%20%5Cvartheta_4%20de%20Jacobi){:target="_blank"})
+18.02 &#x2022; Séminaire &#171; Les Probas du vendredi &#187;, LPSM, Sorbonne Université, Paris, 60 min ([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#b6-50:~:text=Matteo%20D%27Achille%20(LAMA)%20ERAP%20%3A%20du%20pont%20brownien%20%C3%A0%20la%20fonction%20%5Cvartheta_4%20de%20Jacobi){:target="_blank"})
 {: style="font-size: 16px" }
 
 #### 2021
