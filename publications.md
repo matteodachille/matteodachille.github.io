@@ -26,7 +26,7 @@ order: 1
 {% for pub in list_prep %}
   <dd style="margin-left: 30px;"><p style='margin-left: -35px !important;
   position: absolute; font-size: smaller;'>[{{ count }}] </p> <b>{{ pub.title }} </b> <br/>
-  with {{ pub.authors }}, {{ pub.npages }} pages, {{ pub.year }}{% if pub.submitted %}. <i> Submitted</i>{% endif %}<br/>{% if pub.abstract %}
+  {% if pub.authors %}with {{ pub.authors }},{% endif %} {{ pub.npages }} pages, {{ pub.year }}{% if pub.submitted %}. <i> Submitted</i>{% endif %}<br/>{% if pub.abstract %}
   <details>
     <summary style="font-size:13pt;"><i>Abstract</i> </summary>
     <p style="font-size:11.5pt;">{{ pub.abstract }}</p>

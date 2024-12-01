@@ -11,6 +11,24 @@
 #  submitted: False
 #  pdf:
 
+- title:  Ideal Poisson-Voronoi tessellations beyond hyperbolic spaces
+  #authors: N. Enriquez and P. Melotti
+  upcoming: True
+  preprint: True
+  published: False
+  #arxivurl: "http://arxiv.org/abs/2403.11740"
+  arxivcode: "YYMM.XXXXX"
+  year: 2024
+  #submitted: False
+  #rg: 379374970
+  #halurl: "https://hal.science/hal-04521375"
+  #academia: 116833187
+  pdf: "assets/H2xH2.pdf"
+  submitted: False
+  npages: 12
+  abstract: 'We construct and study the ideal Poisson--Voronoi tessellation of the product of two hyperbolic planes \( \mathbb{H}_{2}\times \mathbb{H}_{2}\) endowed with the \(L^{1}\) norm. We prove that its law is invariant under all isometries of this space and study some geometric features of its cells. Among other things, we prove that the set of points at equal separation to any two corona points is unbounded almost surely. This is analogous to a recent result of Frączyk-Mellick-Wilkens for higher rank symmetric spaces.'
+
+
 - title:  Local limit of massive spanning forests on the complete graph
   authors: N. Enriquez and P. Melotti
   upcoming: True

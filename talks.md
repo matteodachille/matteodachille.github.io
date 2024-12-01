@@ -19,16 +19,27 @@ Below you will find lists of:
 <br/>
 
 
-17.01.2025 &#x2023; Les Probas du vendredi, LPSM, Sorbonne Université, Paris ([link](){:target="_blank"})<br/>
+
+24.06.2025 YEP XX, Eindhoven, The Netherlands ([link](){:target="_blank"})<br/>
 
 Title: _TBA_
 {: style="margin-left: 110px; margin-bottom:20px;" }
 
+03.04.2025 &#x2023; Applied Mathematics Seminar, Utrecht University, The Netherlands ([link](){:target="_blank"})<br/>
 
-13.11.2024 &#x2023; Probability Oberseminar, University of Münster, Germany ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})<br/>
-
-Title: _Ideal Poisson-Voronoi tessellations on and beyond hyperbolic spaces_
+Title: _TBA_
 {: style="margin-left: 110px; margin-bottom:20px;" }
+
+17.01.2025 &#x2023; Les Probas du vendredi, LPSM, Sorbonne Université, France ([link](){:target="_blank"})<br/>
+
+Title: _TBA_
+{: style="margin-left: 110px; margin-bottom:20px;" }
+
+12.12.2024 &#x2023; LaMMe Seminar, Evry, France ([link](){:target="_blank"})<br/>
+
+Title: _TBA_
+{: style="margin-left: 110px; margin-bottom:20px;" }
+
 
 
 
@@ -93,6 +104,9 @@ Title: _Ideal Poisson-Voronoi tessellations on and beyond hyperbolic spaces_
 
 #### 2024
 {: .no_toc}
+
+13.11 &#x2022; Probability Oberseminar, University of Münster, Germany ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
+{: style="font-size: 16px" }
 
 14.08 &#x2022; Bernoulli-*ims*
 11th World Congress in Probability & Statistics, Bochum, Germany, 25 min ([details](https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
