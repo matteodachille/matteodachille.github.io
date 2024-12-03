@@ -15,29 +15,32 @@ Below you will find lists of:
 {:toc}
 {: style="font-size: 18px" }
 
+<!--
 ## Upcoming talks
 <br/>
 
 
+<!--
+24.06.2025 &#x2023; YEP XX, Eindhoven, NL ([link](){:target="_blank"})<br/>
 
-24.06.2025 YEP XX, Eindhoven, The Netherlands ([link](){:target="_blank"})<br/>
-
+-->
+<!--
 Title: _TBA_
 {: style="margin-left: 110px; margin-bottom:20px;" }
 
-03.04.2025 &#x2023; Applied Mathematics Seminar, Utrecht University, The Netherlands ([link](){:target="_blank"})<br/>
+03.04.2025 &#x2023; Applied Mathematics Seminar, Utrecht, NL ([link](https://utrechtgeometrycentre.nl/calendar/#:~:text=Applied%20mathematics%20seminar%20Matteo%20d%27Achille%20(U%20Paris%20Saclay)){:target="_blank"})<br/>
 
-Title: _TBA_
+<!--Title: _TBA_
 {: style="margin-left: 110px; margin-bottom:20px;" }
 
 17.01.2025 &#x2023; Les Probas du vendredi, LPSM, Sorbonne Université, France ([link](){:target="_blank"})<br/>
 
-Title: _TBA_
+<!--Title: _TBA_
 {: style="margin-left: 110px; margin-bottom:20px;" }
 
-12.12.2024 &#x2023; LaMMe Seminar, Evry, France ([link](){:target="_blank"})<br/>
+12.12.2024 &#x2023; LaMMe Seminar, Evry, FR ([link](){:target="_blank"})<br/>
 
-Title: _TBA_
+<!--Title: _TBA_
 {: style="margin-left: 110px; margin-bottom:20px;" }
 
 
@@ -48,9 +51,9 @@ Title: _TBA_
 
 
 <br/>
+-->
 
-
-## A few talks, sorted by topic
+## Selected talks sorted by topic
 
 <br/>
 
@@ -96,7 +99,7 @@ Title: _TBA_
 {: style="font-size: 15px" }
 <br/>
 
-## Past talks
+## All talks
 
 (full list)
 {: style="font-size: 15px; margin-left: 0px" }
@@ -349,8 +352,7 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 
 <br/>
 -->
-### Selected outreach talks
-{: .no_toc}
+## Selected outreach communications
 
 
 14.04.2021 &#x2022; _Meaning of vaccine efficacy_, Radio Monte Carlo Doualiya, Paris &#x2023; [audio recording](https://mc-d.co/1b5W){:target="_blank"} (in French with Arabic voice-over)

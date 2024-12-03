@@ -26,8 +26,6 @@ _01.11.2023 - current_: <a href="https://www.imo.universite-paris-saclay.fr/~nic
 
 _01.09.2022 - current_: <a href="https://www.imo.universite-paris-saclay.fr/fr/" target="\_blank"> <img style="max-height:80px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/Orsay_Math_RVB.png"></a> Postdoctoral researcher at [Laboratoire de Mathématiques d'Orsay (LMO)](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}, [université Paris-Saclay](https://www.universite-paris-saclay.fr/){:target="\_blank"}
 
-<br/>
-
 
 <br/>
 
@@ -58,7 +56,7 @@ _12.2019 - 12.2020_: Associated Member of the LIPN, université Sorbonne Paris N
 [Probability Theory and Related Fields](https://www.springer.com/journal/440){:target="\_blank"}{:style="font-size: 16px" }, [Electronic Journal of Probability](https://imstat.org/journals-and-publications/electronic-journal-of-probability/){:target="\_blank"}{:style="font-size: 16px" }, [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18){:target="\_blank"}{:style="font-size: 16px" }, [Physical Review X](https://journals.aps.org/prx/){:target="\_blank"}{:style="font-size: 16px" }, [Chaos](https://aip.scitation.org/journal/cha){:target="\_blank"}{:style="font-size: 16px" }
 
 <br/>
-<br/>
+
 
 #### Grants
 <br/>
@@ -69,37 +67,55 @@ _2023 - ..._ : 2.25K€ from Fondation Mathématique Jacques Hadamard <a href="h
 
 
 <br/>
-<br/>
 
-#### Scientific Visits
+#### Scientific visits
 (duration \\(\geq \\) 1 week)
 {:style="font-size: 14px" }
 
-_22.11.21 - 29.11.21_: Mathematics Dept., University of Pisa
- ([website](#){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_IT.png"/> &nbsp; <a href="https://www.dm.unipi.it/webnew/en/info/introduction" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/logo_Pisa.png"></a>
- <br/>
+_24.11.24 - 30.11.24_: Mathematics Department, Utrecht University, NL
+ ([website](#){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_NL.png"/><!--img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://casa.win.tue.nl/" target="_blank"> <img style="max-height:60px; position: relative; float:right; margin:0px; border-radius: 0px; padding-right:10px; transform: translateY(-25%);" src="../assets/casa_logo.png"></a-->
+{:style="font-size: 16px" }
 
-_09.09.21 - 24.09.21_: CASA, TU Eindhoven, Netherlands
- ([website](https://casa.win.tue.nl/event/matteo-dachille-universite-paris-est-creteil/){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://casa.win.tue.nl/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/casa_logo.png"></a>
- <br/>
+ _12.11.24 - 19.11.24_: Cluster of Excellence, Münster University, DE
+  ([website](#){:target="\_blank"})
+<img style="max-height:28px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_DE.png"/>
+  <!--img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://casa.win.tue.nl/" target="_blank"> <img style="max-height:60px; position: relative; float:right; margin:0px; border-radius: 0px; padding-right:10px; transform: translateY(-25%);" src="../assets/casa_logo.png"></a-->
+{:style="font-size: 16px" }
 
-_18.02.18 - 04.03.18_: Banach Center, IMPAN, Warsaw, Poland
- ([website](https://www.mimuw.edu.pl/~miekisz/index.php?st=4){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_PL.png"/> &nbsp; <a href="https://www.impan.pl/en/activities/banach-center" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/impan_notext.gif"></a>
+_22.11.21 - 29.11.21_: Mathematics Dept., University of Pisa, IT
+ ([website](#){:target="\_blank"})
+<img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/>
+ <!--img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://casa.win.tue.nl/" target="_blank"><!--img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_IT.png"/> &nbsp; <a href="https://www.dm.unipi.it/webnew/en/info/introduction" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/logo_Pisa.png"></a-->
+ {:style="font-size: 16px" }
+
+_09.09.21 - 24.09.21_: CASA, TU Eindhoven, NL
+ ([website](https://casa.win.tue.nl/event/matteo-dachille-universite-paris-est-creteil/){:target="\_blank"})
+<img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_NL.png"/>
+ <!--img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://casa.win.tue.nl/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:5px;" src="../assets/casa_logo.png"></a-->
+ {:style="font-size: 16px" }
+
+_18.02.18 - 04.03.18_: Banach Center, IMPAN, Warsaw, PL
+ ([website](https://www.mimuw.edu.pl/~miekisz/index.php?st=4){:target="\_blank"})
+ <img style="max-height:28px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_PL.png"/> <!--img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_PL.png"/> &nbsp; <a href="https://www.impan.pl/en/activities/banach-center" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:0px;" src="../assets/impan_notext.gif"></a-->
+{:style="font-size: 16px" }
+
 
 <br/>
-
-
 #### Membership of scientific societies
 
 _2022 - ..._ : [SMAI](http://smai.emath.fr/){:target="\_blank"} - Sté de Mathématiques Appliquées et Industrielles <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_FR.png"/>&nbsp; <a href="http://smai.emath.fr/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/SMAI_logo.jpeg"></a>
+ {:style="font-size: 16px" }
 
 
 
  _2019 - ..._ : [SIFS](https://www.fisicastatistica.org/home){:target="\_blank"} - Italian Society of Statistical Physics <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/>&nbsp; <a href="https://www.fisicastatistica.org/home" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/logo_SIFS.png"></a>
+  {:style="font-size: 16px" }
 
  _2017 - ..._ : [EPS](https://www.eps.org/){:target="\_blank"} - European Physical Society <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_EU.png"/>&nbsp; <a href="https://www.eps.org/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:17px;" src="../assets/logo_EPS.png"></a>
+  {:style="font-size: 16px" }
 
  _2013 - ..._ : [SIF](https://www.sif.it){:target="\_blank"} - Italian Physical Society <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_IT.png"/>&nbsp; <a href="https://en.sif.it/" target="_blank"> <img style="max-height:30px; position: relative; float:right; top: 50%; margin:0px; border-radius: 0px; padding-right:10px;" src="../assets/logo_SIF.png"></a>
+  {:style="font-size: 16px" }
 
 
 

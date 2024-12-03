@@ -16,8 +16,8 @@
   upcoming: True
   preprint: True
   published: False
-  #arxivurl: "http://arxiv.org/abs/2403.11740"
-  arxivcode: "YYMM.XXXXX"
+  arxivurl: "http://arxiv.org/abs/2412.00822"
+  arxivcode: "2412.00822"
   year: 2024
   #submitted: False
   #rg: 379374970
