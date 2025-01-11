@@ -108,7 +108,7 @@ Title: _TBA_
 #### 2024
 {: .no_toc}
 
-13.11 &#x2022; Probability Oberseminar, University of Münster, Germany ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
+13.11 &#x2022; Probability Oberseminar, University of Münster, Germany, 60 min ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
 {: style="font-size: 16px" }
 
 14.08 &#x2022; Bernoulli-*ims*
