@@ -19,12 +19,11 @@
   arxivurl: "http://arxiv.org/abs/2412.00822"
   arxivcode: "2412.00822"
   year: 2024
-  #submitted: False
   rg: 386374116
   halurl: "https://hal.science/hal-04817486"
   academia: 126245800
   pdf: "assets/H2xH2.pdf"
-  submitted: False
+  submitted: True
   npages: 12
   abstract: 'We construct and study the ideal Poisson--Voronoi tessellation of the product of two hyperbolic planes \( \mathbb{H}_{2}\times \mathbb{H}_{2}\) endowed with the \(L^{1}\) norm. We prove that its law is invariant under all isometries of this space and study some geometric features of its cells. Among other things, we prove that the set of points at equal separation to any two corona points is unbounded almost surely. This is analogous to a recent result of Frączyk-Mellick-Wilkens for higher rank symmetric spaces.'
 
