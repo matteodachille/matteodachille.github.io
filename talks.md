@@ -4,10 +4,11 @@ title: Talks
 order: 2
 ---
 
-
+<!--
 <br/>
 **25** talks at seminars, conferences and workshops since 2020.<br/>
 <br/>
+-->
 Below you will find lists of:
 {: style="font-size: 18px" }
 
@@ -107,6 +108,10 @@ Title: _TBA_
 
 #### 2024
 {: .no_toc}
+
+12.12 &#x2022; Séminaire de Proba. et Math. Fi., LaMME, Evry, France, 60 min
+([link](http://www.math-evry.cnrs.fr/evenements/seminaireproba-math-fi#:~:text=jeudi%2012%20d%C3%A9cembre%20%C3%A0%2015h15){:target="_blank"})
+{: style="font-size: 16px" }
 
 13.11 &#x2022; Probability Oberseminar, University of Münster, Germany, 60 min ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
 {: style="font-size: 16px" }
