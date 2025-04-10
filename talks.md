@@ -106,6 +106,26 @@ Title: _TBA_
 {: style="font-size: 15px; margin-left: 0px" }
 
 
+#### 2025
+{: .no_toc}
+
+07.04 &#x2022; WORDS 2025, Groningen, The Netherlands, 30 min
+([link](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"})
+{: style="font-size: 16px" }
+
+29.01 &#x2022; Conférence annuelle du GDR branchement, Orsay, France, 45 min
+([link](https://indico.math.cnrs.fr/event/12161/program){:target="_blank"})
+{: style="font-size: 16px" }
+
+27.01 &#x2022; MathNet Seminar, INRIA-ENS, Paris, France, 60 min
+([link](https://team.inria.fr/mathnet/calendar/782/#:~:text=Seminar%3A%20Matteo%20D%27achille){:target="_blank"})
+{: style="font-size: 16px" }
+
+17.01 &#x2022; Les Probas du vendredi, LPSM, Sorbonne Université, Paris, France, 60 min
+([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=Vendredi%2017%20janvier%202025){:target="_blank"})
+{: style="font-size: 16px" }
+
+
 #### 2024
 {: .no_toc}
 
