@@ -11,6 +11,22 @@
 #  submitted: False
 #  pdf:
 
+- title:  On topological invariants and minimal shapes in hyperbolic lattices
+  authors: V. Jacquier and W.M. Ruszel
+  upcoming: True
+  preprint: True
+  published: False
+  #arxivurl: "http://arxiv.org/abs/2412.00822"
+  #arxivcode: "2412.00822"
+  year: 2025
+  #rg: 386374116
+  #halurl: "https://hal.science/hal-04817486"
+  #academia: 126245800
+  #pdf: "assets/H2xH2.pdf"
+  submitted: True
+  npages: 22
+  abstract: 'TBA'
+
 - title:  Ideal Poisson-Voronoi tessellations beyond hyperbolic spaces
   #authors: N. Enriquez and P. Melotti
   upcoming: True
