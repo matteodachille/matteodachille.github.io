@@ -11,21 +11,21 @@
 #  submitted: False
 #  pdf:
 
-- title:  On topological invariants and minimal shapes in hyperbolic lattices
+- title:  On minimal shapes and topological invariants in hyperbolic lattices
   authors: V. Jacquier and W.M. Ruszel
   upcoming: True
   preprint: True
   published: False
-  #arxivurl: "http://arxiv.org/abs/2412.00822"
-  #arxivcode: "2412.00822"
+  arxivurl: "http://arxiv.org/abs/2504.14080"
+  arxivcode: "2504.14080"
   year: 2025
   #rg: 386374116
-  #halurl: "https://hal.science/hal-04817486"
+  halurl: "https://hal.science/hal-05044464"
   #academia: 126245800
-  #pdf: "assets/H2xH2.pdf"
-  submitted: True
+  pdf: "assets/IsoLpq.pdf"
+  #submitted: True
   npages: 22
-  abstract: 'TBA'
+  abstract: 'We characterize the set of finite shapes with minimal perimeter on hyperbolic lattices given by regular tilings of the hyperbolic plane whose tiles are regular \(p\)-gons meeting at vertices of degree \( q\), with \(\frac{1}{p}+\frac{1}{q}< \frac{1}{2} \). The main tool is a layer decomposition due to Rietman-Nienhuis-Oitmaa and Moran, which allows us to prove convergence towards the Cheeger constant when these shapes exhaust the lattice. Furthermore, we apply a celebrated result of Floyd-Plotnick, which will allow us to compute the Euler characteristic for these graphs in terms of certain growth functions and the number of \( n \)-sized animals on those lattices.'
 
 - title:  Ideal Poisson-Voronoi tessellations beyond hyperbolic spaces
   #authors: N. Enriquez and P. Melotti

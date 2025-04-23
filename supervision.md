@@ -17,6 +17,19 @@ I had the pleasure of supervising the following **12** students:
 
 
 <!--img style="max-height:80px; position: relative; float:left; top: 50%; border:solid 0.05em;transform: translateY(18%); margin-right:15px !important; border-radius: 50%;" src="../assets/Liu.jpeg"-->
+
+
+- Thomas QUARCK (started 7.04.2025), jointly with Jessie Levillain <br/>
+  _Random assignment problems for satellite data
+acquisition_ <br/>
+  M2 Mathématiques et applications, Probabilités et Modèles aléatoires, Sorbonne Université
+  {: style="font-size: 16px" }
+
+  Stage supported by a grant from the [CNES Toulouse](https://cnes.fr/en){:target="_blank"}.
+  {: style="font-size: 13px" }
+
+
+
 - Yuqi LIU, 02.09.2022 <br/>
   _Comparison of different Euclidean Random Assignment Problems_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/Liu.pdf){:target="_blank"}<br/>
   M2 Mathématiques et Applications, université Paris-Est Créteil
