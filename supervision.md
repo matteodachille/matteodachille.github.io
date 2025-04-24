@@ -5,7 +5,7 @@ order: 4
 ---
 
   <br/>
-I have/had the pleasure of supervising the following **12** students:
+I have/had the pleasure of supervising the following **13** students:
   {: style="font-size: 18px" }
   <br/>
 ### M2 research internship

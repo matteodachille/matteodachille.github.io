@@ -23,7 +23,7 @@
   halurl: "https://hal.science/hal-05044464"
   #academia: 126245800
   pdf: "assets/IsoLpq.pdf"
-  #submitted: True
+  submitted: True
   npages: 22
   abstract: 'We characterize the set of finite shapes with minimal perimeter on hyperbolic lattices given by regular tilings of the hyperbolic plane whose tiles are regular \(p\)-gons meeting at vertices of degree \( q\), with \(\frac{1}{p}+\frac{1}{q}< \frac{1}{2} \). The main tool is a layer decomposition due to Rietman-Nienhuis-Oitmaa and Moran, which allows us to prove convergence towards the Cheeger constant when these shapes exhaust the lattice. Furthermore, we apply a celebrated result of Floyd-Plotnick, which will allow us to compute the Euler characteristic for these graphs in terms of certain growth functions and the number of \( n \)-sized animals on those lattices.'
 
