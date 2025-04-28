@@ -53,7 +53,7 @@ _12.2019 - 12.2020_: Associated Member of the LIPN, université Sorbonne Paris N
 
 #### Peer reviewer for
 
-[Probability Theory and Related Fields](https://www.springer.com/journal/440){:target="\_blank"}{:style="font-size: 16px" }, [Electronic Journal of Probability](https://imstat.org/journals-and-publications/electronic-journal-of-probability/){:target="\_blank"}{:style="font-size: 16px" }, [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18){:target="\_blank"}{:style="font-size: 16px" }, [Physical Review X](https://journals.aps.org/prx/){:target="\_blank"}{:style="font-size: 16px" }, [Chaos](https://aip.scitation.org/journal/cha){:target="\_blank"}{:style="font-size: 16px" }
+[Annales de l’Institut Henri Poincaré B](https://imstat.org/journals-and-publications/annales-de-linstitut-henri-poincare/){:target="\_blank"}{:style="font-size: 16px" }, [Probability Theory and Related Fields](https://www.springer.com/journal/440){:target="\_blank"}{:style="font-size: 16px" }, [Electronic Journal/Communications of/in Probability](https://imstat.org/journals-and-publications/electronic-journal-of-probability/){:target="\_blank"}{:style="font-size: 16px" }, [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18){:target="\_blank"}{:style="font-size: 16px" }, [Physical Review X](https://journals.aps.org/prx/){:target="\_blank"}{:style="font-size: 16px" }, [Chaos](https://aip.scitation.org/journal/cha){:target="\_blank"}{:style="font-size: 16px" }
 
 <br/>
 

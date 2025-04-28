@@ -26,7 +26,7 @@ order: 1
 {% for pub in list_prep %}
   <dd style="margin-left: 30px;"><p style='margin-left: -35px !important;
   position: absolute; font-size: smaller;'>[{{ count }}] </p> <b>{{ pub.title }} </b> <br/>
-  {% if pub.authors %}with {{ pub.authors }},{% endif %} {{ pub.npages }} pages, {{ pub.year }}{% if pub.submitted %}. <i> Submitted</i>{% endif %}<br/>{% if pub.abstract %}
+  {% if pub.authors %}with {{ pub.authors }}.{% endif %} {% if pub.submitted %} <i> Submitted</i>{% endif %}<br/>{% if pub.abstract %}
   <details>
     <summary style="font-size:13pt;"><i>Abstract</i> </summary>
     <p style="font-size:11.5pt;">{{ pub.abstract }}</p>
@@ -86,7 +86,7 @@ order: 1
 {: style="font-size: 18.5px; margin-left: 0px" }
 
 [Sergio Caracciolo](http://pcteserver.mi.infn.it/~caraccio/){:target="_blank"}, [Gabriele Sicuro](https://gsicuro.github.io/){:target="_blank"}, [Enrico M. Malatesta](https://didattica.unibocconi.eu/docenti/cv.php?rif=227138&cognome=MALATESTA&nome=ENRICO_MARIA){:target="_blank"}, [Vittorio Erba](https://vittorioerba.github.io/){:target="_blank"}, [Andrea Sportiello](https://lipn.univ-paris13.fr/~sportiello/index_eng.html){:target="_blank"},
- [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/leny.arnaud/){:target="_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="_blank"}, [Nicolas Curien](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/){:target="_blank"}, [Nathanaël Enriquez](https://www.imo.universite-paris-saclay.fr/~nathanael.enriquez/){:target="_blank"}, [Russell Lyons](https://rdlyons.pages.iu.edu/){:target="_blank"}, [Meltem Ünel](https://sites.google.com/view/meltemunel/main){:target="_blank"}, [Paul Melotti](https://www.imo.universite-paris-saclay.fr/~paul.melotti/){:target="_blank"}, [Vanessa Jacquier](https://research-portal.uu.nl/en/persons/vanessa-jacquier/){:target="_blank"}, [Wioletta M. Ruszel](https://www.uu.nl/staff/WMRuszel){:target="_blank"}
+ [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/){:target="_blank"}, [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/){:target="_blank"}, [Arnaud Le Ny](https://perso.math.u-pem.fr/leny.arnaud/){:target="_blank"}, [Aernout C.D. van Enter](http://www.math.rug.nl/~aenter/){:target="_blank"}, [Nicolas Curien](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/){:target="_blank"}, [Nathanaël Enriquez](https://www.imo.universite-paris-saclay.fr/~nathanael.enriquez/){:target="_blank"}, [Russell Lyons](https://rdlyons.pages.iu.edu/){:target="_blank"}, [Meltem Ünel](https://sites.google.com/view/meltemunel/main){:target="_blank"}, [Paul Melotti](https://www.imo.universite-paris-saclay.fr/~paul.melotti/){:target="_blank"}, [Vanessa Jacquier](https://research-portal.uu.nl/en/persons/vanessa-jacquier/){:target="_blank"}, [Wioletta M. Ruszel](https://www.uu.nl/staff/WMRuszel){:target="_blank"}, [Loren Coquille](https://www-fourier.ujf-grenoble.fr/~coquilll/){:target="_blank"}
  {: style="font-size: 18.5px; margin-left: 0px" }
 
 

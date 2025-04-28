@@ -33,19 +33,25 @@ _01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://indico
 
 [website](https://indico.math.cnrs.fr/category/618/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
-In person events: 30/11/2022, 12/04/2023, 15/11/2023, 15/05/2024
+Events at IHP: 30/11/2022, 12/04/2023, 15/11/2023, 15/05/2024, 16/10/2025, 19/02/2025, 7/05/2025
 {: style="font-size: 14px; margin-left: 180px" }
 
 
 _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}<br/>
 
- <i class="fa fa-university" aria-hidden="true"></i> Institut Henri Poincaré, Paris & online on Zoom.
+ <i class="fa fa-university" aria-hidden="true"></i> IHP, IHES and online on Zoom.
  {: style="font-size: 18px; margin-left: 180px" }
 
 [website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
 
-[In person events: 11/10/2023, 17/01/2024, 27/03/2024,](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/){:target="_blank"} [7/06/2024 (special day @ IHES)](https://www.ihes.fr/seed-seminar-2024/){:target="_blank"}
+Kick-off events at IHP: 11/10/2023, 17/01/2024, 27/03/2024, 06/11/2024, 12/02/2025, 04/06/2025
+{: style="font-size: 14px; margin-left: 180px" }
+
+Mornings at IHES: 11/10/2023, 17/01/2024, 27/03/2024, 06/11/2024, 12/02/2025, 04/06/2025
+{: style="font-size: 14px; margin-left: 180px" }
+
+Special events: [7/06/2024 @ IHES](https://www.ihes.fr/seed-seminar-2024/){:target="_blank"}, [25/04/2025 @ Institut Pascal](https://www.universite-paris-saclay.fr/evenements/seed-seminar-mathematics-and-physics){:target="_blank"}
 {: style="font-size: 14px; margin-left: 180px" }
 
 
