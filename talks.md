@@ -54,13 +54,14 @@ Title: _TBA_
 <br/>
 -->
 
-## Selected talks sorted by topic
+## Recent talks by topic
 
 <br/>
 
 #### Ideal Poisson--Voronoi tessellations
 {: .no_toc}
-
+- MathNet Seminar, INRIA-ENS, Paris, France, 2025 ([announcement](https://team.inria.fr/mathnet/calendar/782/#:~:text=Seminar%3A%20Matteo%20D%27achille){:target="_blank"})
+- Probability Oberseminar, Münster, Germany, 2024 ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
 - Séminaire CALIN, LIPN, Université Sorbonne Paris Nord, 2024 ([announcement](https://lipn.univ-paris13.fr/~banderier/Seminaires/resume.php?L=1639){:target="_blank"})
 - Séminaire de Probabilités, Institut Fourier, Grenoble, 2024 ([announcement](https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille){:target="_blank"})
 - Séminaire Analyse-Probabilités, CEREMADE, Université Paris-Dauphine, 2023 ([announcement](https://www.ceremade.dauphine.fr/fr/actualites/detail-de-lactualite/article/seminaire-analyse-proba-matteo-dachille-mardi-21-novembre.html){:target="_blank"})
@@ -74,6 +75,8 @@ Title: _TBA_
 #### Massive spanning forests
 {: .no_toc}
 
+- WORDS 2025, Groningen, The Netherlands ([details](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"})
+- Les Probas du vendredi, LPSM, Sorbonne Université, Paris, France, 2025 ([details](https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=Vendredi%2017%20janvier%202025){:target="_blank"})
 - Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil, 2024 ([announcement](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})
 - Séminaire de Probabilités et Statistiques, LAREMA, Angers, 2024 ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/#:~:text=2024%2011H00%2D12H00%20%3A-,MATTEO){:target="_blank"})
 {: style="font-size: 15px" }
@@ -81,6 +84,7 @@ Title: _TBA_
 #### Gibbs measures, renormalization group
 {: .no_toc}
 
+- Conférence annuelle du GDR branchement, Orsay, France, 2025 ([details](https://indico.math.cnrs.fr/event/12161/program){:target="_blank"})
 - Bernoulli-*ims*
 11th World Congress in Probability and Statistics, Bochum, Germany, 2024 ([details](https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
 - Seminário de Probabilidade e Mecânica Estatística, IMPA, Brazil (online), 2023 [[recording on <i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> ]](https://www.youtube.com/watch?v=cJNJ-oxsnJs){:target="_blank"}
@@ -380,7 +384,7 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 ## Selected outreach communications
 
 
-14.04.2021 &#x2022; _Meaning of vaccine efficacy_, Radio Monte Carlo Doualiya, Paris &#x2023; [audio recording](https://mc-d.co/1b5W){:target="_blank"} (in French with Arabic voice-over)
+14.04.2021 &#x2022; _Meaning of vaccine efficacy_, Radio Monte Carlo Doualiya, Paris &#x2023; [podcast](https://mc-d.co/1b5W){:target="_blank"} (in French with Arabic voice-over)
  {: style="font-size: 16px; " }
 
 26.04.2015 &#x2022; _History of special relativity: 1862-1913_, with C.Bressan and F.Paleari, Monza, Italy. &#x2023; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=Bzh4Rb6NP68){:target="_blank"} (in Italian)
