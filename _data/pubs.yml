@@ -85,7 +85,8 @@ low temperature.'
   authors: N. Curien, N. Enriquez, R. Lyons and M. Ünel
   upcoming: True
   preprint: True
-  published: False
+  accepted: True
+  #published: True
   arxivurl: "https://arxiv.org/abs/2303.16831"
   arxivcode: "2303.16831"
   year: 2023
@@ -94,8 +95,11 @@ low temperature.'
   halurl: "https://hal.archives-ouvertes.fr/hal-04067300"
   academia: 99972215
   pdf: "assets/ipvt.pdf"
-  submitted: True
-  npages: 49
+  #submitted: True
+  accjourn: "Annals of Probability"
+  journal: "Annals of Probability"
+  volume: "(to appear)"
+  npages: 51
   abstract: 'We study the limit in low intensity of Poisson-Voronoi tessellations in hyperbolic spaces \( \mathbb{H}_{d} \) for \( d \geq 2 \). In contrast to the Euclidean setting, a limiting nontrivial ideal tessellation \( \mathcal{V}_{d} \) appears as the intensity tends to \(0\). The tessellation \(  \mathcal{V}_{d} \) is  a natural, isometry-invariant decomposition of \( \mathbb{H}_{d} \) into countably many unbounded polytopes, each with a unique end.  We study its basic properties, in particular, the geometric features of its cells.'
 
 #- title: Using stochastic order to compare different Euclidean Random Assignment Problems

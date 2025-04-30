@@ -32,7 +32,8 @@ order: 1
     <p style="font-size:11.5pt;">{{ pub.abstract }}</p>
     </details>
 {% endif %}
-<a href="{{ pub.arxivurl }}" target="_blank">{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a>{% endif %}{% if pub.rg %} - <a href="https://www.researchgate.net/publication/{{ pub.rg }}" target="_blank"><i class="ai ai-researchgate ai-align-center-1x"></i></a>{% endif %}{% if pub.academia %} - <a href="https://www.academia.edu/{{ pub.academia }}" target="_blank"><i class="ai ai-academia ai-align-center-1x"></i></a>{% endif %} - <a href="{{  site.baseurl }}{{ pub.pdf }}" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> {% if pub.accepted %}(<i>accepted for publication on {{ pub.accjourn }}</i>){% endif %}</dd>
+{% if pub.accepted %}Accepted on <b>{{ pub.accjourn }}</b><br/>{% endif %}
+<a href="{{ pub.arxivurl }}" target="_blank">{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a>{% endif %}{% if pub.rg %} - <a href="https://www.researchgate.net/publication/{{ pub.rg }}" target="_blank"><i class="ai ai-researchgate ai-align-center-1x"></i></a>{% endif %}{% if pub.academia %} - <a href="https://www.academia.edu/{{ pub.academia }}" target="_blank"><i class="ai ai-academia ai-align-center-1x"></i></a>{% endif %} - <a href="{{  site.baseurl }}{{ pub.pdf }}" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> </dd>
 {% assign count = count | plus: -1 %}
 {% endfor %}
 </dl>
@@ -47,7 +48,7 @@ order: 1
   <!--dt>  {{ pub.title }} with {{ pub.authors }}
   </dt-->
   <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
-  position: absolute;'>[{{ count }}]</p> <a href="{{ pub.doi }}" target="_blank" style='color:#4169e1;'>{{ pub.title }}</a><br/> with {{ pub.authors }}.&nbsp;<br/><b>{{ pub.journal }}</b> {{ pub.volume }}, {{ pub.pages }}, {{ pub.npages }} pages, {{ pub.year }}.<br/> {% if pub.abstract %}
+  position: absolute;'>[{{ count }}]</p> <a href="{{ pub.doi }}" target="_blank" style='color:#4169e1;'>{{ pub.title }}</a><br/> with {{ pub.authors }}.&nbsp;<br/><b>{{ pub.journal }}</b> {% if pub.volume %}{{ pub.volume }},{% endif%} {% if pub.pages %}{{ pub.pages }},{% endif%} {{ pub.npages }} pages, {{ pub.year }}.<br/> {% if pub.abstract %}
   <details>
     <summary style="font-size:13pt;"><i>Abstract</i> </summary>
     <p style="font-size:11.5pt;">{{ pub.abstract }}</p>
