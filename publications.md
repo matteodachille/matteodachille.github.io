@@ -48,7 +48,7 @@ order: 1
   <!--dt>  {{ pub.title }} with {{ pub.authors }}
   </dt-->
   <dd style="margin-left: 30px;"><p style='margin-left: -30px !important;
-  position: absolute;'>[{{ count }}]</p> <a href="{{ pub.doi }}" target="_blank" style='color:#4169e1;'>{{ pub.title }}</a><br/> with {{ pub.authors }}.&nbsp;<br/><b>{{ pub.journal }}</b> {% if pub.volume %}{{ pub.volume }},{% endif%} {% if pub.pages %}{{ pub.pages }},{% endif%} {{ pub.npages }} pages{% if pub.year %}, {{ pub.year }}{% endif%}.<br/> {% if pub.abstract %}
+  position: absolute;'>[{{ count }}]</p> <a href="{{ pub.doi }}" target="_blank" style='color:#4169e1;'>{{ pub.title }}</a><br/> with {{ pub.authors }}.&nbsp;<br/><b>{{ pub.journal }}</b> {% if pub.volume %}{{ pub.volume }},{% endif %} {% if pub.pages %}{{ pub.pages }},{% endif%} {{ pub.npages }} pages{% if pub.year %}, {{ pub.year }}{% endif %}.<br/> {% if pub.abstract %}
   <details>
     <summary style="font-size:13pt;"><i>Abstract</i> </summary>
     <p style="font-size:11.5pt;">{{ pub.abstract }}</p>
