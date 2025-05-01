@@ -84,12 +84,12 @@ low temperature.'
 - title: Ideal Poisson-Voronoi tessellations on hyperbolic spaces
   authors: N. Curien, N. Enriquez, R. Lyons and M. Ünel
   upcoming: True
-  preprint: True
+  preprint: False
   accepted: True
-  #published: True
+  published: True
   arxivurl: "https://arxiv.org/abs/2303.16831"
   arxivcode: "2303.16831"
-  year: 2023
+  #year: 2023
   submitted: False
   rg: 369623836
   halurl: "https://hal.archives-ouvertes.fr/hal-04067300"
@@ -98,7 +98,7 @@ low temperature.'
   #submitted: True
   accjourn: "Annals of Probability"
   journal: "Annals of Probability"
-  volume: "(to appear)"
+  volume: "(to aappear)"
   npages: 51
   abstract: 'We study the limit in low intensity of Poisson-Voronoi tessellations in hyperbolic spaces \( \mathbb{H}_{d} \) for \( d \geq 2 \). In contrast to the Euclidean setting, a limiting nontrivial ideal tessellation \( \mathcal{V}_{d} \) appears as the intensity tends to \(0\). The tessellation \(  \mathcal{V}_{d} \) is  a natural, isometry-invariant decomposition of \( \mathbb{H}_{d} \) into countably many unbounded polytopes, each with a unique end.  We study its basic properties, in particular, the geometric features of its cells.'
 
