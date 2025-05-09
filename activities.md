@@ -48,7 +48,7 @@ _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](ht
 Kick-off events at IHP: 11/10/2023, 17/01/2024, 27/03/2024, 06/11/2024, 12/02/2025, 04/06/2025
 {: style="font-size: 14px; margin-left: 180px" }
 
-Mornings at IHES: 11/10/2023, 17/01/2024, 27/03/2024, 06/11/2024, 12/02/2025, 04/06/2025
+Mornings at IHES: list available at [indico](https://indico.math.cnrs.fr/category/531/){:target="_blank"}
 {: style="font-size: 14px; margin-left: 180px" }
 
 Special events: [7/06/2024 @ IHES](https://www.ihes.fr/seed-seminar-2024/){:target="_blank"}, [25/04/2025 @ Institut Pascal](https://www.universite-paris-saclay.fr/evenements/seed-seminar-mathematics-and-physics){:target="_blank"}
@@ -151,7 +151,7 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 02.10-06.10 &#x2022; Probability and Geometry in, on and of non-Euclidean space, CIRM Luminy. [Website](https://conferences.cirm-math.fr/2897.html){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
-10.07-13.07 &#x2022; Dimers2023 : DIMERS ANR final conference, Sorbonne Université. [Website](https://dimers2023.sciencesconf.org/){:target="_blank"} - [group photo](https://dimers2023.sciencesconf.org/resource/gallery/id/4){:target="_blank"}
+10.07-13.07 &#x2022; Dimers2023 : DIMERS ANR final conference, Sorbonne Université. [Website](https://dimers2023.sciencesconf.org/){:target="_blank"} - [photos](https://dimers2023.sciencesconf.org/resource/gallery/id/4){:target="_blank"}
 {: style="font-size: 16px; margin-left: 20px" }
 
 31.05-02.06 &#x2022; 3 days for Elisabeth Gassiat's 62nd birthday, LMO, Université Paris-Saclay. [Website](https://www.imo.universite-paris-saclay.fr/fr/conf/conference-62-elisabeth-gassiat/){:target="_blank"}
