@@ -60,7 +60,7 @@ Special events: [7/06/2024 @ IHES](https://www.ihes.fr/seed-seminar-2024/){:targ
 ### Conferences
 <br/>
 
-_14.08.2024_ &#x2022; [**11th World Congress in Probability and Statistics**](https://www.bernoulli-ims-worldcongress2024.org/){:target="_blank"}
+_14.08.2024_ &#x2022; [**11th World Congress in Probability and Statistics**](https://www.bernoulli-ims-worldcongress2024.org/organized-contributed-paper-sessions#:~:text=Randomness%20on%20Trees%20and%20Random%20Trees){:target="_blank"}
 
 
 Contributed paper session: _Randomness on Trees and Random Trees_
@@ -89,6 +89,9 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 
 
 ### Upcoming or recent
+
+(to be completed...)
+{: style="font-size: 14px;"}
 
 27.01-31.01.2025 &#x2023; Conférence annuelle du GDR branchement, Orsay. [Website](https://indico.math.cnrs.fr/event/12161/){:target="_blank"}
 {: style="font-size: 18px;"}

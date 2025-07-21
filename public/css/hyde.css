@@ -357,6 +357,16 @@ a.sidebar-nav-item:focus {
 }
 
 
+/* IECL */
+.theme-base-iecl .sidebar {
+  background-color: #0a2d7f;
+}
+.theme-base-iecl .content a,
+.theme-base-iecl .related-posts li a:hover {
+  color: #0a2d7f;
+}
+
+
 /* UP-Saclay */
 .theme-base-upsaclay .sidebar {
   background-color: #63003c;

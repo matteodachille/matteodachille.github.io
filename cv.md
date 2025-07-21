@@ -18,9 +18,17 @@ order: 7
 
 
 ## Employement
+
 <br/>
 
-_01.11.2023 - current_: <a href="https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html" target="\_blank"> <img style="max-height:80px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/ERC_logo.png"></a> Member of the ERC Grant [SuPerGRandMa](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}<br/> with Nicolas Curien (PI) and Jean-François Le Gall (Senior Researcher)
+_01.09.2025 - current_{:style="font-size: 18px" }: Associate Professor of Probability, <a href="https://iecl.univ-lorraine.fr/home/" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logo-iecl.png"></a> [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/home/){:target="\_blank"},
+[Université de Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine/){:target="\_blank"}. Member of the équipe [Probabilités et Statistique](https://iecl.univ-lorraine.fr/recherche/probabilites-et-statistique/probabilites-et-statistiques-presentation/){:target="\_blank"}
+
+
+<!--
+<br/>
+
+_01.09.2022 - 31.08.2025_: <a href="https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html" target="\_blank"> <img style="max-height:80px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/ERC_logo.png"></a><a href="https://www.imo.universite-paris-saclay.fr/fr/" target="\_blank"> <img style="max-height:80px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/Orsay_Math_RVB.png"></a> Postdoctoral researcher, [Laboratoire de Mathématiques d'Orsay (LMO)](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/){:target="\_blank"}. Member of the ERC Grant [SuPerGRandMa](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}, PI: Nicolas Curien
 
 <br/>
 
@@ -28,12 +36,18 @@ _01.09.2022 - current_: <a href="https://www.imo.universite-paris-saclay.fr/fr/"
 
 
 <br/>
+-->
+<br/>
 
-## Past appointment
+## Past appointments
 
 <br/>
 
-_01.10.2020 - 31.08.2022_: Research and Teaching Assistant (ATER full time) <a href="https://www.u-pec.fr/" target="\_blank"> <img style="max-height:60px; position: relative; float:right; top: 50%; transform: translateY(-30%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/LAMAweb.png"></a> at [Laboratoire d’Analyse et de Mathématiques Appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"}, <a href="https://www.u-pec.fr/" target="\_blank">université Paris-Est Créteil</a>. Working with [Arnaud Le Ny](https://perso.math.u-pem.fr/le_ny.arnaud/){:target="\_blank"}
+_01.09.2022 - 31.08.2025_{:style="font-size: 18px" }: Postdoctoral researcher, <a href="https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/ERC_logo.png"></a><a href="https://www.imo.universite-paris-saclay.fr/fr/" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/Orsay_Math_RVB.png"></a>[Laboratoire de Mathématiques d'Orsay (LMO)](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/){:target="\_blank"}. Member of ERC Grant [SuPerGRandMa](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}, PI: [Nicolas Curien](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/){:target="\_blank"}
+
+<br/>
+
+_01.10.2020 - 31.08.2022_{:style="font-size: 18px" }: Research and Teaching Assistant (ATER temps plein), <a href="https://www.u-pec.fr/" target="\_blank"> <img style="max-height:75px; position: relative; float:right; top: 50%; transform: translateY(-30%); margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/LAMAweb.png"></a> [Laboratoire d’Analyse et de Mathématiques Appliquées (LAMA)](https://lama.u-pem.fr/){:target="\_blank"}, <a href="https://www.u-pec.fr/" target="\_blank">université Paris-Est Créteil</a>. Working mainly with [Arnaud Le Ny](https://perso.math.u-pem.fr/leny.arnaud/){:target="\_blank"}
 
 
 <br/>
@@ -61,7 +75,7 @@ _12.2019 - 12.2020_: Associated Member of the LIPN, université Sorbonne Paris N
 #### Grants
 <br/>
 
-_2023 - ..._ : 2.25K€ from Fondation Mathématique Jacques Hadamard <a href="https://fondation-hadamard.fr/en/" target="_blank"><img style="max-height:60px; position: relative; float:right; margin:0px; border-radius: 0px; padding-right:10px; transform: translateY(-25%);" src="../assets/FMJH_h.png"></a>
+_2023 - 2025_ : 2.25K€ from Fondation Mathématique Jacques Hadamard <a href="https://fondation-hadamard.fr/en/" target="_blank"><img style="max-height:60px; position: relative; float:right; margin:0px; border-radius: 0px; padding-right:10px; transform: translateY(-25%);" src="../assets/FMJH_h.png"></a>
 {:style="font-size: 18px" }
 
 
