@@ -11,7 +11,7 @@
 #  submitted: False
 #  pdf:
 
-- title:  Extremal Ising Gibbs States on Lobachevsky planes
+- title:  Extremal Ising Gibbs States on Lobachevsky lattices
   authors: L.Coquille and A. Le Ny
   upcoming: True
   preprint: True
@@ -19,11 +19,11 @@
   arxivurl: "http://arxiv.org/abs/2504.19553"
   arxivcode: "2504.19553"
   year: 2025
-  #rg: 386374116
+  rg: 391247716
   #halurl: "https://hal.science/hal-05044464"
   #academia: 126245800
   pdf: "assets/exLpq.pdf"
-  #submitted: True
+  submitted: True
   npages: 14
   abstract: 'We exhibit an uncountable family of extremal inhomogeneous Gibbs measures of the low temperature Ising model on regular tilings of the hyperbolic plane. These states arise as low
 temperature perturbations of local ground states having a sparse enough set of frustrated edges, the sparseness being measured in terms of the isoperimetric constant of the graph. This result

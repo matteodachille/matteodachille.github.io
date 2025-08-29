@@ -21,8 +21,8 @@ order: 7
 
 <br/>
 
-_01.09.2025 - current_{:style="font-size: 18px" }: Associate Professor of Probability, <a href="https://iecl.univ-lorraine.fr/home/" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logo-iecl.png"></a> [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/home/){:target="\_blank"},
-[Université de Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine/){:target="\_blank"}. Member of the équipe [Probabilités et Statistique](https://iecl.univ-lorraine.fr/recherche/probabilites-et-statistique/probabilites-et-statistiques-presentation/){:target="\_blank"}
+_01.09.2025 - now_{:style="font-size: 19px" }: Associate Professor (MCF), <a href="https://iecl.univ-lorraine.fr/home/" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logo-iecl.png"></a> [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/home/){:target="\_blank"},
+[université de Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine/){:target="\_blank"}. Member of the équipe [Probabilités et Statistique](https://iecl.univ-lorraine.fr/recherche/probabilites-et-statistique/probabilites-et-statistiques-presentation/){:target="\_blank"}
 
 
 <!--
@@ -43,7 +43,7 @@ _01.09.2022 - current_: <a href="https://www.imo.universite-paris-saclay.fr/fr/"
 
 <br/>
 
-_01.09.2022 - 31.08.2025_{:style="font-size: 18px" }: Postdoctoral researcher, <a href="https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/ERC_logo.png"></a><a href="https://www.imo.universite-paris-saclay.fr/fr/" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/Orsay_Math_RVB.png"></a>[Laboratoire de Mathématiques d'Orsay (LMO)](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/){:target="\_blank"}. Member of ERC Grant [SuPerGRandMa](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}, PI: [Nicolas Curien](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/){:target="\_blank"}
+_01.09.2022 - 31.08.2025_{:style="font-size: 18px" }: Postdoctoral researcher, <a href="https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/ERC_logo.png"></a><a href="https://www.imo.universite-paris-saclay.fr/fr/" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/Orsay_Math_RVB.png"></a>[Laboratoire de Mathématiques d'Orsay (LMO)](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/){:target="\_blank"}. Member of the ERC Grant [SuPerGRandMa](https://www.imo.universite-paris-saclay.fr/fr/){:target="\_blank"}, PI: [Nicolas Curien](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/){:target="\_blank"}
 
 <br/>
 
@@ -73,9 +73,8 @@ _12.2019 - 12.2020_: Associated Member of the LIPN, université Sorbonne Paris N
 
 
 #### Grants
-<br/>
 
-_2023 - 2025_ : 2.25K€ from Fondation Mathématique Jacques Hadamard <a href="https://fondation-hadamard.fr/en/" target="_blank"><img style="max-height:60px; position: relative; float:right; margin:0px; border-radius: 0px; padding-right:10px; transform: translateY(-25%);" src="../assets/FMJH_h.png"></a>
+_2023 - 2025_ : 2.25K€ from Fondation Mathématique Jacques Hadamard <a href="https://fondation-hadamard.fr/en/" target="_blank"><img style="max-height:60px; position: relative; float:right; margin:0px; border-radius: 0px; padding-right:0px; transform: translateY(-25%);" src="../assets/FMJH_h.png"></a>
 {:style="font-size: 18px" }
 
 
