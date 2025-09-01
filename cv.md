@@ -21,7 +21,7 @@ order: 7
 
 <br/>
 
-_01.09.2025 - now_{:style="font-size: 19px" }: Associate Professor (MCF), <a href="https://iecl.univ-lorraine.fr/home/" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logo-iecl.png"></a> [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/home/){:target="\_blank"},
+_01.09.2025 - now_{:style="font-size: 19px" }: Associate Professor (maître de conférences), <a href="https://iecl.univ-lorraine.fr/home/" target="\_blank"> <img style="max-height:70px; position: relative; float:right; top: 50%; margin:0px !important; border-radius: 0px; padding-right:10px;" src="../assets/logo-iecl.png"></a> [Institut Élie Cartan de Lorraine (IECL)](https://iecl.univ-lorraine.fr/home/){:target="\_blank"},
 [université de Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine/){:target="\_blank"}. Member of the équipe [Probabilités et Statistique](https://iecl.univ-lorraine.fr/recherche/probabilites-et-statistique/probabilites-et-statistiques-presentation/){:target="\_blank"}
 
 
@@ -134,4 +134,6 @@ _2022 - ..._ : [SMAI](http://smai.emath.fr/){:target="\_blank"} - Sté de Mathé
 
 <br/>
 <br/>
-A detailed (and possibly outdated) CV is available in [en]({{  site.baseurl }}downloads/cv_dachille_en.pdf){:target="\_blank"}, [fr]({{  site.baseurl }}downloads/cv_dachille_fr.pdf){:target="\_blank"} and [it]({{  site.baseurl }}downloads/cv_dachille_it.pdf){:target="\_blank"}.
+A detailed (and possibly outdated) CV is available in [en](/#){:target="\_blank"}, [fr](/#){:target="\_blank"} and [it](/#){:target="\_blank"}.
+
+<!--{{  site.baseurl }}downloads/[namefile] -->
