@@ -54,9 +54,8 @@ Title: _TBA_
 <br/>
 -->
 
-## Selected talks by topic
+## Three selected talks by topic
 
-<br/>
 
 #### Ideal Poisson--Voronoi tessellations
 {: .no_toc}
@@ -65,20 +64,22 @@ Title: _TBA_
 - Probability Oberseminar, Münster, Germany ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
 - Séminaire de Probabilités, Institut Fourier, Grenoble, France ([announcement](https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille){:target="_blank"})
 - Séminaire Analyse-Probabilités, CEREMADE, Université Paris-Dauphine, France ([announcement](https://www.ceremade.dauphine.fr/fr/actualites/detail-de-lactualite/article/seminaire-analyse-proba-matteo-dachille-mardi-21-novembre.html){:target="_blank"})
-- Rencontres de Probabilités, Université de Rouen, France
-([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023#:~:text=*%20conf%C3%A9rencier%20invit%C3%A9.-,Matteo%20D%27Achille){:target="_blank"})
-- Journées Cartes, IRIF, Université Paris-Cité, France ([link](https://indico.in2p3.fr/event/30166/#:~:text=1h-,Depuis,-l%27astronomie%20de%20Descartes
-){:target="_blank"})
+<!-- - Rencontres de Probabilités, Université de Rouen, France
+([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023#:~:text=*%20conf%C3%A9rencier%20invit%C3%A9.-,Matteo%20D%27Achille){:target="_blank"})-->
+<!--- Journées Cartes, IRIF, Université Paris-Cité, France ([link](https://indico.in2p3.fr/event/30166/#:~:text=1h-,Depuis,-l%27astronomie%20de%20Descartes
+){:target="_blank"})-->
 {: style="font-size: 15px" }
 
 
 #### Massive spanning forests
 {: .no_toc}
 
+- Rencontres de Mathématiques de l'Université de Rouen, France
+([details](https://rmr2025.sciencesconf.org/resource/page/id/1#:~:text=leurs%20propri%C3%A9t%C3%A9s%20asymptotiques.-,Matteo%20D%27Achille,-For%C3%AAts%20massiques%20%3A%20distribution){:target="_blank"})
 - WORDS 2025, Groningen, The Netherlands ([details](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"})
 - Les Probas du vendredi, LPSM, Sorbonne Université, Paris, France ([details](https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=Vendredi%2017%20janvier%202025){:target="_blank"})
-- Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil, France ([announcement](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})
-- Séminaire de Probabilités et Statistiques, LAREMA, Angers, France ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/#:~:text=2024%2011H00%2D12H00%20%3A-,MATTEO){:target="_blank"})
+<!-- - Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil, France ([announcement](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})-->
+<!-- - Séminaire de Probabilités et Statistiques, LAREMA, Angers, France ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/#:~:text=2024%2011H00%2D12H00%20%3A-,MATTEO){:target="_blank"})-->
 {: style="font-size: 15px" }
 
 #### Gibbs measures
@@ -88,19 +89,19 @@ Title: _TBA_
 - Bernoulli-*ims*
 11th World Congress in Probability and Statistics, Bochum, Germany ([details](https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
 - Seminário de Probabilidade e Mecânica Estatística, IMPA, Brazil [[recording on <i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> ]](https://www.youtube.com/watch?v=cJNJ-oxsnJs){:target="_blank"}
-- Séminaire de probabilité de Créteil, France ([announcement](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"})
-- Franco-Dutch meeting Bézout-Eurandom, Institut Henri Poincaré, Paris, France
+<!--- Séminaire de probabilité de Créteil, France ([announcement](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"})-->
+<!--- Franco-Dutch meeting Bézout-Eurandom, Institut Henri Poincaré, Paris, France-->
 {: style="font-size: 15px" }
 
 #### Random assignment problems and extensions
 {: .no_toc}
 
-- Random Geometry-Géométrie Aléatoire, CIRM Luminy, France ([link](https://conferences.cirm-math.fr/3021.html#:~:text=des%20populations%20biparentales-,Matteo){:target="_blank"})
+<!--- Random Geometry-Géométrie Aléatoire, CIRM Luminy, France ([link](https://conferences.cirm-math.fr/3021.html#:~:text=des%20populations%20biparentales-,Matteo){:target="_blank"})-->
 - Optimal Transport and Uncertainty - 2nd Workshop, Naples, Italy ([link](https://sites.google.com/view/otau2/home?authuser=0#:~:text=Sapienza%20di%20Roma-,Matteo%20D%27Achille){:target="_blank"})
 - DYOGENE Seminar, INRIA Paris, France [[recording on canal-u.tv]](https://www.canal-u.tv/chaines/inria/dyogeneerc-nemo-2022-seminar-series/back-and-forth-between-the-beta-distribution-and){:target="_blank"}
 - Les probas du vendredi, LPSM, Sorbonne Université, Paris, France ([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=16%2D26%20209-,Matteo%20D%27Achille,-(LAMA)%20ERAP){:target="_blank"})
-- Optimal Transport and Uncertainty, Pisa, Italy  [[recording on <i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i>]](https://drive.google.com/file/d/10wfRI0MZS2UnDIAGcq3a9AQJT9DSQGwe/view){:target="_blank"}
-- Eindhoven SPOR Seminar, EURANDOM, TU/e, The Netherlands ([announcement](https://www.eurandom.tue.nl/event/einidhoven-spor-seminar/){:target="_blank"})
+<!--- Optimal Transport and Uncertainty, Pisa, Italy  [[recording on <i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i>]](https://drive.google.com/file/d/10wfRI0MZS2UnDIAGcq3a9AQJT9DSQGwe/view){:target="_blank"}-->
+<!--- Eindhoven SPOR Seminar, EURANDOM, TU/e, The Netherlands ([announcement](https://www.eurandom.tue.nl/event/einidhoven-spor-seminar/){:target="_blank"})-->
 {: style="font-size: 15px" }
 <br/>
 
@@ -112,6 +113,11 @@ Title: _TBA_
 
 #### 2025
 {: .no_toc}
+
+
+20.06 &#x2022; Rencontres de Mathématiques de l'Université de Rouen, France, 45 min
+([link](https://rmr2025.sciencesconf.org/resource/page/id/1#:~:text=leurs%20propri%C3%A9t%C3%A9s%20asymptotiques.-,Matteo%20D%27Achille,-For%C3%AAts%20massiques%20%3A%20distribution){:target="_blank"})
+{: style="font-size: 16px" }
 
 07.04 &#x2022; WORDS 2025, Groningen, The Netherlands, 30 min
 ([link](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"})

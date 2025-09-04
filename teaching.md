@@ -31,11 +31,11 @@ Exercise sessions: [1]({{  site.baseurl }}assets/TD1-Nesin24.pdf){:target="_blan
 
 ###  Regular Classes
 
-Total teaching experience: about {{ i }}h eqTD
+Total teaching experience: roughly {{ i }}h eqTD
 
 How to read the following list, from left to right: <br/>
 academic year  <a href="#"><b>Class Title</b></a> - institution, level, total teaching load in eqTD hours
-{: style="font-size: 17.3px" }
+{: style="font-size: 15.3px" }
 
 <!--
 Click on class name for details (beware, possibly in French!).

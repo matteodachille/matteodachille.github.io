@@ -39,7 +39,7 @@ Events at IHP: 30/11/2022, 12/04/2023, 15/11/2023, 15/05/2024, 16/10/2025, 19/02
 
 _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}<br/>
 
- <i class="fa fa-university" aria-hidden="true"></i> IHP, IHES and online on Zoom.
+ <i class="fa fa-university" aria-hidden="true"></i> IHP, IHES and online.
  {: style="font-size: 18px; margin-left: 180px" }
 
 [website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
