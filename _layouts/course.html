@@ -24,14 +24,14 @@ layout: default
 
 <br/>
 
+<div class="course-lang {{ page.lang | downcase }}">
+  Language: {{ page.lang }}
+</div>
 <div class="course-class {{ page.year | downcase }}">
   Academic year: {{ page.year }}
 </div>
 <div class="course-semester {{ page.semester | downcase }}">
   Semester: {{ page.semester }}
-</div>
-<div class="course-lang {{ page.lang | downcase }}">
-  Language: {{ page.lang }}
 </div>
 
     {% if page.team%}
@@ -40,6 +40,12 @@ layout: default
       Pedagogical Team (responsible in <b>bold</b>): {{ page.team }}
       </div>
   {% endif %}
+  {% if page.groupnumber%}
+
+<div class="course-group {{ page.professor | downcase}}">
+    Group n&deg;: {{ page.groupnumber }}
+    </div>
+{% endif %}
 
 
 

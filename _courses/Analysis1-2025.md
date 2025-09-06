@@ -9,9 +9,10 @@ role: EI
 nostudents:
 #team:  R.Bunoiu, M. D'Achille, A. Guesmia
 level: L1
-studtype: UFR Mathématiques Informatique Mécanique
+studtype: Mathematics students of UFR Mathématiques Informatique Mécanique
 etab: université de Lorraine
 classnumber: 9
+groupnumber : 1
 ---
 
 ### Programme synthétique
