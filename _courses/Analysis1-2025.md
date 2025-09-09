@@ -38,4 +38,4 @@ Pour le materiel de cours ainsi que les annonces communs, voir : <br/> [https://
 | Cours n&deg; | Date/heure | Lieu | Sujet | Remarques |
 |:---: | :---: | :---: | ------- | -- |
 | 1 | 8.09 <br/>8h00-10h00      | BN2-001|<u>Cours</u> : § 1.1, 1.2, 1.3 (jusqu'à page 7 incluse). Rappel résolution des équations de degré 2 <br/><u>TD</u> : Fiche TD 1, Ex 1.1 : 1-2-3-4-5-7-8-9-10-11; Ex 1.2 : 1  | |
-| 2 | 9.09 <br/> 13h30-15h30   | BN3-001 |      | |
+| 2 | 9.09 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> : 1.3.2, 1.3.3, 1.3.4 <br/><u>TD</u> : Fiche TD 1, Ex. 1.2 : 2, 3, 4 (avec interpretation géométrique), 5, 6 (deux méthodes), 7, 8   | |
