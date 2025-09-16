@@ -17,13 +17,6 @@ order: 6
 {: .no_toc}
 <br/>
 
-_28.09.2023 - current_ &#x2023; [**SuPerGRandMa Weekly Seminar**](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html){:target="_blank"}<br/>
-
-<i class="fa fa-university" aria-hidden="true"></i> Institut de Mathematiques d'Orsay, Paris-Saclay University, Orsay.
-{: style="font-size: 18px; margin-left: 180px" }
-
-[website](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html#:~:text=Weekly%20SuPerGRandMa%20seminar.){:target="_blank"}
-{: style="font-size: 18px; margin-left: 180px" }
 
 
 _01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://indico.math.cnrs.fr/category/618/){:target="_blank"}<br/>
@@ -31,21 +24,21 @@ _01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://indico
 <i class="fa fa-university" aria-hidden="true"></i> Institut Henri Poincaré, Paris.
 {: style="font-size: 18px; margin-left: 180px" }
 
-[website](https://indico.math.cnrs.fr/category/618/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}
+[website](https://indico.math.cnrs.fr/category/618/){:target="_blank"}<!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}-->
 {: style="font-size: 18px; margin-left: 180px" }
-Events at IHP: 30/11/2022, 12/04/2023, 15/11/2023, 15/05/2024, 16/10/2025, 19/02/2025, 7/05/2025
+Events at IHP: 30/11/2022, 12/04/2023, 15/11/2023, 15/05/2024, 16/10/2025, 19/02/2025, 7/05/2025, 8/10/2025
 {: style="font-size: 14px; margin-left: 180px" }
 
 
 _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}<br/>
 
- <i class="fa fa-university" aria-hidden="true"></i> IHP, IHES and online.
+ <i class="fa fa-university" aria-hidden="true"></i> IHP (Paris), IHES (Bures-sur-Yvette) and online.
  {: style="font-size: 18px; margin-left: 180px" }
 
 [website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
 
-Kick-off events at IHP: 11/10/2023, 17/01/2024, 27/03/2024, 06/11/2024, 12/02/2025, 04/06/2025
+Kick-off events at IHP: 11/10/2023, 17/01/2024, 27/03/2024, 06/11/2024, 12/02/2025, 04/06/2025, 29/10/2025
 {: style="font-size: 14px; margin-left: 180px" }
 
 Mornings at IHES: list available at [indico](https://indico.math.cnrs.fr/category/531/){:target="_blank"}
@@ -53,6 +46,15 @@ Mornings at IHES: list available at [indico](https://indico.math.cnrs.fr/categor
 
 Special events: [7/06/2024 @ IHES](https://www.ihes.fr/seed-seminar-2024/){:target="_blank"}, [25/04/2025 @ Institut Pascal](https://www.universite-paris-saclay.fr/evenements/seed-seminar-mathematics-and-physics){:target="_blank"}
 {: style="font-size: 14px; margin-left: 180px" }
+
+
+_28.09.2023 - 31.08.2025_ &#x2023; [**SuPerGRandMa Weekly Seminar**](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html){:target="_blank"}<br/>
+
+<i class="fa fa-university" aria-hidden="true"></i> Institut de Mathematiques d'Orsay, Paris-Saclay University, Orsay.
+{: style="font-size: 18px; margin-left: 180px" }
+
+[website](https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html#:~:text=Weekly%20SuPerGRandMa%20seminar.){:target="_blank"}
+{: style="font-size: 18px; margin-left: 180px" }
 
 
 <br/>
@@ -317,7 +319,7 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 
 <br/>
 
-
+<!--
 ## Some periodic seminars in the Paris area
 
 Journée-séminaire de combinatoire at **LIPN** Paris 13 ([website](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}) <br/> Held weekly usually each Tuesday
@@ -333,3 +335,4 @@ Séminaire probabilités et statistiques, **Institut de Mathématiques d'Orsay**
 
 Les Probas du vendredi, **LPSM** in Jussieu, Paris ([website](https://www.lpsm.paris/seminaires/probasduvendredi/index#les_probas_du_vendredi){:target="_blank"})
 <br/> Held weekly on Friday morning at 10h00 CET
+-->
