@@ -7,7 +7,6 @@ hours: 70
 lang: French
 role: EI
 nostudents:
-#team:  R.Bunoiu, M. D'Achille, A. Guesmia
 level: L1
 studtype: Mathematics students of UFR Mathématiques Informatique Mécanique
 etab: université de Lorraine
@@ -17,7 +16,7 @@ groupnumber : 1
 
 <br/>
 
-Pour le materiel de cours ainsi que les annonces communs, voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=81800](https://arche.univ-lorraine.fr/course/view.php?id=81800){:target="_blank"}
+Pour le materiel de cours ainsi que les annonces voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=81800](https://arche.univ-lorraine.fr/course/view.php?id=81800){:target="_blank"}
 
 ### Programme synthétique
 
@@ -41,3 +40,5 @@ Pour le materiel de cours ainsi que les annonces communs, voir : <br/> [https://
 | 2 | 9.09 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> : 1.3.2, 1.3.3, 1.3.4 <br/><u>TD</u> : Fiche TD 1, Ex. 1.2 : 2, 3, 4 (avec interpretation géométrique), 5, 6 (deux méthodes), 7, 8   | |
 | 3 | 15.09 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> : Propositions 1.3.2, 1.3.3.  <br/><u>TD</u> : Fiche TD 1, Ex. 1.2 : 9, 10, 11. Ex. 1.3 : 1, 2, 3, 4, 5 (avec interpretation géométrique). Ex. 1.4  | [L'alphabet grec](https://fr.wikipedia.org/wiki/Alphabet_grec#:~:text=grec%20ancien.-,Graphies%20courantes,-%5Bmodifier%20%7C){:target="_blank"} |
 | 4 | 16.09 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> :  § 1.4: continuité, dérivabilité, variations d'une application, équation de la tangente à \\(\mathcal{C}_f \\), asymptotes horizontales, verticales, obliques, exemples<br/><u>TD</u> Fiche TD 1, Ex. 1.5  | |
+| 5 | 22.09 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> :  <br/><u>TD</u> :  | |
+| 6 | 23.09 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> :  <br/><u>TD</u> :  | |
