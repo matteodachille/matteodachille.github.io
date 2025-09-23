@@ -23,29 +23,35 @@ layout: default
 {% endif %}
 
 <br/>
+{% if page.role%}
 
-<div class="course-lang {{ page.lang | downcase }}">
-  Language: {{ page.lang }}
-</div>
+<div class="course-group {{ page.role | downcase}}">
+  Type: {{ page.role }}
+  </div>
+{% endif %}
 <div class="course-class {{ page.year | downcase }}">
   Academic year: {{ page.year }}
 </div>
 <div class="course-semester {{ page.semester | downcase }}">
   Semester: {{ page.semester }}
 </div>
-
     {% if page.team%}
 
   <div class="course-class {{ page.professor | downcase}}">
       Pedagogical Team (responsible in <b>bold</b>): {{ page.team }}
       </div>
   {% endif %}
+
   {% if page.groupnumber%}
 
 <div class="course-group {{ page.professor | downcase}}">
     Group n&deg;: {{ page.groupnumber }}
     </div>
 {% endif %}
+<div class="course-lang {{ page.lang | downcase }}">
+  Language: {{ page.lang }}
+</div>
+
 
 
 
