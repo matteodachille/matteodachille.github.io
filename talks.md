@@ -61,7 +61,7 @@ Title: _TBA_
 {: .no_toc}
 <!--
 - MathNet Seminar, INRIA-ENS, Paris, France ([announcement](https://team.inria.fr/mathnet/calendar/782/#:~:text=Seminar%3A%20Matteo%20D%27achille){:target="_blank"})-->
-- Probability Oberseminar, Münster, Germany ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
+- Probability Oberseminar, Münster, Germany ([link](https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=10335&brettid=55#:~:text=Gaussian%20free%20field%20/-,Matteo%20D%27Achille){:target="_blank"})
 - Séminaire de Probabilités, Institut Fourier, Grenoble, France ([announcement](https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille){:target="_blank"})
 - Séminaire Analyse-Probabilités, CEREMADE, Université Paris-Dauphine, France ([announcement](https://www.ceremade.dauphine.fr/fr/actualites/detail-de-lactualite/article/seminaire-analyse-proba-matteo-dachille-mardi-21-novembre.html){:target="_blank"})
 <!-- - Rencontres de Probabilités, Université de Rouen, France
@@ -143,7 +143,7 @@ Title: _TBA_
 ([link](http://www.math-evry.cnrs.fr/evenements/seminaireproba-math-fi#:~:text=jeudi%2012%20d%C3%A9cembre%20%C3%A0%2015h15){:target="_blank"})
 {: style="font-size: 16px" }
 
-13.11 &#x2022; Probability Oberseminar, University of Münster, Germany, 60 min ([link](https://www.uni-muenster.de/Stochastik/en/Events/Oberseminar/oberseminar.shtml#:~:text=13.11.2024-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
+13.11 &#x2022; Probability Oberseminar, University of Münster, Germany, 60 min ([link](https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=10335&brettid=55#:~:text=Gaussian%20free%20field%20/-,Matteo%20D%27Achille){:target="_blank"})
 {: style="font-size: 16px" }
 
 14.08 &#x2022; Bernoulli-*ims*
