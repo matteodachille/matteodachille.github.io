@@ -32,7 +32,7 @@ order: 1
     <p style="font-size:11.5pt;">{{ pub.abstract }}</p>
     </details>
 {% endif %}
-{% if pub.accepted %}Accepted on <b>{{ pub.accjourn }}</b><br/>{% endif %}
+{% if pub.accepted %}Accepted on <i>{{ pub.accjourn }}</i><br/>{% endif %}
 <a href="{{ pub.arxivurl }}" target="_blank">{{ pub.arxivcode }}</a>{% if pub.halurl %} - <a href="{{ pub.halurl }}" target="_blank"><i class="ai ai-hal ai-align-center-1x"></i></a>{% endif %}{% if pub.rg %} - <a href="https://www.researchgate.net/publication/{{ pub.rg }}" target="_blank"><i class="ai ai-researchgate ai-align-center-1x"></i></a>{% endif %}{% if pub.academia %} - <a href="https://www.academia.edu/{{ pub.academia }}" target="_blank"><i class="ai ai-academia ai-align-center-1x"></i></a>{% endif %} - <a href="{{  site.baseurl }}{{ pub.pdf }}" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> </dd>
 {% assign count = count | plus: -1 %}
 {% endfor %}

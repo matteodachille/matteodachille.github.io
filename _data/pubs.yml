@@ -20,16 +20,14 @@
   arxivcode: "2504.19553"
   year: 2025
   rg: 391247716
-  #halurl: "https://hal.science/hal-05044464"
+  accepted: True
+  accjourn: "Electron. Commun. Probab."
+  halurl: "https://hal.science/hal-05290006"
   #academia: 126245800
   pdf: "assets/exLpq.pdf"
-  submitted: True
+  submitted: False
   npages: 14
-  abstract: 'We exhibit an uncountable family of extremal inhomogeneous Gibbs measures of the low temperature Ising model on regular tilings of the hyperbolic plane. These states arise as low
-temperature perturbations of local ground states having a sparse enough set of frustrated edges, the sparseness being measured in terms of the isoperimetric constant of the graph. This result
-is implied by an extension of the article [9] on regular trees to non-amenable graphs. We argue how we can deduce the extremality of an uncountable subset of the Series–Sinai states [30] at
-low temperature.'
-
+  abstract: 'We exhibit an uncountable family of extremal inhomogeneous Gibbs measures of the low–temperature Ising model on regular tilings of the hyperbolic plane. These states arise as low temperature perturbations of local ground states having a sparse enough set of frustrated edges, the sparseness being measured in terms of the isoperimetric constant of the graph. This result is implied by an extension of the article [5] about spin models on regular trees to Ising models on a more general class of regular non-amenable graphs. We moreover argue how we can deduce the extremality of an uncountable subset of the Series–Sinai states [24] at low temperature.'
 
 - title:  On minimal shapes and topological invariants in hyperbolic lattices
   authors: V. Jacquier and W.M. Ruszel
@@ -48,7 +46,6 @@ low temperature.'
   abstract: 'We characterize the set of finite shapes with minimal perimeter on hyperbolic lattices given by regular tilings of the hyperbolic plane whose tiles are regular \(p\)-gons meeting at vertices of degree \( q\), with \(\frac{1}{p}+\frac{1}{q}< \frac{1}{2} \). The main tool is a layer decomposition due to Rietman-Nienhuis-Oitmaa and Moran, which allows us to prove convergence towards the Cheeger constant when these shapes exhaust the lattice. Furthermore, we apply a celebrated result of Floyd-Plotnick, which will allow us to compute the Euler characteristic for these graphs in terms of certain growth functions and the number of \( n \)-sized animals on those lattices.'
 
 - title:  Ideal Poisson-Voronoi tessellations beyond hyperbolic spaces
-  #authors: N. Enriquez and P. Melotti
   upcoming: True
   preprint: True
   published: False
