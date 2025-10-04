@@ -115,6 +115,14 @@ Title: _TBA_
 {: .no_toc}
 
 
+02.10 &#x2022; Séminaire Probabilités et Statistique, Institut Élie Cartan de Lorraine, Nancy, France, 60 min
+([link](https://iecl.univ-lorraine.fr/events/matteo-dachille/){:target="_blank"})
+{: style="font-size: 16px" }
+
+26.09 &#x2022; YMCN autumn school: Probability and dynamics on groups, Münster, Germany, 60 min
+([link](https://www.uni-muenster.de/MathematicsMuenster/events/2025/probdyn-on-groups.shtml#:~:text=Inhyeok%20Choi-,Matteo%20D%27Achille,-Barbara%20Dembin){:target="_blank"})
+{: style="font-size: 16px" }
+
 20.06 &#x2022; Rencontres de Mathématiques de l'Université de Rouen, France, 45 min
 ([link](https://rmr2025.sciencesconf.org/resource/page/id/1#:~:text=leurs%20propri%C3%A9t%C3%A9s%20asymptotiques.-,Matteo%20D%27Achille,-For%C3%AAts%20massiques%20%3A%20distribution){:target="_blank"})
 {: style="font-size: 16px" }
