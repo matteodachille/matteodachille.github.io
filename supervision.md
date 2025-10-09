@@ -17,13 +17,13 @@ I have/had the pleasure of supervising the following **14** students:
 
 
 
- Thomas Quarck (started 7.04.2025), co-supervision with J.Levillain <br/>
+ Thomas Quarck, 08.10.2025 (co-supervision with J. Levillain) <br/>
   _Random assignment problems for satellite data
 acquisition_ <br/>
-  M2 Mathématiques et applications, Probabilités et Modèles aléatoires, Sorbonne Université
+  M2 Mathématiques et Applications, Probabilités et Modèles Aléatoires, Sorbonne Université
   {: style="font-size: 16px" }
-  Stage supported by a grant from the [CNES Toulouse](https://cnes.fr/en){:target="_blank"}.
-  {: style="font-size: 13px" }
+  Stage supported by a grant from the [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (7.04.2025 - 7.10.2025). Now at
+  {: style="font-size: 12px" }
 
 
  Yuqi Liu, 02.09.2022 <br/>
@@ -31,7 +31,7 @@ acquisition_ <br/>
   M2 Mathématiques et Applications, université Paris-Est Créteil
   {: style="font-size: 16px" }
 
-  Stage supported by a three months stipend from UPEC (11.04.22 - 11.07.22). Now at Ping An Life Insurance Company of China, Ltd., Shenzhen, China
+  Stage supported by a stipend from UPEC (11.04.22 - 11.07.22). Now at Ping An Life Insurance Company of China, Shenzhen
   {: style="font-size: 12px" }
 
   <br/>
@@ -42,7 +42,7 @@ acquisition_ <br/>
 
 {: .no_toc}
 
-Justin Carrion, Tristan Schweiss, 03.07.2025, co-supervision with L.Ganassali <br/>
+Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <br/>
   _Matching de nuages de points aléatoires : étude combinatoire, probabiliste et informationnelle_ <br/>
    M1 Mathématiques fondamentales, Orsay, université Paris-Saclay
   {: style="font-size: 16px" }
