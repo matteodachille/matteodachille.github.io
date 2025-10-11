@@ -28,7 +28,7 @@
   doi : "https://doi.org/10.1214/25-ECP724"
   submitted: False
   npages: 10
-  journal: "Electron. J. Probab."
+  journal: "Electron. Commun. Probab."
   volume: 30
   pages: 1-10
   abstract: 'We exhibit an uncountable family of extremal inhomogeneous Gibbs measures of the low–temperature Ising model on regular tilings of the hyperbolic plane. These states arise as low temperature perturbations of local ground states having a sparse enough set of frustrated edges, the sparseness being measured in terms of the isoperimetric constant of the graph. This result is implied by an extension of the article [5] about spin models on regular trees to Ising models on a more general class of regular non-amenable graphs. We moreover argue how we can deduce the extremality of an uncountable subset of the Series–Sinai states [24] at low temperature.'
