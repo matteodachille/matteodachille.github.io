@@ -64,7 +64,7 @@ Our Poissonian description of \\( \mathcal{C}_d\\) even allows to easily 3D-prin
 
   <ins>Reference paper</ins>:
 
-  _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_. Matteo D'Achille, Nicolas Curien, Nathanaël Enriquez, Russell Lyons and Meltem Ünel, 2023 <br/> arXiv preprint: [2303.16831](https://arxiv.org/abs/2303.16831){:target="_blank"}
+  _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_. Matteo D'Achille, Nicolas Curien, Nathanaël Enriquez, Russell Lyons and Meltem Ünel, 2023 <br/> The Annals of Probability (to appear). arXiv preprint: [2303.16831](https://arxiv.org/abs/2303.16831){:target="_blank"}
 
 
 For further images, videos and animations on this paper see Russ Lyons' dedicated gallery: [https://rdlyons.pages.iu.edu/ipvt.html](https://rdlyons.pages.iu.edu/ipvt.html){:target="_blank"}
