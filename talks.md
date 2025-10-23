@@ -115,6 +115,12 @@ Title: _TBA_
 {: .no_toc}
 
 
+
+14.10 &#x2022; Journée de rentrée de l'Institut Élie Cartan de Lorraine, Nancy, FR, 35 min
+([link](#){:target="_blank"})
+{: style="font-size: 16px" }
+
+
 02.10 &#x2022; Séminaire Probabilités et Statistique, Institut Élie Cartan de Lorraine, Nancy, France, 60 min
 ([link](https://iecl.univ-lorraine.fr/events/matteo-dachille/){:target="_blank"})
 {: style="font-size: 16px" }
