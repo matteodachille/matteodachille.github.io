@@ -116,7 +116,7 @@ Title: _TBA_
 
 
 
-14.10 &#x2022; Journée de rentrée de l'Institut Élie Cartan de Lorraine, Nancy, FR, 35 min
+14.10 &#x2022; Journée de rentrée de l'Institut Élie Cartan de Lorraine, Nancy, France, 35 min
 ([link](#){:target="_blank"})
 {: style="font-size: 16px" }
 
@@ -142,7 +142,7 @@ Title: _TBA_
 {: style="font-size: 16px" }
 
 27.01 &#x2022; MathNet Seminar, INRIA-ENS, Paris, France, 60 min
-([link](https://team.inria.fr/mathnet/calendar/782/#:~:text=Seminar%3A%20Matteo%20D%27achille){:target="_blank"})
+([link](https://team.inria.fr/mathnet/seminar/#:~:text=Minority%20Dynamics.-,27/01/2025){:target="_blank"})
 {: style="font-size: 16px" }
 
 17.01 &#x2022; Les Probas du vendredi, LPSM, Sorbonne Université, Paris, France, 60 min
