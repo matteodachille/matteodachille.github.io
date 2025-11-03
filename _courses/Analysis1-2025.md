@@ -16,7 +16,22 @@ groupnumber : 1
 
 <br/>
 
-Pour le materiel de cours ainsi que les annonces voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=81800](https://arche.univ-lorraine.fr/course/view.php?id=81800){:target="_blank"}
+<a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/2025](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
+
+#### Consultation des copies de l'interro
+
+S'inscrire via le bouton vert en bas à droite.
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/matteopdachille/consultation-de-copies-interro-15-10-2025', text: 'Consultation de copie 4/11/2025 - réservation', color: '#008000', textColor: '#ffffff', branding: false}); }</script>
+<!-- Calendly badge widget end -->
+
+
+
+<br/>
+Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=81800](https://arche.univ-lorraine.fr/course/view.php?id=81800){:target="_blank"}
 
 ### Programme (très) synthétique
 
@@ -27,10 +42,6 @@ Pour le materiel de cours ainsi que les annonces voir : <br/> [https://arche.uni
 
 
 
-<!-- Nesting :
-1. First item
-    * 1.1 Sub-item A
--->
 
 ### Tableau de bord
 
