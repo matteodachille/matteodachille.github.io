@@ -18,17 +18,18 @@ groupnumber : 1
 
 <a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/2025](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
 
+
+<!--
 #### Consultation des copies de l'interro
 
 S'inscrire via le bouton vert en bas à droite.
 
-<!-- Calendly badge widget begin -->
+<!-- Calendly badge widget begin
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/matteopdachille/consultation-de-copies-interro-15-10-2025', text: 'Consultation de copie 4/11/2025 - réservation', color: '#008000', textColor: '#ffffff', branding: false}); }</script>
-<!-- Calendly badge widget end -->
-
-
+<!-- Calendly badge widget end
+-->
 
 <br/>
 Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=81800](https://arche.univ-lorraine.fr/course/view.php?id=81800){:target="_blank"}
@@ -61,3 +62,5 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 | 12 | 15.10 <br/> 10h15-12h15   | BRJ-008 |   <u>Cours</u> : pas de cours. <br/><u>TD</u> : Séance interactive de réponse aux questions, étude de deux fonctions, puis interro de 11h15 à 12h15. | [Sujet](https://arche.univ-lorraine.fr/pluginfile.php/4784402/mod_resource/content/1/interro_1_groupe1_15_10_2025.pdf){:target="_blank"} et [correction détaillée](https://arche.univ-lorraine.fr/pluginfile.php/4784408/mod_resource/content/1/correction.pdf){:target="_blank"} |
 | 13 | 20.10 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> : Précisions sur une primitive quelconque, crochet. <br/><u>TD</u> : Corrigé de l'interro du 15.10 (+DM). Fiche TD 3, Ex. 3-1 : 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. | |
 | 14 | 21.10 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> : pas de cours. <br/><u>TD</u> : Corrigé du DM, Fiche TD 3, Ex. 3-2, Ex. 3-3, Ex. 3-6 : 1, 2, 3, 4, 5. | |
+15 | 3.11 <br/> 8h00-10h00   | BN2-011 |   <u>Cours</u> : Rappel sur les primitives d'une fonction rationnelle, primitives des éléments simples. Formule d'Euler <br/><u>TD</u> : Fiche TD 3, Ex. 3-6 : 6, Ex. 3-4 : 3, 4, Ex. 3-5, Ex. 3-7, Ex. 3-10 : 1 (début) | |
+| 16 | 4.11 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> :  <br/><u>TD</u> :  | |
