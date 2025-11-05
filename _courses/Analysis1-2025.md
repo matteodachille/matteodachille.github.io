@@ -63,4 +63,4 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 | 13 | 20.10 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> : Précisions sur une primitive quelconque, crochet. <br/><u>TD</u> : Corrigé de l'interro du 15.10 (+DM). Fiche TD 3, Ex. 3-1 : 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. | |
 | 14 | 21.10 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> : pas de cours. <br/><u>TD</u> : Corrigé du DM, Fiche TD 3, Ex. 3-2, Ex. 3-3, Ex. 3-6 : 1, 2, 3, 4, 5. | |
 15 | 3.11 <br/> 8h00-10h00   | BN2-011 |   <u>Cours</u> : Rappel sur les primitives d'une fonction rationnelle, primitives des éléments simples. Formule d'Euler <br/><u>TD</u> : Fiche TD 3, Ex. 3-6 : 6, Ex. 3-4 : 3, 4, Ex. 3-5, Ex. 3-7, Ex. 3-10 : 1 (début) | |
-| 16 | 4.11 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> :  <br/><u>TD</u> :  | |
+| 16 | 4.11 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> :  Formule d'Euler : plus de commentaires, exemple avec \\(\sin^3(x) \\) <br/><u>TD</u> : Fiche TD 3, Ex. 3-10 : 1 (fin), Ex. 3-8 : 1, 2, 3, 4. | |
