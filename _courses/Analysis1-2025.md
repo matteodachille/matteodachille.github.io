@@ -19,15 +19,15 @@ groupnumber : 1
 <a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/2025](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
 
 
-<!--
-#### Consultation des copies de l'interro
 
-S'inscrire via le bouton vert en bas à droite.
+#### Consultation des copies du partiel du 15.11.2025
 
-<!-- Calendly badge widget begin
+Uniquement sur rendez-vous, s'inscrire via le bouton vert en bas à droite.
+
+<!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/matteopdachille/consultation-de-copies-interro-15-10-2025', text: 'Consultation de copie 4/11/2025 - réservation', color: '#008000', textColor: '#ffffff', branding: false}); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/matteopdachille/consultation-des-copies-interro-15-10-2025-clone', text: 'Consultation des copies du partiel | 2.12.2025 - réservation', color: '#008000', textColor: '#ffffff', branding: false}); }</script>
 <!-- Calendly badge widget end
 -->
 
@@ -64,3 +64,5 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 | 14 | 21.10 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> : pas de cours. <br/><u>TD</u> : Corrigé du DM, Fiche TD 3, Ex. 3-2, Ex. 3-3, Ex. 3-6 : 1, 2, 3, 4, 5. | |
 15 | 3.11 <br/> 8h00-10h00   | BN2-011 |   <u>Cours</u> : Rappel sur les primitives d'une fonction rationnelle, primitives des éléments simples. Formule d'Euler <br/><u>TD</u> : Fiche TD 3, Ex. 3-6 : 6, Ex. 3-4 : 3, 4, Ex. 3-5, Ex. 3-7, Ex. 3-10 : 1 (début) | |
 | 16 | 4.11 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> :  Formule d'Euler : plus de commentaires, exemple avec \\(\sin^3(x) \\) <br/><u>TD</u> : Fiche TD 3, Ex. 3-10 : 1 (fin), Ex. 3-8 : 1, 2, 3, 4. | |
+| 17 | 10.11 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> :  Primitives de type intégrale \\(\int^x \cos^p(t)\sin^q(t)dt \\) pour \\(p, q \in \mathbb{N}^* \\) à l'aide de la formule d'Euler. Exemple avec \\(\cos^3(x)\\). Révision interactive des chapitres 1 et 2 : égalités et inégalités contenant des valeurs absolues de polynômes de degré un et deux (avec dessins), révision des domaines de définition et des ensemble image des fonctions usuelles et \\(\sqrt{\sinh(x)-1} \\). <br/><u>TD</u> : Fiche TD 3, Ex. 3-8 : 5. | |
+| 18 | 17.11 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> :  Calculs d'intégrales : définition et deux exemples. <br/><u>TD</u> : Corrigé du partiel du 15.11 | |
