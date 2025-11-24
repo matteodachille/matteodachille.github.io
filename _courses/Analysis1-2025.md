@@ -16,7 +16,7 @@ groupnumber : 1
 
 <br/>
 
-<a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/2025](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
+<a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/2025 et du partiel du 15/11/2025](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
 
 
 
