@@ -11,8 +11,24 @@
 #  submitted: False
 #  pdf:
 
+- title:  Vanishing uniqueness thresholds in Voronoi percolation on products
+  authors: J. Grebík, A. Khezeli, K. Recke and A. Wilkens
+  upcoming: True
+  preprint: True
+  published: False
+  arxivurl: "http://arxiv.org/abs/YYMM.XXXXX"
+  arxivcode: "YYMM.XXXXX"
+  year: 2025
+  #rg: 386374116
+  #halurl: "https://hal.science/hal-04817486"
+  #academia: 126245800
+  pdf: "assets/AGKRW.pdf"
+  submitted: False
+  npages: 37
+  abstract: 'We study Poisson--Voronoi percolation and its discrete analogue Bernoulli--Voronoi percolation in spaces with a non-amenable product structure. We develop a new method of proving smallness of the uniqueness threshold \(p_u(\lambda)\) at small intensities \(\lambda>0\) based on the unbounded borders phenomenon of their underlining ideal Poisson--Voronoi tessellation. We apply our method to several concrete examples in both the discrete and the continuum setting, including \(k\)-fold graph products of \(d\)-regular trees for \(k\ge2,d\ge3\) and products of hyperbolic spaces \(\mathbb H_{d_1}\times \ldots \times \mathbb H_{d_k}\) for \(k\ge2, d_i\ge2\), complementing a recent result of the second and fourth author for symmetric spaces of connected higher rank semisimple real Lie groups with property (T). We also provide new examples of non-amenable Cayley graphs with the FIID sparse unique infinite cluster property, answering positively a recent question of Pete and Rokob.'
+
 - title:  Extremal Ising Gibbs States on Lobachevsky lattices
-  authors: L.Coquille and A. Le Ny
+  authors: L. Coquille and A. Le Ny
   upcoming: True
   preprint: False
   published: True
