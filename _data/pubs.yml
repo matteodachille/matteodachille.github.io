@@ -16,8 +16,8 @@
   upcoming: True
   preprint: True
   published: False
-  arxivurl: "http://arxiv.org/abs/YYMM.XXXXX"
-  arxivcode: "YYMM.XXXXX"
+  arxivurl: "http://arxiv.org/abs/2511.23317"
+  arxivcode: "2511.23317"
   year: 2025
   #rg: 386374116
   #halurl: "https://hal.science/hal-04817486"
