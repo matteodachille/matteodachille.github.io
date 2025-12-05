@@ -19,12 +19,12 @@ groupnumber : 1
 <a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/2025 et du partiel du 15/11/2025](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
 
 
-
+<!--
 #### Consultation des copies du partiel du 15.11.2025
 
 Uniquement sur rendez-vous, s'inscrire via le bouton vert en bas à droite.
 
-<!-- Calendly badge widget begin -->
+<!-- Calendly badge widget begin
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/matteopdachille/consultation-des-copies-partiel-15-11-2025', text: 'Consultation des copies du partiel | 2.12.2025 - réservation', color: '#008000', textColor: '#ffffff', branding: false}); }</script>
@@ -70,5 +70,5 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 20 | 19.11 <br/> 10h15-12h15   | BN2-010 |   <u>Cours</u> : - <br/><u>TD</u> : Fiche TD 3, Ex. 3-9 : 2, 3. Ex. 3-10 : 2, 3, 4, 5. Ex. 3-11 : 3 (1e égalité, 2e en DM). | |
 | 21 | 24.11 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> :  - <br/><u>TD</u> : Fiche TD 3, Ex. 3-11 : 4. Primitive de : \\( \frac{1}{x^3+1}\\);  \\( \frac{\cosh{x}}{1+\tanh{x}}\\); \\( \frac{\cos{x}}{1+\tan{x}}\\);\\(\sqrt{1+x^2}\\). Calcul de \\(\int_0^1 e^{2x}(2-x^2-x){\rm d}x\\). Preuve et interpretation géométrique de \\(\forall T > 0\\), \\( \int_0^T\cos^2(\frac{2\pi}{T}x){\rm d}x=\frac{T}{2}\\). | |
 | 22 | 25.11 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> : Équations différentielles linéaires (EDL) : définition, ordre, solution générale d'une EDL d'ordre 1 homogène (avec démonstration). 2 exemples. Solution générale d'une EDL d'ordre 1 complète, recherche d'une solution particulière. Exemple de \\(y'+2y=x^2 \\), généralisation au cas d'un polynôme de dégré 2 quelconque. <br/><u>TD</u> : - | |
-| 23 | 1.12 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> : <br/><u>TD</u> : - | |
-| 24 | 2.12 <br/> 8h00-10h00   | BN3-001 |   <u>Cours</u> : <br/><u>TD</u> : - | |
+| 23 | 1.12 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> : <br/><u>TD</u> : Fiche TD 4, Ex. 4-1 : 1 (+domaine de définition de la solution générale), 2 (+ ensemble image de la solution t.q. y(0)=1), 3 (+ensemble image de la solution t.q. y(0)=1), 4. | |
+| 24 | 2.12 <br/> 8h00-10h00   | BN3-001 |   <u>Cours</u> : <br/><u>TD</u> : Fiche TD 4, Ex. 4-1 : 5, 6, 7; Ex. 4-2 : 1, 2, 3. | |
