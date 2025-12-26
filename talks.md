@@ -114,6 +114,20 @@ Title: _TBA_
 #### 2025
 {: .no_toc}
 
+01.12 &#x2022; Séminaire commun de géométrie, Institut Élie Cartan de Lorraine, Nancy, France, 90min (45min + 45min)
+([link](https://iecl.univ-lorraine.fr/events/seminaire-commun-de-geometrie-32/){:target="_blank"})
+{: style="font-size: 16px" }
+
+21.11 &#x2022; Séminaire EDP, Analyse et Applications, Institut Élie Cartan de Lorraine, Metz, France, 60 min ([link](https://iecl.univ-lorraine.fr/events/seminaire_edp_metz_2025-11-21/){:target="_blank"})
+{: style="font-size: 16px" }
+
+
+
+20.11 &#x2022; \\( M \cup \Phi \\) group internal seminar, KU Leuven, Belgium, 60 min
+{: style="font-size: 16px" }
+
+11.11 &#x2022; Kirchhoff forests on graphs: recent developments, CIRM Luminy, France, 30 min ([link](https://conferences.cirm-math.fr/3582.html#:~:text=Local%C2%A0limit%20of%20massive%20spanning%20forests%20on%20the%20complete%20graph){:target="_blank"})
+{: style="font-size: 16px" }
 
 
 14.10 &#x2022; Journée de rentrée de l'Institut Élie Cartan de Lorraine, Nancy, France, 35 min
@@ -133,7 +147,7 @@ Title: _TBA_
 ([link](https://rmr2025.sciencesconf.org/resource/page/id/1#:~:text=leurs%20propri%C3%A9t%C3%A9s%20asymptotiques.-,Matteo%20D%27Achille,-For%C3%AAts%20massiques%20%3A%20distribution){:target="_blank"})
 {: style="font-size: 16px" }
 
-07.04 &#x2022; WORDS 2025, Groningen, The Netherlands, 30 min
+07.04 &#x2022; WORDS 2025, Groningen, The Netherlands, 30 min (online)
 ([link](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"})
 {: style="font-size: 16px" }
 
@@ -402,6 +416,10 @@ _Le problème d'assignation aléatoire euclidienne: état de l'art et quelques r
 <br/>
 -->
 ## Selected outreach communications
+
+04.12.2025 &#x2022; _StoKaChic: haute bijouterie mathématique_, vernissage, Institut de Mathématiques d'Orsay
+ &#x2023; [university press release](https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-mathematiques/mediation-et-actualites-graduate-school-mathematiques/poly-math-cycle-devenements-pour-des-maths-autrement#:~:text=StoKaChic%20%3A%20exposition%20et%20vernissage%20le%204%20d%C3%A9cembre%202025){:target="_blank"}
+ {: style="font-size: 16px; " }
 
 
 14.04.2021 &#x2022; _Meaning of vaccine efficacy_, Radio Monte Carlo Doualiya, Paris &#x2023; [podcast](https://mc-d.co/1b5W){:target="_blank"} (in French with Arabic voice-over)
