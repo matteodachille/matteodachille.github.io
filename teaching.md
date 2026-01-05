@@ -48,7 +48,7 @@ Click on class name for details (beware, possibly in French!).
   {% for course in sorted %}
     <li style="margin-left: -40px;">
       {{course.year}} &nbsp; <a href="{{ course.url }}"><b>{{ course.title }}</b></a>
-      - {{ course.etab}}, {{ course.level }}{% if course.hours %}, {{ course.hours}}h {% endif %}
+      - {{ course.level }}, {{ course.etab}}{% if course.hours %}, {{ course.hours}}h {% endif %}
     </li>
   {% endfor %}
 </ul>
