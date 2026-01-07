@@ -34,7 +34,7 @@ Exercise sessions: [1]({{  site.baseurl }}assets/TD1-Nesin24.pdf){:target="_blan
 Total teaching experience: roughly {{ i }}h eqTD
 
 How to read the following list, from left to right: <br/>
-academic year  <a href="#"><b>Class Title</b></a> - institution, level, total teaching load in eqTD hours
+academic year  <a href="#"><b>Class Title</b></a> - level, institution, total teaching load in eqTD hours
 {: style="font-size: 15.3px" }
 
 <!--
