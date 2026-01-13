@@ -8,7 +8,7 @@ lang: French
 role: TD
 nostudents:
 level: L2
-studtype: Mathematics students (Double L) of UFR Mathématiques Informatique Mécanique
+studtype: Mathematics and Maths-Eco students of UFR Mathématiques Informatique Mécanique
 etab: université de Lorraine
 classnumber: 10
 #groupnumber : 1
