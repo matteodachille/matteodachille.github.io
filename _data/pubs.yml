@@ -96,6 +96,7 @@
   pdf: "assets/lsf.pdf"
   submitted: False
   accepted: True
+  doi : "https://doi.org/10.1002/rsa.70048"
   #published: True
   accjourn: "Random Structures & Algorithms"
   #journal: "Random Structures Algorithms"
