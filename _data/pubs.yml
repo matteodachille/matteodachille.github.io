@@ -94,7 +94,12 @@
   halurl: "https://hal.science/hal-04521375"
   academia: 116833187
   pdf: "assets/lsf.pdf"
-  submitted: True
+  submitted: False
+  accepted: True
+  #published: True
+  accjourn: "Random Structures & Algorithms"
+  #journal: "Random Structures Algorithms"
+  #volume: "(to appear)"
   npages: 10
   abstract: 'We identify the local limit of massive spanning forests on the complete graph. This generalizes a well-known theorem of Grimmett on the local limit of uniform spanning trees on the complete graph.'
 
