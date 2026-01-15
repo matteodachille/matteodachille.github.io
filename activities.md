@@ -41,7 +41,7 @@ _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](ht
 Kick-off events at IHP: 11/10/2023, 17/01/2024, 27/03/2024, 06/11/2024, 12/02/2025, 04/06/2025, 29/10/2025
 {: style="font-size: 14px; margin-left: 180px" }
 
-Mornings at IHES: list available at [indico](https://indico.math.cnrs.fr/category/531/){:target="_blank"}
+Mornings at IHES: list available at [indico](https://indico.math.cnrs.fr/category/800/){:target="_blank"}
 {: style="font-size: 14px; margin-left: 180px" }
 
 Special events: [7/06/2024 @ IHES](https://www.ihes.fr/seed-seminar-2024/){:target="_blank"}, [25/04/2025 @ Institut Pascal](https://www.universite-paris-saclay.fr/evenements/seed-seminar-mathematics-and-physics){:target="_blank"}
