@@ -87,9 +87,77 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 <br/>
 <br/>
 
-## Participation
+## Where and when we might have met
+
+#### 2025
+
+**27.01-31.01** &#x2023; Conférence annuelle du GDR branchement, Orsay
+{: style="font-size: 14px;"}
 
 
+#### 2024
+**8.11** &#x2023; Journée 2024 du RT Mathématiques et Physique, Institut Pascal, Orsay, France &#10072; **12.08-16.08** &#x2023; 11th World Congress in Probability and Statistics, Ruhr University Bochum, Germany &#10072; **16.07-19.07** &#x2023; Self-similar Markov trees in random geometry, CIRM Luminy, France &#10072; **8.07-12.07** &#x2023; Two Dimensional Random Geometry, IMSI, Chicago, USA &#10072; **31.05** &#x2023; Journée cartes à Nanterre, France &#10072; **11.03-15.03** &#x2023; ALEA Days - Journées ALEA, CIRM Luminy, France &#10072; **6.03-8.03** &#x2023; French Japanese Conference on Probability & Interactions, IHES, France &#10072; **11.01** &#x2023; Abel in Paris, Institut Henri Poincaré, France  
+{: style="font-size: 14px; text-align: justify;"}
+
+
+#### 2023
+
+**20.11** &#x2023; 11e séminaire ITZYKSON, IHES, France &#10072; **18.10** &#x2023; Sphere Packings and CFT, kick-off event of Seed Seminar, Institut Henri Poincaré, Paris &#10072; **2.10-6.10** &#x2023; Probability and Geometry in, on and of non-Euclidean space, CIRM Luminy, France &#10072; **10.07-13.07** &#x2023; Dimers2023 : DIMERS ANR final conference, Sorbonne Université, Paris &#10072; **31.05-2.06** &#x2023; 3 days for Elisabeth Gassiat's 62nd birthday, Orsay, France &#10072; 22.05-26.05 &#x2023; Branching Processes and Applications, Angers, France &#10072; **13.03-17.03** &#x2023; ALEA Days - Journées ALEA, CIRM Luminy, France &#10072; **10.03** &#x2023; Journée Cartes, Université Gustave-Eiffel, Champs-sur-Marne, France &#10072; **24.01-25.01** &#x2023; Inhomogeneous Random Systems,
+Institut Henri Poincaré and Institut Curie, Paris  &#10072; **16.01-20.01** &#x2023; Random Geometry - Géométrie Aléatoire, CIRM Luminy, France
+{: style="font-size: 14px; text-align: justify;"}
+
+
+#### 2022
+
+**18.11** &#x2023; Journée Cartes, ENS Lyon &#10072;  **09.11** &#x2023; Journée Postdoc de la Fondation Mathématique Jacques Hadamard, IHES, France &#10072;  **20.10-21.10** &#x2023; Lille Days in Point Processes and Stochastic Geometry, IMT Nord Europe, Lille, France &#10072; **17.10-19.10** &#x2023; The many facets of Statistical Field Theory, SISSA, Trieste, Italy &#10072; **29.09** &#x2023; Journée Aleatoire 2022, Institut Henri Poincaré, Paris &#10072; **29.08-31.08** &#x2023; Journées MAS 2022, Rouen, France &#10072; **29.06-01.07** &#x2023; Random Point Processes in Statistical Physics, Harnack-Haus, Berlin &#10072; **14.06** &#x2023; 10th Anniversary of the Bézout Labex, Université Gustave Eiffel, Champs-sur-Marne, France &#10072; **30.05-3.06** &#x2023; 100 (102!) Years of the Ising Model, IHES, France &#10072; **07-08.04** &#x2023; Random matrices meet random permutations, Lille, France &#10072; **21-25.03** &#x2023; ALEA Days 2022, CIRM Luminy, France &#10072; **14-15.03** &#x2023; Quantization, Location, Sampling and Matching, Lagrange Mathematics and Computation Research Center, Paris &#10072; **25-26.01** &#x2023; Inhomogeneous Random Systems, Inhomogeneous Random Systems,
+Institut Henri Poincaré and Institut Curie, Paris
+{: style="font-size: 14px; text-align: justify;"}
+
+
+#### 2021
+
+**26.11** &#x2023; Optimal Transport and Uncertainty, Pisa, Italy &#10072; **15-19.11** &#x2023; Stochastic Geometry Days, Dunkerque, France &#10072; **7-9.07** &#x2023; Franco-Dutch meeting « Bézout-Eurandom », Institut Henri Poincaré, Paris &#10072; **5-6.07** &#x2023; Journées « Processus de Hawkes », Institut Henri Poincaré, Paris &#10072; **21-25.06** &#x2023; Journées de probabilités 2021, Guidel, France &#10072; **17-22.05** &#x2023; P.L. Chebyshev - 200, Russia (online) &#10072; **15-19.03** &#x2023; ALEA Days 2021, CIRM Luminy, France (online) &#10072; **26-27.01** &#x2023; Inhomogeneous Random Systems, Institut Henri Poincaré et Institut Curie, Paris
+{: style="font-size: 14px; text-align: justify;"}
+
+
+#### 2020
+
+**27-31.07** &#x2023; Integrable Probability Online Summer School, Clay & Heilbronn Institute (online)  &#10072;
+**4-7.02** &#x2023;  Combinatorics days of Bordeaux (JCB2020), France
+{: style="font-size: 14px; text-align: justify;"}
+
+
+
+#### 2019
+
+**6-8.11** &#x2023; Combinatorics and Arithmetic for Physics: special days, IHES, France  &#10072; **21-23.10** &#x2023; Journées MathSTIC 2019 -- Probabilités et Combinatoire, Institut Galilée, université Sorbonne Paris Nord, Villetaneuse, France
+{: style="font-size: 14px; text-align: justify;"}
+
+
+
+#### 2018
+
+**6-7.09** &#x2023; Paths in Statistical Physics, université Paris Diderot, Paris  &#10072; **5-9.03** &#x2023; Information transmission in biological systems, The Mathematical Research and Conference Center, Będlewo, Poland
+{: style="font-size: 14px; text-align: justify;"}
+
+#### 2017
+
+
+**30.10-01.11** &#x2023; Computational approaches to investigating allostery, Centre Européen de Calcul Atomique et Moléculaire (CECAM), Headquarters, EPFL, Lausanne, Switzerland &#10072; **16-20.10** &#x2023; 26th VI-HPS Tuning Workshop,Laboratoire Exascale Computing Research (ECR), Campus Ter@tec, Bruyères-le-Châtel, France
+{: style="font-size: 14px; text-align: justify;"}
+
+#### 2016
+
+**07-11.11** &#x2023; Optimal Transport and Applications, Scuola Normale Superiore, Pisa, Italy
+{: style="font-size: 14px; text-align: justify;"}
+
+#### 2014
+
+**21-26.07** &#x2023; Mathematical Physics, Analysis and Stochastics, Summer School at Ruprecht-Karls-Universität Heidelberg, Germany.
+{: style="font-size: 14px; text-align: justify;"}
+
+
+<!--
 ### Upcoming or recent
 
 (to be completed...)
