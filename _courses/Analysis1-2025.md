@@ -16,13 +16,14 @@ groupnumber : 1
 
 <br/>
 
-<a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/2025 et du partiel du 15/11/2025](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
+<a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/25 + partiel du 15/11/25 + examen du 16/01/26](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
 
 
-<!--
-#### Consultation des copies du partiel du 15.11.2025
 
-Uniquement sur rendez-vous, s'inscrire via le bouton vert en bas à droite.
+#### Consultation des copies de l'examen du 16.01.2026
+
+Prendre rendez-vous par e-mail.
+
 
 <!-- Calendly badge widget begin
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -31,6 +32,7 @@ Uniquement sur rendez-vous, s'inscrire via le bouton vert en bas à droite.
 <!-- Calendly badge widget end
 -->
 
+<br/>
 <br/>
 Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=81800](https://arche.univ-lorraine.fr/course/view.php?id=81800){:target="_blank"}
 
@@ -48,7 +50,7 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 
 | Cours n&deg; | Date/heure | Salle | Sujet | Remarques |
 |:---: | :---: | :---: | ------- | ------- |
-| 1 | 8.09 <br/>8h00-10h00      | BN2-001|<u>Cours</u> : sous-ensemble de R et règles de calcul, fonctions réelles, applications, domain de définition, image, exemples. Rappel résolution des équations de degré 2 <br/><u>TD</u> : Fiche TD 1, Ex 1.1 : 1-2-3-4-5-7-8-9-10-11; Ex 1.2 : 1  | |
+| 1 | 8.09 <br/>8h00-10h00      | BN2-001|<u>Cours</u> : sous-ensembles de \\(\mathbb{R}\\) et règles de calcul, fonctions réelles, applications, domain de définition, image, exemples. Rappel résolution des équations de degré 2 <br/><u>TD</u> : Fiche TD 1, Ex 1.1 : 1-2-3-4-5-7-8-9-10-11; Ex 1.2 : 1  | |
 | 2 | 9.09 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> : Monotonie, parité et périodicité, symétrie par rapport à un axe vertical <br/><u>TD</u> : Fiche TD 1, Ex. 1.2 : 2, 3, 4 (avec interpretation géométrique), 5, 6 (deux méthodes), 7, 8   | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 | 3 | 15.09 <br/> 8h00-10h00   | BN2-001 |   <u>Cours</u> : Application symétrique par rapport à un point, translaté de la courbe representative d'une application  <br/><u>TD</u> : Fiche TD 1, Ex. 1.2 : 9, 10, 11. Ex. 1.3 : 1, 2, 3, 4, 5 (avec interpretation géométrique). Ex. 1.4  | [L'alphabet grec](https://fr.wikipedia.org/wiki/Alphabet_grec#:~:text=grec%20ancien.-,Graphies%20courantes,-%5Bmodifier%20%7C){:target="_blank"} |
 | 4 | 16.09 <br/> 13h30-15h30   | BN3-001 |   <u>Cours</u> :  Continuité, dérivabilité, variations d'une application, équation de la tangente à \\(\mathcal{C}_f \\), asymptotes horizontales, verticales, obliques, exemples<br/><u>TD</u> Fiche TD 1, Ex. 1.5  | |
