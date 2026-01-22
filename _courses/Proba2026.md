@@ -8,45 +8,26 @@ lang: French
 role: TD
 nostudents:
 level: L2
-studtype: Mathematics and Maths-Eco students of UFR Mathématiques Informatique Mécanique
+studtype: Mathematics students of UFR Mathématiques Informatique Mécanique
 etab: université de Lorraine
 classnumber: 10
 #groupnumber : 1
 ---
 
-<br/>
-<!--
-<a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/2025 et du partiel du 15/11/2025](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
--->
+#### Programme (très) synthétique
 
-<!--
-#### Consultation des copies du partiel du 15.11.2025
 
-Uniquement sur rendez-vous, s'inscrire via le bouton vert en bas à droite.
+1. Rappels et compléments : ensembles dénombrables, familles sommables, dénombrement.
+2. Introduction à la théorie des probabilités : espaces probabilisés, probabilités conditionnelles et indépendance d'évènements.
+3. Variables aléatoires réelles discrètes : définition et loi, indépendance, moments, fonction génératrice des variables aléatoires à valeurs entières positives, estimations.
 
-<!-- Calendly badge widget begin
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/matteopdachille/consultation-des-copies-partiel-15-11-2025', text: 'Consultation des copies du partiel | 2.12.2025 - réservation', color: '#008000', textColor: '#ffffff', branding: false}); }</script>
-<!-- Calendly badge widget end
--->
-<!--
-<br/>
-Pour le materiel de cours ainsi que les annonces communs voir : <br/> [#](https://arche.univ-lorraine.fr/course/view.php?id=81800){:target="_blank"}
 
--->
-### Programme (très) synthétique
-<!--
-1. Vocabulaire élémentaire pour l’étude de fonctions réelles de variable réelle
-2. Applications usuelles
-3. Primitives usuelles
-4. Equations différentielles linéaires
--->
+Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=78317](https://arche.univ-lorraine.fr/course/view.php?id=78317){:target="_blank"}
 
 
 
-### Tableau de bord
+#### Tableau de bord
 
-| Cours n&deg; | Date/heure | Salle | Sujet | Remarques |
-|:---: | :---: | :---: | ------- | ------- |
-|  | | | | |
+| Séance n&deg; | Date | Sujet |
+|:-: | :---: | :---: |
+| 1 | 22.01 | <u>Feuille 1</u> : Ex. 1 (lois de De Morgan), Ex. 2 (formules de Hausdorff), Ex. 3 (+ exemple \\(A_n = [-n,n]^2 \subset \mathbb{R}^2 \\)), Ex. 4  (à compléter en DM).  |
