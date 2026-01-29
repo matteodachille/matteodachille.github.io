@@ -12,9 +12,10 @@ order: 7
 (short)
 
 
+Detailed (but possibly outdated) CV in pdf is available in [en](/downloads/cv_dachille_en.pdf){:target="\_blank"}, [fr](/downloads/cv_dachille_fr.pdf){:target="\_blank"} and [it](/downloads/cv_dachille_it.pdf){:target="\_blank"}.
+
 <br/>
 
-<!-- To uncomment and sanitize after September, hopefully -->
 
 
 ## Employement
@@ -133,7 +134,5 @@ _2022 - ..._ : [SMAI](http://smai.emath.fr/){:target="\_blank"} - Sté de Mathé
 
 
 <br/>
-<br/>
-A detailed (and possibly outdated) CV is available in [en](/#){:target="\_blank"}, [fr](/#){:target="\_blank"} and [it](/#){:target="\_blank"}.
 
 <!--{{  site.baseurl }}downloads/[namefile] -->
