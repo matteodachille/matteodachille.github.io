@@ -43,10 +43,9 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [#](https:
 4. Equations différentielles linéaires
 -->
 
-
-
+<br/>
 ### Tableau de bord
 
-| Cours n&deg; | Date/heure | Salle | Sujet | Remarques |
-|:---: | :---: | :---: | ------- | ------- |
-|  | | | | |
+| Leçon n&deg; | Date | Sujet |
+|:-: | :---: | :---: |
+| 1 | 30.01 | Introduction au modèle de regression simple. Motivations, définition, hypothèses sur la perturbation. Écriture vectorielle et interpretation géométrique. Méthode d'estimation des moindres carrés : forme quadratique des moindres carrés, déduction des estimateurs \\(( \hat{a}, \hat{b})\\) et leur propriétés : centre de gravité, absence de biais, variances et covariance. Théorème de Gauss-Markov (énoncé). Rappels sur la loi normale en dimension 1. |

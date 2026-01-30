@@ -22,7 +22,7 @@ classnumber: 10
 3. Variables aléatoires réelles discrètes : définition et loi, indépendance, moments, fonction génératrice des variables aléatoires à valeurs entières positives, estimations.
 
 
-Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=78317](https://arche.univ-lorraine.fr/course/view.php?id=78317){:target="_blank"}
+Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : [https://arche.univ-lorraine.fr/course/view.php?id=78317](https://arche.univ-lorraine.fr/course/view.php?id=78317){:target="_blank"}
 
 
 
@@ -31,3 +31,5 @@ Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : <b
 | Séance n&deg; | Date | Sujet |
 |:-: | :---: | :---: |
 | 1 | 22.01 | <u>Feuille 1</u> : Ex. 1 (lois de De Morgan), Ex. 2 (formules de Hausdorff), Ex. 3 (+ exemple \\(A_n = [-n,n]^2 \subset \mathbb{R}^2 \\)), Ex. 4  (à compléter en DM).  |
+| 2 | 29.01 | <u>Feuille 1</u> : Ex. 5 (différence symétrique), Ex. 6 (avec dessins), Ex. 11 (réfléchir au cas \\(\omega_n \\) du point 2 en DM).  |
+| 3 | 30.01 | <u>Feuille 1</u> : Ex. 7.1, 7.2, 7.3, Ex. 8.1, 8.2 en DM, 8.3 via \\(\Phi(a)=\sum_{n \in \mathbb{N}}\frac{2 a_n}{3^{n+1}} \\), Ex. 9. (i)-(v) |
