@@ -111,8 +111,26 @@ Title: _TBA_
 {: style="font-size: 15px; margin-left: 0px" }
 
 
+#### 2026
+{: .no_toc}
+
+29.01 &#x2022; GdT Probabilités et Statistique, Institut Élie Cartan de Lorraine, Metz, France, 60min
+([link](https://iecl.univ-lorraine.fr/events/foret-couvrante-massique-sur-le-graphe-complet-distribution-exacte-et-limite-locale/){:target="_blank"})
+{: style="font-size: 16px" }
+
+
+08.01 &#x2022; Séminaire Géométrie et Topologie, IMJ-PRG, Jussieu, Paris, France, 60min
+([link](https://www.imj-prg.fr/gestion/evenement/affSeance/10445#:~:text=Orateur(s)-,Matteo%20D%27Achille,-%2D%20%2C){:target="_blank"})
+{: style="font-size: 16px" }
+
+
+
+
 #### 2025
 {: .no_toc}
+
+16.12 &#x2022; Conseil du pôle AM2I de l'Université de Lorraine, Metz, France, 15min
+{: style="font-size: 16px" }
 
 01.12 &#x2022; Séminaire commun de géométrie, Institut Élie Cartan de Lorraine, Nancy, France, 90min (45min + 45min)
 ([link](https://iecl.univ-lorraine.fr/events/seminaire-commun-de-geometrie-32/){:target="_blank"})

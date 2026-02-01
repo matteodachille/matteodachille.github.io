@@ -34,7 +34,7 @@ Uniquement sur rendez-vous, s'inscrire via le bouton vert en bas à droite.
 <br/>
 Pour le materiel de cours ainsi que les annonces communs voir : <br/> [#](https://arche.univ-lorraine.fr/course/view.php?id=81800){:target="_blank"}
 
--->
+
 ### Programme (très) synthétique
 <!--
 1. Vocabulaire élémentaire pour l’étude de fonctions réelles de variable réelle
@@ -48,4 +48,4 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [#](https:
 
 | Leçon n&deg; | Date | Sujet |
 |:-: | :---: | :---: |
-| 1 | 30.01 | Introduction au modèle de regression simple. Motivations, définition, hypothèses sur la perturbation. Écriture vectorielle et interpretation géométrique. Méthode d'estimation des moindres carrés : forme quadratique des moindres carrés, déduction des estimateurs \\(( \hat{a}, \hat{b})\\) et leur propriétés : centre de gravité, absence de biais, variances et covariance. Théorème de Gauss-Markov (énoncé). Rappels sur la loi normale en dimension 1. |
+| 1 | 30.01 | Introduction au modèle de regression simple. Motivations, définition, hypothèses sur la perturbation. Écriture vectorielle et interpretation géométrique. Méthode d'estimation des moindres carrés ordinaires : forme quadratique des moindres carrés, déduction des estimateurs \\(( \hat{a}, \hat{b})\\), leurs propriétés : centre de gravité, absence de biais, variances et covariance. Théorème de Gauss-Markov (énoncé). Rappels sur la loi normale en dimension 1. |
