@@ -3,7 +3,7 @@ layout: course
 title: Statistique inférentielle
 year: 	25/26
 semester: S2
-#hours: 36
+#ahours: 36
 lang: French
 role: CM+TD+TP
 nostudents:
@@ -48,4 +48,5 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [#](https:
 
 | Leçon n&deg; | Date | Sujet |
 |:-: | :---: | :---: |
-| 1 | 30.01 | Introduction au modèle de regression simple. Motivations, définition, hypothèses sur la perturbation. Écriture vectorielle et interpretation géométrique. Méthode d'estimation des moindres carrés ordinaires : forme quadratique des moindres carrés, déduction des estimateurs \\(( \hat{a}, \hat{b})\\), leurs propriétés : centre de gravité, absence de biais, variances et covariance. Théorème de Gauss-Markov (énoncé). Rappels sur la loi normale en dimension 1. |
+| 1 | 30.01 | Introduction au modèle de regression linéaire simple. Motivations, définition, hypothèses sur la perturbation. Écriture vectorielle et interpretation géométrique. Méthode d'estimation des moindres carrés ordinaires : forme quadratique des moindres carrés, déduction des estimateurs \\(( \hat{a}, \hat{b})\\), leurs propriétés : centre de gravité, absence de biais, variances et covariance. Théorème de Gauss-Markov (énoncé). Rappels sur la loi normale en dimension 1. |
+| 2 | 06.02 | Consequences du Théorème de Gauss-Markov. Coefficient de détermination \\(R^2 \\) et caveat sur son interpretation. Modèle de regression linéaire simple avec perturbation normale. Propriétés des ses estimateurs du maximum de vraisemblance : comparaison avec les estimateurs MCO. Rappel sur les gaussiennes multivariées : méthodes d'échantillonnage, projection orthogonale sur un sous-espace (loi de la norme au carré du projeté), loi jointe des projections orthogonaux sur deux sous-espaces, loi sous l'action d'une matrice symétrique définie positive générale.  Application : loi du triplet \\(( \hat{a}, \hat{b},\hat{\sigma}^2)\\). |
