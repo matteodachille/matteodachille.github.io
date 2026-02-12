@@ -17,12 +17,12 @@ classnumber: 10
 #### Programme (très) synthétique
 
 
+Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : [https://arche.univ-lorraine.fr/course/view.php?id=78317](https://arche.univ-lorraine.fr/course/view.php?id=78317){:target="_blank"}
+
+
 1. Rappels et compléments : ensembles dénombrables, familles sommables, dénombrement.
 2. Introduction à la théorie des probabilités : espaces probabilisés, probabilités conditionnelles et indépendance d'évènements.
 3. Variables aléatoires réelles discrètes : définition et loi, indépendance, moments, fonction génératrice des variables aléatoires à valeurs entières positives, estimations.
-
-
-Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : [https://arche.univ-lorraine.fr/course/view.php?id=78317](https://arche.univ-lorraine.fr/course/view.php?id=78317){:target="_blank"}
 
 
 
@@ -34,5 +34,5 @@ Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : [h
 | 2 | 29.01 | <u>Feuille 1</u> : Ex. 5 (différence symétrique), Ex. 6 (avec dessins), Ex. 11 (réfléchir au cas \\(\omega_n \\) du point 2 en DM).  |
 | 3 | 30.01 | <u>Feuille 1</u> : Ex. 7.1, 7.2, 7.3, Ex. 8.1, 8.2 en DM, 8.3 via \\(\Phi(a)=\sum_{n \in \mathbb{N}}\frac{2 a_n}{3^{n+1}} \\), Ex. 9. (i)-(v) |
 | 4 | 05.02 | <u>Feuille 1</u> : Ex. 10, Ex. 11 (point 2). <u>Feuille 2</u> : Ex. 1, Ex. 2, Ex. 3 points (1)-(6) (point 7 en DM), Ex. 8 |
-| 5 | 12.02 | |
+| 5 | 12.02 | <u>Feuille 2</u> : Ex. 4, Ex. 5, Ex. 6 (point 2 en DM), Ex. 7, Ex. 9, Ex. 10|
 | 6 | 19.02 | N.B. : cette séance aura lieu en salle <b>BRJ007</b>. Interro de 17h15 à 18h15 |
