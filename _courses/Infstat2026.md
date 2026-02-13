@@ -47,7 +47,7 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [#](https:
 ### Textes de référence
 
 
-+ P-A. Cornillon, N. Hengartner, E. Matzner-Løber, L. Rouvière, _Régression avec R_, edpsciences,[lien](https://regression-avec-r.github.io/)
++ P-A. Cornillon, N. Hengartner, E. Matzner-Løber, L. Rouvière, _Régression avec R_, edpsciences,[lien](https://regression-avec-r.github.io/){:target="_blank"}
 + A. Guyader, _Statistique mathématique_, notes de cours, Master Mathématiques et Applications, Sorbonne Université, [pdf](https://perso.lpsm.paris/~aguyader/files/teaching/StatMath.pdf){:target="_blank"}
 + A. Monfort, _Cours de statistique mathématique_, Economica, Paris.
 + L. Wasserman, _All of nonparametric statistics_, Springer New York, [lien](https://link.springer.com/book/10.1007/0-387-30623-4
