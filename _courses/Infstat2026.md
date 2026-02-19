@@ -47,7 +47,7 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [#](https:
 ### Textes de référence
 
 
-+ P-A. Cornillon, N. Hengartner, E. Matzner-Løber, L. Rouvière, _Régression avec R_, edpsciences,[lien](https://regression-avec-r.github.io/){:target="_blank"}
++ P-A. Cornillon, N. Hengartner, E. Matzner-Løber, L. Rouvière, _Régression avec R_, edpsciences, [lien](https://regression-avec-r.github.io/){:target="_blank"}
 + A. Guyader, _Statistique mathématique_, notes de cours, Master Mathématiques et Applications, Sorbonne Université, [pdf](https://perso.lpsm.paris/~aguyader/files/teaching/StatMath.pdf){:target="_blank"}
 + A. Monfort, _Cours de statistique mathématique_, Economica, Paris.
 + L. Wasserman, _All of nonparametric statistics_, Springer New York, [lien](https://link.springer.com/book/10.1007/0-387-30623-4
@@ -61,3 +61,4 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [#](https:
 | 1 | 30.01 | Introduction au modèle de regression linéaire simple. Motivations, définition, hypothèses sur la perturbation. Écriture vectorielle et interpretation géométrique. Méthode d'estimation des moindres carrés ordinaires : forme quadratique des moindres carrés, déduction des estimateurs \\(( \hat{a}, \hat{b})\\), leurs propriétés : centre de gravité, absence de biais, variances et covariance. Théorème de Gauss-Markov (énoncé). Rappels sur la loi normale en dimension 1. |
 | 2 | 06.02 | Consequences du Théorème de Gauss-Markov. Coefficient de détermination \\(R^2 \\) et caveat sur son interpretation. Modèle de regression linéaire simple avec perturbation normale. Propriétés des ses estimateurs du maximum de vraisemblance : comparaison avec les estimateurs MCO. Rappel sur les gaussiennes multivariées : méthodes d'échantillonnage, projection orthogonale sur un sous-espace (loi de la norme au carré du projeté), loi jointe des projections orthogonaux sur deux sous-espaces, loi sous l'action d'une matrice symétrique définie positive générale.  Application : loi du triplet \\(( \hat{a}, \hat{b},\hat{\sigma}^2)\\).
 | 3 | 13.02 | Prévision dans la regression linéaire simple. Trois exercices sur la regression linéaire simple : calculs de \\(\hat{a}, \hat{b}, R^2\\) (à la main), interpretation géométrique du produit des pentes dans les deux regression possibles. Introduction au modèle de regression multiple : définition et interpretation géométrique. Moindres carrés ordinaires (début).|
+| 4 | 20.02 | |

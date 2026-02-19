@@ -35,4 +35,4 @@ Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : [h
 | 3 | 30.01 | <u>Feuille 1</u> : Ex. 7.1, 7.2, 7.3, Ex. 8.1, 8.2 en DM, 8.3 via \\(\Phi(a)=\sum_{n \in \mathbb{N}}\frac{2 a_n}{3^{n+1}} \\), Ex. 9. (i)-(v) |
 | 4 | 05.02 | <u>Feuille 1</u> : Ex. 10, Ex. 11 (point 2). <u>Feuille 2</u> : Ex. 1, Ex. 2, Ex. 3 points (1)-(6) (point 7 en DM), Ex. 8 |
 | 5 | 12.02 | <u>Feuille 2</u> : Ex. 4, Ex. 5, Ex. 6 (point 2 en DM), Ex. 7, Ex. 9, Ex. 10|
-| 6 | 19.02 | N.B. : cette séance aura lieu en salle <b>BRJ007</b>. Interro de 17h15 à 18h15 |
+| 6 | 19.02 | <u> Feuille 3</u> : Ex. 1, Ex. 2, Ex. 3, Ex. 4. Interro de 17h15 à 18h15 |

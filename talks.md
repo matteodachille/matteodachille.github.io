@@ -99,7 +99,7 @@ Title: _TBA_
 <!--- Random Geometry-Géométrie Aléatoire, CIRM Luminy, France ([link](https://conferences.cirm-math.fr/3021.html#:~:text=des%20populations%20biparentales-,Matteo){:target="_blank"})-->
 - Optimal Transport and Uncertainty - 2nd Workshop, Naples, Italy ([link](https://sites.google.com/view/otau2/home?authuser=0#:~:text=Sapienza%20di%20Roma-,Matteo%20D%27Achille){:target="_blank"})
 - DYOGENE Seminar, INRIA Paris, France [[recording on canal-u.tv]](https://www.canal-u.tv/chaines/inria/dyogeneerc-nemo-2022-seminar-series/back-and-forth-between-the-beta-distribution-and){:target="_blank"}
-- Les probas du vendredi, LPSM, Sorbonne Université, Paris, France ([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=16%2D26%20209-,Matteo%20D%27Achille,-(LAMA)%20ERAP){:target="_blank"})
+- Les Probas du vendredi, LPSM, Sorbonne Université, Paris, France ([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=16%2D26%20209-,Matteo%20D%27Achille,-(LAMA)%20ERAP){:target="_blank"})
 <!--- Optimal Transport and Uncertainty, Pisa, Italy  [[recording on <i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i>]](https://drive.google.com/file/d/10wfRI0MZS2UnDIAGcq3a9AQJT9DSQGwe/view){:target="_blank"}-->
 <!--- Eindhoven SPOR Seminar, EURANDOM, TU/e, The Netherlands ([announcement](https://www.eurandom.tue.nl/event/einidhoven-spor-seminar/){:target="_blank"})-->
 {: style="font-size: 15px" }
@@ -113,6 +113,10 @@ Title: _TBA_
 
 #### 2026
 {: .no_toc}
+
+
+04.02 &#x2022; <i>StoKaChic: Mathematical haute joaillerie</i>, opening talk, IHES, France (<a href="https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY" target="_blank">link</a>)
+{: style="font-size: 16px" }
 
 29.01 &#x2022; GdT Probabilités et Statistique, Institut Élie Cartan de Lorraine, Metz, France, 60min
 ([link](https://iecl.univ-lorraine.fr/events/foret-couvrante-massique-sur-le-graphe-complet-distribution-exacte-et-limite-locale/){:target="_blank"})
