@@ -26,7 +26,7 @@ _01.09.2022 - current_ &#x2023; [**Les Probabilités de Demain**](https://indico
 
 [website](https://indico.math.cnrs.fr/category/618/){:target="_blank"}<!--, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UC31VeXEfDkRvDTF0JEFyeZQ/featured){:target="_blank"}-->
 {: style="font-size: 18px; margin-left: 180px" }
-Events at IHP: 30/11/2022, 12/04/2023, 15/11/2023, 15/05/2024, 16/10/2025, 19/02/2025, 7/05/2025, 8/10/2025
+Events at IHP: 30/11/2022, 12/04/2023, 15/11/2023, 15/05/2024, 16/10/2025, 19/02/2025, 7/05/2025, 8/10/2025, 4/02/2026
 {: style="font-size: 14px; margin-left: 180px" }
 
 
@@ -38,7 +38,7 @@ _01.09.2021 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](ht
 [website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
 {: style="font-size: 18px; margin-left: 180px" }
 
-Kick-off events at IHP: 11/10/2023, 17/01/2024, 27/03/2024, 06/11/2024, 12/02/2025, 04/06/2025, 29/10/2025
+Kick-off events at IHP: 11/10/2023, 17/01/2024, 27/03/2024, 06/11/2024, 12/02/2025, 04/06/2025, 29/10/2025, 28/01/2026
 {: style="font-size: 14px; margin-left: 180px" }
 
 Mornings at IHES: list available at [indico](https://indico.math.cnrs.fr/category/800/){:target="_blank"}
