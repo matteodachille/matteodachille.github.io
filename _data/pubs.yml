@@ -11,6 +11,22 @@
 #  submitted: False
 #  pdf:
 
+
+- title: Concentration for random Euclidean combinatorial optimization
+  authors : F. Mattesini and D. Trevisan
+  upcoming: True
+  preprint: True
+  published: False
+  year: 2026
+  npages: 13
+  abstract: 'We prove concentration bounds for random Euclidean combinatorial optimization problems with \( p \) costs. For bipartite matching and for the (mono and bipartite) traveling salesperson problem in dimension \( d\geq 3\), we obtain concentration at the natural energy scale \( n^{1-p/d} \) for \( 1\leq p<d^2/2 \). Our method combines a Poincaré inequality with a robust geometric mechanism providing uniform bounds on the edges of optimizers.  We also formulate a conjectural \(p \!\to\! q\) transfer principle for the \( p \)-optimal matching which, if true, would extend the concentration range to all \( p\geq 1 \).'
+  pdf: 'assets/DMT.pdf'
+  arxivurl: "http://arxiv.org/abs/YYMM.XXXXX"
+  arxivcode: "YYMM.XXXXX"
+
+
+
+
 - title:  Vanishing uniqueness thresholds in Voronoi percolation on products
   authors: J. Grebík, A. Khezeli, K. Recke and A. Wilkens
   upcoming: True
