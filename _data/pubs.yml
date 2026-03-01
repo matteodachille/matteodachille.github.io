@@ -21,6 +21,7 @@
   npages: 13
   abstract: 'We prove concentration bounds for random Euclidean combinatorial optimization problems with \( p \) costs. For bipartite matching and for the (mono and bipartite) traveling salesperson problem in dimension \( d\geq 3\), we obtain concentration at the natural energy scale \( n^{1-p/d} \) for \( 1\leq p<d^2/2 \). Our method combines a Poincaré inequality with a robust geometric mechanism providing uniform bounds on the edges of optimizers.  We also formulate a conjectural \(p \!\to\! q\) transfer principle for the \( p \)-optimal matching which, if true, would extend the concentration range to all \( p\geq 1 \).'
   pdf: 'assets/DMT.pdf'
+  rg: 401230025
   arxivurl: "https://arxiv.org/abs/2602.21851"
   arxivcode: "2602.21851"
 
@@ -97,14 +98,14 @@
   abstract: 'We construct and study the ideal Poisson-Voronoi tessellation of the product of two hyperbolic planes \( \mathbb{H}_{2}\times \mathbb{H}_{2}\) endowed with the \(L^{1}\) norm. We prove that its law is invariant under all isometries of this space and study some geometric features of its cells. Among other things, we prove that the set of points at equal separation to any two corona points is unbounded almost surely. This is analogous to a recent result of Frączyk-Mellick-Wilkens for higher rank symmetric spaces.'
 
 
-- title:  Local limit of massive spanning forests on the complete graph
+- title:  "Massive Spanning Forests on the Complete Graph: Exact Distribution and Local Limit"
   authors: N. Enriquez and P. Melotti
   upcoming: True
-  preprint: True
-  published: False
+  preprint: False
+  published: True
   arxivurl: "http://arxiv.org/abs/2403.11740"
   arxivcode: "2403.11740"
-  year: 2024
+  year: 2026
   submitted: False
   rg: 379374970
   halurl: "https://hal.science/hal-04521375"
@@ -114,9 +115,9 @@
   accepted: True
   doi : "https://doi.org/10.1002/rsa.70048"
   #published: True
-  accjourn: "Random Structures & Algorithms"
-  #journal: "Random Structures Algorithms"
-  #volume: "(to appear)"
+  accjourn: "Random Struct. Algorithms"
+  journal: "Random Struct. Algorithms"
+  volume: "68, no. 2: e70048"
   npages: 10
   abstract: 'We identify the local limit of massive spanning forests on the complete graph. This generalizes a well-known theorem of Grimmett on the local limit of uniform spanning trees on the complete graph.'
 
@@ -128,18 +129,19 @@
   published: True
   arxivurl: "https://arxiv.org/abs/2303.16831"
   arxivcode: "2303.16831"
-  year: 2023
+  year: 2026
   submitted: False
   rg: 369623836
   halurl: "https://hal.archives-ouvertes.fr/hal-04067300"
   academia: 99972215
   pdf: "assets/ipvt.pdf"
   #submitted: True
-  accjourn: "Annals of Probability"
-  journal: "Annals of Probability"
-  volume: "(to appear)"
-  npages: 51
-  doi: "https://imstat.org/journals-and-publications/annals-of-probability/annals-of-probability-future-papers/#:~:text=Ideal%20Poisson%E2%80%93Voronoi%20Tessellations%20on%20Hyperbolic%20Spaces"
+  accjourn: "Ann. Probab."
+  journal: "Ann. Probab."
+  volume: "54(2)"
+  pages: 846-891
+  npages: 45
+  doi: "https://doi.org/10.1214/25-AOP1781"
   abstract: 'We study the limit in low intensity of Poisson-Voronoi tessellations in hyperbolic spaces \( \mathbb{H}_{d} \) for \( d \geq 2 \). In contrast to the Euclidean setting, a limiting nontrivial ideal tessellation \( \mathcal{V}_{d} \) appears as the intensity tends to \(0\). The tessellation \(  \mathcal{V}_{d} \) is  a natural, isometry-invariant decomposition of \( \mathbb{H}_{d} \) into countably many unbounded polytopes, each with a unique end.  We study its basic properties, in particular, the geometric features of its cells.'
 
 #- title: Using stochastic order to compare different Euclidean Random Assignment Problems
