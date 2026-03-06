@@ -36,3 +36,4 @@ Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : [h
 | 4 | 05.02 | <u>Feuille 1</u> : Ex. 10, Ex. 11 (point 2). <u>Feuille 2</u> : Ex. 1, Ex. 2, Ex. 3 points (1)-(6) (point 7 en DM), Ex. 8 |
 | 5 | 12.02 | <u>Feuille 2</u> : Ex. 4, Ex. 5, Ex. 6 (point 2 en DM), Ex. 7, Ex. 9, Ex. 10|
 | 6 | 19.02 | <u> Feuille 3</u> : Ex. 1, Ex. 2, Ex. 3, Ex. 4. Interro de 17h15 à 18h15 |
+| 7 | 05.03 | <u> Feuille 3</u> : Ex. 5, Ex. 6, Ex. 10 (généraliser à une proba de \\(\frac{3}{4}\\) en DM), Ex. 11., Ex. 13 (avec généralisation) |
