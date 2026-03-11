@@ -115,7 +115,7 @@ Title: _TBA_
 {: .no_toc}
 
 
-04.02 &#x2022; <i>StoKaChic: Mathematical haute joaillerie</i>, opening talk, IHES, France (<a href="https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY" target="_blank">link</a>)
+04.02 &#x2022; <i>StoKaChic: Mathematical haute joaillerie</i>, opening talk, IHES, France, 60min (<a href="https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY" target="_blank">link</a>)
 {: style="font-size: 16px" }
 
 29.01 &#x2022; GdT Probabilités et Statistique, Institut Élie Cartan de Lorraine, Metz, France, 60min
