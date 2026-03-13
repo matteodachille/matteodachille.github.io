@@ -38,4 +38,4 @@ Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : [h
 | 6 | 19.02 | <u> Feuille 3</u> : Ex. 1, Ex. 2, Ex. 3, Ex. 4. Interro de 17h15 à 18h15 |
 | 7 | 05.03 | <u> Feuille 3</u> : Ex. 5, Ex. 6, Ex. 10 (généraliser à une proba de \\(\frac{3}{4}\\) en DM), Ex. 11, Ex. 13 (avec généralisation) |
 | 8 | 12.03 | <u> Feuille 3</u> : Ex. 7, Ex. 8, Ex. 9, Ex. 12. Quelques propriétés des variables de Poisson. |
-| 9 | 13.03 |  |
+| 9 | 13.03 | Correction d'un exo tiré d'un partiel des années précédentes. Rappels sur les fonctions indicatrices, leurs propriétés. Application au cardinal de l'union de trois ensembles. Principe d'inclusion-exclusion. Identité de Vandermonde. |
