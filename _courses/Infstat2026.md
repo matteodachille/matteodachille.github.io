@@ -14,9 +14,9 @@ classnumber: 11
 #groupnumber : 1
 ---
 
-<!--
-<a style="color: red; font-weight: bold;">News</a> : [Notes de l'interro du 15/10/2025 et du partiel du 15/11/2025](/downloads/Notes-Analyse1-L1Math25_26.pdf){:target="_blank"} <br/>
--->
+<br/>
+
+<a style="color: red; font-weight: bold;">News</a> : [Feuille TD1](https://filesender.renater.fr/?s=download&token=32d916ae-8192-49f9-a3f4-d5f1dec077e8){:target="_blank"} <br/>
 
 <!--
 #### Consultation des copies du partiel du 15.11.2025
