@@ -3,7 +3,7 @@ layout: course
 title: Statistique inférentielle
 year: 	25/26
 semester: S2
-#ahours: 36
+hours: 23.5
 lang: French
 role: CM+TD+TP
 nostudents:
@@ -16,7 +16,7 @@ classnumber: 11
 
 <br/>
 
-<a style="color: red; font-weight: bold;">News</a> : [Feuille TD1](https://filesender.renater.fr/?s=download&token=32d916ae-8192-49f9-a3f4-d5f1dec077e8){:target="_blank"} <br/>
+<a style="color: red; font-weight: bold;">News</a> : [Feuille TD1](https://filesender.renater.fr/?s=download&token=32d916ae-8192-49f9-a3f4-d5f1dec077e8){:target="_blank"}, [Feuille TD2](https://filesender.renater.fr/?s=download&token=3c4ad9fa-30e9-4fcc-b488-efc15ce5fb91){:target="_blank"} <br/>
 
 <!--
 #### Consultation des copies du partiel du 15.11.2025
