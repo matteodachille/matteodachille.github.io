@@ -16,7 +16,8 @@ classnumber: 11
 
 <br/>
 
-<a style="color: red; font-weight: bold;">News</a> : [Feuille TD1](https://filesender.renater.fr/?s=download&token=32d916ae-8192-49f9-a3f4-d5f1dec077e8){:target="_blank"}, [Feuille TD2](https://filesender.renater.fr/?s=download&token=3c4ad9fa-30e9-4fcc-b488-efc15ce5fb91){:target="_blank"} <br/>
+<a style="color: red; font-weight: bold;">TD</a> : [Feuille 1](https://filesender.renater.fr/?s=download&token=32d916ae-8192-49f9-a3f4-d5f1dec077e8){:target="_blank"}, [Feuille 2](https://filesender.renater.fr/?s=download&token=3c4ad9fa-30e9-4fcc-b488-efc15ce5fb91){:target="_blank"}<br/>
+<a style="color: red; font-weight: bold;">TP</a> du 27.03.2026 : [Dataset 1](#){:target="_blank"}, [Dataset 2](#){:target="_blank"}, [Dataset 3](#){:target="_blank"}
 
 <!--
 #### Consultation des copies du partiel du 15.11.2025
