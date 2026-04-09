@@ -41,3 +41,5 @@ Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : [h
 | 9 | 13.03 | Correction d'un exo tiré d'un partiel des années précédentes. Rappels sur les fonctions indicatrices, leurs propriétés. Application au cardinal de l'union de trois ensembles. Principe d'inclusion-exclusion. Identité de Vandermonde. |
 | 10 | 26.03 | <u> Feuille 4</u> : Ex. 1, Ex. 2, Ex. 3, Ex. 4, Ex. 5, Ex. 6, Ex. 12, Ex. 8 (point 3 à terminer à la maison) |
 | 11 | 02.04 | <u> Feuille 4</u> : Ex. 7, Ex. 9, Ex. 10, Ex. 11. <u> Feuille 5</u> : Ex. 1, Ex. 2, Ex. 4 |
+| 12 | 09.04 | <u> Feuille 5</u> : Ex. 3, Ex. 5, Ex. 6, Ex. 7., Ex. 8, Ex. 9, Ex. 10 |
+| 13 | 10.04 | <u> Feuille 5</u> : TBA. <u> Feuille 6</u> : TBA.  |
