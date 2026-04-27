@@ -17,7 +17,8 @@ classnumber: 11
 <br/>
 
 <a style="color: red; font-weight: bold;">TD</a> : [Feuille 1](https://filesender.renater.fr/?s=download&token=32d916ae-8192-49f9-a3f4-d5f1dec077e8){:target="_blank"}, [Feuille 2](https://filesender.renater.fr/?s=download&token=3c4ad9fa-30e9-4fcc-b488-efc15ce5fb91){:target="_blank"}<br/>
-<a style="color: red; font-weight: bold;">TP</a> du 27.03.2026 : [Dataset 1](https://filesender.renater.fr/?s=download&token=f126f722-af61-47da-a09c-ae0958db0169){:target="_blank"}, [Dataset 2](https://filesender.renater.fr/?s=download&token=2cde527d-e5cc-4360-8acc-819946a087a1){:target="_blank"}, [Dataset 3](https://filesender.renater.fr/?s=download&token=336969c9-5aa9-477a-b09d-9c141ac88f57){:target="_blank"}
+<a style="color: red; font-weight: bold;">TP</a> 27.03.2026 : [Dataset 1](https://filesender.renater.fr/?s=download&token=f126f722-af61-47da-a09c-ae0958db0169){:target="_blank"}, [Dataset 2](https://filesender.renater.fr/?s=download&token=2cde527d-e5cc-4360-8acc-819946a087a1){:target="_blank"}, [Dataset 3](https://filesender.renater.fr/?s=download&token=336969c9-5aa9-477a-b09d-9c141ac88f57){:target="_blank"}<br/>
+<a style="color: red; font-weight: bold;">TP</a> 27.04.2026 : [Dataset](https://filesender.renater.fr/?s=download&token=87f3dc72-125a-4ab3-8ae2-9bc5edb4418f){:target="_blank"}
 
 <!--
 #### Consultation des copies du partiel du 15.11.2025
@@ -68,3 +69,4 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [#](https:
 | 7 | 20.03 | [Feuille TD1](https://filesender.renater.fr/?s=download&token=32d916ae-8192-49f9-a3f4-d5f1dec077e8){:target="_blank"} : Exercice 2. [Feuille TD2](https://filesender.renater.fr/?s=download&token=3c4ad9fa-30e9-4fcc-b488-efc15ce5fb91){:target="_blank"} : Question 1, rappels sur la loi de Fisher avec deux exos (+ DM), exercice 1, exercice 2 (début).|
 | 8 | 27.03 | TP : [Dataset 1](https://filesender.renater.fr/?s=download&token=f126f722-af61-47da-a09c-ae0958db0169){:target="_blank"} : importation des données, régression de A à Z, nuage de points et estimation des intervalles de confiance. [Dataset 2](https://filesender.renater.fr/?s=download&token=2cde527d-e5cc-4360-8acc-819946a087a1){:target="_blank"} : (début)|
 | 9 | 10.04 | Examen (Amphi Sophie Germain) |
+| 10 | 27.04 |  |
