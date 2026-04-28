@@ -23,18 +23,24 @@ layout: default
 {% endif %}
 
 <br/>
-{% if page.role%}
-
-<div class="course-group {{ page.role | downcase}}">
-  Type: {{ page.role }}
-  </div>
-{% endif %}
 <div class="course-class {{ page.year | downcase }}">
   Academic year: {{ page.year }}
 </div>
 <div class="course-semester {{ page.semester | downcase }}">
   Semester: {{ page.semester }}
 </div>
+{% if page.role%}
+
+<div class="course-group {{ page.role | downcase}}">
+  Role: {{ page.role }}
+  </div>
+{% endif %}
+{% if page.hours%}
+
+<div class="course-class {{ page.hours | downcase}}">
+  Total teaching load (heures eq TD): {{ page.hours }}
+  </div>
+{% endif %}
     {% if page.team%}
 
   <div class="course-class {{ page.professor | downcase}}">
