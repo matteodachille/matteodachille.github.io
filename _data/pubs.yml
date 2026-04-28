@@ -68,21 +68,27 @@
   pages: 1-10
   abstract: 'We exhibit an uncountable family of extremal inhomogeneous Gibbs measures of the low–temperature Ising model on regular tilings of the hyperbolic plane. These states arise as low temperature perturbations of local ground states having a sparse enough set of frustrated edges, the sparseness being measured in terms of the isoperimetric constant of the graph. This result is implied by an extension of the article [5] about spin models on regular trees to Ising models on a more general class of regular non-amenable graphs. We moreover argue how we can deduce the extremality of an uncountable subset of the Series–Sinai states [24] at low temperature.'
 
-- title:  On minimal shapes and topological invariants in hyperbolic lattices
+- title: On minimal shapes and isoperimetric constants in hyperbolic lattices
   authors: V. Jacquier and W.M. Ruszel
   upcoming: True
-  preprint: True
-  published: False
+  #preprint: True
+  published: True
   arxivurl: "http://arxiv.org/abs/2504.14080"
   arxivcode: "2504.14080"
-  year: 2025
+  year: 2026
   rg: 390990696
   halurl: "https://hal.science/hal-05044464"
   #academia: 126245800
   pdf: "assets/IsoLpq.pdf"
-  submitted: True
-  npages: 22
-  abstract: 'We characterize the set of finite shapes with minimal perimeter on hyperbolic lattices given by regular tilings of the hyperbolic plane whose tiles are regular \(p\)-gons meeting at vertices of degree \( q\), with \(\frac{1}{p}+\frac{1}{q}< \frac{1}{2} \). The main tool is a layer decomposition due to Rietman-Nienhuis-Oitmaa and Moran, which allows us to prove convergence towards the Cheeger constant when these shapes exhaust the lattice. Furthermore, we apply a celebrated result of Floyd-Plotnick, which will allow us to compute the Euler characteristic for these graphs in terms of certain growth functions and the number of \( n \)-sized animals on those lattices.'
+  submitted: False
+  accepted: True
+  doi : "https://doi.org/10.1016/j.disc.2026.115188"
+  #published: True
+  accjourn: "Discrete Math."
+  journal: "Discrete Math."
+  volume: "349, issue 9"
+  npages: 16
+  abstract: 'We fully characterize the set of finite shapes with minimal perimeter on hyperbolic latticesgiven by regular tilings of the hyperbolic plane whose tiles are regular \(p\)-gons meeting at vertices of degree \(q\), with \(1/p + 1/q < 1/2\). In particular, we prove that the ratio between the perimeter and the area (i.e., the number of vertices) of this set of minimal shapes converges to the isoperimetric constant computed in Häggström-Jonasson-Lyons. In fact, our regular balls which are constructed via layers and not combinatorial balls, will realize the isoperimetric constant for any fixed number of vertices.'
 
 - title:  Ideal Poisson-Voronoi tessellations beyond hyperbolic spaces
   upcoming: True
