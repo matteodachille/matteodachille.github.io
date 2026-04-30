@@ -43,5 +43,5 @@ Pour le materiel de cours ainsi que les annonces communs voir la page ARCHE : [h
 | 11 | 02.04 | <u> Feuille 4</u> : Ex. 7, Ex. 9, Ex. 10, Ex. 11. <u> Feuille 5</u> : Ex. 1, Ex. 2, Ex. 4 |
 | 12 | 09.04 | <u> Feuille 5</u> : Ex. 3, Ex. 5, Ex. 6, Ex. 7., Ex. 8, Ex. 9, Ex. 10 |
 | 13 | 10.04 | <u> Feuille 5</u> : Ex. 11, Ex. 12. <u> Feuille 6</u> : Ex. 1 (points 1 et 2), Ex. 3 (point 1), Ex. 4. (point 1), Ex. 5 (point 1). |
-| 14 | 30.04 |  |
+| 14 | 30.04 | <u> Feuille 6</u> : Ex. 1 (points 3 et 4), Ex.2, Ex. 3 (point 2), Ex. 4. (points 2 et 3), Ex. 5 (points 2 et 3), Ex.6, Ex. 7, Ex.8, Ex. 9 |
 | 15 | 07.05 |  |
