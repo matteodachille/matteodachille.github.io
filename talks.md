@@ -114,6 +114,9 @@ Title: _TBA_
 #### 2026
 {: .no_toc}
 
+05.05 &#x2022; Séminaire de l'équipe PS, LAGA, Université Sorbonne Paris-Nord, Villetaneuse, France, 60min (<a href="https://www.math.univ-paris13.fr/accueil/equipes/ps/seminaire-de-lequipe-ps/#:~:text=Toggle%20website%20search-,S%C3%A9minaire%20de%20l%E2%80%99%C3%A9quipe%20PS,-%3E" target="_blank">link</a>)
+{: style="font-size: 16px" }
+
 
 04.02 &#x2022; <i>StoKaChic: Mathematical haute joaillerie</i>, opening talk, IHES, France, 60min (<a href="https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY" target="_blank">link</a>)
 {: style="font-size: 16px" }
