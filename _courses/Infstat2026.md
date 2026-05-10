@@ -16,7 +16,7 @@ classnumber: 11
 
 <br/>
 
-<a style="color: red; font-weight: bold;">News</a> : [Notes de l'examen terminal du 10/04/26 et du rattrappage du 7/05/2026](/downloads/Notes-StatInf-M1Math25_26.pdf){:target="_blank"} <br/>
+<a style="color: red; font-weight: bold;">News</a> : [Notes de l'examen terminal du 10/04/26 et du rattrapage du 7/05/2026](/downloads/Notes-StatInf-M1Math25_26.pdf){:target="_blank"} <br/>
 
 
 Les étudiant.e.s souhaitant consulter leur copie sont invité.e.s à prendre rendez-vous par e-mail.
