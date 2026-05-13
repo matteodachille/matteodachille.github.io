@@ -5,7 +5,7 @@ order: 4
 ---
 
   <br/>
-I have/had the pleasure of supervising the following **14** students:
+I have/had the pleasure of supervising the following **18** students:
   {: style="font-size: 18px" }
   <br/>
 ### M2 research internship
@@ -15,6 +15,13 @@ I have/had the pleasure of supervising the following **14** students:
 {: .no_toc}
 -->
 
+Achim Schlather, ongoing (co-supervision with J. Levillain and P. Moyal) <br/>
+ _TBA_ <br/>
+M2 Master’s programme for Mathematics, Friedrich Schiller University Jena, Germany
+ {: style="font-size: 16px" }
+ Stage supported by a grant from the [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (8.04.2025 - current).
+ {: style="font-size: 12px; margin-top: -15px;" }
+
 
 
  Thomas Quarck, 08.10.2025 (co-supervision with J. Levillain) <br/>
@@ -23,16 +30,15 @@ acquisition_ <br/>
   M2 Mathématiques et Applications, Probabilités et Modèles Aléatoires, Sorbonne Université
   {: style="font-size: 16px" }
   Stage supported by a grant from the [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (7.04.2025 - 7.10.2025). Now at
-  {: style="font-size: 12px" }
+  {: style="font-size: 12px; margin-top: -15px;" }
 
 
  Yuqi Liu, 02.09.2022 <br/>
   _Comparison of different Euclidean Random Assignment Problems_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/Liu.pdf){:target="_blank"}<br/>
   M2 Mathématiques et Applications, université Paris-Est Créteil
   {: style="font-size: 16px" }
-
   Stage supported by a stipend from UPEC (11.04.22 - 11.07.22). Now at Ping An Life Insurance Company of China, Shenzhen
-  {: style="font-size: 12px" }
+  {: style="font-size: 12px; margin-top: -15px;" }
 
   <br/>
 
@@ -41,6 +47,16 @@ acquisition_ <br/>
 
 
 {: .no_toc}
+
+Marie-Carmel Chompret, ongoing (co-supervision with T. Wurzbacher) <br/>
+  _TBA_ <br/>
+  M1 Mathématiques et Applications, UFR MIM, Metz, Université de Lorraine
+  {: style="font-size: 16px" }
+
+Firouz Hajji, ongoing  <br/>
+  _TBA_ <br/>
+  M1 Mathématiques et Applications, UFR MIM, Metz, Université de Lorraine
+  {: style="font-size: 16px" }
 
 Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <br/>
   _Matching de nuages de points aléatoires : étude combinatoire, probabiliste et informationnelle_ <br/>
