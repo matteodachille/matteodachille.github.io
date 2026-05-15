@@ -19,7 +19,7 @@ Achim Schlather, ongoing (co-supervision with J. Levillain and P. Moyal) <br/>
  _TBA_ <br/>
 M2 Master’s programme for Mathematics, Friedrich Schiller University Jena, Germany
  {: style="font-size: 16px" }
- Stage supported by a grant from the [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (8.04.2025 - current).
+ Stage supported by a grant from the [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (8.04.2026 - current).
  {: style="font-size: 12px; margin-top: -15px;" }
 
 
@@ -37,7 +37,7 @@ acquisition_ <br/>
   _Comparison of different Euclidean Random Assignment Problems_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/Liu.pdf){:target="_blank"}<br/>
   M2 Mathématiques et Applications, université Paris-Est Créteil
   {: style="font-size: 16px" }
-  Stage supported by a stipend from UPEC (11.04.22 - 11.07.22). Now at Ping An Life Insurance Company of China, Shenzhen
+  Stage supported by a stipend from UPEC (11.04.2022 - 11.07.2022). Now at Ping An Life Insurance Company of China, Shenzhen
   {: style="font-size: 12px; margin-top: -15px;" }
 
   <br/>
