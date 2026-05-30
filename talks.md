@@ -114,10 +114,14 @@ Title: _TBA_
 #### 2026
 {: .no_toc}
 
+26.05 &#x2022; ANR Thermogamas, LORIA, Nancy, France, 50 min (<a href="https://www.math.u-bordeaux.fr/~pthieull/Recherche/Thermogamas/conference_02.html#:~:text=Speakers%3A-,Speaker,-%3A%20Matteo%20d%27Achille%20" target="_blank">link</a>)
+{: style="font-size: 16px" }
+
+
 18.05 &#x2022; Vienna Probability Seminar, ISTA, Klosterneuburg, Austria, 50 min (<a href="https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/vienna-probability-seminar/past-events/#c1092699:~:text=I01.01.008)%2C%20Central%20Building-,Matteo,-D%E2%80%99Achille%20(Universit%C3%A9%20de" target="_blank">link</a>)
 {: style="font-size: 16px" }
 
-05.05 &#x2022; Séminaire de l'équipe PS, LAGA, Université Sorbonne Paris-Nord, Villetaneuse, France, 60min (<a href="https://www.math.univ-paris13.fr/accueil/equipes/ps/seminaire-de-lequipe-ps/#:~:text=Toggle%20website%20search-,S%C3%A9minaire%20de%20l%E2%80%99%C3%A9quipe%20PS,-%3E" target="_blank">link</a>)
+05.05 &#x2022; Séminaire PS, LAGA, Université Sorbonne Paris-Nord, Villetaneuse, France, 60min (<a href="https://www.math.univ-paris13.fr/accueil/equipes/ps/seminaire-de-lequipe-ps/#:~:text=Toggle%20website%20search-,S%C3%A9minaire%20de%20l%E2%80%99%C3%A9quipe%20PS,-%3E" target="_blank">link</a>)
 {: style="font-size: 16px" }
 
 
