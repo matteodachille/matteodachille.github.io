@@ -54,55 +54,44 @@ Title: _TBA_
 <br/>
 -->
 
-## Three selected talks by topic
+## Three recent talks by topic
 
 
 #### Ideal Poisson--Voronoi tessellations
 {: .no_toc}
-<!--
-- MathNet Seminar, INRIA-ENS, Paris, France ([announcement](https://team.inria.fr/mathnet/calendar/782/#:~:text=Seminar%3A%20Matteo%20D%27achille){:target="_blank"})-->
-- Probability Oberseminar, Münster, Germany ([link](https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=10335&brettid=55#:~:text=Gaussian%20free%20field%20/-,Matteo%20D%27Achille){:target="_blank"})
-- Séminaire de Probabilités, Institut Fourier, Grenoble, France ([announcement](https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille){:target="_blank"})
-- Séminaire Analyse-Probabilités, CEREMADE, Université Paris-Dauphine, France ([announcement](https://www.ceremade.dauphine.fr/fr/actualites/detail-de-lactualite/article/seminaire-analyse-proba-matteo-dachille-mardi-21-novembre.html){:target="_blank"})
-<!-- - Rencontres de Probabilités, Université de Rouen, France
-([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023#:~:text=*%20conf%C3%A9rencier%20invit%C3%A9.-,Matteo%20D%27Achille){:target="_blank"})-->
-<!--- Journées Cartes, IRIF, Université Paris-Cité, France ([link](https://indico.in2p3.fr/event/30166/#:~:text=1h-,Depuis,-l%27astronomie%20de%20Descartes
-){:target="_blank"})-->
+
+18.05.2026 &#x2023; [Vienna Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/vienna-probability-seminar/nachrichtenvolldarstellung-vps/news/the-jewel-and-the-two-dials-of-the-ideal-poisson-voronoi-tessellation/?no_cache=1&cHash=60d25806b61baa46682de0665972f953){:target="_blank"}, ISTA, Klosterneuburg, Austria <br/>
+04.02.2026 &#x2023; [StoKaChic: Mathematical haute joaillerie](https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY){:target="_blank"}, IHES, Bures-sur-Yvette, France <br/>
+08.01.2026 &#x2023; [Séminaire Géométrie et Topologie](https://www.imj-prg.fr/gestion/evenement/affSeance/10445#:~:text=Orateur(s)-,Matteo%20D%27Achille,-%2D%20%2C){:target="_blank"}, IMJ-PRG, Paris, France
 {: style="font-size: 15px" }
 
 
 #### Massive spanning forests
 {: .no_toc}
 
-- Rencontres de Mathématiques de l'Université de Rouen, France
-([details](https://rmr2025.sciencesconf.org/resource/page/id/1#:~:text=leurs%20propri%C3%A9t%C3%A9s%20asymptotiques.-,Matteo%20D%27Achille,-For%C3%AAts%20massiques%20%3A%20distribution){:target="_blank"})
-- WORDS 2025, Groningen, The Netherlands ([details](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"})
-- Les Probas du vendredi, LPSM, Sorbonne Université, Paris, France ([details](https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=Vendredi%2017%20janvier%202025){:target="_blank"})
-<!-- - Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil, France ([announcement](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})-->
-<!-- - Séminaire de Probabilités et Statistiques, LAREMA, Angers, France ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/#:~:text=2024%2011H00%2D12H00%20%3A-,MATTEO){:target="_blank"})-->
+
+
+05.05.2026 &#x2023; [Séminaire Probabilités-Statistiques](https://www.math.univ-paris13.fr/accueil/equipes/ps/seminaire-de-lequipe-ps/#:~:text=Toggle%20website%20search-,S%C3%A9minaire%20de%20l%E2%80%99%C3%A9quipe%20PS,-%3E){:target="_blank"}, LAGA, Université Sorbonne Paris-Nord, France <br/>
+20.11.2025 &#x2023; [Kirchhoff forests on graphs: recent developments](https://conferences.cirm-math.fr/3582.html#:~:text=Local%C2%A0limit%20of%20massive%20spanning%20forests%20on%20the%20complete%20graph){:target="_blank"}, CIRM Luminy, France <br/>
+07.04.2025 &#x2023; [WORDS 2025](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"}, Groningen, The Netherlands (online)
 {: style="font-size: 15px" }
 
-#### Gibbs measures
+#### Statistical mechanics
 {: .no_toc}
 
-- Conférence annuelle du GDR branchement, Orsay, France ([details](https://indico.math.cnrs.fr/event/12161/program){:target="_blank"})
-- Bernoulli-*ims*
-11th World Congress in Probability and Statistics, Bochum, Germany ([details](https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
-- Seminário de Probabilidade e Mecânica Estatística, IMPA, Brazil [[recording on <i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> ]](https://www.youtube.com/watch?v=cJNJ-oxsnJs){:target="_blank"}
-<!--- Séminaire de probabilité de Créteil, France ([announcement](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"})-->
-<!--- Franco-Dutch meeting Bézout-Eurandom, Institut Henri Poincaré, Paris, France-->
+26.05.2026 &#x2023; [ANR Thermogamas](https://www.math.u-bordeaux.fr/~pthieull/Recherche/Thermogamas/conference_02.html#:~:text=Speakers%3A-,Speaker,-%3A%20Matteo%20d%27Achille%20){:target="_blank"}, LORIA, Nancy, France <br/>
+29.11.2025 &#x2023; \\( M \cup \Phi \\) group internal seminar, KU Leuven, Belgium <br/>
+29.01.2025 &#x2023; [Conférence annuelle du GDR branchement](https://indico.math.cnrs.fr/event/12161/program){:target="_blank"}, LMO, Université Paris-Saclay, France
 {: style="font-size: 15px" }
 
 #### Random assignment problems and extensions
 {: .no_toc}
 
-<!--- Random Geometry-Géométrie Aléatoire, CIRM Luminy, France ([link](https://conferences.cirm-math.fr/3021.html#:~:text=des%20populations%20biparentales-,Matteo){:target="_blank"})-->
-- Optimal Transport and Uncertainty - 2nd Workshop, Naples, Italy ([link](https://sites.google.com/view/otau2/home?authuser=0#:~:text=Sapienza%20di%20Roma-,Matteo%20D%27Achille){:target="_blank"})
-- DYOGENE Seminar, INRIA Paris, France [[recording on canal-u.tv]](https://www.canal-u.tv/chaines/inria/dyogeneerc-nemo-2022-seminar-series/back-and-forth-between-the-beta-distribution-and){:target="_blank"}
-- Les Probas du vendredi, LPSM, Sorbonne Université, Paris, France ([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=16%2D26%20209-,Matteo%20D%27Achille,-(LAMA)%20ERAP){:target="_blank"})
-<!--- Optimal Transport and Uncertainty, Pisa, Italy  [[recording on <i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i>]](https://drive.google.com/file/d/10wfRI0MZS2UnDIAGcq3a9AQJT9DSQGwe/view){:target="_blank"}-->
-<!--- Eindhoven SPOR Seminar, EURANDOM, TU/e, The Netherlands ([announcement](https://www.eurandom.tue.nl/event/einidhoven-spor-seminar/){:target="_blank"})-->
+17.01.2023 &#x2023; [Random Geometry-Géométrie Aléatoire](https://conferences.cirm-math.fr/3021.html){:target="_blank"}, CIRM Luminy, France <br/>
+06.09.2022 &#x2023; [Optimal Transport and Uncertainty - 2nd Workshop](https://sites.google.com/view/otau2/home?authuser=0#:~:text=Sapienza%20di%20Roma-,Matteo%20D%27Achille){:target="_blank"}, Napoli, Italy <br/>
+18.02.2022 &#x2023; [Les Probas du vendredi](https://www.lpsm.paris/seminaires/probasduvendredi/index#b6-50:~:text=Matteo%20D%27Achille%20(LAMA)%20ERAP%20%3A%20du%20pont%20brownien%20%C3%A0%20la%20fonction%20%5Cvartheta_4%20de%20Jacobi){:target="_blank"}, LPSM, Sorbonne Université, Paris, France
 {: style="font-size: 15px" }
+
 <br/>
 
 ## All talks
@@ -110,136 +99,25 @@ Title: _TBA_
 (full list)
 {: style="font-size: 15px; margin-left: 0px" }
 
-
 #### 2026
 {: .no_toc}
 
-26.05 &#x2022; ANR Thermogamas, LORIA, Nancy, France, 50 min (<a href="https://www.math.u-bordeaux.fr/~pthieull/Recherche/Thermogamas/conference_02.html#:~:text=Speakers%3A-,Speaker,-%3A%20Matteo%20d%27Achille%20" target="_blank">link</a>)
-{: style="font-size: 16px" }
-
-
-18.05 &#x2022; Vienna Probability Seminar, ISTA, Klosterneuburg, Austria, 50 min (<a href="https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/vienna-probability-seminar/past-events/#c1092699:~:text=I01.01.008)%2C%20Central%20Building-,Matteo,-D%E2%80%99Achille%20(Universit%C3%A9%20de" target="_blank">link</a>)
-{: style="font-size: 16px" }
-
-05.05 &#x2022; Séminaire PS, LAGA, Université Sorbonne Paris-Nord, Villetaneuse, France, 60min (<a href="https://www.math.univ-paris13.fr/accueil/equipes/ps/seminaire-de-lequipe-ps/#:~:text=Toggle%20website%20search-,S%C3%A9minaire%20de%20l%E2%80%99%C3%A9quipe%20PS,-%3E" target="_blank">link</a>)
-{: style="font-size: 16px" }
-
-
-04.02 &#x2022; <i>StoKaChic: Mathematical haute joaillerie</i>, opening talk, IHES, France, 60min (<a href="https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY" target="_blank">link</a>)
-{: style="font-size: 16px" }
-
-29.01 &#x2022; GdT Probabilités et Statistique, Institut Élie Cartan de Lorraine, Metz, France, 60min
-([link](https://iecl.univ-lorraine.fr/events/foret-couvrante-massique-sur-le-graphe-complet-distribution-exacte-et-limite-locale/){:target="_blank"})
-{: style="font-size: 16px" }
-
-
-08.01 &#x2022; Séminaire Géométrie et Topologie, IMJ-PRG, Jussieu, Paris, France, 60min
-([link](https://www.imj-prg.fr/gestion/evenement/affSeance/10445#:~:text=Orateur(s)-,Matteo%20D%27Achille,-%2D%20%2C){:target="_blank"})
-{: style="font-size: 16px" }
-
-
+**11.06** &#x2023; <a href="https://probabilitypalermo2026.unipa.it/" target="_blank">The 5th Italian Meeting on Probability and Mathematical Statistics</a>, Palermo, Italy &#10072; **2.06** &#x2023; <a href="https://sites.google.com/view/christophthaele/teaching/graduate-seminar-probability-and-geometry#:~:text=The%20jewel%20and%20the%20two%20dials%20of%20the%20IPVT" target="_blank">Graduate Seminar Probability and Geometry</a>, Bochum, Germany &#10072; **26.05** &#x2023; <a href="https://www.math.u-bordeaux.fr/~pthieull/Recherche/Thermogamas/conference_02.html#:~:text=Speakers%3A-,Speaker,-%3A%20Matteo%20d%27Achille%20" target="_blank">ANR Thermogamas</a>, LORIA, Nancy, France &#10072; **18.05** &#x2023; <a href="https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/vienna-probability-seminar/past-events/#c1092699:~:text=I01.01.008)%2C%20Central%20Building-,Matteo,-D%E2%80%99Achille%20(Universit%C3%A9%20de" target="_blank">Vienna Probability Seminar</a>, ISTA, Klosterneuburg, Austria &#10072; **5.05** &#x2023; <a href="https://www.math.univ-paris13.fr/accueil/equipes/ps/seminaire-de-lequipe-ps/#:~:text=Toggle%20website%20search-,S%C3%A9minaire%20de%20l%E2%80%99%C3%A9quipe%20PS,-%3E" target="_blank">Séminaire Probabilités-Statistiques</a>, LAGA, Université Sorbonne Paris-Nord, Villetaneuse, France &#10072; **4.02** &#x2023; <a href="https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY" target="_blank">StoKaChic: Mathematical haute joaillerie</a>, opening talk, IHES, France &#10072; **29.01** &#x2023; <a href="https://iecl.univ-lorraine.fr/events/foret-couvrante-massique-sur-le-graphe-complet-distribution-exacte-et-limite-locale/" target="_blank">GdT Probabilités et Statistique</a>, Institut Élie Cartan de Lorraine, Metz, France &#10072; **8.01** &#x2023; <a href="https://www.imj-prg.fr/gestion/evenement/affSeance/10445#:~:text=Orateur(s)-,Matteo%20D%27Achille,-%2D%20%2C" target="_blank">Séminaire Géométrie et Topologie</a>, IMJ-PRG, Paris, France
+{: style="font-size: 14px; text-align: justify;"}
 
 
 #### 2025
 {: .no_toc}
 
-16.12 &#x2022; Conseil du pôle AM2I de l'Université de Lorraine, Metz, France, 15min
-{: style="font-size: 16px" }
-
-01.12 &#x2022; Séminaire commun de géométrie, Institut Élie Cartan de Lorraine, Nancy, France, 90min (45min + 45min)
-([link](https://iecl.univ-lorraine.fr/events/seminaire-commun-de-geometrie-32/){:target="_blank"})
-{: style="font-size: 16px" }
-
-21.11 &#x2022; Séminaire EDP, Analyse et Applications, Institut Élie Cartan de Lorraine, Metz, France, 60 min ([link](https://iecl.univ-lorraine.fr/events/seminaire_edp_metz_2025-11-21/){:target="_blank"})
-{: style="font-size: 16px" }
-
-
-
-20.11 &#x2022; \\( M \cup \Phi \\) group internal seminar, KU Leuven, Belgium, 60 min
-{: style="font-size: 16px" }
-
-11.11 &#x2022; Kirchhoff forests on graphs: recent developments, CIRM Luminy, France, 30 min ([link](https://conferences.cirm-math.fr/3582.html#:~:text=Local%C2%A0limit%20of%20massive%20spanning%20forests%20on%20the%20complete%20graph){:target="_blank"})
-{: style="font-size: 16px" }
-
-
-14.10 &#x2022; Journée de rentrée de l'Institut Élie Cartan de Lorraine, Nancy, France, 35 min
-([link](#){:target="_blank"})
-{: style="font-size: 16px" }
-
-
-02.10 &#x2022; Séminaire Probabilités et Statistique, Institut Élie Cartan de Lorraine, Nancy, France, 60 min
-([link](https://iecl.univ-lorraine.fr/events/matteo-dachille/){:target="_blank"})
-{: style="font-size: 16px" }
-
-26.09 &#x2022; YMCN autumn school: Probability and dynamics on groups, Münster, Germany, 60 min
-([link](https://www.uni-muenster.de/MathematicsMuenster/events/2025/probdyn-on-groups.shtml#:~:text=Inhyeok%20Choi-,Matteo%20D%27Achille,-Barbara%20Dembin){:target="_blank"})
-{: style="font-size: 16px" }
-
-20.06 &#x2022; Rencontres de Mathématiques de l'Université de Rouen, France, 45 min
-([link](https://rmr2025.sciencesconf.org/resource/page/id/1#:~:text=leurs%20propri%C3%A9t%C3%A9s%20asymptotiques.-,Matteo%20D%27Achille,-For%C3%AAts%20massiques%20%3A%20distribution){:target="_blank"})
-{: style="font-size: 16px" }
-
-07.04 &#x2022; WORDS 2025, Groningen, The Netherlands, 30 min (online)
-([link](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"})
-{: style="font-size: 16px" }
-
-29.01 &#x2022; Conférence annuelle du GDR branchement, Orsay, France, 45 min
-([link](https://indico.math.cnrs.fr/event/12161/program){:target="_blank"})
-{: style="font-size: 16px" }
-
-27.01 &#x2022; MathNet Seminar, INRIA-ENS, Paris, France, 60 min
-([link](https://team.inria.fr/mathnet/seminar/#:~:text=Minority%20Dynamics.-,27/01/2025){:target="_blank"})
-{: style="font-size: 16px" }
-
-17.01 &#x2022; Les Probas du vendredi, LPSM, Sorbonne Université, Paris, France, 60 min
-([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=Vendredi%2017%20janvier%202025){:target="_blank"})
-{: style="font-size: 16px" }
+**16.12** &#x2023; Conseil du pôle AM2I de l'Université de Lorraine, Metz, France &#10072; **1.12** &#x2023; <a href="https://iecl.univ-lorraine.fr/events/seminaire-commun-de-geometrie-32" target="_blank">Séminaire commun de géométrie</a>, Institut Élie Cartan de Lorraine, Nancy, France &#10072; **21.11** &#x2023; <a href="https://iecl.univ-lorraine.fr/events/seminaire_edp_metz_2025-11-21/" target="_blank">Séminaire EDP, Analyse et Applications</a>, Institut Élie Cartan de Lorraine, Metz, France &#10072; **20.11** &#x2023; \\( M \cup \Phi \\) group internal seminar, KU Leuven, Belgium &#10072; **11.11** &#x2023; <a href="https://conferences.cirm-math.fr/3582.html#:~:text=Local%C2%A0limit%20of%20massive%20spanning%20forests%20on%20the%20complete%20graph" target="_blank">Kirchhoff forests on graphs: recent developments</a>, CIRM Luminy, France &#10072; **14.10** &#x2023; Journée de rentrée de l'Institut Élie Cartan de Lorraine, Nancy, France &#10072; **2.10** &#x2023; <a href="https://iecl.univ-lorraine.fr/events/matteo-dachille" target="_blank">Séminaire Probabilités et Statistique</a>, Institut Élie Cartan de Lorraine, Nancy, France &#10072; **26.09** &#x2023; <a href="https://www.uni-muenster.de/MathematicsMuenster/events/2025/probdyn-on-groups.shtml#:~:text=Inhyeok%20Choi-,Matteo%20D%27Achille,-Barbara%20Dembin" target="_blank">YMCN autumn school: Probability and dynamics on groups</a>, Münster, Germany &#10072; **20.06** &#x2023; <a href="https://rmr2025.sciencesconf.org/resource/page/id/1#:~:text=leurs%20propri%C3%A9t%C3%A9s%20asymptotiques.-,Matteo%20D%27Achille,-For%C3%AAts%20massiques%20%3A%20distribution" target="_blank">Rencontres de Mathématiques de l'Université de Rouen</a>, Rouen, France &#10072; **7.04** &#x2023; <a href="https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc" target="_blank">WORDS 2025</a>, Groningen, The Netherlands (online) &#10072; **29.01** &#x2023; <a href="https://indico.math.cnrs.fr/event/12161/program" target="_blank">Conférence annuelle du GDR branchement</a>, Orsay, France &#10072; **27.01** &#x2023; <a href="https://team.inria.fr/mathnet/seminar/#:~:text=Minority%20Dynamics.-,27/01/2025" target="_blank">MathNet Seminar</a>, INRIA-ENS, Paris, France &#10072; **17.01** &#x2023; <a href="https://www.lpsm.paris/seminaires/probasduvendredi/index#:~:text=Vendredi%2017%20janvier%202025" target="_blank">Les Probas du vendredi</a>, LPSM, Sorbonne Université, Paris, France
+{: style="font-size: 14px; text-align: justify;"}
 
 
 #### 2024
 {: .no_toc}
 
-12.12 &#x2022; Séminaire de Proba. et Math. Fi., LaMME, Evry, France, 60 min
-([link](http://www.math-evry.cnrs.fr/evenements/seminaireproba-math-fi#:~:text=jeudi%2012%20d%C3%A9cembre%20%C3%A0%2015h15){:target="_blank"})
-{: style="font-size: 16px" }
-
-13.11 &#x2022; Probability Oberseminar, University of Münster, Germany, 60 min ([link](https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=10335&brettid=55#:~:text=Gaussian%20free%20field%20/-,Matteo%20D%27Achille){:target="_blank"})
-{: style="font-size: 16px" }
-
-14.08 &#x2022; Bernoulli-*ims*
-11th World Congress in Probability & Statistics, Bochum, Germany, 25 min ([details](https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques){:target="_blank"})
-{: style="font-size: 16px" }
-
-
-19.06 &#x2022; Stat-Mech in Créteil 2024-II : Random Systems, Université Paris-Est Créteil, 45 min ([link](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A){:target="_blank"})
-{: style="font-size: 16px" }
-
-<!--_Local limit of massive spanning forests on the complete graph_
-{: style="margin-left: 105px; margin-bottom:20px;" }
--->
-
-30.04 &#x2022; Séminaire CALIN, LIPN, Université Sorbonne Paris Nord, 60 min ([announcement](https://lipn.univ-paris13.fr/~banderier/Seminaires/resume.php?L=1639){:target="_blank"})
-{: style="font-size: 16px" }
-<!--
-_Les bijoux de la tessellation idéale de Poisson-Voronoï de l'espace hyperbolique_
-{: style="margin-left: 105px; margin-bottom:20px;" }
--->
-
-19.02 &#x2022; Séminaire de Probabilités et Statistiques, LAREMA, Angers, 60 min ([announcement](https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/){:target="_blank"})
-{: style="font-size: 16px" }
-
-<!--
-_Limites locales de la forêt massique sur le graphe complet_
-{: style="margin-left: 105px; margin-bottom:20px;" }
--->
-
-30.01 &#x2022; Séminaire de Probabilités, Institut Fourier, Grenoble, 60 min ([announcement](https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille){:target="_blank"})
-{: style="font-size: 16px" }
-
-<!--
-_Jewels in the ideal Poisson-Voronoi tessellation on hyperbolic space_
-{: style="margin-left: 105px; margin-bottom:20px;" }
--->
+ **12.12** &#x2023; <a href="http://www.math-evry.cnrs.fr/evenements/seminaireproba-math-fi#:~:text=jeudi%2012%20d%C3%A9cembre%20%C3%A0%2015h15" target="_blank">Séminaire de Proba. et Math. Fi.</a>, LaMME, Evry, France &#10072; **13.11** &#x2023; <a href="https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=10335&brettid=55#:~:text=Gaussian%20free%20field%20/-,Matteo%20D%27Achille" target="_blank">Probability Oberseminar</a>, University of Münster, Germany &#10072; **14.08** &#x2023; <a href="https://www.conftool.com/bernoulli-ims-worldcongress-2024/index.php?page=browseSessions&form_session=51&presentations=hide#:~:text=the%20hyperbolic%20plane-,Matteo%20D%27Achille,-Laboratoire%20de%20Math%C3%A9matiques" target="_blank">11th World Congress in Probability & Statistics</a>, Bochum, Germany &#10072; **19.06** &#x2023; <a href="https://lama-umr8050.fr/evenements/seminaire_de_probabilites_de_creteil/stat_mech_in_creteil_2024_ii_random_systems#:~:text=11h15%2D%2012h%20%3A%20Matteo%20D%E2%80%99Achille%20%3A" target="_blank">Stat-Mech in Créteil 2024-II : Random Systems</a>, Université Paris-Est Créteil, France &#10072; **30.04** &#x2023; <a href="https://lipn.univ-paris13.fr/~banderier/Seminaires/resume.php?L=1639" target="_blank">Séminaire CALIN</a>, LIPN, Université Sorbonne Paris Nord, France &#10072; **19.02** &#x2023; <a href="https://math.univ-angers.fr/seminaires/seminaire-de-probabilites-et-statistiques/" target="_blank">Séminaire de Probabilités et Statistiques</a>, LAREMA, Angers, France &#10072; **30.01** &#x2023; <a href="https://www-fourier.ujf-grenoble.fr/?q=fr/content/matteo-dachille" target="_blank">Séminaire de Probabilités</a>, Institut Fourier, Grenoble, France
+{: style="font-size: 14px; text-align: justify;"}
 
 
 
@@ -247,221 +125,36 @@ _Jewels in the ideal Poisson-Voronoi tessellation on hyperbolic space_
 #### 2023
 {: .no_toc}
 
-21.11 &#x2022; Séminaire Analyse-Probabilités, CEREMADE, Université Paris-Dauphine, 60 min ([link](https://www.ceremade.dauphine.fr/fr/actualites/detail-de-lactualite/article/seminaire-analyse-proba-matteo-dachille-mardi-21-novembre.html){:target="_blank"})
-{: style="font-size: 16px" }
+**21.11** &#x2023; <a href="https://www.ceremade.dauphine.fr/fr/actualites/detail-de-lactualite/article/seminaire-analyse-proba-matteo-dachille-mardi-21-novembre.html" target="_blank">Séminaire Analyse-Probabilités</a>, CEREMADE, Université Paris-Dauphine, Paris, France &#10072; **21.09** &#x2023; <a href="https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023" target="_blank">Rencontres de Probabilités 2023</a>, Université de Rouen, France &#10072; **20.09** &#x2023; <a href="https://www.youtube.com/watch?v=cJNJ-oxsnJs" target="_blank">Seminário de Probabilidade e Mecânica Estatística</a>,  IMPA, Brazil (online) &#10072; **28.06** &#x2023; <a href="https://indico.in2p3.fr/event/30166/" target="_blank">Journée Cartes</a>, IRIF, Université Paris-Cité, France &#10072; **13.06** &#x2023; <a href="https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/franco_dutch_workshop_stat_mech_in_creteil_2023" target="_blank">Franco-Dutch Workshop : Stat-Mech in Créteil 2023</a>, IRIF, Université Paris-Est Créteil, France &#10072; **24.01** &#x2023; Pizzama Seminar, LMO, Université Paris-Saclay, France &#10072; **17.01** &#x2023; <a href="https://conferences.cirm-math.fr/3021.html" target="_blank">Random Geometry-Géométrie Aléatoire</a>, CIRM Luminy, France
+{: style="font-size: 14px; text-align: justify;"}
 
-<!--
-Title: _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_
-{: style="margin-left: 105px" }
--->
-
-
-21.09 &#x2022; Rencontres de Probabilités 2023, Université de Rouen, France, 40 min ([link](https://lmrs.univ-rouen.fr/fr/content/rencontres-de-probabilites-2023){:target="_blank"})
-{: style="font-size: 16px" }
-
-<!--
-Title: _Ideal Poisson-Voronoi tessellations on hyperbolic spaces_ [ [slides] ]({{ site.baseurl }}downloads/Rencontres_de_Proba_final.pdf){:target="_blank"}
-{: style="margin-left: 105px" }-->
-
-
-20.09 &#x2022; Seminário de Probabilidade e Mecânica Estatística, IMPA, Brazil, 50 min (online) ([link](https://spmes.impa.br/){:target="_blank"}) [[<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]](https://www.youtube.com/watch?v=cJNJ-oxsnJs){:target="_blank"} <!--[ [slides] ]({{ site.baseurl }}downloads/JourneeCartesIRIF_28_06_2023_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-
-<!--
-Title: _Almost Gibbsian Measures on a Cayley Tree_ [[<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]](https://www.youtube.com/watch?v=cJNJ-oxsnJs){:target="_blank"} [ [slides] ]({{ site.baseurl }}downloads/SPMES_20_09_2023_final.pdf){:target="_blank"}
-{: style="margin-left: 105px" }-->
-
-28.06 &#x2022; Journée Cartes, IRIF, université Paris-Cité, 60 min ([link](https://indico.in2p3.fr/event/30166/){:target="_blank"})<!--
-[ [slides] ]({{ site.baseurl }}downloads/JourneeCartesIRIF_28_06_2023_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-
-
-13.06 &#x2022; Franco-Dutch Workshop : Stat-Mech in Créteil 2023, univ Paris-Est Créteil, 45 min ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/franco_dutch_workshop_stat_mech_in_creteil_2023){:target="_blank"})<!--
-[ [slides] ]({{ site.baseurl }}downloads/LocGloSpecCreteil13062023_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-
-
-24.01 &#x2022; Pizzama Seminar, LMO, université Paris-Saclay, 60 min ([link](https://conferences.cirm-math.fr/3021.html){:target="_blank"})
-{: style="font-size: 16px" }
-
-
-17.01 &#x2022; Random Geometry-Géométrie Aléatoire, CIRM Marseilles Luminy, 60 min ([link](https://conferences.cirm-math.fr/3021.html){:target="_blank"})  <!--[ [slides] ]({{ site.baseurl }}downloads/ERAP_CIRM_GA-RG_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
 
 #### 2022
 {: .no_toc}
 
-06.12 &#x2022; Séminaire de l'équipe probastat du LAGA, université Sorbonne Paris Nord, 50 min ([link](https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires){:target="_blank"})  <!--[ [slides] ]({{ site.baseurl }}downloads/LAGA_DecimationLongRange_v9_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-
-
-22.09 &#x2022; Journée de rentrée de l'équipe probastat du LMO, université Paris-Saclay, Orsay, 30 min
-{: style="font-size: 16px" }
-
-06.09 &#x2022; Optimal Transport and Uncertainty - 2nd Workshop, Naples, 50 min ([link](https://sites.google.com/view/otau2){:target="_blank"}) <!--[ [slides] ]({{ site.baseurl }}downloads/ERAP_OtaU2_Napoli_final.pdf){:target="_blank"} [ [photos] ](https://sites.google.com/view/otau2/photos){:target="_blank"}-->
-{: style="font-size: 16px" }
-
-
-<!--Title: _Lattice Helmholtz decomposition in a two-dimensional ERAP_. 50 min [ [slides] ]({{ site.baseurl }}downloads/ERAP_OtaU2_Napoli_final.pdf){:target="_blank"}
-{: style="margin-left: 40px" }
--->
-20.06 &#x2022; DYOGENE Seminar, INRIA, CNRS and ENS, Paris, 60 min ([link](https://www.di.ens.fr/dyogene/index.html){:target="_blank"}) [[video]](https://www.canal-u.tv/chaines/inria/dyogeneerc-nemo-2022-seminar-series/back-and-forth-between-the-beta-distribution-and){:target="_blank"} <!--[ [slides] ]({{ site.baseurl }}downloads/ERAP_INRIA_Paris_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-08.03 &#x2022; Séminaire de probabilité de Créteil, LAMA, UPEC, Créteil, FR, 60 min ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}) <!--[ [slides] ]({{ site.baseurl }}downloads/NonGibbs_Decimation_ParisEst_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-18.02 &#x2022; Séminaire &#171; Les Probas du vendredi &#187;, LPSM, Sorbonne Université, Paris, 60 min ([link](https://www.lpsm.paris/seminaires/probasduvendredi/index#b6-50:~:text=Matteo%20D%27Achille%20(LAMA)%20ERAP%20%3A%20du%20pont%20brownien%20%C3%A0%20la%20fonction%20%5Cvartheta_4%20de%20Jacobi){:target="_blank"})
-{: style="font-size: 16px" }
-
-#### 2021
-{: .no_toc}
-
-06.11 &#x2022; Optimal Transport and Uncertainty - 1st Workshop, Pisa, 45 min ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}) [[<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]](https://drive.google.com/file/d/10wfRI0MZS2UnDIAGcq3a9AQJT9DSQGwe/view){:target="_blank"} <!--[ [slides] ]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-14.09 &#x2022; Eindhoven SPOR Seminar, TU/e, Eindhoven, The Netherlands, 45 min ([link](https://www.eurandom.tue.nl/eindhoven-spor-seminar/){:target="_blank"}) <!--[[slides]]({{ site.baseurl }}events){:target="_blank"}-->
-{: style="font-size: 16px" }
-07.07 &#x2022; Franco-Dutch meeting, CNRS IRP &#171; Bézout-Eurandom &#187;, IHP, Paris, 40 min ([link](https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf){:target="_blank"}) <!--[ [slides] ]({{ site.baseurl }}downloads/ERAP_IHP_v18_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-25.06 &#x2022;  Journées de probabilités 2021, Guidel, FR, 40 min ([link](https://journees-probabilites.univ-rennes1.fr/programme.htm){:target="_blank"}) <!--[[slides]](https://journees-probabilites.univ-rennes1.fr/exposes/D%27Achille.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-24.06 &#x2022; I convention of SIFS, Parma, IT, online, 12 min + live Zoom session ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}) [[<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video]](https://www.youtube.com/watch?v=4RcOiW20C_E){:target="_blank"} <!--[[slides]]({{ site.baseurl }}downloads/ERAPs_Low_d_Weyl_SIFS_v8.pdf){:target="_blank"}-->
-{: style="font-size: 16px" }
-18.03 &#x2022; Alea Days 2021, CIRM Marseilles Luminy, FR, 20 min ([link](https://gt-alea.math.cnrs.fr/alea2021/){:target="_blank"}) <!--[ [slides] ]({{ site.baseurl }}downloads/ALEA2021_MZSVs_ERAP_final.pdf){:target="_blank"}-->
-{: style="font-size: 16px;" }
-19.02 &#x2022; Cristal Point Processes and Applications, Painlevé Laboratory, Lille, FR, 45 min ([link](http://seminaire.univ-lille1.fr/node/544){:target="_blank"}) <!--[ [slides] ]({{ site.baseurl }}downloads/erap22-Lille-finalv2.pdf){:target="_blank"}-->
-{: style="font-size: 16px;" }
-
-#### 2020
-{: .no_toc}
-
-10.11 &#x2022; Probability working group at LAMA, UPEC, Créteil, FR, 45 min ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"})<!-- [ [slides] ]({{ site.baseurl }}assets/slides_ERAP_fr_nov10.pdf){:target="_blank"}-->
-{: style="font-size: 16px;" }
-16.10 &#x2022; PhD Thesis defense, université Paris-Saclay (online), 45 min <!--[ [video] ](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} <!--[ [slides] ]({{ site.baseurl }}assets/slides_ERAP_1610.pdf){:target="_blank"}-->
-{: style="font-size: 16px;" }
-14.01 &#x2022; Seminar of CALIN Team at LIPN, université Sorbonne Paris Nord, Villetaneuse, FR, 45 min ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"})
-{: style="font-size: 16px;" }
-
-
-
-<!--
-
-20.06 &#x2022; DYOGENE Seminar, INRIA, CNRS and ENS, Paris ([link](https://www.di.ens.fr/dyogene/index.html){:target="_blank"}). 60 min
-{: style="font-size: 16px" }
-
-Title: _Back and forth between the beta distribution and edge stochastic domination in ERAPs_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_INRIA_Paris_final.pdf){:target="_blank"}
-{: style="font-size: 17px; margin-left: 40px" }
-
-
-08.03 &#x2022; Séminaire de probabilité de Créteil, LAMA, université Paris-Est Créteil, FR ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2){:target="_blank"}). 60 min
-{: style="font-size: 16px" }
-_Décimation dans les modèles d'Ising et \\( XY \\) à \\(d \leq 2\\)_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/NonGibbs_Decimation_ParisEst_final.pdf){:target="_blank"}
-{: style="font-size: 17px; margin-left: 40px" }
-
-
-18.02 - Les probas du vendredi, LPSM, Sorbonne Université, Paris ([link](https://www.lpsm.paris/agenda/seminaires-gdt/les-probas-du-vendredi/matte-dachille-erap-du-pont-brownien-%C3%A0-la-fonction-theta_4-de-jacobi/){:target="_blank"}). 60 min
-{: style="font-size: 16px" }
-_ERAP : du pont brownien à la fonction \\(\vartheta_4\\) de Jacobi_
-{: style="font-size: 17px; margin-left: 40px" }
+**6.12** &#x2023; <a href="https://www.math.univ-paris13.fr/laga/index.php/fr/ps/seminaires" target="_blank">Séminaire de l'équipe probastat</a>, LAGA, Université Sorbonne Paris Nord &#10072; **22.09** &#x2023; Journée de rentrée de l'équipe probastat, LMO, Université Paris-Saclay, France &#10072; **6.09** &#x2023; <a href="https://sites.google.com/view/otau2" target="_blank">Optimal Transport and Uncertainty - 2nd Workshop</a>, Napoli, Italy &#10072; **20.06** &#x2023; <a href="https://www.canal-u.tv/chaines/inria/dyogeneerc-nemo-2022-seminar-series/back-and-forth-between-the-beta-distribution-and" target="_blank">DYOGENE Seminar</a>, INRIA, CNRS and ENS, Paris, France &#10072; **8.03** &#x2023; <a href="https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/decimation_dans_les_modeles_dising_et_xy_a_d_2" target="_blank">Séminaire de probabilité de Créteil</a>, Université Paris-Est Créteil, France &#10072; **18.02** &#x2023; <a href="https://www.lpsm.paris/seminaires/probasduvendredi/index#b6-50:~:text=Matteo%20D%27Achille%20(LAMA)%20ERAP%20%3A%20du%20pont%20brownien%20%C3%A0%20la%20fonction%20%5Cvartheta_4%20de%20Jacobi" target="_blank">Séminaire &#171; Les Probas du vendredi &#187;</a>, LPSM, Sorbonne Université, Paris, France
+{: style="font-size: 14px; text-align: justify;"}
 
 
 #### 2021
 {: .no_toc}
 
-26.11 &#x2022; Optimal Transport and Uncertainty, Pisa, IT, ([link](https://indico.cs.dm.unipi.it/event/12/){:target="_blank"}). 45 min
-{: style="font-size: 16px" }
-_Euclidean Random Assignment Problems, old and new_, [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://drive.google.com/file/d/10wfRI0MZS2UnDIAGcq3a9AQJT9DSQGwe/view){:target="_blank"}, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_OTU_Pisa_v8_final.pdf){:target="_blank"}
-{: style="font-size: 17px; margin-left: 40px" }
-
-14.09 &#x2022; Eindhoven SPOR Seminar, TU/e, Eindhoven, NL, ([link](https://www.eurandom.tue.nl/eindhoven-spor-seminar/){:target="_blank"}). 45 min
-{: style="font-size: 16px" }
-_One dimensional ERAPs: anomalous scaling and critical hyperbolae_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}events){:target="_blank"}
-{: style="font-size: 17px; margin-left: 40px" }
-
-
-07.07 &#x2022; Franco-Dutch meeting, CNRS IRP "Bézout-Eurandom", [Institut Henri Poincaré](http://www.ihp.fr/){:target="_blank"}, Paris ([link](https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf){:target="_blank"}). 40 min
-{: style="font-size: 16px" }
-_On the phase diagram of Euclidean Random Assignment Problems at low dimensions_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAP_IHP_v18_final.pdf){:target="_blank"}
-{: style="font-size: 17px; margin-left: 40px" }
-
-25.06 &#x2022;  Journées de probabilités 2021, Guidel, FR, ([link](https://journees-probabilites.univ-rennes1.fr/programme.htm){:target="_blank"}). 40 min
-{: style="font-size: 16px" }
-_Euclidean Random Assignment Problems: origin, state of the art and some open problems in one dimension_, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://journees-probabilites.univ-rennes1.fr/exposes/D%27Achille.pdf){:target="_blank"}
-{: style="font-size: 17px; margin-left: 40px" }
-
-
-24.06 &#x2022; I convention of SIFS, Parma, IT, ([link](http://www.fisicastatistica.unipr.it/conf/PARMA2021/welcome.php){:target="_blank"}). 12 min + live Zoom session
-{: style="font-size: 16px" }
-_Consequences of Weyl's law in low-dimensional Euclidean Random Assignment Problems_ <br/> [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=4RcOiW20C_E){:target="_blank"}, [slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/ERAPs_Low_d_Weyl_SIFS_v8.pdf){:target="_blank"}
-{: style="font-size: 17px; margin-left: 40px" }
-
-18.03 &#x2022; Alea Days 2021, Centre International de Rencontres Mathématiques - Marseilles Luminy, ([link](https://gt-alea.math.cnrs.fr/alea2021/){:target="_blank"}) 20 min
-{: style="font-size: 16px;" }
-_Multiple \\(\zeta^*\\) values in the one dimensional ERAP with stretched-exponentially distributed points_<br/> <a href="{{  site.baseurl }}downloads/ALEA2021_MZSVs_ERAP_final.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-{: style="font-size: 17px; margin-left: 40px" }
-
-
-19.02 &#x2022; Cristal Point Processes and Applications, Painlevé Laboratory, université de Lille, ([link](http://seminaire.univ-lille1.fr/node/544){:target="_blank"}), 45 min
-{: style="font-size: 16px;" }
-_Différences d'énergie asymptotique dans l'ERAP sur des variétés bidimensionnelles_, <a href="{{  site.baseurl }}downloads/erap22-Lille-finalv2.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-{: style="font-size: 17px; margin-left: 40px" }
-
+**6.11** &#x2023; <a href="https://indico.cs.dm.unipi.it/event/12/" target="_blank">Optimal Transport and Uncertainty - 1st Workshop</a>, Pisa, Italy &#10072; **14.09** &#x2023; <a href="https://www.eurandom.tue.nl/eindhoven-spor-seminar/" target="_blank">Eindhoven SPOR Seminar</a>, TU/e, Eindhoven, The Netherlands &#10072; **7.07** &#x2023; <a href="https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf" target="_blank">Franco-Dutch meeting</a>, CNRS IRP &#171; Bézout-Eurandom &#187;, Institut Henri Poincaré, Paris, France &#10072; **25.06** &#x2023; <a href="https://journees-probabilites.univ-rennes1.fr/programme.htm" target="_blank">Journées de probabilités 2021</a>, Guidel Plages, France &#10072; **24.06** &#x2023; <a href="https://www.youtube.com/watch?v=4RcOiW20C_E" target="_blank">I convention of SIFS</a>, Parma, Italy &#10072; **18.03** &#x2023; <a href="https://gt-alea.math.cnrs.fr/alea2021/" target="_blank">Alea Days 2021</a>, CIRM Luminy, France &#10072; **19.02** &#x2023; <a href="http://seminaire.univ-lille1.fr/node/544" target="_blank">Cristal Point Processes and Applications</a>, Painlevé Laboratory, France
+{: style="font-size: 14px; text-align: justify;"}
 
 
 #### 2020
 {: .no_toc}
 
-10.11 &#x2022; Probability working group at LAMA, université Paris-Est Créteil, ([link](https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne){:target="_blank"}). 45 min
-{: style="font-size: 16px;" }
-_Le problème d'assignation aléatoire euclidienne: état de l'art et quelques problèmes ouverts en dimension \\(d \leq 2 \\)_, <a href="{{  site.baseurl }}assets/slides_ERAP_fr_nov10.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-{: style="font-size: 17px; margin-left: 40px" }
-
-16.10 &#x2022; PhD thesis defense, université Paris-Saclay. 45 min
-{: style="font-size: 16px;" }
-_Statistical properties of the Euclidean random assignment problem_, ([video](https://eu.bbcollab.com/recording/e2afdc2198204451bd3bf8c7de4f1ec7){:target="_blank"} + <a href="{{  site.baseurl }}assets/slides_ERAP_1610.pdf" target="\_blank">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>)
-{: style="font-size: 17px; margin-left: 40px" }
+**10.11** &#x2023; <a href="https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne" target="_blank">Probability working group</a>, LAMA, Université Paris-Est Créteil, France &#10072; **16.10** &#x2023; <a href="https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites/le_probleme_dassignation_aleatoire_euclidienne" target="_blank">PhD Thesis defense</a>, Université Paris-Saclay, France (online) &#10072; **14.01** &#x2023; <a href="https://lipn.univ-paris13.fr/~banderier/Seminaires/" target="_blank">Séminaire CALIN</a>, LIPN, Université Sorbonne Paris Nord, Villetaneuse, France
+{: style="font-size: 14px; text-align: justify;"}
 
 
-14.01 &#x2022; Seminar of CALIN Team at LIPN, université Sorbonne Paris Nord, ([link](https://lipn.univ-paris13.fr/~banderier/Seminaires/){:target="_blank"}). 45 min
-{: style="font-size: 16px;" }
-_Le problème d'assignation aléatoire euclidienne: état de l'art et quelques résultats récents en dimension \\(d=1\\)_
-{: style="font-size: 17px; margin-left: 40px" }
-
--->
 <br/>
 
-<!--
-### Selected talks by co-authors
-{: .no_toc}
-
-#### Ideal Poisson-Voronoi tessellations
-
-- Nicolas Curien - [IHES 2023](https://indico.math.cnrs.fr/event/10459/){:target="_blank"}, [University of Texas Groups & Dynamics 2023](https://youtu.be/37piBwEasv4?feature=shared){:target="_blank"}
-{: style="font-size: 18px;" }
-
-- Russell Lyons - [10th Billingsley Lecture in Probability, The University of Chicago 2023](https://d3qi0qp55mx5f5.cloudfront.net/stat/docs/Billingsley/2023/Billingsley_Poster_2023.pdf?mtime=1682694311){:target="_blank"}
-{: style="font-size: 18px;" }
-
-#### Random assignment problems
-
-- Sergio Caracciolo - [Workshop in honour of Giorgio Parisi's 70th birthday, Rome 2018](https://youtu.be/96Id2gkbkU0?feature=shared){:target="_blank"}
-{: style="font-size: 18px;" }
-
-<br/>
--->
 ## Selected outreach communications
 
-04.12.2025 &#x2022; _StoKaChic: haute bijouterie mathématique_, vernissage, Institut de Mathématiques d'Orsay
- &#x2023; [university press release](https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-mathematiques/mediation-et-actualites-graduate-school-mathematiques/poly-math-cycle-devenements-pour-des-maths-autrement#:~:text=StoKaChic%20%3A%20exposition%20et%20vernissage%20le%204%20d%C3%A9cembre%202025){:target="_blank"}
- {: style="font-size: 16px; " }
-
-
-14.04.2021 &#x2022; _Meaning of vaccine efficacy_, Radio Monte Carlo Doualiya, Paris &#x2023; [podcast](https://mc-d.co/1b5W){:target="_blank"} (in French with Arabic voice-over)
- {: style="font-size: 16px; " }
-
-26.04.2015 &#x2022; _History of special relativity: 1862-1913_, with C.Bressan and F.Paleari, Monza, Italy. &#x2023; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=Bzh4Rb6NP68){:target="_blank"} (in Italian)
-{: style="font-size: 16px; " }
-
-22.03.2015 &#x2022; _On the role of Symmetry in Physics_, Monza, Italy &#x2023; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=mQvotum0OHc){:target="_blank"} (in Italian)
-  {: style="font-size: 16px; " }
-
-
- <br/>
+04.12.2025 &#x2023; _StoKaChic: haute bijouterie mathématique_, vernissage, Institut de Mathématiques d'Orsay, Université Paris-Saclay, France
+ &#x2022; [university press release](https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-mathematiques/mediation-et-actualites-graduate-school-mathematiques/poly-math-cycle-devenements-pour-des-maths-autrement#:~:text=StoKaChic%20%3A%20exposition%20et%20vernissage%20le%204%20d%C3%A9cembre%202025){:target="_blank"} <br/>
+ 14.04.2021 &#x2023; _Meaning of vaccine efficacy_, Café Show, Radio Monte Carlo Doualiya, Paris &#x2022; [podcast](https://mc-d.co/1b5W){:target="_blank"} (in French with Arabic voice-over) <br/> 26.04.2015 &#x2023; _History of special relativity: 1862-1913_, with C.Bressan and F.Paleari, Monza, Italy. &#x2022; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=Bzh4Rb6NP68){:target="_blank"} (in Italian) <br/> 22.03.2015 &#x2023; _On the role of Symmetry in Physics_, Monza, Italy &#x2022; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=mQvotum0OHc){:target="_blank"} (in Italian)
+{: style="font-size: 14px; text-align: justify;"}
