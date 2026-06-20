@@ -1,17 +1,13 @@
 ---
 layout: page
-title: Events
-order: 6
+title: Organization
+order: 3
 ---
 
 <!--
 * TOC
 {:toc}
 -->
-<br/>
-## (Co-)Organization
-
-<br/>
 
 ### Recurring seminars or conferences
 {: .no_toc}
@@ -57,8 +53,6 @@ _28.09.2023 - 31.08.2025_ &#x2023; [**SuPerGRandMa Weekly Seminar**](https://www
 {: style="font-size: 18px; margin-left: 180px" }
 
 
-<br/>
-
 ### Conferences
 <br/>
 
@@ -88,6 +82,9 @@ _17.10-19.10.2022_ &#x2022; [**The many facets of Statistical Field Theory**](ht
 <br/>
 
 ## Where and when we might have met
+
+(It has become difficult to keep this list up to date ... hopefully, it will be updated soon.)
+  {: style="font-size: 13px; margin-left: 0px" }
 
 #### 2025
 

@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Gallery
-order: 3
+order: 7
 ---
 <br/>
-Here are some visuals from my past or current research.
-<br/>
-<br/>
+Visuals from my past or current research.
+{: style="font-size: 15px; margin-left: 0px" }
 
 <table>
   <tr>

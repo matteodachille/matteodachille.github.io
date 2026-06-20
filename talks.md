@@ -16,88 +16,12 @@ Below you will find lists of:
 {:toc}
 {: style="font-size: 18px" }
 
-<!--
-## Upcoming talks
-<br/>
 
-
-<!--
-24.06.2025 &#x2023; YEP XX, Eindhoven, NL ([link](){:target="_blank"})<br/>
-
--->
-<!--
-Title: _TBA_
-{: style="margin-left: 110px; margin-bottom:20px;" }
-
-03.04.2025 &#x2023; Applied Mathematics Seminar, Utrecht, NL ([link](https://utrechtgeometrycentre.nl/calendar/#:~:text=Applied%20mathematics%20seminar%20Matteo%20d%27Achille%20(U%20Paris%20Saclay)){:target="_blank"})<br/>
-
-<!--Title: _TBA_
-{: style="margin-left: 110px; margin-bottom:20px;" }
-
-17.01.2025 &#x2023; Les Probas du vendredi, LPSM, Sorbonne Université, France ([link](){:target="_blank"})<br/>
-
-<!--Title: _TBA_
-{: style="margin-left: 110px; margin-bottom:20px;" }
-
-12.12.2024 &#x2023; LaMMe Seminar, Evry, FR ([link](){:target="_blank"})<br/>
-
-<!--Title: _TBA_
-{: style="margin-left: 110px; margin-bottom:20px;" }
-
-
-
-
-
-
-
-
-<br/>
--->
-
-## Three recent talks by topic
-
-
-#### Ideal Poisson--Voronoi tessellations
-{: .no_toc}
-
-18.05.2026 &#x2023; [Vienna Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/vienna-probability-seminar/nachrichtenvolldarstellung-vps/news/the-jewel-and-the-two-dials-of-the-ideal-poisson-voronoi-tessellation/?no_cache=1&cHash=60d25806b61baa46682de0665972f953){:target="_blank"}, ISTA, Klosterneuburg, Austria <br/>
-04.02.2026 &#x2023; [StoKaChic: Mathematical haute joaillerie](https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY){:target="_blank"}, IHES, Bures-sur-Yvette, France <br/>
-08.01.2026 &#x2023; [Séminaire Géométrie et Topologie](https://www.imj-prg.fr/gestion/evenement/affSeance/10445#:~:text=Orateur(s)-,Matteo%20D%27Achille,-%2D%20%2C){:target="_blank"}, IMJ-PRG, Paris, France
-{: style="font-size: 15px" }
-
-
-#### Massive spanning forests
-{: .no_toc}
-
-
-
-05.05.2026 &#x2023; [Séminaire Probabilités-Statistiques](https://www.math.univ-paris13.fr/accueil/equipes/ps/seminaire-de-lequipe-ps/#:~:text=Toggle%20website%20search-,S%C3%A9minaire%20de%20l%E2%80%99%C3%A9quipe%20PS,-%3E){:target="_blank"}, LAGA, Université Sorbonne Paris-Nord, France <br/>
-20.11.2025 &#x2023; [Kirchhoff forests on graphs: recent developments](https://conferences.cirm-math.fr/3582.html#:~:text=Local%C2%A0limit%20of%20massive%20spanning%20forests%20on%20the%20complete%20graph){:target="_blank"}, CIRM Luminy, France <br/>
-07.04.2025 &#x2023; [WORDS 2025](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"}, Groningen, The Netherlands (online)
-{: style="font-size: 15px" }
-
-#### Statistical mechanics
-{: .no_toc}
-
-26.05.2026 &#x2023; [ANR Thermogamas](https://www.math.u-bordeaux.fr/~pthieull/Recherche/Thermogamas/conference_02.html#:~:text=Speakers%3A-,Speaker,-%3A%20Matteo%20d%27Achille%20){:target="_blank"}, LORIA, Nancy, France <br/>
-29.11.2025 &#x2023; \\( M \cup \Phi \\) group internal seminar, KU Leuven, Belgium <br/>
-29.01.2025 &#x2023; [Conférence annuelle du GDR branchement](https://indico.math.cnrs.fr/event/12161/program){:target="_blank"}, LMO, Université Paris-Saclay, France
-{: style="font-size: 15px" }
-
-#### Random assignment problems and extensions
-{: .no_toc}
-
-17.01.2023 &#x2023; [Random Geometry-Géométrie Aléatoire](https://conferences.cirm-math.fr/3021.html){:target="_blank"}, CIRM Luminy, France <br/>
-06.09.2022 &#x2023; [Optimal Transport and Uncertainty - 2nd Workshop](https://sites.google.com/view/otau2/home?authuser=0#:~:text=Sapienza%20di%20Roma-,Matteo%20D%27Achille){:target="_blank"}, Napoli, Italy <br/>
-18.02.2022 &#x2023; [Les Probas du vendredi](https://www.lpsm.paris/seminaires/probasduvendredi/index#b6-50:~:text=Matteo%20D%27Achille%20(LAMA)%20ERAP%20%3A%20du%20pont%20brownien%20%C3%A0%20la%20fonction%20%5Cvartheta_4%20de%20Jacobi){:target="_blank"}, LPSM, Sorbonne Université, Paris, France
-{: style="font-size: 15px" }
-
-<br/>
 
 ## All talks
 
-(full list)
-{: style="font-size: 15px; margin-left: 0px" }
+(full list in reverse chronological order)
+{: style="font-size: 13px; margin-left: 0px" }
 
 #### 2026
 {: .no_toc}
@@ -151,6 +75,47 @@ Title: _TBA_
 
 
 <br/>
+
+## Three recent talks by topic
+
+
+#### Ideal Poisson--Voronoi tessellations
+{: .no_toc}
+
+18.05.2026 &#x2023; [Vienna Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/vienna-probability-seminar/nachrichtenvolldarstellung-vps/news/the-jewel-and-the-two-dials-of-the-ideal-poisson-voronoi-tessellation/?no_cache=1&cHash=60d25806b61baa46682de0665972f953){:target="_blank"}, ISTA, Klosterneuburg, Austria <br/>
+04.02.2026 &#x2023; [StoKaChic: Mathematical haute joaillerie](https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY){:target="_blank"}, IHES, Bures-sur-Yvette, France <br/>
+08.01.2026 &#x2023; [Séminaire Géométrie et Topologie](https://www.imj-prg.fr/gestion/evenement/affSeance/10445#:~:text=Orateur(s)-,Matteo%20D%27Achille,-%2D%20%2C){:target="_blank"}, IMJ-PRG, Paris, France
+{: style="font-size: 15px" }
+
+
+#### Massive spanning forests
+{: .no_toc}
+
+
+
+05.05.2026 &#x2023; [Séminaire Probabilités-Statistiques](https://www.math.univ-paris13.fr/accueil/equipes/ps/seminaire-de-lequipe-ps/#:~:text=Toggle%20website%20search-,S%C3%A9minaire%20de%20l%E2%80%99%C3%A9quipe%20PS,-%3E){:target="_blank"}, LAGA, Université Sorbonne Paris-Nord, France <br/>
+20.11.2025 &#x2023; [Kirchhoff forests on graphs: recent developments](https://conferences.cirm-math.fr/3582.html#:~:text=Local%C2%A0limit%20of%20massive%20spanning%20forests%20on%20the%20complete%20graph){:target="_blank"}, CIRM Luminy, France <br/>
+07.04.2025 &#x2023; [WORDS 2025](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"}, Groningen, The Netherlands (online)
+{: style="font-size: 15px" }
+
+#### Statistical mechanics
+{: .no_toc}
+
+26.05.2026 &#x2023; [ANR Thermogamas](https://www.math.u-bordeaux.fr/~pthieull/Recherche/Thermogamas/conference_02.html#:~:text=Speakers%3A-,Speaker,-%3A%20Matteo%20d%27Achille%20){:target="_blank"}, LORIA, Nancy, France <br/>
+29.11.2025 &#x2023; \\( M \cup \Phi \\) group internal seminar, KU Leuven, Belgium <br/>
+29.01.2025 &#x2023; [Conférence annuelle du GDR branchement](https://indico.math.cnrs.fr/event/12161/program){:target="_blank"}, LMO, Université Paris-Saclay, France
+{: style="font-size: 15px" }
+
+#### Random assignment problems and extensions
+{: .no_toc}
+
+17.01.2023 &#x2023; [Random Geometry-Géométrie Aléatoire](https://conferences.cirm-math.fr/3021.html){:target="_blank"}, CIRM Luminy, France <br/>
+06.09.2022 &#x2023; [Optimal Transport and Uncertainty - 2nd Workshop](https://sites.google.com/view/otau2/home?authuser=0#:~:text=Sapienza%20di%20Roma-,Matteo%20D%27Achille){:target="_blank"}, Napoli, Italy <br/>
+18.02.2022 &#x2023; [Les Probas du vendredi](https://www.lpsm.paris/seminaires/probasduvendredi/index#b6-50:~:text=Matteo%20D%27Achille%20(LAMA)%20ERAP%20%3A%20du%20pont%20brownien%20%C3%A0%20la%20fonction%20%5Cvartheta_4%20de%20Jacobi){:target="_blank"}, LPSM, Sorbonne Université, Paris, France
+{: style="font-size: 15px" }
+
+<br/>
+
 
 ## Selected outreach communications
 

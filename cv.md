@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-order: 7
+order: 6
 ---
 <!--- TOC
 {:toc}-->

@@ -6,8 +6,8 @@ order: 4
 
   <br/>
 I have/had the pleasure of supervising the following **18** students:
-  {: style="font-size: 18px" }
-  <br/>
+  {: style="font-size: 15px; margin-left: 0px" }
+
 ### M2 research internship
 
 <!--
@@ -19,17 +19,17 @@ Achim Schlather, ongoing (co-supervision with J. Levillain and P. Moyal) <br/>
  _TBA_ <br/>
 M2 Master’s programme for Mathematics, Friedrich Schiller University Jena, Germany
  {: style="font-size: 16px" }
- Stage supported by a grant from the [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (8.04.2026 - current).
+ Stage supported by a grant from [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (8.04.2026 - current).
  {: style="font-size: 12px; margin-top: -15px;" }
 
 
 
  Thomas Quarck, 08.10.2025 (co-supervision with J. Levillain) <br/>
   _Random assignment problems for satellite data
-acquisition_ <br/>
+acquisition_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/Quarck.pdf){:target="_blank"}<br/>
   M2 Mathématiques et Applications, Probabilités et Modèles Aléatoires, Sorbonne Université
   {: style="font-size: 16px" }
-  Stage supported by a grant from the [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (7.04.2025 - 7.10.2025). Now at
+  Stage supported by a grant from [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (7.04.2025 - 7.10.2025). Now at
   {: style="font-size: 12px; margin-top: -15px;" }
 
 
@@ -37,7 +37,7 @@ acquisition_ <br/>
   _Comparison of different Euclidean Random Assignment Problems_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/Liu.pdf){:target="_blank"}<br/>
   M2 Mathématiques et Applications, université Paris-Est Créteil
   {: style="font-size: 16px" }
-  Stage supported by a stipend from UPEC (11.04.2022 - 11.07.2022). Now at Ping An Life Insurance Company of China, Shenzhen
+  Stage supported by a stipend from UPEC (11.04.2022 - 11.07.2022). Now at Ping An Life Insurance Company, Shenzhen, China
   {: style="font-size: 12px; margin-top: -15px;" }
 
   <br/>
@@ -67,11 +67,15 @@ Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <
   _Study of the local limit of massive spanning forests on \\(K_n\\)_ <br/>
    M1 parcours Jacques Hadamard, Orsay, université Paris-Saclay
   {: style="font-size: 16px" }
+  Now Master student at University of Pisa, Italy
+  {: style="font-size: 12px; margin-top: -15px;" }
 
  Zhuowei Yao, 09.07.2024  <br/>
   _Étude de la perturbation diagonale des zéros de Yang-Lee de la matrice \\( J_n \\)_ <br/>
   M1 Mathématiques fondamentales, Orsay, université Paris-Saclay
   {: style="font-size: 16px" }
+  Now PhD student at I2M, Aix-Marseillle Université, France
+ {: style="font-size: 12px; margin-top: -15px;" }
 
 
  Mouad Haï, Yilun Li, 19.05.2022 <br/>
@@ -101,6 +105,8 @@ Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <
 
 
  Mathys Brugier, Tony Hajjar, Théotime Niault, Simon Objois, Adam R., 16.05.2024 <br/>
-  _Répulsion de zéros de Yang-Lee aléatoires_<br/>
+  _Répulsion de zéros de Yang-Lee aléatoires_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/BrujerHajjarNiaultObjoisRozentalis.pdf){:target="_blank"}<br/>
   L3 Double Diplôme Magistère, Orsay, université Paris-Saclay
   {: style="font-size: 16px" }
+  Now: unknown (MB); Stagiaire at LMO, Université Paris-Saclay, France (TH) ; intern at PLATON team, INRIA-Saclay/École polytechnique, Palaiseau, France (TN) ; M2 student Mag Maths Fonda, Université Paris-Saclay, France (SO) ; unknown (AR)
+ {: style="font-size: 12px; margin-top: -15px;" }
