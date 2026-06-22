@@ -29,13 +29,13 @@ M2 Master’s programme for Mathematics, Friedrich Schiller University Jena, Ger
 acquisition_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/Quarck.pdf){:target="_blank"}<br/>
   M2 Mathématiques et Applications, Probabilités et Modèles Aléatoires, Sorbonne Université
   {: style="font-size: 16px" }
-  Stage supported by a grant from [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (7.04.2025 - 7.10.2025). Now at
+  Stage supported by a grant from [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (7.04.2025 - 7.10.2025). Now at unknown
   {: style="font-size: 12px; margin-top: -15px;" }
 
 
  Yuqi Liu, 02.09.2022 <br/>
   _Comparison of different Euclidean Random Assignment Problems_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/Liu.pdf){:target="_blank"}<br/>
-  M2 Mathématiques et Applications, université Paris-Est Créteil
+  M2 Mathématiques et Applications, Université Paris-Est Créteil
   {: style="font-size: 16px" }
   Stage supported by a stipend from UPEC (11.04.2022 - 11.07.2022). Now at Ping An Life Insurance Company, Shenzhen, China
   {: style="font-size: 12px; margin-top: -15px;" }
@@ -48,31 +48,33 @@ acquisition_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.bas
 
 {: .no_toc}
 
-Marie-Carmel Chompret, ongoing (co-supervision with T. Wurzbacher) <br/>
-  _TBA_ <br/>
-  M1 Mathématiques et Applications, UFR MIM, Metz, Université de Lorraine
+Marie-Carmel Chompret, 22.06.2026 (co-supervision with T. Wurzbacher) <br/>
+  _Combien de feuilles sont contenues dans un arbre couvrant uniforme d’un graphe complet à n sommets ?_ <br/>
+  M1 Mathématiques et Applications, UFR MIM, Université de Lorraine, Metz
   {: style="font-size: 16px" }
 
-Firouz Hajji, ongoing  <br/>
-  _TBA_ <br/>
-  M1 Mathématiques et Applications, UFR MIM, Metz, Université de Lorraine
+Firouz Hajji, 22.06.2026  <br/>
+  _Statistique d’ordre_ <br/>
+  M1 Mathématiques et Applications, UFR MIM,  Université de Lorraine, Metz
   {: style="font-size: 16px" }
 
 Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <br/>
   _Matching de nuages de points aléatoires : étude combinatoire, probabiliste et informationnelle_ <br/>
-   M1 Mathématiques fondamentales, Orsay, université Paris-Saclay
+   M1 Mathématiques fondamentales, Université Paris-Saclay, Orsay
   {: style="font-size: 16px" }
+  Now unknown (JC) and Stagiaire at FAST, Université Paris-Saclay, Orsay, France (TS)
+  {: style="font-size: 12px; margin-top: -15px;" }
 
  Marino Azzola, 10.07.2024 <br/>
   _Study of the local limit of massive spanning forests on \\(K_n\\)_ <br/>
-   M1 parcours Jacques Hadamard, Orsay, université Paris-Saclay
+   M1 parcours Jacques Hadamard, Université Paris-Saclay, Orsay
   {: style="font-size: 16px" }
   Now Master student at University of Pisa, Italy
   {: style="font-size: 12px; margin-top: -15px;" }
 
  Zhuowei Yao, 09.07.2024  <br/>
   _Étude de la perturbation diagonale des zéros de Yang-Lee de la matrice \\( J_n \\)_ <br/>
-  M1 Mathématiques fondamentales, Orsay, université Paris-Saclay
+  M1 Mathématiques fondamentales, Université Paris-Saclay, Orsay
   {: style="font-size: 16px" }
   Now PhD student at I2M, Aix-Marseillle Université, France
  {: style="font-size: 12px; margin-top: -15px;" }
@@ -80,8 +82,10 @@ Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <
 
  Mouad Haï, Yilun Li, 19.05.2022 <br/>
   _Équations de Mathieu et ERAPs sur des domaines elliptiques à \\(p = 2\\)_ <br/>
-  M1 Mathématiques et Applications, université Paris-Est Créteil <br/>
+  M1 Mathématiques et Applications, Université Paris-Est Créteil <br/>
   {: style="font-size: 16px" }
+  Now Data Scientist at Capgemini Engineering, Voujeaucourt, France (MH) and unknown (YL)
+ {: style="font-size: 12px; margin-top: -15px;" }
 
 
  Yuqi Liu, 17.05.2021 <br/>
@@ -93,6 +97,8 @@ Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <
     _Universalité dans le problème d’assignation aléatoire euclidienne en dimension \\(1\\)_ <br/>
     M1 Mathématiques et Applications, université Paris-Est Créteil
   {: style="font-size: 16px" }
+  Now Data Scientist at La Banque Postale, Gennevilliers, France (MMB) and Data Engineer at Pierrefitte-sur-Seine, France (IKS)
+  {: style="font-size: 12px; margin-top: -15px;" }
 
   <br/>
 
@@ -106,7 +112,7 @@ Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <
 
  Mathys Brugier, Tony Hajjar, Théotime Niault, Simon Objois, Adam R., 16.05.2024 <br/>
   _Répulsion de zéros de Yang-Lee aléatoires_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/BrujerHajjarNiaultObjoisRozentalis.pdf){:target="_blank"}<br/>
-  L3 Double Diplôme Magistère, Orsay, université Paris-Saclay
+  L3 Double Diplôme Magistère, Université Paris-Saclay, Orsay
   {: style="font-size: 16px" }
-  Now: unknown (MB); Stagiaire at LMO, Université Paris-Saclay, France (TH) ; intern at PLATON team, INRIA-Saclay/École polytechnique, Palaiseau, France (TN) ; M2 student Mag Maths Fonda, Université Paris-Saclay, France (SO) ; unknown (AR)
+  Now: unknown (MB); Stagiaire at LMO, Université Paris-Saclay, Orsay, France (TH); intern at PLATON team, INRIA-Saclay/École polytechnique, Palaiseau, France (TN); M2 student Mag Maths Fonda, Université Paris-Saclay, France (SO); unknown (AR)
  {: style="font-size: 12px; margin-top: -15px;" }
