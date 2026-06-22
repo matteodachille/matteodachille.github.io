@@ -1,15 +1,19 @@
 ---
 
-#- title: Logarithmic corrections in random assignment problems with boundaries
-#  authors: S.Caracciolo, A.Sportiello
-#  upcoming: True
-#  preprint: False
-#  published: False
-#  arxivurl: "https://arxiv.org/abs/"
-#  arxivcode: ""
-#  year: 2021-
-#  submitted: False
-#  pdf:
+- title: Face volume densities of positive-intensity and ideal Poisson--Voronoi tessellations in hyperbolic spaces
+  authors : C. Thäle
+  upcoming: True
+  preprint: True
+  published: False
+  submitted : False
+  #halurl: "https://hal.science/hal-05537397"
+  year: 2026
+  npages: 17
+  abstract: 'We determine analytically for all \(k\in\{0,1,\ldots,d-1\}\) the \(k\)-volume densities of a Poisson-Voronoi tessellation of intensity \(\lambda>0\) in the \(d\)-dimensional hyperbolic space of constant curvature \(-1\). This largely extends previous results of Isokawa in dimensions two and three. As applications, we provide closed form expressions for all face volume densities and all typical face volumes of the ideal Poisson-Voronoi tessellation (IPVT), which is the low-intensity limit as \(\lambda\downarrow0\) of the hyperbolic Poisson-Voronoi tessellation. As a main tool we develop a new Blaschke-Petkantschin-type formula in hyperbolic space.'
+  pdf: 'assets/Isokawaalld.pdf'
+  #rg: 401230025
+  #arxivurl: "https://arxiv.org/abs/2602.21851"
+  arxivcode: "2606.xxxxx"
 
 
 - title: Concentration for random Euclidean combinatorial optimization
