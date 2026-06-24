@@ -217,6 +217,73 @@ a.sidebar-nav-item:focus {
 }
 
 
+.about-me {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.about-photo {
+  float: right;
+  height: 180px;
+  width: auto;
+  margin: 0 0 1rem 1.5rem;
+  border: 1px solid #999;
+  border-radius: 2px;
+}
+
+.about-me img {
+  width: 150px;
+  height: auto;
+  border: 1px solid #999;
+  border-radius: 2px;
+}
+
+.about-me p {
+  text-align: justify;
+  font-size: 14pt;
+  margin-top: 0;
+}
+
+.about-me summary {
+  font-size: 13pt;
+  cursor: pointer;
+}
+
+.about-me .keywords {
+  font-size: 11pt;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .about-me {
+    flex-direction: column;
+  }
+
+  .about-me img {
+    width: min(200px, 50vw);
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+.portrait {
+  float: right;
+  width: 150px;
+  margin: 0 0 1rem 1.5rem;
+  border: 1px solid #999;
+  border-radius: 2px;
+}
+
+@media (max-width: 700px) {
+  .portrait {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+  }
+}
+
+
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
