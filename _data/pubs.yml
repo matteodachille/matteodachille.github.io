@@ -1,6 +1,25 @@
 ---
 
-- title: Face volume densities of positive-intensity and ideal Poisson--Voronoi tessellations in hyperbolic spaces
+
+- title: Convergence towards Ideal Poisson-Voronoi tessellations with a focus on Diestel-Leader graphs
+  authors : A. Khezeli
+  upcoming: True
+  preprint: True
+  published: False
+  submitted : False
+  #halurl: "https://hal.science/hal-05668907"
+  year: 2026
+  npages: 51
+  #submitted: True
+  abstract: 'TBA'
+  #pdf: 'assets/Isoinalld.pdf'
+  #rg: 401230025
+  arxivurl: "https://arxiv.org/abs/2606.XXXXX"
+  arxivcode: "2606.XXXXX"
+
+
+
+- title: Face volume densities of positive-intensity and ideal Poisson-Voronoi tessellations in hyperbolic spaces
   authors : C. Thäle
   upcoming: True
   preprint: True
@@ -12,7 +31,7 @@
   submitted: True
   abstract: 'We determine analytically for all \(k\in\{0,1,\ldots,d-1\}\) the \(k\)-volume densities of a Poisson-Voronoi tessellation of intensity \(\lambda>0\) in the \(d\)-dimensional hyperbolic space of constant curvature \(-1\). This largely extends previous results of Isokawa in dimensions two and three. As applications, we provide closed form expressions for all face volume densities and all typical face volumes of the ideal Poisson-Voronoi tessellation (IPVT), which is the low-intensity limit as \(\lambda\downarrow 0\) of the hyperbolic Poisson-Voronoi tessellation. As a main tool we develop a new Blaschke-Petkantschin-type formula in hyperbolic space.'
   pdf: 'assets/Isoinalld.pdf'
-  #rg: 401230025
+  rg: 408047103
   arxivurl: "https://arxiv.org/abs/2606.26049"
   arxivcode: "2606.26049"
 
