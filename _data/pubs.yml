@@ -9,13 +9,15 @@
   submitted : False
   #halurl: "https://hal.science/hal-05668907"
   year: 2026
-  npages: 51
+  npages: 50
   #submitted: True
-  abstract: 'TBA'
-  #pdf: 'assets/Isoinalld.pdf'
+  abstract: 'We provide necessary and sufficient conditions for convergence towards a unique IPVT on any proper pointed measured metric space. The conditions are that the volume function, when composed with \(\log\), is regularly varying and that the limit of the uniform probability measure on a large ball exists in the horocompactification.
+    As an application we prove convergence towards a unique IPVT for higher rank symmetric spaces, which solves an open problem of <a href="https://annals.math.princeton.edu/articles/22425" target="_blank">[FMW23]</a>.
+    Versions of this theorem are provided for graphs and edge-measured graphs, where a natural parameter \(\xi\) appears. We prove independence on \(\xi\) in a specific sense under mild assumptions, which answers an open problem of <a href="https://doi.org/10.1214/25-AOP1781" target="_blank">[DACELÜ23]</a>. As a main example, we show that the latter holds for the IPVT of Diestel-Leader graphs. We also focus on further properties of this example, in particular, that its IPVT cells are distinguishable, providing the first Cayley graph with this property.'
+  pdf: 'assets/convipvtdlpq.pdf'
   #rg: 401230025
-  arxivurl: "https://arxiv.org/abs/2606.XXXXX"
-  arxivcode: "2606.XXXXX"
+  arxivurl: "https://arxiv.org/abs/2606.30517"
+  arxivcode: "2606.30517"
 
 
 
