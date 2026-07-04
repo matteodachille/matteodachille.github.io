@@ -6,7 +6,7 @@ order: 1
 <!-- - TOC
 {:toc} -->
 
-(Links on titles go at journal versions. Click on YYMM.NNNNN - <i class="ai ai-hal ai-align-center-1x"></i> - <i class="ai ai-researchgate ai-align-center-1x"></i> - <i class="ai ai-academia ai-align-center-1x"></i> - <i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; to access/download preprints)
+(Titles link to the journal versions. Click on YYMM.NNNNN - <i class="ai ai-hal ai-align-center-1x"></i> - <i class="ai ai-researchgate ai-align-center-1x"></i> - <i class="ai ai-academia ai-align-center-1x"></i> - <i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; to access/download preprints)
 {: style="font-size: 15.5px; margin-left: 0px" }
 
 {% assign list_wip = site.data.pubs | where: 'upcoming', true %}
