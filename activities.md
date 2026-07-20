@@ -5,14 +5,11 @@ order: 3
 ---
 
 
-Below you will find infos on:
-{: style="font-size: 18px" }
+
 * TOC
 {:toc}
 {: style="font-size: 18px" }
 
-
-<br/>
 
 
 ## Ongoing organization
@@ -24,7 +21,7 @@ Below you will find infos on:
 📍 **Institut Henri Poincaré** pour l'Île-de-France <br/>
 📍 **IECL Metz-Nancy, IRMA Strasbourg, IRIMAS Mulhouse** pour le Grand Est
 
-A recurring conference bringing together probabilists a chosen major topic.
+A recurring conference around a topic of choice in probability and related fields.
 
 **Links:** [Île-de-France](https://indico.math.cnrs.fr/category/618/){:target="_blank"} - [Grand Est](https://indico.math.cnrs.fr/category/839/){:target="_blank"}
 
@@ -80,7 +77,7 @@ Weekly seminar of the ERC *SuPerGRandMa*.
 
 #### Random geometry
 {: .no_toc}
-**Minisymposium** at the
+Minisymposium at the
 17th French Romanian Colloquium on Applied Mathematics, jointly with Pierre Calka
 
 📍 Institut Élie Cartan de Lorraine, Nancy, France
@@ -93,7 +90,7 @@ Weekly seminar of the ERC *SuPerGRandMa*.
 
 #### Randomness on Trees and Random Trees
 {: .no_toc}
-**Contributed paper session** at the
+Contributed paper session at the
 11th World Congress in Probability and Statistics, jointly with Arnaud Le Ny
 
 📍 Ruhr University Bochum, Germany
@@ -106,13 +103,13 @@ Weekly seminar of the ERC *SuPerGRandMa*.
 
 #### The Many Facets of Statistical Field Theory
 {: .no_toc}
-Co-organized with <a href="https://sites.google.com/view/the-many-facets-of-sft#:~:text=%2C%20Trieste%2C%20Italy-,Organizers,-Pasquale%20Calabrese%20(SISSA" target="_blank">several collegues</a>
+Conference in honour of Sergio Caracciolo's 70th birthday. Co-organized with <a href="https://sites.google.com/view/the-many-facets-of-sft#:~:text=%2C%20Trieste%2C%20Italy-,Organizers,-Pasquale%20Calabrese%20(SISSA" target="_blank">several collegues</a>
 
 📍 SISSA, Trieste, Italy
 
 17–19 October 2022
 
-[Website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"} ·
+**Links:** [Website](https://sites.google.com/view/the-many-facets-of-sft){:target="_blank"} ·
 [YouTube](https://www.youtube.com/channel/UCVnPxo6C_NPEHcDxGdzxzdw){:target="_blank"}
 
 ---
