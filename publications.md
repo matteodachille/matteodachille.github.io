@@ -43,7 +43,7 @@ order: 1
     <p style="font-size:11pt;">{{ pub.abstract }}</p>
     </details>
 {% endif %}
-{% if pub.accepted %}Accepted on <i>{{ pub.accjourn }}</i><br/>{% endif %}
+{% if pub.accepted %}<span style="font-size:12.5pt;">Accepted on <b>{{ pub.accjourn }}</b></span><br/>{% endif %}
   </div>
   <br/>
 </dd>

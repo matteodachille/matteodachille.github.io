@@ -72,27 +72,6 @@
   npages: 37
   abstract: 'We study Poisson--Voronoi percolation and its discrete analogue Bernoulli--Voronoi percolation in spaces with a non-amenable product structure. We develop a new method of proving smallness of the uniqueness threshold \(p_u(\lambda)\) at small intensities \(\lambda>0\) based on the unbounded borders phenomenon of their underlining ideal Poisson--Voronoi tessellation. We apply our method to several concrete examples in both the discrete and the continuum setting, including \(k\)-fold graph products of \(d\)-regular trees for \(k\ge2,d\ge3\) and products of hyperbolic spaces \(\mathbb H_{d_1}\times \ldots \times \mathbb H_{d_k}\) for \(k\ge2, d_i\ge2\), complementing a recent result of the second and fourth author for symmetric spaces of connected higher rank semisimple real Lie groups with property (T). We also provide new examples of non-amenable Cayley graphs with the FIID sparse unique infinite cluster property, answering positively a recent question of Pete and Rokob.'
 
-- title:  Extremal Ising Gibbs States on Lobachevsky lattices
-  authors: L. Coquille and A. Le Ny
-  upcoming: True
-  preprint: False
-  published: True
-  arxivurl: "http://arxiv.org/abs/2504.19553"
-  arxivcode: "2504.19553"
-  year: 2025
-  rg: 391247716
-  accepted: True
-  accjourn: "Electron. Commun. Probab."
-  halurl: "https://hal.science/hal-05290006"
-  academia: 144803782
-  pdf: "assets/exLpq.pdf"
-  doi : "https://doi.org/10.1214/25-ECP724"
-  submitted: False
-  npages: 10
-  journal: "Electron. Commun. Probab."
-  volume: 30
-  pages: 1-10
-  abstract: 'We exhibit an uncountable family of extremal inhomogeneous Gibbs measures of the low–temperature Ising model on regular tilings of the hyperbolic plane. These states arise as low temperature perturbations of local ground states having a sparse enough set of frustrated edges, the sparseness being measured in terms of the isoperimetric constant of the graph. This result is implied by an extension of the article [5] about spin models on regular trees to Ising models on a more general class of regular non-amenable graphs. We moreover argue how we can deduce the extremality of an uncountable subset of the Series–Sinai states [24] at low temperature.'
 
 - title: On minimal shapes and isoperimetric constants in hyperbolic lattices
   authors: V. Jacquier and W.M. Ruszel
@@ -116,10 +95,34 @@
   npages: 16
   abstract: 'We fully characterize the set of finite shapes with minimal perimeter on hyperbolic latticesgiven by regular tilings of the hyperbolic plane whose tiles are regular \(p\)-gons meeting at vertices of degree \(q\), with \(1/p + 1/q < 1/2\). In particular, we prove that the ratio between the perimeter and the area (i.e., the number of vertices) of this set of minimal shapes converges to the isoperimetric constant computed in Häggström-Jonasson-Lyons. In fact, our regular balls which are constructed via layers and not combinatorial balls, will realize the isoperimetric constant for any fixed number of vertices.'
 
+- title:  Extremal Ising Gibbs States on Lobachevsky lattices
+  authors: L. Coquille and A. Le Ny
+  upcoming: True
+  preprint: False
+  published: True
+  arxivurl: "http://arxiv.org/abs/2504.19553"
+  arxivcode: "2504.19553"
+  year: 2025
+  rg: 391247716
+  accepted: True
+  accjourn: "Electron. Commun. Probab."
+  halurl: "https://hal.science/hal-05290006"
+  academia: 144803782
+  pdf: "assets/exLpq.pdf"
+  doi : "https://doi.org/10.1214/25-ECP724"
+  submitted: False
+  npages: 10
+  journal: "Electron. Commun. Probab."
+  volume: 30
+  pages: 1-10
+  abstract: 'We exhibit an uncountable family of extremal inhomogeneous Gibbs measures of the low–temperature Ising model on regular tilings of the hyperbolic plane. These states arise as low temperature perturbations of local ground states having a sparse enough set of frustrated edges, the sparseness being measured in terms of the isoperimetric constant of the graph. This result is implied by an extension of the article [5] about spin models on regular trees to Ising models on a more general class of regular non-amenable graphs. We moreover argue how we can deduce the extremality of an uncountable subset of the Series–Sinai states [24] at low temperature.'
+
 - title:  Ideal Poisson-Voronoi tessellations beyond hyperbolic spaces
   upcoming: True
   preprint: True
   published: False
+  accepted: True
+  accjourn: "Electron. Commun. Probab."
   arxivurl: "http://arxiv.org/abs/2412.00822"
   arxivcode: "2412.00822"
   year: 2024
@@ -127,7 +130,7 @@
   halurl: "https://hal.science/hal-04817486"
   academia: 126245800
   pdf: "assets/H2xH2.pdf"
-  submitted: True
+  submitted: False
   npages: 12
   abstract: 'We construct and study the ideal Poisson-Voronoi tessellation of the product of two hyperbolic planes \( \mathbb{H}_{2}\times \mathbb{H}_{2}\) endowed with the \(L^{1}\) norm. We prove that its law is invariant under all isometries of this space and study some geometric features of its cells. Among other things, we prove that the set of points at equal separation to any two corona points is unbounded almost surely. This is analogous to a recent result of Frączyk-Mellick-Wilkens for higher rank symmetric spaces.'
 
