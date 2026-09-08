@@ -30,5 +30,5 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 
 | Cours n&deg; | Date | Sujet | Remarques |
 |:---: | :---: | :---: | ------- | ------- |
-| 1 | 7.09  |  <u>Cours</u> : Notations, sous-ensembles ususels \\(\mathbb{R}\\), règles de calcul, fonctions réelles définies sur une partie de \\(\mathbb{R}\\), ensemble de définition d'une fonction avec 3 exemples.  <br/><u>TD</u> : Fiche TD 1, Ex 1.1 : 1-2-3-4-5-7--9| |
-| 2 | 8.09  |  <u>Cours</u> :  <br/><u>TD</u> :  | |
+| 1 | 7.09  |  <u>Cours</u> : Notations, sous-ensembles ususels \\(\mathbb{R}\\), règles de calcul, fonctions réelles définies sur une partie de \\(\mathbb{R}\\), ensemble de définition d'une fonction avec 3 exemples.  <br/><u>TD</u> : Fiche TD 1, Ex 1.1 : 1-2-3-4-5-7-9| |
+| 2 | 8.09  |  <u>Cours</u> : Image, antécédent, monotonie.  <br/><u>TD</u> : Fiche TD 1, Ex 1.3 : 1-2-3-4-7-11 | |
