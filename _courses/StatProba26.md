@@ -13,6 +13,8 @@ etab: université de Lorraine
 classnumber: 14
 ---
 
+Pour le materiel de cours voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=89734](https://arche.univ-lorraine.fr/course/view.php?id=89734){:target="_blank"}
+
 
 ### Tableau de bord
 

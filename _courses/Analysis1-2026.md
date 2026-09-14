@@ -23,7 +23,7 @@ groupnumber : 1
 4. Equations différentielles linéaires
 
 
-Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=89136](https://arche.univ-lorraine.fr/course/view.php?id=81800){:target="_blank"}
+Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=89136](https://arche.univ-lorraine.fr/course/view.php?id=89136){:target="_blank"}
 
 
 ### Tableau de bord
