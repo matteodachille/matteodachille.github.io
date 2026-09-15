@@ -19,4 +19,4 @@ classnumber: 15
 
 | Cours n&deg; | Date | Sujet | Remarques |
 |:---: | :---: | :---: | ------- | ------- |
-| 1 |  15.09 |   | |
+| 1 |  15.09 |  Rappels sur les modèles statistiques (paramétriques), identification, domination. Exemple et DM. Modèle stat. param. associé à une v.a., modèle des n-échantillons, statistique, caractéristique, estimateur. Espérance, matrice de variance-covariance, biais, esb, esbvm. DM.   | |
