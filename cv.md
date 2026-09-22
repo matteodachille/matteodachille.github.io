@@ -12,7 +12,7 @@ order: 6
 (short)
 
 
-Detailed (but possibly outdated) CV in pdf is available in [en](/downloads/cv_dachille_en.pdf){:target="\_blank"}, [fr](/downloads/cv_dachille_fr.pdf){:target="\_blank"} and [it](/downloads/cv_dachille_it.pdf){:target="\_blank"}.
+Detailed (but possibly outdated) CV in pdf is available in [en]({{  site.baseurl }}downloads/cv_dachille_en.pdf){:target="\_blank"}, [fr]({{  site.baseurl }}downloads/cv_dachille_fr.pdf){:target="\_blank"} and [it]({{  site.baseurl }}downloads/cv_dachille_it.pdf){:target="\_blank"}.
 
 <br/>
 

@@ -20,3 +20,4 @@ classnumber: 15
 | Cours n&deg; | Date | Sujet | Remarques |
 |:---: | :---: | :---: | ------- | ------- |
 | 1 |  15.09 |  Rappels sur les modèles statistiques (paramétriques), identification, domination. Exemple et DM. Modèle stat. param. associé à une v.a., modèle des n-échantillons, statistique, caractéristique, estimateur. Espérance, matrice de variance-covariance, biais, esb, esbvm. DM.   | |
+| 2 |  22.09 |  Correction détaillée du DM. Vraisemblance, log-vraisemblance, modèle régulier, score, information de Fisher, remarques. Information de Fisher pour le modèle des n-échantillons associé à un m.s.p. régulier (avec préuve). Lien entre l'hessienne de la log-vraisemblance et l'information de Fisher (énoncé).  | |
