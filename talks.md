@@ -119,7 +119,9 @@ Below you will find lists of:
 
 ## Selected outreach communications
 
+21.09.2026 &#x2023; _La cellule zéro de l'IPVT de l'espace hyperbolique_, Institut Élie Cartan de Lorraine, UFR MIM, Metz, France &#x2022; [announcement](https://iecl.univ-lorraine.fr/exposition-stokachic-des-bijoux-mathematiques-uniques-aux-formes-aleatoires/){:target="_blank"} <br/>
+04.02.2026 &#x2023; _StoKaChic: Mathematical haute joaillerie_, IHES, Bures-sur-Yvette, France &#x2022; [announcement](https://www.facebook.com/IHES.Bures/posts/-stokachic-mathematical-haute-joaillerie-du-4-au-26-f%C3%A9vrier-2026-%C3%A0-la-biblioth%C3%A8q/1338918501607402/){:target="_blank"} <br/>
 04.12.2025 &#x2023; _StoKaChic: haute bijouterie mathématique_, vernissage, Institut de Mathématiques d'Orsay, Université Paris-Saclay, France
  &#x2022; [university press release](https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-mathematiques/mediation-et-actualites-graduate-school-mathematiques/poly-math-cycle-devenements-pour-des-maths-autrement#:~:text=StoKaChic%20%3A%20exposition%20et%20vernissage%20le%204%20d%C3%A9cembre%202025){:target="_blank"} <br/>
  14.04.2021 &#x2023; _Meaning of vaccine efficacy_, Café Show, Radio Monte Carlo Doualiya, Paris &#x2022; [podcast](https://mc-d.co/1b5W){:target="_blank"} (in French with Arabic voice-over) <br/> 26.04.2015 &#x2023; _History of special relativity: 1862-1913_, with C.Bressan and F.Paleari, Monza, Italy. &#x2022; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=Bzh4Rb6NP68){:target="_blank"} (in Italian) <br/> 22.03.2015 &#x2023; _On the role of Symmetry in Physics_, Monza, Italy &#x2022; [<i class="fa fa-youtube fa-align-center-1x" aria-hidden="true"></i> video](https://www.youtube.com/watch?v=mQvotum0OHc){:target="_blank"} (in Italian)
-{: style="font-size: 14px; text-align: justify;"}
+{: style="font-size: 14px; text-align: left;"}
