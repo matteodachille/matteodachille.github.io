@@ -22,3 +22,5 @@ Pour le materiel de cours voir : <br/> [https://arche.univ-lorraine.fr/course/vi
 |:---: | :---: | :---: | ------- | ------- |
 | 1 | 7.09  | Modélisation statistique. Introduction par trois exemples : sondage, contrôle de qualité, influence d'une variable sur une autre. Définition de modèle statistique. Domination par une mesure. Modèle statistique des n-échantillons et des échantillons de taille infinie. Espace produit et suites engendrantes. Application aux trois exemples introductifs. Identifiabilité d'un modèle. | |
 | 2 | 14.09  | Statistique, caractéristique, estimateur ponctuel, estimation. Exemples. Statistique d'ordre avec DM. Modèle statistique uniforme. Propriétés d'un estimateur : biais, variance, risque quadratique, préférabilité. Vraisemblance. | |
+| 3 | 5.10  | Log-vraisemblance, score, regularité d'un modèle par rapport à une mesure. Information de Fisher, exemple d'un modèle gaussian à variance connue. Inegalité de l'information (borne de Fréchet-Darmois-Cramér-Rao) avec démonstration. Propriétés asmptotiques des estimateurs. Rappels: loi faible et forte des grands nombres, suite consistante. | |
+| 4 | 6.10  |  | |
