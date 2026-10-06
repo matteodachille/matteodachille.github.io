@@ -38,3 +38,4 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 | 6 | 22.09  |  <u>Cours</u> : Derivabilité d'une fonction, premières propriétés, exemples. Variations d'une fonction, tangente et asymptotites horizontales, verticales et obliques à la courbe représentatitve d'une fonction. Exemples. Fonctions usuelles : fonction valeur absolue, propriétés (preuves à completer). | |
 | 7 | 29.09  |  <u>Cours</u> : Inégalité triangulaire et seconde inégalité triangulaire, partie entière et ses propriétés, partie fractionnaire, racine \\(n\\)-ième. Composée de deux fonctions, dérivée d'une fonction composée. | |
 | 8 | 5.10  |  Contrôle des connaissances en salle **BN2-001** de **8h00 à 10h00** | |
+| 9 | 6.10  |  Logarithme népérien et ses propriétés, théorème de la fonction réciproque (admis), exponentielle et ses propriété, limites, comparaison aux polynômes, fonctions circulaires et propriétés. | |
