@@ -8,20 +8,31 @@ order: 4
 I have/had the pleasure of supervising the following **18** students:
   {: style="font-size: 15px; margin-left: 0px" }
 
+
+
+
+### PhD students
+
+
+2026?  &nbsp;&nbsp;&nbsp;  Achim Schlather (co-supervision with M. Hoyrup)	 
+{: style="font-size: 16px" }
+
+
 ### M2 research internship
 
 <!--
 #### 2022
 {: .no_toc}
 -->
+<details markdown="1">
+  <summary style="font-size: 16px;">Details</summary>
 
-Achim Schlather, ongoing (co-supervision with J. Levillain and P. Moyal) <br/>
- _TBA_ <br/>
+Achim Schlather, 30.09.2026 (co-supervision with J. Levillain and P. Moyal) <br/>
+ _The Poissonian limit of the Quarck random assignment model and its application to satellite data_ <br/>
 M2 Master’s programme for Mathematics, Friedrich Schiller University Jena, Germany
  {: style="font-size: 16px" }
- Stage supported by a grant from [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (8.04.2026 - current).
+ Stage supported by a grant from [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (8.04.2026 - 30.09.2026).
  {: style="font-size: 12px; margin-top: -15px;" }
-
 
 
  Thomas Quarck, 08.10.2025 (co-supervision with J. Levillain) <br/>
@@ -39,8 +50,7 @@ acquisition_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.bas
   {: style="font-size: 16px" }
   Stage supported by a stipend from UPEC (11.04.2022 - 11.07.2022). Now at Ping An Life Insurance Company, Shenzhen, China
   {: style="font-size: 12px; margin-top: -15px;" }
-
-  <br/>
+  </details>
 
 
 ### M1 TER  
@@ -48,6 +58,8 @@ acquisition_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.bas
 
 {: .no_toc}
 
+<details markdown="1">
+  <summary style="font-size: 16px;">Details</summary>
 Marie-Carmel Chompret, 22.06.2026 (co-supervision with T. Wurzbacher) <br/>
   _Combien de feuilles sont contenues dans un arbre couvrant uniforme d’un graphe complet à n sommets ?_ <br/>
   M1 Mathématiques et Applications, UFR MIM, Université de Lorraine, Metz
@@ -100,7 +112,7 @@ Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <
   Now Data Scientist at La Banque Postale, Gennevilliers, France (MMB) and Data Engineer at Pierrefitte-sur-Seine, France (IKS)
   {: style="font-size: 12px; margin-top: -15px;" }
 
-  <br/>
+</details>
 
 
 
@@ -109,10 +121,13 @@ Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <
 
 {: .no_toc}
 
-
+<details markdown="1">
+  <summary style="font-size: 16px;">Details</summary>
  Mathys Brugier, Tony Hajjar, Théotime Niault, Simon Objois, Adam R., 16.05.2024 <br/>
   _Répulsion de zéros de Yang-Lee aléatoires_ - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/BrujerHajjarNiaultObjoisRozentalis.pdf){:target="_blank"}<br/>
   L3 Double Diplôme Magistère, Université Paris-Saclay, Orsay
   {: style="font-size: 16px" }
   Now: unknown (MB); Stagiaire at LMO, Université Paris-Saclay, Orsay, France (TH); intern at PLATON team, INRIA-Saclay/École polytechnique, Palaiseau, France (TN); M2 student Mag Maths Fonda, Université Paris-Saclay, France (SO); unknown (AR)
  {: style="font-size: 12px; margin-top: -15px;" }
+
+ </details>
