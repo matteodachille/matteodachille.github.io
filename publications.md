@@ -78,9 +78,7 @@ order: 1
 
         <span style="font-size:12.5pt;">
             <b>{{ pub.journal }}</b>
-            {% if pub.volume %} {{ pub.volume }}{% endif %}
-            {% if pub.pages %}, {{ pub.pages }}{% endif %}
-            {% if pub.year %}, {{ pub.year }}{% endif %}.
+            {% if pub.volume %}{{pub.volume}}{% endif %}{% if pub.pages %}, {{pub.pages}}{% endif %}{% if pub.year %}, {{pub.year}}{% endif %}.
         </span>
         <br/>
         <span style="font-size:12pt;">
