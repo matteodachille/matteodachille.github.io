@@ -2,7 +2,7 @@
 layout: course
 title: Probabilités
 year: 	25/26
-semester: S2
+semester: S4
 hours: 30
 lang: French
 role: TD

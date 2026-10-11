@@ -2,7 +2,7 @@
 layout: course
 title: Géométrie pour la statistique
 year: 	26/27
-semester: S1
+semester: S9
 #hours: 27
 lang: French
 role: CM+TD

@@ -2,7 +2,7 @@
 layout: course
 title: Statistique inférentielle
 year: 	25/26
-semester: S2
+semester: S8
 hours: 23.5
 lang: French
 role: CM+TD+TP

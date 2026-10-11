@@ -2,7 +2,7 @@
 layout: course # You can ommit this if you've set it as a default
 title: Probability
 year: 	21/22
-semester: first
+semester: S3
 lang: French
 hours: 85
 role : CM+TD

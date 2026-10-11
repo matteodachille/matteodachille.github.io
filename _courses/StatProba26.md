@@ -2,7 +2,7 @@
 layout: course
 title: Statistiques et Probabilités
 year: 	26/27
-semester: S1
+semester: S7
 #hours: 23.5
 lang: French
 role: CM
@@ -24,3 +24,4 @@ Pour le materiel de cours voir : <br/> [https://arche.univ-lorraine.fr/course/vi
 | 2 | 14.09  | Statistique, caractéristique, estimateur ponctuel, estimation. Exemples. Statistique d'ordre avec DM. Modèle statistique uniforme. Propriétés d'un estimateur : biais, variance, risque quadratique, préférabilité. Vraisemblance. | |
 | 3 | 5.10  | Log-vraisemblance, score, regularité d'un modèle par rapport à une mesure. Information de Fisher, exemple d'un modèle gaussian à variance connue. Inegalité de l'information (borne de Fréchet-Darmois-Cramér-Rao) avec démonstration. Propriétés asmptotiques des estimateurs. Rappels: loi faible et forte des grands nombres, suite consistante. | |
 | 4 | 6.10  | Rappels sur le TCL, suite d'estimateurs asymptotiquement normale avec exemples. II Régions de confiance et tests d'hypothèses. Estimation par intervalle: région de confiance de coeff. de securité \\(1-\alpha \\) pour une caractéristique, example. Intervalle de confiance symétrique et unilatéral. \\(\alpha-\\)quantiles. Énoncé du DM. Intervalle de confiance symétrique pour un modèle gaussien de variance connue. Fonction pivotale avec exemples, construction de la région de confiance. IC symétrique pour un modèle gaussien sans contrainte sur les paramètres. | |
+| 5 | 12.10  |  | |

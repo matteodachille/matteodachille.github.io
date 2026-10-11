@@ -2,7 +2,7 @@
 layout: course # You can ommit this if you've set it as a default
 title: Statistical Inference
 year: 	21/22
-semester: second
+semester: S4
 lang: French
 hours: 45
 role : CM+TD

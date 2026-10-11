@@ -2,7 +2,7 @@
 layout: course
 title: Mathematics for Dynamical Systems
 year: 	21/22
-semester: first
+semester: S5
 lang: French
 hours: 54
 role : TD

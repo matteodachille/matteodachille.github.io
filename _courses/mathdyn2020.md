@@ -2,7 +2,7 @@
 layout: course # You can ommit this if you've set it as a default
 title: Mathematics for Dynamical Systems
 year: 	20/21
-semester: first
+semester: S5
 lang: French
 hours: 90
 role : TD
