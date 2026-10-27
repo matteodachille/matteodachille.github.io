@@ -36,14 +36,14 @@ A recurring conference around a topic of choice in probability and related field
 
 An interdisciplinary seminar at the interface of Mathematics and Physics.
 
-**Links:** [Website](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"} ·
+**Links:** [Website](https://seedseminar.pages.math.cnrs.fr/){:target="_blank"} ·
 [YouTube channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured){:target="_blank"}
 
 **Kick-off events at IHP**
 
-[18 Oct 2023](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/#:~:text=Poincar%C3%A9%20(IHP)%3A-,18%20October%202023,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [17 Jan 2024](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/#:~:text=Junchen%20Rong-,17%20January%202024,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [27 Mar 2024](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/#:~:text=Anna%20Ritz%2DZwilling-,27%20March%202024,-%E2%80%A2%20Kick%2Doff){:target="_blank"} ·
-[6 Nov 2024](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/#:~:text=Claudia%20Fevola-,6%20November%202024,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [12 Feb 2025](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/#:~:text=Claudia%20Rella-,12%20February%202025,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [4 Jun 2025](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/#:~:text=L%C3%A9onie%20Papon-,4%20June%202025,-%E2%80%A2%20Kick%2Doff){:target="_blank"} ·
-[29 Oct 2025](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/#:~:text=Lucas%20D%27Alimonte-,29%20October%202025,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [28 Jan 2026](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/#:~:text=Julien%20Weibel-,28%20January%202026,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [22 Apr 2026](https://seedseminar.apps.math.cnrs.fr/rooms/IHP/#:~:text=Roberta%20Angius-,22%20April%202026,-%E2%80%A2%20Kick%2Doff){:target="_blank"}
+[18 Oct 2023](https://seedseminar.pages.math.cnrs.fr/rooms/IHP/#:~:text=Poincar%C3%A9%20(IHP)%3A-,18%20October%202023,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [17 Jan 2024](https://seedseminar.pages.math.cnrs.fr/rooms/IHP/#:~:text=Junchen%20Rong-,17%20January%202024,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [27 Mar 2024](https://seedseminar.pages.math.cnrs.fr/rooms/IHP/#:~:text=Anna%20Ritz%2DZwilling-,27%20March%202024,-%E2%80%A2%20Kick%2Doff){:target="_blank"} ·
+[6 Nov 2024](https://seedseminar.pages.math.cnrs.fr/rooms/IHP/#:~:text=Claudia%20Fevola-,6%20November%202024,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [12 Feb 2025](https://seedseminar.pages.math.cnrs.fr/rooms/IHP/#:~:text=Claudia%20Rella-,12%20February%202025,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [4 Jun 2025](https://seedseminar.pages.math.cnrs.fr/rooms/IHP/#:~:text=L%C3%A9onie%20Papon-,4%20June%202025,-%E2%80%A2%20Kick%2Doff){:target="_blank"} ·
+[29 Oct 2025](https://seedseminar.pages.math.cnrs.fr/rooms/IHP/#:~:text=Lucas%20D%27Alimonte-,29%20October%202025,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [28 Jan 2026](https://seedseminar.pages.math.cnrs.fr/rooms/IHP/#:~:text=Julien%20Weibel-,28%20January%202026,-%E2%80%A2%20Kick%2Doff){:target="_blank"} · [22 Apr 2026](https://seedseminar.pages.math.cnrs.fr/rooms/IHP/#:~:text=Roberta%20Angius-,22%20April%202026,-%E2%80%A2%20Kick%2Doff){:target="_blank"}
 
 **IHES mornings**
 
