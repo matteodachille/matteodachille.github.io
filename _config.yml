@@ -3,7 +3,8 @@ markdown:         kramdown
 plugins:             [jekyll-paginate,jekyll-gist,pygments.rb]
 highlighter:      rouge
 
-google_analytics: UA-80451970-1
+google_analytics: G-MXHNC5DTB2
+
 # Permalinks
 permalink:        :title
 
