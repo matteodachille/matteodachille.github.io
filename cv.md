@@ -75,8 +75,15 @@ _12.2019 - 12.2020_: Associated Member of the LIPN, université Sorbonne Paris N
 
 #### Grants
 
-_2023 - 2025_ : 2.25K€ from Fondation Mathématique Jacques Hadamard <a href="https://fondation-hadamard.fr/en/" target="_blank"><img style="max-height:60px; position: relative; float:right; margin:0px; border-radius: 0px; padding-right:0px; transform: translateY(-25%);" src="../assets/FMJH_h.png"></a>
-{:style="font-size: 18px" }
+<div style="display:flex; align-items:center; justify-content:space-between; gap:12px; font-size:18px;">
+  <span><em>2024 - current</em> : 30k€ from <a href="https://cnes.fr/" target="_blank">CNES - Centre national d'études spatiales</a></span>
+  <a href="https://cnes.fr/" target="_blank" style="flex:0 0 auto;"><img style="display:block; max-height:50px; max-width:50px; margin:0; border:0;" src="../assets/cnes-logo.webp" alt="CNES logo"></a>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:space-between; gap:12px; font-size:18px;">
+  <span><em>2021 - 2025</em> : ~5,5k€ from <a href="https://fondation-hadamard.fr/en/" target="_blank">Fondation Mathématique Jacques Hadamard</a></span>
+  <a href="https://fondation-hadamard.fr/en/" target="_blank" style="flex:0 0 auto;"><img style="display:block; max-height:42px; max-width:120px; margin:0; border:0;" src="../assets/fmjh-logo.webp" alt="Fondation Mathématique Jacques Hadamard logo"></a>
+</div>
 
 
 
@@ -86,8 +93,16 @@ _2023 - 2025_ : 2.25K€ from Fondation Mathématique Jacques Hadamard <a href="
 (duration \\(\geq \\) 1 week)
 {:style="font-size: 14px" }
 
+_25.10.26 - 01.11.26_: Department of Mathematics, Indiana University, Bloomington, IN, USA
+<img style="width:45px; height:30px; position:relative; float:right; top:30%; transform:translateY(-10%); margin:0; border-radius:0; border:solid .05em;" src="../assets/flag_US.png" alt="United States flag"/>
+{:style="font-size: 16px" }
+
+_13.10.26 - 25.10.26_: Departments of Mathematics, University of Chicago and Northwestern University (Evanston), IL, USA
+<img style="width:45px; height:30px; position:relative; float:right; top:30%; transform:translateY(-10%); margin:0; border-radius:0; border:solid .05em;" src="../assets/flag_US.png" alt="United States flag"/>
+{:style="font-size: 16px" }
+
 _24.11.24 - 30.11.24_: Mathematics Department, Utrecht University, NL
- ([website](#){:target="\_blank"}) <img style="max-height:30px; position: relative; float:right; top: 30%; transform: translateY(-10%); margin:0px; border-radius: 0px;border: solid .05em;" src="../assets/flag_NL.png"/><!--img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://casa.win.tue.nl/" target="_blank"> <img style="max-height:60px; position: relative; float:right; margin:0px; border-radius: 0px; padding-right:10px; transform: translateY(-25%);" src="../assets/casa_logo.png"></a-->
+ ([website](#){:target="\_blank"}) <img style="width:45px; height:30px; position:relative; float:right; top:30%; transform:translateY(-10%); margin:0; border-radius:0; border:solid .05em;" src="../assets/flag_NL.png" alt="Netherlands flag"/><!--img style="max-height:30px; position: relative; float:right; top: 50%; border: solid .05em; border-radius: 0px;" src="../assets/flag_NL.png"/> &nbsp; <a href="https://casa.win.tue.nl/" target="_blank"> <img style="max-height:60px; position: relative; float:right; margin:0px; border-radius: 0px; padding-right:10px; transform: translateY(-25%);" src="../assets/casa_logo.png"></a-->
 {:style="font-size: 16px" }
 
  _12.11.24 - 19.11.24_: Cluster of Excellence, Münster University, DE

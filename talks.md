@@ -25,7 +25,7 @@ Below you will find lists of:
 
 
 16.10.2026 &#x2023; [The 47th Midwest Probability Colloquium](https://sites.google.com/view/mpc47){:target="_blank"}, Northwestern University, Evanston, IL, USA <br/>
-18.05.2026 &#x2023; [Vienna Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/vienna-probability-seminar/nachrichtenvolldarstellung-vps/news/the-jewel-and-the-two-dials-of-the-ideal-poisson-voronoi-tessellation/?no_cache=1&cHash=60d25806b61baa46682de0665972f953){:target="_blank"}, ISTA, Klosterneuburg, Austria <br/>
+18.05.2026 &#x2023; [Vienna Probability Seminar](https://www.ist.ac.at/en/news-events/event/?eid=6352){:target="_blank"}, ISTA, Klosterneuburg, Austria <br/>
 04.02.2026 &#x2023; [StoKaChic: Mathematical haute joaillerie](https://www.linkedin.com/posts/ihes_the-opening-of-the-stokachic-exhibition-took-activity-7429178719535132672-l2BZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa5weQBfMs4TrCYGuS7SVbu_bTh2mae9IY){:target="_blank"}, IHES, Bures-sur-Yvette, France <br/>
 <!--08.01.2026 &#x2023; [Séminaire Géométrie et Topologie](https://www.imj-prg.fr/gestion/evenement/affSeance/10445#:~:text=Orateur(s)-,Matteo%20D%27Achille,-%2D%20%2C){:target="_blank"}, IMJ-PRG, Paris, France-->
 {: style="font-size: 15px" }
