@@ -171,7 +171,21 @@
          {% endif %}
 
   </div>
-  <p style="font-size:0.6rem;padding-top: 5px;"> <font color="#FFF">Updated</font>: {{ site.time | date: '%B %Y' }}.<a href="https://matteodachille.github.io/"><font style="padding-left:10px; "color="#FFF">Views (today/total):</font><img alt="Hits" style="height: 19px; position:relative; float:right; margin-right=15px; top: -1px;" src="https://hits.sh/github.com/matteodachille.github.io/hits.svg?label=&nbsp;&view=today-total&extraCount=25880&style=flat-square&color=0a2d7f&labelColor=0a2d7f"/></a></p>
+  <footer class="sidebar-footer">
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:6px;">
+      <span>Updated: <span style="color:#fff;">{{ site.time | date: '%B %Y' }}</span></span>
+      <span style="display:flex; align-items:center; gap:4px;">
+        <span>Views:</span>
+        <a href="https://matteodachille.github.io/" aria-label="Visit the homepage">
+          <img src="https://hits.sh/github.com/matteodachille.github.io/hits.svg?label=today%20%2F%20total&amp;view=today-total&amp;extraCount=25880&amp;style=flat-square&amp;color=0a2d7f&amp;labelColor=0a2d7f"
+               alt="Page views today and total"
+               width="158" height="20"
+               loading="lazy" decoding="async"
+               style="display:block; width:auto; height:20px; margin:0; border:0;">
+        </a>
+      </span>
+    </div>
+  </footer>
 
 
   </div>
