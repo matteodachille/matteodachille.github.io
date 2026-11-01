@@ -14,11 +14,27 @@ show: hyde
 
 
 <h3>About me</h3>
-<figure style="float:right; margin:5px 25px 15px 25px; text-align:center;">
+<style>
+  .about-photo {
+    float: right;
+    margin: 5px 25px 15px;
+    text-align: center;
+    border: 0;
+    border-radius: 0;
+  }
+
+  @media (max-width: 700px) {
+    .about-photo {
+      float: none;
+      margin: 5px auto 15px;
+    }
+  }
+</style>
+<figure class="about-photo">
   <a href="https://opc.mfo.de/detail?photo_id=27652" target="_blank">
     <img
       src="../assets/dachille-mfo.jpeg"
-      style="max-height:135px; border:solid 0.05em; border-radius:1%;"
+      style="max-height:135px; border-radius:1%;"
       alt="Photo of Matteo D'Achille at MFO">
   </a>
   <figcaption style="font-size:0.45em; margin-top:-18px;color:#888;float:right;">
