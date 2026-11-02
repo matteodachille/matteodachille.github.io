@@ -23,3 +23,5 @@ classnumber: 15
 | 2 |  22.09 |  Correction détaillée du DM. Vraisemblance, log-vraisemblance, modèle régulier, score, information de Fisher, remarques. Information de Fisher pour le modèle des n-échantillons associé à un m.s.p. régulier (avec préuve). Lemme liant l'hessienne de la log-vraisemblance à l'information de Fisher (énoncé).  | |
 | 3 |  29.09 |  Démonstration du Lemme. Définition d'estimateur régulier. Inégalité de l'information (thèoréme de Fréchet-Darmois-Cramér-Rao) avec preuve.  Application à la dimension 1. Estimateur efficace. Exemple et remarques. Théorème: limites de l'inégalité de l'information (énoncé) | |
 | 4 |  6.10 |  Corrigé de deux exercices tirés de partiels d'années précédentes. Preuve du Théorème. Corollaire en dimension 1 avec demonstration. Énoncé des 4 exercices en DM. | |
+| 5 |  2.11 |   | |
+| 6 |  6.11 |   | |

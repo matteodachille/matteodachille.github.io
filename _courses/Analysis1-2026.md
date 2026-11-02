@@ -40,3 +40,5 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 | 8 | 5.10  |  Contrôle des connaissances en salle **BN2-001** de **8h00 à 10h00** | |
 | 9 | 6.10  |  Logarithme népérien et ses propriétés, théorème de la fonction réciproque (admis), exponentielle et ses propriété, limites, comparaison aux polynômes, fonctions circulaires et propriétés. | |
 | 10 | 12.10  | Correction détaillée du contrôle de connaissances du 5.10.2026 | |
+| 11 | 3.11  |  | |
+| 12 | 4.11  |  | |
