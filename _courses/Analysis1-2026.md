@@ -35,10 +35,10 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 | 3 | 14.09  |  <u>Cours</u> : Parité et periodicité, exemples, DM.  <br/><u>TD</u> : Fiche TD 1, Ex 1-1 : 10-11, Ex 1-2, Ex 1-3 : 5-6-9 | |
 | 4 | 15.09  |  <u>Cours</u> : Symétrie par rapport à un axe vertical et par rapport à un point. Translaté de la courbe représentative d'une fonction. <br/><u>TD</u> : Fiche TD 1, Ex 1-3 : 10, Ex 1-4 : 1-2-3-4-5, Ex 1-5 : 1 | |
 | 5 | 21.09  |  <u>Cours</u> : Continuité d'une fonction, Proposition 1.3.1 (continuité) <br/><u>TD</u> : Fiche TD 1, Ex 1-7, Ex 1-8, Ex 1-9 : 1 (axe de symétrie), 3 | |
-| 6 | 22.09  |  <u>Cours</u> : Derivabilité d'une fonction, premières propriétés, exemples. Variations d'une fonction, tangente et asymptotites horizontales, verticales et obliques à la courbe représentatitve d'une fonction. Exemples. Fonctions usuelles : fonction valeur absolue, propriétés (preuves à completer). | |
+| 6 | 22.09  |  <u>Cours</u> : Dérivabilité d'une fonction, premières propriétés, exemples. Variations d'une fonction, tangente et asymptotes horizontales, verticales et obliques à la courbe représentative d'une fonction. Exemples. Fonctions usuelles : fonction valeur absolue, propriétés (preuves à completer). | |
 | 7 | 29.09  |  <u>Cours</u> : Inégalité triangulaire et seconde inégalité triangulaire, partie entière et ses propriétés, partie fractionnaire, racine \\(n\\)-ième. Composée de deux fonctions, dérivée d'une fonction composée. | |
 | 8 | 5.10  |  Contrôle des connaissances en salle **BN2-001** de **8h00 à 10h00** | |
-| 9 | 6.10  |  Logarithme népérien et ses propriétés, théorème de la fonction réciproque (admis), exponentielle et ses propriété, limites, comparaison aux polynômes, fonctions circulaires et propriétés. | |
+| 9 | 6.10  |  <u>Cours</u> : logarithme népérien et ses propriétés, théorème de la fonction réciproque (admis), exponentielle et ses propriété, limites, comparaison aux polynômes, fonctions circulaires et propriétés. | |
 | 10 | 12.10  | Correction détaillée du contrôle de connaissances du 5.10.2026 | |
-| 11 | 3.11  | Fonctions hyperboliques et propriétés. Fonctions réciproques des fonctions usuelles et leur propriétés : Arcsinus, Arccosinus, Arctangent (à completer).  | |
-| 12 | 4.11  |  | |
+| 11 | 3.11  | <u>Cours</u> : fonctions hyperboliques et propriétés. Fonctions réciproques des fonctions usuelles et leur propriétés : Arcsinus, Arccosinus, Arctangent (à completer).  | |
+| 12 | 4.11  | <u>TD</u> : Fiche TD 2, Ex 2-1, Ex 2-2 : 1-2-3-4-5-6-7, Ex 2-3, Ex 2-4 (point ii en DM), Ex 2-5, Ex 2-6 : 1-2 | |
