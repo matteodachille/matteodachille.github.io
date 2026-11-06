@@ -24,4 +24,4 @@ classnumber: 15
 | 3 |  29.09 |  Démonstration du Lemme. Définition d'estimateur régulier. Inégalité de l'information (thèoréme de Fréchet-Darmois-Cramér-Rao) avec preuve.  Application à la dimension 1. Estimateur efficace. Exemple et remarques. Théorème: limites de l'inégalité de l'information (énoncé) | |
 | 4 |  6.10 |  Corrigé de deux exercices tirés de partiels d'années précédentes. Preuve du Théorème. Corollaire en dimension 1 avec demonstration. Énoncé des 4 exercices en DM. | |
 | 5 |  3.11 | Correction détaillée des 4 exercices du DM. Estimateurs du maximum de vraisemblance : définition, équation fondamentale. Exemples : m.s.p. de loi binomiale, uniforme des n-échantillons, de loi normale. EMV pour une caractéristique, exemple avec un modèle exponentiel et une fonction du paramètre.  | |
-| 6 |  6.11 |   | |
+| 6 |  6.11 |  Rappels sur le variables exponentielles. Modèles exponentiels : définition, modèle canonique, lien entre les deux. Information de Fisher, espérance et variance de la statistique canonique avec démonstration. Exemple : modèle de loi de Poisson.  | |
