@@ -14,6 +14,20 @@ classnumber: 13
 groupnumber : 1
 ---
 
+<br/>
+
+<a style="color: red; font-weight: bold;">News</a> : [notes de l'interro du 5/10/26](/downloads/Notes-Analyse1-L1Math26_27.pdf){:target="_blank"} <br/>
+
+
+<!-- Calendly link widget begin -->
+<a style="color: red; font-weight: bold;">Consultation des copies</a><link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/matteopdachille/consultation-des-copies-interro-5-10-2026?hide_event_type_details=0&hide_gdpr_banner=1'});return false;">: cliquez ici pour reserver un créneau</a>
+<!-- Calendly link widget end -->
+
+
+
+
 
 ### Programme (très) synthétique
 
