@@ -57,3 +57,4 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 | 11 | 3.11  | <u>Cours</u> : fonctions hyperboliques et propriétés. Fonctions réciproques des fonctions usuelles et leur propriétés : Arcsinus, Arccosinus, Arctangent (à completer).  | |
 | 12 | 4.11  | <u>TD</u> : Fiche TD 2, Ex 2-1, Ex 2-2 : 1-2-3-4-5-6-7, Ex 2-3, Ex 2-4 (point ii en DM), Ex 2-5, Ex 2-6 : 1-2. | |
 | 13 | 9.11  |  <u>Cours</u> : Arcsinus hyperbolique, Arccosinus hyperbolique, arctangente hyperbolique. <br/><u>TD</u> : Fiche TD 2, Ex 2-6 : 3, Ex 2-7, 2-8, 2-9, 2-10. | |
+| 14 | 10.11  |  <u>Cours</u> : Primitives usuelles: définition, théorèmes 3.1.1 et 3.1.2, exemple, premieres propriétés. <br/><u>TD</u> : Fiche TD 2, Ex 2-11, 2-12, 2-13, 2-14. | |
