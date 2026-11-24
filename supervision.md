@@ -14,7 +14,7 @@ I have/had the pleasure of supervising the following **18** students:
 ### PhD students
 
 
-2026?  &nbsp;&nbsp;&nbsp;  Achim Schlather (co-supervision with M. Hoyrup)	 
+2026 - now  &nbsp;&nbsp;&nbsp;&nbsp;  Achim Schlather (co-supervision with M. Hoyrup)	 
 {: style="font-size: 16px" }
 
 
@@ -31,7 +31,7 @@ Achim Schlather, 30.09.2026 (co-supervision with J. Levillain and P. Moyal) <br/
  _The Poissonian limit of the Quarck random assignment model and its application to satellite data_ <br/>
 M2 Master’s programme for Mathematics, Friedrich Schiller University Jena, Germany
  {: style="font-size: 16px" }
- Stage supported by a grant from [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (8.04.2026 - 30.09.2026).
+ Stage supported by a grant from [CNES Toulouse](https://cnes.fr/en){:target="_blank"} (8.04.2026 - 30.09.2026). Now PhD student at Université de Lorraine, France
  {: style="font-size: 12px; margin-top: -15px;" }
 
 
