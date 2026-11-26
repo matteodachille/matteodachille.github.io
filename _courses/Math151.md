@@ -16,7 +16,7 @@ classnumber: 1
 
 ### Programme synthétique
 
-Fonctions et graphes, limites et continuité, développements limités, dérivée, courbes paramétrées, comportement des fonctions sur un intervalle fermé borné, développements limités d'ordre \\(\geq 2\\), equations différentielles, primitives et intégrales, fonctions de plusieurs variables.
+Fonctions et graphes, limites et continuité, développements limités, dérivée, courbes paramétrées, comportement des fonctions sur un intervalle fermé borné, développements limités d'ordre $$\geq 2$$, équations différentielles, primitives et intégrales, fonctions de plusieurs variables.
 
 
 <!--

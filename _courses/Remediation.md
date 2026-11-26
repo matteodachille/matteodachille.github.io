@@ -15,4 +15,4 @@ classnumber: 2
 ---
 ### Programme et détails
 
-Voir la [page dediée](http://joelcohen.github.io/ens/mpi/remediation/) sur le site de Joël Cohen.
+Voir la [page dédiée](http://joelcohen.github.io/ens/mpi/remediation/) sur le site de Joël Cohen.

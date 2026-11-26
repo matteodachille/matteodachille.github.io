@@ -19,11 +19,11 @@ classnumber: 5
 ### Programme synthétique
 
 
-_Estimation ponctuelle_ : definition et propriétés d'un estimateur, méthode des moments, méthode du maximum de vraisemblance.
+_Estimation ponctuelle_ : définition et propriétés d'un estimateur, méthode des moments, méthode du maximum de vraisemblance.
 
 
 _Estimation par intervalle de confiance_ : intervalle de confiance de la moyenne, intervalle de confiance de la variance, intervalle de confiance d'une proportion.
 
-_Tests statistiques_ : principes; test paramétriques ( moyenne, variance, proportion ), test de comparaison de deux moyennes, test de comparaison de deux variances, test de comparaison de deux proportions; test non-paramétriques, test d'indépendance.
+_Tests statistiques_ : principes; tests paramétriques (moyenne, variance, proportion), test de comparaison de deux moyennes, test de comparaison de deux variances, test de comparaison de deux proportions; tests non-paramétriques, test d'indépendance.
 
 _Méthode des moindres carrés_: introduction à l'économétrie, modèle linéaire simple, modèle linéaire multiple.

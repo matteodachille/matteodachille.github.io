@@ -34,7 +34,7 @@ groupnumber : 1
 1. Vocabulaire élémentaire pour l’étude de fonctions réelles de variable réelle
 2. Applications usuelles
 3. Primitives usuelles
-4. Equations différentielles linéaires
+4. Équations différentielles linéaires
 
 
 Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://arche.univ-lorraine.fr/course/view.php?id=89136](https://arche.univ-lorraine.fr/course/view.php?id=89136){:target="_blank"}
@@ -42,23 +42,24 @@ Pour le materiel de cours ainsi que les annonces communs voir : <br/> [https://a
 
 ### Tableau de bord
 
-| Cours n&deg; | Date | Sujet | Remarques |
-|:---: | :---: | :---: | ------- | ------- |
-| 1 | 7.09  |  <u>Cours</u> : Notations, sous-ensembles ususels \\(\mathbb{R}\\), règles de calcul, fonctions réelles définies sur une partie de \\(\mathbb{R}\\), ensemble de définition d'une fonction avec 3 exemples.  <br/><u>TD</u> : Fiche TD 1, Ex 1-1 : 1-2-3-4-5-7-9. | |
-| 2 | 8.09  |  <u>Cours</u> : Image, antécédent, monotonie.  <br/><u>TD</u> : Fiche TD 1, Ex 1-3 : 1-2-3-4-7-11. | |
-| 3 | 14.09  |  <u>Cours</u> : Parité et periodicité, exemples, DM.  <br/><u>TD</u> : Fiche TD 1, Ex 1-1 : 10-11, Ex 1-2, Ex 1-3 : 5-6-9. | |
-| 4 | 15.09  |  <u>Cours</u> : Symétrie par rapport à un axe vertical et par rapport à un point. Translaté de la courbe représentative d'une fonction. <br/><u>TD</u> : Fiche TD 1, Ex 1-3 : 10, Ex 1-4 : 1-2-3-4-5, Ex 1-5 : 1. | |
-| 5 | 21.09  |  <u>Cours</u> : Continuité d'une fonction, Proposition 1.3.1 (continuité) <br/><u>TD</u> : Fiche TD 1, Ex 1-7, Ex 1-8, Ex 1-9 : 1 (axe de symétrie), 3. | |
-| 6 | 22.09  |  <u>Cours</u> : Dérivabilité d'une fonction, premières propriétés, exemples. Variations d'une fonction, tangente et asymptotes horizontales, verticales et obliques à la courbe représentative d'une fonction. Exemples. Fonctions usuelles : fonction valeur absolue, propriétés (preuves à completer). | |
-| 7 | 29.09  |  <u>Cours</u> : Inégalité triangulaire et seconde inégalité triangulaire, partie entière et ses propriétés, partie fractionnaire, racine \\(n\\)-ième. Composée de deux fonctions, dérivée d'une fonction composée. | |
-| 8 | 5.10  |  Contrôle des connaissances en salle **BN2-001** de **8h00 à 10h00**. | |
-| 9 | 6.10  |  <u>Cours</u> : logarithme népérien et ses propriétés, théorème de la fonction réciproque (admis), exponentielle et ses propriété, limites, comparaison aux polynômes, fonctions circulaires et propriétés. | |
-| 10 | 12.10  | Correction détaillée du contrôle de connaissances du 5.10.2026. | |
-| 11 | 3.11  | <u>Cours</u> : fonctions hyperboliques et propriétés. Fonctions réciproques des fonctions usuelles et leur propriétés : Arcsinus, Arccosinus, Arctangent (à completer).  | |
-| 12 | 4.11  | <u>TD</u> : Fiche TD 2, Ex 2-1, Ex 2-2 : 1-2-3-4-5-6-7, Ex 2-3, Ex 2-4 (point ii en DM), Ex 2-5, Ex 2-6 : 1-2. | |
-| 13 | 9.11  |  <u>Cours</u> : Arcsinus hyperbolique, Arccosinus hyperbolique, arctangente hyperbolique. <br/><u>TD</u> : Fiche TD 2, Ex 2-6 : 3, Ex 2-7, 2-8, 2-9, 2-10. | |
-| 14 | 10.11  |  <u>Cours</u> : Primitives usuelles: définition, théorèmes 3.1.1 et 3.1.2, exemple, premieres propriétés. <br/><u>TD</u> : Fiche TD 2, Ex 2-11, 2-12, 2-13, 2-14. | |
-| 15 | 16.11  |  <u>Cours</u> : Fonctions de classe \\(\mathcal{C}^1\\), changement de variables, intégration par parties avec exemple. <br/><u>TD</u> : Fiche TD 3, Ex 3-1 : 1-2-3-4-5-7, Ex 3-2. | |
-| 16 | 17.11  |  <u>Cours</u> : Primitives se ramenant à \\(\int^x P(t)e^{at} dt \\), primitives de la forme \\(\int^x P(t)e^{at}\cos{(bt)} dt \\) ou  \\(\int^x P(t)e^{at}\sin{(bt)} dt \\) avec \\(P\\) un polynôme. Primitives d'une fraction rationelle, décomposition en éléments simples. Primitives de fractions rationelles usuelles<br/><u>TD</u> : Fiche TD 3, Ex 3-3, Ex 3-4: 1,2. | |
-| 17 | 18.11  |  <u>Cours</u> : Primitives de la forme \\(\int^x \sin^q{(t)}\cos^p{(t)} dt \\), avec \\( q,p \in \mathbb{N}^*\\), example. <br/><u>TD</u> : Fiche TD 3, Ex 3-5, Ex 3-6 : 1-2-3-4 | |
-| 18 | 24.11  |  <u>Cours</u> : Primitives de la forme \\(\int^x \sin^q{(t)}\cos^p{(t)} dt \\), avec \\( q,p \in \mathbb{N}^*\\), example. <br/><u>TD</u> : Fiche TD 3, Ex 3-6: 5-6-7, Ex 3-7, Ex 3-8 : 1. | |
+| Cours n&deg; | Date | Sujet |
+|:---: | :---: | :---: |
+| 1 | 7.09  |  <u>Cours</u> : Notations, sous-ensembles usuels de $$\mathbb{R}$$, règles de calcul, fonctions réelles définies sur une partie de $$\mathbb{R}$$, ensemble de définition d'une fonction avec 3 exemples.  <br/><u>TD</u> : Fiche TD 1, Ex 1-1 : 1-2-3-4-5-7-9. |
+| 2 | 8.09  |  <u>Cours</u> : Image, antécédent, monotonie.  <br/><u>TD</u> : Fiche TD 1, Ex 1-3 : 1-2-3-4-7-11. |
+| 3 | 14.09  |  <u>Cours</u> : Parité et périodicité, exemples, DM.  <br/><u>TD</u> : Fiche TD 1, Ex 1-1 : 10-11, Ex 1-2, Ex 1-3 : 5-6-9. |
+| 4 | 15.09  |  <u>Cours</u> : Symétrie par rapport à un axe vertical et par rapport à un point. Translaté de la courbe représentative d'une fonction. <br/><u>TD</u> : Fiche TD 1, Ex 1-3 : 10, Ex 1-4 : 1-2-3-4-5, Ex 1-5 : 1. |
+| 5 | 21.09  |  <u>Cours</u> : Continuité d'une fonction, Proposition 1.3.1 (continuité) <br/><u>TD</u> : Fiche TD 1, Ex 1-7, Ex 1-8, Ex 1-9 : 1 (axe de symétrie), 3. |
+| 6 | 22.09  |  <u>Cours</u> : Dérivabilité d'une fonction, premières propriétés, exemples. Variations d'une fonction, tangente et asymptotes horizontales, verticales et obliques à la courbe représentative d'une fonction. Exemples. Fonctions usuelles : fonction valeur absolue, propriétés (preuves à compléter). |
+| 7 | 29.09  |  <u>Cours</u> : Inégalité triangulaire et seconde inégalité triangulaire, partie entière et ses propriétés, partie fractionnaire, racine $$n$$-ième. Composée de deux fonctions, dérivée d'une fonction composée. |
+| 8 | 5.10  |  Contrôle des connaissances en salle **BN2-001** de **8h00 à 10h00**. |
+| 9 | 6.10  |  <u>Cours</u> : logarithme népérien et ses propriétés, théorème de la fonction réciproque (admis), exponentielle et ses propriétés, limites, comparaison aux polynômes, fonctions circulaires et propriétés. |
+| 10 | 12.10  | Correction détaillée du contrôle de connaissances du 5.10.2026. |
+| 11 | 3.11  | <u>Cours</u> : fonctions hyperboliques et propriétés. Fonctions réciproques des fonctions usuelles et leurs propriétés : Arcsinus, Arccosinus, Arctangente (à compléter).  |
+| 12 | 4.11  | <u>TD</u> : Fiche TD 2, Ex 2-1, Ex 2-2 : 1-2-3-4-5-6-7, Ex 2-3, Ex 2-4 (point ii en DM), Ex 2-5, Ex 2-6 : 1-2. |
+| 13 | 9.11  |  <u>Cours</u> : Arcsinus hyperbolique, Arccosinus hyperbolique, arctangente hyperbolique. <br/><u>TD</u> : Fiche TD 2, Ex 2-6 : 3, Ex 2-7, 2-8, 2-9, 2-10. |
+| 14 | 10.11  |  <u>Cours</u> : Primitives usuelles: définition, théorèmes 3.1.1 et 3.1.2, exemple, premières propriétés. <br/><u>TD</u> : Fiche TD 2, Ex 2-11, 2-12, 2-13, 2-14. |
+| 15 | 16.11  |  <u>Cours</u> : Fonctions de classe $$\mathcal{C}^1$$, changement de variables, intégration par parties avec exemple. <br/><u>TD</u> : Fiche TD 3, Ex 3-1 : 1-2-3-4-5-7, Ex 3-2. |
+| 16 | 17.11  |  <u>Cours</u> : Primitives se ramenant à $$\int^x P(t)e^{at} dt $$, primitives de la forme $$\int^x P(t)e^{at}\cos{(bt)} dt $$ ou  $$\int^x P(t)e^{at}\sin{(bt)} dt $$ avec $$P$$ un polynôme. Primitives d'une fraction rationnelle, décomposition en éléments simples. Primitives de fractions rationnelles usuelles<br/><u>TD</u> : Fiche TD 3, Ex 3-3, Ex 3-4: 1,2. |
+| 17 | 18.11  |  <u>Cours</u> : Primitives de la forme $$\int^x \sin^q{(t)}\cos^p{(t)} dt $$, avec $$ q,p \in \mathbb{N}^*$$, exemple. <br/><u>TD</u> : Fiche TD 3, Ex 3-5, Ex 3-6 : 1-2-3-4 |
+| 18 | 24.11  |  <u>Cours</u> : Primitives de la forme $$\int^x f(\sin{(t)}\cos{(t)}) dt $$, avec $$f$$ une fraction rationnelle. <br/><u>TD</u> : Fiche TD 3, Ex 3-6: 5-6-7, Ex 3-7, Ex 3-8 : 1. |
+| 19 | 25.11  |  <u>Cours</u> : Calculs d'intégrales. <br/><u>TD</u> : Fiche TD 3, Ex 3-8: 2-3, Ex 3-9: 1-2-3, Ex 3-10: 1, Ex 3-11: 1. |

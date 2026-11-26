@@ -18,4 +18,4 @@ classnumber: 3
 ### Activités et programme
 
 Participation à l'élaboration d'exercices sur la plateforme [WIMS](https://fr.wikipedia.org/wiki/WIMS){:target="_blank"}.<br/>
-[Voir ici](http://joelcohen.github.io/ens/mpi/remediation/){:target="_blank"} pour plus des details.
+[Voir ici](http://joelcohen.github.io/ens/mpi/remediation/){:target="_blank"} pour plus de détails.
