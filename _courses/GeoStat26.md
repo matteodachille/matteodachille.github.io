@@ -15,6 +15,13 @@ classnumber: 15
 ---
 
 
+<br/>
+<a style="color: red; font-weight: bold;">News</a> : [Sujet d'un examen précédent pour se préparer à l'examen final du 8.12](https://filesender.renater.fr/?s=download&token=81919765-5bca-450f-9abb-55fb67f873db){:target="_blank"}
+
+Indices mot de passe : 1) I->! et 2) ajouter 26 à la fin
+{: style="font-size: 14px" }
+
+
 ### Tableau de bord
 
 | Cours n&deg; | Date | Sujet |
@@ -28,3 +35,4 @@ classnumber: 15
 | 7 |  10.11 | Exemple : modèle de loi normale avec corrigés. Propriétés des modèles exponentiels réguliers et leurs conséquences. Statistiques exhaustives: rappels sur le conditionnement, définition.  |
 | 8 |  17.11 | Rappels sur l'espérance conditionnelle, exemple de la proportion de pièces défectueuses. Critère de factorisation de Fisher-Neyman, preuve dans le cas $$\mathcal{X}$$ dénombrable. Corollaire pour les modèles exponentiels. Exemple : loi uniforme sur l'intervalle $$[0,\vartheta]$$. Théorème de Rao-Blackwell avec démonstration. |
 | 9 |  24.11 | Statistique complète ou totale, action sur les fonctions test. La statistique canonique d'un modèle exponentiel régulier est complète. Théorème de Lehmann-Scheffé avec preuve et conséquence. Exemple. Information de Fisher associée au modèle image, statistique libre, lien entre ces deux notions. Score et espérance conditionnelle pour un modèle régulier avec démonstration. Inégalité entre les informations de Fisher. |
+| 10 |  26.11 | Pour un modèle régulier d'image réguliére via une statistique $$S$$, $$I^S(\theta)=I(\theta) \iff$$ S exhaustive. Démonstration. Introduction aux modèles de mélange : définitions, examples, remarques. GMM. Discussion sur la variable cachée. Coordonnées d'espérance pour un modèle exponentiel régulier. |

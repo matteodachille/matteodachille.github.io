@@ -53,7 +53,7 @@ order: 1
 
 <div style="height:0.75em;"></div>
 
-#### Published in peer reviewed journals
+#### Published in peer-reviewed journals
 <div style="height:0.5em;"></div>
 <dl>
 {% assign list = site.data.pubs | where: 'published', true %}
@@ -178,6 +178,6 @@ order: 1
 #### BSc Thesis
 
  **La teoria di Schwarz-Christoffel e il Biliardo Quantistico Poligonale** <br/>
- 2012, University of Milan. Manuscript (in italian): [<i class="ai ai-researchgate ai-align-center-1x" aria-hidden="true"></i>](http://dx.doi.org/10.13140/RG.2.1.2101.6403){:target="_blank"} - [<i class="ai ai-academia ai-align-center-1x" aria-hidden="true"></i>](https://www.academia.edu/2506378/La_Teoria_di_Schwarz_Christoffel_e_il_Biliardo_Quantistico_Poligonale){:target="_blank"} - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/bscthesis.pdf){:target="_blank"}<br/>
+ 2012, University of Milan. Manuscript (in Italian): [<i class="ai ai-researchgate ai-align-center-1x" aria-hidden="true"></i>](http://dx.doi.org/10.13140/RG.2.1.2101.6403){:target="_blank"} - [<i class="ai ai-academia ai-align-center-1x" aria-hidden="true"></i>](https://www.academia.edu/2506378/La_Teoria_di_Schwarz_Christoffel_e_il_Biliardo_Quantistico_Poligonale){:target="_blank"} - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>]({{ site.baseurl }}downloads/bscthesis.pdf){:target="_blank"}<br/>
  Supervisor: [Luca Guido Molinari](http://wwwteor.mi.infn.it/~molinari/){:target="_blank"}
 {: style="font-size: 16.5px; margin-left: 0px" }

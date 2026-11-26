@@ -24,7 +24,6 @@ show: hyde
 -->
 
 <ins>Keywords</ins>: random assignment problem, statistical field theory, disordered systems in finite dimension, Monge-Kantorovich transportation problem
--->
 
 
 If you are interested in numerical simulations, you may want to have a look at [ERAP2d.py](https://github.com/matteodachille/ERAPs2d){:target="_blank"}, a Python module for easy numerical simulations of ERAPs.

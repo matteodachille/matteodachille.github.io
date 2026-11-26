@@ -14,7 +14,7 @@ font-size:15px;
 </figure>
 
 {: style="text-align: justify" }
-<ins>In brief</ins>: What happens to a Poisson-Voronoi tessellation in the low intensity limit? For the Voronoi tessellation of an homogeneous Poisson process in Euclidean space, not much ... However, if the underlining space has hyperbolic features (exponential volume growth) something magic may happen: contrary to the Euclidean setting, a limiting non-trivial **Ideal Poisson-Voronoi tessellation** (IPVT) may appear as the intensity of the Poisson point process tends to 0!
+<ins>In brief</ins>: What happens to a Poisson-Voronoi tessellation in the low intensity limit? For the Voronoi tessellation of a homogeneous Poisson process in Euclidean space, not much ... However, if the underlying space has hyperbolic features (exponential volume growth) something magic may happen: contrary to the Euclidean setting, a limiting non-trivial **Ideal Poisson-Voronoi tessellation** (IPVT) may appear as the intensity of the Poisson point process tends to 0!
 {: style="text-align: justify" }
 
 
@@ -34,7 +34,7 @@ For the hyperbolic space \\( \mathbb{H}_d \\) of dimension \\( d \\), the IPVT, 
   width: 100%;
   height: 100%;" title="Jewel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/77038e94cc5f4053a0d62f2d50316256/embed?autospin=1"> </iframe>  </div>
 
-  Above there is a manipulatable sample of \\( \mathcal{C}_3\\) depicted in the Poincaré ball model ("jewel'') ---see top figure for more samples. Below, you can interact with the boundary \\( \partial\mathcal{C}_3\\) of the same sample in the upper half-space model of \\( \mathbb{H}_3 \\) ("foam'').
+  Above there is a manipulatable sample of \\( \mathcal{C}_3\\) depicted in the Poincaré ball model ("jewel") ---see top figure for more samples. Below, you can interact with the boundary \\( \partial\mathcal{C}_3\\) of the same sample in the upper half-space model of \\( \mathbb{H}_3 \\) ("foam").
 {: style="text-align: justify" }
 
 
@@ -48,7 +48,7 @@ For the hyperbolic space \\( \mathbb{H}_d \\) of dimension \\( d \\), the IPVT, 
   right: 0;
   width: 100%;
   height: 80%;" title="Foam" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d5a6b8aac322480eb8ead3efe18d9e74/embed"> </iframe></div>
-Our Poissonian description of \\( \mathcal{C}_d\\) even allows to easily 3D-print realizations of \\( \mathcal{C}_3\\) in the Poincaré ball model of \\( \mathbb{H}_3 \\):
+Our Poissonian description of \\( \mathcal{C}_d\\) even allows one to easily 3D-print realizations of \\( \mathcal{C}_3\\) in the Poincaré ball model of \\( \mathbb{H}_3 \\):
 <div class="sketchfab-embed-wrapper" style="position: relative;
   overflow: hidden;
   width: 50%;float:center;margin: 15px 15px 15px 15px;  margin-left: auto;

@@ -18,7 +18,7 @@ Detailed (but possibly outdated) CV in pdf is available in [en]({{  site.baseurl
 
 
 
-## Employement
+## Employment
 
 <br/>
 

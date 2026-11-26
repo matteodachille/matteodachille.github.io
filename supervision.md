@@ -88,7 +88,7 @@ Justin Carrion, Tristan Schweiss, 03.07.2025 (co-supervision with L.Ganassali) <
   _Étude de la perturbation diagonale des zéros de Yang-Lee de la matrice \\( J_n \\)_ <br/>
   M1 Mathématiques fondamentales, Université Paris-Saclay, Orsay
   {: style="font-size: 16px" }
-  Now PhD student at I2M, Aix-Marseillle Université, France
+  Now PhD student at I2M, Aix-Marseille Université, France
  {: style="font-size: 12px; margin-top: -15px;" }
 
 

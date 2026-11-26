@@ -22,7 +22,7 @@ I currently teach for the [Laboratoire d’analyse et de mathématiques appliqu�
 _29.07.24 - 04.08.24_ &nbsp; *An invitation to random assignment problems*  &nbsp; <span style="font-size: .8rem"></span><br/>
 
 AESIM-CIMPA Summer School "Probability with / on random graphs:
-trees, networks, dimers, assignments'', Nesin Mathematics Village, Turkey<br/>
+trees, networks, dimers, assignments", Nesin Mathematics Village, Turkey<br/>
 [**School webpage**](https://sites.google.com/view/probabilityinturkey/main){:target="_blank"}
 {: style="font-size: 15px; margin-left: 170px;" }
 

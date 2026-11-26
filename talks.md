@@ -37,7 +37,7 @@ Below you will find lists of:
 
 
 05.05.2026 &#x2023; [Séminaire Probabilités-Statistiques](https://www.math.univ-paris13.fr/accueil/equipes/ps/seminaire-de-lequipe-ps/#:~:text=Toggle%20website%20search-,S%C3%A9minaire%20de%20l%E2%80%99%C3%A9quipe%20PS,-%3E){:target="_blank"}, LAGA, Université Sorbonne Paris-Nord, France <br/>
-20.11.2025 &#x2023; [Kirchhoff forests on graphs: recent developments](https://conferences.cirm-math.fr/3582.html#:~:text=Local%C2%A0limit%20of%20massive%20spanning%20forests%20on%20the%20complete%20graph){:target="_blank"}, CIRM Luminy, France <br/>
+11.11.2025 &#x2023; [Kirchhoff forests on graphs: recent developments](https://conferences.cirm-math.fr/3582.html#:~:text=Local%C2%A0limit%20of%20massive%20spanning%20forests%20on%20the%20complete%20graph){:target="_blank"}, CIRM Luminy, France <br/>
 07.04.2025 &#x2023; [WORDS 2025](https://sites.google.com/rug.nl/words2025/abstracts?authuser=0#h.ta5e0ax9c9pc){:target="_blank"}, Groningen, The Netherlands (online)
 {: style="font-size: 15px" }
 
@@ -45,7 +45,7 @@ Below you will find lists of:
 {: .no_toc}
 
 26.05.2026 &#x2023; [ANR Thermogamas](https://www.math.u-bordeaux.fr/~pthieull/Recherche/Thermogamas/conference_02.html#:~:text=Speakers%3A-,Speaker,-%3A%20Matteo%20d%27Achille%20){:target="_blank"}, LORIA, Nancy, France <br/>
-29.11.2025 &#x2023; \\( M \cup \Phi \\) group internal seminar, KU Leuven, Belgium <br/>
+20.11.2025 &#x2023; \\( M \cup \Phi \\) group internal seminar, KU Leuven, Belgium <br/>
 29.01.2025 &#x2023; [Conférence annuelle du GDR branchement](https://indico.math.cnrs.fr/event/12161/program){:target="_blank"}, LMO, Université Paris-Saclay, France
 {: style="font-size: 15px" }
 
@@ -108,7 +108,7 @@ Below you will find lists of:
 #### 2021
 {: .no_toc}
 
-**6.11** &#x2023; <a href="https://indico.cs.dm.unipi.it/event/12/" target="_blank">Optimal Transport and Uncertainty - 1st Workshop</a>, Pisa, Italy &#10072; **14.09** &#x2023; <a href="https://www.eurandom.tue.nl/eindhoven-spor-seminar/" target="_blank">Eindhoven SPOR Seminar</a>, TU/e, Eindhoven, The Netherlands &#10072; **7.07** &#x2023; <a href="https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf" target="_blank">Franco-Dutch meeting</a>, CNRS IRP &#171; Bézout-Eurandom &#187;, Institut Henri Poincaré, Paris, France &#10072; **25.06** &#x2023; <a href="https://journees-probabilites.univ-rennes1.fr/programme.htm" target="_blank">Journées de probabilités 2021</a>, Guidel Plages, France &#10072; **24.06** &#x2023; <a href="https://www.youtube.com/watch?v=4RcOiW20C_E" target="_blank">I convention of SIFS</a>, Parma, Italy &#10072; **18.03** &#x2023; <a href="https://gt-alea.math.cnrs.fr/alea2021/" target="_blank">Alea Days 2021</a>, CIRM Luminy, France &#10072; **19.02** &#x2023; <a href="http://seminaire.univ-lille1.fr/node/544" target="_blank">Cristal Point Processes and Applications</a>, Painlevé Laboratory, France
+**6.11** &#x2023; <a href="https://indico.cs.dm.unipi.it/event/12/" target="_blank">Optimal Transport and Uncertainty - 1st Workshop</a>, Pisa, Italy &#10072; **14.09** &#x2023; <a href="https://www.eurandom.tue.nl/eindhoven-spor-seminar/" target="_blank">Eindhoven SPOR Seminar</a>, TU/e, Eindhoven, The Netherlands &#10072; **7.07** &#x2023; <a href="https://perso.math.u-pem.fr/le_ny.arnaud/PreliminaryProgramIHP-July-Bezout-TUe-V14.pdf" target="_blank">Franco-Dutch meeting</a>, CNRS IRP &#171; Bézout-Eurandom &#187;, Institut Henri Poincaré, Paris, France &#10072; **25.06** &#x2023; <a href="https://journees-probabilites.univ-rennes1.fr/programme.htm" target="_blank">Journées de probabilités 2021</a>, Guidel Plages, France &#10072; **24.06** &#x2023; <a href="https://www.youtube.com/watch?v=4RcOiW20C_E" target="_blank">I convention of SIFS</a>, Parma, Italy &#10072; **18.03** &#x2023; <a href="https://gt-alea.math.cnrs.fr/alea2021/" target="_blank">ALEA Days 2021</a>, CIRM Luminy, France &#10072; **19.02** &#x2023; <a href="http://seminaire.univ-lille1.fr/node/544" target="_blank">Cristal Point Processes and Applications</a>, Painlevé Laboratory, France
 {: style="font-size: 14px; text-align: justify;"}
 
 

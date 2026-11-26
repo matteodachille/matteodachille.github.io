@@ -13,7 +13,7 @@ Here, _exact_ means valid at any fixed \\(n\\), and _nice_ means that the formul
 M_{p,k,n}= \frac{\Gamma^2(n+1)\Gamma(k+\frac{p}{2})\Gamma(n-k+1+\frac{p}{2})\Gamma(1+p)}{\Gamma(k)\Gamma(n-k+1)\Gamma(n+1+\frac{p}{2})\Gamma(n+1+p)\Gamma(1+\frac{p}{2})}.
 \\]
 
-This result allowed the authors to show that, for the usual choice of cost function \\(D^p\\) for \\(D\\) euclidean distance, if \\(p\geq 1\\),
+This result allowed the authors to show that, for the usual choice of cost function \\(D^p\\) for \\(D\\) Euclidean distance, if \\(p\geq 1\\),
 \\[
 E(n) = n\frac{\Gamma \left(1+\frac{p}{2}\right)}{p+1} \frac{\Gamma(n+1)}{\Gamma \left(n+1+\frac{p}{2}\right)},
 \\]

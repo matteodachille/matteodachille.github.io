@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On the solution of the 2-d Poisson equation in a non-homogenous medium"
+title:  "On the solution of the 2-d Poisson equation in a non-homogeneous medium"
 date:   2015-11-17 16:16:01 -0600
 categories: electrostatics ebmp
 tags: PDE
