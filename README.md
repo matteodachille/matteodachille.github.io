@@ -1,11 +1,10 @@
-## About
+# matteodachille.github.io
 
-Repository behind provisional academic website started from a customization of the nice [Hyde](matteodachille.github.io) theme.
+Source of the personal academic website of Prof. Matteo D'Achille: <https://matteodachille.github.io/>
 
+A [Jekyll](https://jekyllrb.com/) site hosted on GitHub Pages, built on a customised [Hyde](https://github.com/poole/hyde) theme. 
 
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+[MIT](LICENSE.md). Thie original Hyde theme by Mark Otto.
