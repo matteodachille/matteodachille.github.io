@@ -14,7 +14,7 @@ Visuals from my past or current research.
       overflow: hidden;
       width: 100%;
       padding-top: 100%;float:center;  margin-left: auto;
-        margin-right: auto;margin-top:10px;margin-bottom:40px;" > <iframe style="  position: absolute;
+        margin-right: auto;margin-top:10px;margin-bottom:40px;" > <iframe loading="lazy" style="  position: absolute;
       top: 0;
       left: 0;
       bottom: 0;
@@ -27,7 +27,7 @@ Visuals from my past or current research.
         overflow: hidden;
         width: 100%;
         padding-top: 100%;float:center;  margin-left: auto;
-          margin-right: auto;margin-top:10px;margin-bottom:40px;" > <iframe style="  position: absolute;
+          margin-right: auto;margin-top:10px;margin-bottom:40px;" > <iframe loading="lazy" style="  position: absolute;
         top: 0;
         left: 0;
         bottom: 0;
@@ -40,13 +40,13 @@ Visuals from my past or current research.
         </td>
    </tr>
    <tr>
-   <td><img src="./assets/portrait_C2.png" align="right" alt="4" width = 330px height = 310px>
+   <td><img loading="lazy" src="./assets/portrait_C2.png" align="right" alt="4" width = 330px height = 310px>
 
    <p style="font-style: italic;
    font-size:15px;
      text-align: center;">Portrait of \( \mathcal{C}_2 \) in the \( \text{IPVT} \) of \(\mathbb{H}_2 \) in 36 samples, disk model (<a href="https://arxiv.org/abs/2303.16831" target="_blank">paper</a>)</p>
  </td>
-   <td><img src="./assets/causal.png" align="right" alt="4" width = 350px height = 290px>
+   <td><img loading="lazy" src="./assets/causal.png" align="right" alt="4" width = 350px height = 290px>
 
    <p style="font-style: italic;
    font-size:15px;
@@ -55,19 +55,19 @@ Visuals from my past or current research.
 
    </tr>
    <tr>
-   <td><img src="./assets/minusllarge_Z2_200x200.png" align="right" alt="4" width = 350px height = 310px>
+   <td><img loading="lazy" src="./assets/minusllarge_Z2_200x200.png" align="right" alt="4" width = 350px height = 310px>
 
    <p style="font-style: italic;
    font-size:15px;
      text-align: center;">Portion of a sample of \( \lambda {\bf SF}(\mathbb{Z}_2) \) <br/> for small \( \lambda \). Sampling: Wilson's algorithm <br/>  with uniform killing rate (<a href="https://arxiv.org/abs/2403.11740" target="_blank">model</a>)</p>
   </td>
-<td><img src="./assets/lsfz3.png" align="right" alt="4" width = 350px height = 310px>
+<td><img loading="lazy" src="./assets/lsfz3.png" align="right" alt="4" width = 350px height = 310px>
 
 <p style="font-style: italic;
 font-size:15px;
   text-align: center;">Portion of a sample of \( \lambda {\bf SF}(\mathbb{Z}_3) \) <br/> for small \( \lambda \). Sampling: Wilson's algorithm <br/> with uniform killing rate (<a href="https://arxiv.org/abs/2403.11740" target="_blank">model</a>)</p>
 </td>
-<!--<td><img src="./assets/brownianloop-n8192.png" align="right" alt="4" width = 350px height = 310px>
+<!--<td><img loading="lazy" src="./assets/brownianloop-n8192.png" align="right" alt="4" width = 350px height = 310px>
 
 <p style="font-style: italic;
 font-size:15px;
@@ -77,13 +77,13 @@ font-size:15px;
    <tr>
 
 
-      <td><img src="./assets/cesaro.png" align="right" alt="4" width = 350px height = 310px>
+      <td><img loading="lazy" src="./assets/cesaro.png" align="right" alt="4" width = 350px height = 310px>
 
       <p style="font-style: italic;
       font-size:15px;
         text-align: center;">Optimal assignment on the 3/2-Cesàro fractal <br/>  (from my <a href="https://theses.hal.science/tel-03098672v1/document#page=202.15" target="_blank">PhD thesis</a>)</p>
   </td>
-  <td><img src="./assets/peano.png" align="right" alt="4" width = 350px height = 310px>
+  <td><img loading="lazy" src="./assets/peano.png" align="right" alt="4" width = 350px height = 310px>
 
   <p style="font-style: italic;
   font-size:15px;
@@ -93,13 +93,13 @@ font-size:15px;
    <tr>
 
 
-      <td><img src="./assets/Tcrit-L33.png" align="right" alt="4" width = 350px height = 310px>
+      <td><img loading="lazy" src="./assets/Tcrit-L33.png" align="right" alt="4" width = 350px height = 310px>
 
       <p style="font-style: italic;
       font-size:15px;
         text-align: center;">Near-critical configuration of ferromagnetic n.n. <br/>\( XY \)  model in \( [1,33]^2 \) with free boundary conditions</p>
   </td>
-  <td><img src="./assets/quasi_N6.gif" align="right" alt="4" width = 350px height = 310px>
+  <td><img loading="lazy" src="./assets/quasi_N6.gif" align="right" alt="4" width = 350px height = 310px>
 
   <p style="font-style: italic;
   font-size:15px;

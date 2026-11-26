@@ -1,0 +1,7 @@
+---
+# Bundles poole.css, syntax.css and hyde.css (in this order) into one file,
+# so that browsers make a single request. Edit the source files, not this one.
+---
+{% include_relative poole.css %}
+{% include_relative syntax.css %}
+{% include_relative hyde.css %}

@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-plugins:             [jekyll-paginate,jekyll-gist,pygments.rb]
+plugins:             [jekyll-paginate,jekyll-gist]
 highlighter:      rouge
 
 google_analytics: G-MXHNC5DTB2

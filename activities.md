@@ -65,8 +65,8 @@ order: 3
 ### Les Probabilités de Demain
 {: .no_toc}
 *September 2022 – present*
-<a href="https://indico.math.cnrs.fr/category/839/" target="_blank"><img style="max-height:72px; max-width:72px; position:relative; float:right; margin:0 0 8px 8px; border:0;" src="{{ site.baseurl }}assets/activities/probabilites-de-demain-grand-est.webp" alt="Les Probabilités de Demain – Grand Est" /></a>
-<a href="https://indico.math.cnrs.fr/category/618/" target="_blank"><img style="max-height:72px; max-width:72px; position:relative; float:right; margin:0 0 8px 8px; border:0;" src="{{ site.baseurl }}assets/activities/probabilites-de-demain-idf.webp" alt="Les Probabilités de Demain – Île-de-France" /></a>
+<a href="https://indico.math.cnrs.fr/category/839/" target="_blank"><img loading="lazy" style="max-height:72px; max-width:72px; position:relative; float:right; margin:0 0 8px 8px; border:0;" src="{{ site.baseurl }}assets/activities/probabilites-de-demain-grand-est.webp" alt="Les Probabilités de Demain – Grand Est" /></a>
+<a href="https://indico.math.cnrs.fr/category/618/" target="_blank"><img loading="lazy" style="max-height:72px; max-width:72px; position:relative; float:right; margin:0 0 8px 8px; border:0;" src="{{ site.baseurl }}assets/activities/probabilites-de-demain-idf.webp" alt="Les Probabilités de Demain – Île-de-France" /></a>
 
 📍 **Institut Henri Poincaré** pour l'Île-de-France <br/>
 📍 **IECL Metz-Nancy, IRMA Strasbourg, IRIMAS Mulhouse** pour le Grand Est
@@ -83,7 +83,7 @@ order: 3
 ### SuPerGRandMa Weekly Seminar
 {: .no_toc}
 *September 2023 – August 2025*
-<a href="https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html" target="_blank"><img style="max-height:78px; max-width:78px; position:relative; float:right; margin:0 0 8px 12px; border:0;" src="{{ site.baseurl }}assets/activities/supergrandma.webp" alt="SuPerGRandMa ERC logo" /></a>
+<a href="https://www.imo.universite-paris-saclay.fr/~nicolas.curien/ERC.html" target="_blank"><img loading="lazy" style="max-height:78px; max-width:78px; position:relative; float:right; margin:0 0 8px 12px; border:0;" src="{{ site.baseurl }}assets/activities/supergrandma.webp" alt="SuPerGRandMa ERC logo" /></a>
 
 📍 **Institut de Mathématiques d'Orsay**
 

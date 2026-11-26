@@ -26,7 +26,7 @@ For the hyperbolic space \\( \mathbb{H}_d \\) of dimension \\( d \\), the IPVT, 
   overflow: hidden;
   width: 50%;
   padding-top: 50%;float:center;  margin-left: auto;
-    margin-right: auto;margin-top:20px;margin-bottom:40px;" > <iframe style="  position: absolute;
+    margin-right: auto;margin-top:20px;margin-bottom:40px;" > <iframe loading="lazy" style="  position: absolute;
   top: 0;
   left: 0;
   bottom: 0;
@@ -41,7 +41,7 @@ For the hyperbolic space \\( \mathbb{H}_d \\) of dimension \\( d \\), the IPVT, 
 <div class="sketchfab-embed-wrapper" style="position: relative;
   overflow: hidden;
   width: 100%;
-  padding-top: 50%;margin: 15px 15px 15px 15px;margin-top:40px;margin-bottom:-20px;" > <iframe style="  position: absolute;
+  padding-top: 50%;margin: 15px 15px 15px 15px;margin-top:40px;margin-bottom:-20px;" > <iframe loading="lazy" style="  position: absolute;
   top: 0;
   left: 0;
   bottom: 0;
@@ -52,7 +52,7 @@ Our Poissonian description of \\( \mathcal{C}_d\\) even allows to easily 3D-prin
 <div class="sketchfab-embed-wrapper" style="position: relative;
   overflow: hidden;
   width: 50%;float:center;margin: 15px 15px 15px 15px;  margin-left: auto;
-    margin-right: auto;margin-top:40px;margin-bottom:40px;" ><video width="360" height="640" controls>
+    margin-right: auto;margin-top:40px;margin-bottom:40px;" ><video width="360" height="640" controls preload="metadata">
       <source src="../downloads/3dprint-CIRM.mp4">
       Your browser does not support the video tag.
   </video><p style="font-style: italic;
